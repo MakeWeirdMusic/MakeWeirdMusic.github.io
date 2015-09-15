@@ -6,8 +6,8 @@
 </description>
     <link>http://makeweirdmusic.com/</link>
     <atom:link href="http://makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2015 00:24:56 -0700</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 00:24:56 -0700</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2015 21:50:02 -0700</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2015 21:50:02 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -71,11 +71,21 @@
     
       <item>
         <title>Hell&#39;s Bells by Bruford</title>
-        <description>&lt;p&gt;Let’s pick apart the catchy hook from the song &lt;em&gt;Hell’s Bells&lt;/em&gt; off the 1979 release &lt;em&gt;One of a Kind&lt;/em&gt; by the fusion/rock band, &lt;a href=&quot;/discover/bruford&quot;&gt;Bruford&lt;/a&gt;. (NOTE: It is not a cover of the AC/DC song with the same name! At least, I don’t think it is.) It features Allan Holdsworth on guitar, Jeff Berlin on bass, Dave Stewart on keyboards, and Bill Bruford on drums. The song’s intro alone contains odd &lt;a href=&quot;http://makeweirdmusic.com/techniques/time-signatures&quot;&gt;time signatures&lt;/a&gt; and &lt;a href=&quot;http://makeweirdmusic.com/techniques/key-modulations&quot;&gt;key modulations&lt;/a&gt; that make it an interesting topic worthy of study.&lt;/p&gt;
+        <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
+
+&lt;p&gt;Let’s pick apart the catchy hook from the song &lt;em&gt;Hell’s Bells&lt;/em&gt; off the 1979 release &lt;em&gt;One of a Kind&lt;/em&gt; by the fusion/rock band, &lt;a href=&quot;/discover/bruford&quot;&gt;Bruford&lt;/a&gt;. (NOTE: It is not a cover of the AC/DC song with the same name… I think?) It features Allan Holdsworth on guitar, Jeff Berlin on bass, Dave Stewart on keyboards, and Bill Bruford on drums. The song’s intro alone contains odd &lt;a href=&quot;/techniques/time-signatures&quot;&gt;time signatures&lt;/a&gt; and &lt;a href=&quot;/techniques/key-modulations&quot;&gt;key modulations&lt;/a&gt; that make it weird.&lt;/p&gt;
+
+&lt;h2 id=&quot;instructional-video&quot;&gt;Instructional Video&lt;/h2&gt;
+
+&lt;p&gt;I’ve put together an instructional video that illustrates everything in the charts below. Watch that if, like me, you don’t like reading.&lt;/p&gt;
 
 &lt;div class=&quot;video-wrapper&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/wNCSTNHejAY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h2 id=&quot;time-signatures&quot;&gt;Time Signatures&lt;/h2&gt;
+
+&lt;p&gt;The time signatures in this song are ridiculous. It took me a long time to figure the signatures out, then it took me even longer to believe they were correct!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://rawgit.com/MakeWeirdMusic/art/master/bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-A-1067x600.png&quot; alt=&quot;A section: 19/8 = 7/8 + 7/8 + 5/8&quot; /&gt;&lt;/p&gt;
 
@@ -91,11 +101,13 @@
 
 &lt;p&gt;I highly recommend &lt;a href=&quot;https://youtu.be/wNCSTNHejAY&quot;&gt;watching the video&lt;/a&gt; above to make sure you hear me play through each section and you can count it out yourself.&lt;/p&gt;
 
+&lt;h2 id=&quot;chords&quot;&gt;Chords&lt;/h2&gt;
+
 &lt;p&gt;Obviously, this song makes use of odd &lt;a href=&quot;http://makeweirdmusic.com/techniques/time-signatures&quot;&gt;time signatures&lt;/a&gt;, but what may not be obvious by glancing at the chords is that it also employs regular &lt;a href=&quot;http://makeweirdmusic.com/techniques/key-modulations&quot;&gt;key modulations&lt;/a&gt;. What I find most interesting about the key modulations is the keys change between Bb major and E major, two notes that form &lt;a href=&quot;http://en.wikipedia.org/wiki/Tritone&quot;&gt;a “tritone” interval relationship&lt;/a&gt; that sound pretty ugly when played together.&lt;/p&gt;
 
 &lt;p&gt;Here are the chords and fingerings:&lt;/p&gt;
 
-&lt;pre&gt;      BbM7add2   Bb2      Gb      Fm7    Cadd2/E     C        Am7
+&lt;pre class=&quot;tab&quot;&gt;      BbM7add2   Bb2      Gb      Fm7    Cadd2/E     C        Am7
   e   -10----   ----   -------   -----   ------   ------   --------
 T B   ----10-   -11-   -------   ---6-   --8---   ----8-   -10p8---
 A G   -10-10-   -10-   -----6-   -8---   ----7-   --9---   ------9-
@@ -110,6 +122,8 @@ B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
       -7-7-7-   --9--9--9-
       -0-0-0-   ----------
 &lt;/pre&gt;
+
+&lt;h2 id=&quot;this-stuff-aint-easy-folks&quot;&gt;This Stuff Ain’t Easy, Folks!&lt;/h2&gt;
 
 &lt;p&gt;There are several brave souls who’ve recorded covers of “Hell’s Bells” on youtube, often of varying quality. The song is quite complex and was proven to be a challenge even for Mike Portnoy, Billy Sheehan, Derek Sherinian, and Tony MacAlpine! (Skip to 1:50 to check it out)&lt;/p&gt;
 

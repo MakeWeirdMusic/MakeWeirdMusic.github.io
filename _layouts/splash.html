@@ -7,17 +7,10 @@
 
     <div id="container">
 
-      {% include header.html %}
-
       {% assign artist = site.data.artists[page.artist] %}
-      {% assign author = site.data.authors[page.author] %}
       <section class="info pane">
-        <h1>{% if page.category %}<span>{{ page.category }}: </span>{% endif %}{{ page.title }}</h1>
-        {% if page.author %}<p class="author">By {{ author.name }}</p>{% endif %}
-        <img src="https://rawgit.com/MakeWeirdMusic/art/master/{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />
-        <p class="social-intro">Find Bruford on:</p>
+        <img src="https://rawgit.com/MakeWeirdMusic/art/master/{{ page.artist }}/{{ page.image }}.svg" />
         <p class="social-links">
-          {% if artist.website %}<a href="{{ artist.website }}"><i class="fa fa-external-link-square"></i></a>{% endif %}
           {% if artist.facebook %}<a href="{{ artist.facebook }}"><i class="fa fa-facebook-square"></i></a>{% endif %}
           {% if artist.twitter %}<a href="{{ artist.twitter }}"><i class="fa fa-twitter-square"></i></a>{% endif %}
           {% if artist.youtube %}<a href="{{ artist.youtube }}"><i class="fa fa-youtube-square"></i></a>{% endif %}
@@ -27,12 +20,11 @@
           {% if artist.spotify %}<a href="{{ artist.spotify }}"><i class="fa fa-spotify"></i></a>{% endif %}
           {% if artist.itunes %}<a href="{{ artist.itunes }}"><i class="fa fa-apple"></i></a>{% endif %}
         </p>
+        {% if page.title == "home" %}<nav class="page-links"><p><a href="/about">About</a> &middot; <a href="/donate">Donate</a> &middot; <a href="/sponsors">Sponsors</a> &middot; <a href="/artists">Artists</a></p></nav>{% endif %}
       </section>
 
-      <section class="content pane page">
-        <article>
-          {{ content }}
-        </article>
+      <section class="content pane menu">
+        {{ content }}
       </section>
 
     </div><!-- #container -->

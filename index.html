@@ -1,23 +1,19 @@
 ---
-layout: default
+layout: splash
+title: home
+artist: mwm
+image: mwm-rectangular-clean-light
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+{% for post in site.posts %}
+<a href="{{ post.url }}">
+  <article class="{{ post.category }} story">
+    <img src="https://rawgit.com/MakeWeirdMusic/art/master/{{ post.artist }}/{{ post.image }}.svg" />
+    <h2><span>{{ post.category }}: </span>{{ post.title }}</h2>
+    {% if post.oneliner %}<p class="oneliner">{{ post.oneliner }}</p>{% endif %}
+    {% if post.techniques %}<p class="summary">Techniques: {% for technique in post.techniques %}{{ technique | capitalize }}{% if forloop.last != true %}, {% endif %}{% endfor %}</p>{% endif %}
+    {% if post.sponsors %}<p class="sponsor">{{ post.sponsors }}</p>{% endif %}
+  </article>
+</a>
+{% endfor %}
+<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
