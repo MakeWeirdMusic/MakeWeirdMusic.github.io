@@ -1,0 +1,13 @@
+# Site settings
+title: Make Weird Music
+email: anthony@makeweirdmusic.com
+description: > # this means to ignore newlines until "baseurl:"
+  A resource for musicians to discover new artists, learn weird music techniques,
+  listen to interviews, and share their weird music.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://makeweirdmusic.com" # the base hostname & protocol for your site
+twitter_username: MakeWeirdMusic
+github_username:  MakeWeirdMusic
+
+# Build settings
+markdown: kramdown

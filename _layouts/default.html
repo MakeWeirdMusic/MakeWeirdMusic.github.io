@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="layout-{{ page.category }}">
+
+    <div id="container">
+
+      <header>
+        <a href="/"><img src="https://rawgit.com/MakeWeirdMusic/art/master/logos-v2/mwm-rectangular-clean-light.svg" id="profile" /></a>
+      </header>
+
+      {% assign artist = site.data.artists[page.artist] %}
+      {% assign author = site.data.authors[page.author] %}
+      <section class="info pane">
+        <h1>{% if page.category %}<span>{{ page.category }}: </span>{% endif %}{{ page.title }}</h1>
+        {% if page.author %}<p class="author">By {{ author.name }}</p>{% endif %}
+        <img src="https://rawgit.com/MakeWeirdMusic/art/master/{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />
+        <p class="social-links">
+          {% if artist.facebook %}<a href="{{ artist.facebook }}"><i class="fa fa-facebook-square"></i></a>{% endif %}
+          {% if artist.twitter %}<a href="{{ artist.twitter }}"><i class="fa fa-twitter-square"></i></a>{% endif %}
+          {% if artist.youtube %}<a href="{{ artist.youtube }}"><i class="fa fa-youtube-square"></i></a>{% endif %}
+          {% if artist.google %}<a href="{{ artist.google }}"><i class="fa fa-google-plus-square"></i></a>{% endif %}
+          {% if artist.soundcloud %}<a href="{{ artist.soundcloud }}"><i class="fa fa-soundcloud"></i></a>{% endif %}
+          {% if artist.wikipedia %}<a href="{{ artist.wikipedia }}"><i class="fa fa-wikipedia-w"></i></a>{% endif %}
+          {% if artist.spotify %}<a href="{{ artist.spotify }}"><i class="fa fa-spotify"></i></a>{% endif %}
+          {% if artist.itunes %}<a href="{{ artist.itunes }}"><i class="fa fa-apple"></i></a>{% endif %}
+        </p>
+      </section>
+
+      <section class="content pane page">
+        <article>
+          {{ content }}
+        </article>
+      </section>
+
+    </div><!-- #container -->
+
+  </body>
+
+</html>
