@@ -12,6 +12,7 @@ seo_description: Andy West is best known as the bassist for the Dixie Dregs, a b
 seo_keywords: Dixie Dregs, Steve Morse, John French, Henry Kaiser, Joaquin Lievano, Hilary Jones, Geoff Gould, Crazy Backwards Alphabet, Mike Keneally
 facebook_post_url:
 google_post_url:
+front_page: yes
 techniques:
   - time signatures
   - composition
@@ -19,7 +20,7 @@ techniques:
 ---
 ## Interview Video
 
-In March 2015, I interviewed [Andy West](/discover/andy-west). We discussed lots of interesting stuff related to "weird music," including his influences, what "weird" means, and more.
+In April 2015, I interviewed [Andy West](/discover/andy-west). We discussed lots of interesting stuff related to "weird music," including his influences, what "weird" means, and more.
 
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/meZk10p9dFo?rel=0" frameborder="0" allowfullscreen=""></iframe>

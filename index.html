@@ -5,7 +5,10 @@ artist: mwm
 image: mwm-rectangular-clean-light
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit:8 %}
+{% if post.front_page == false %}
+  {% continue %}
+{% endif %}
 <a href="{{ post.url }}">
   <article class="{{ post.category }} story">
     <img src="https://rawgit.com/MakeWeirdMusic/art/master/{{ post.artist }}/{{ post.image }}.svg" />

@@ -1,0 +1,53 @@
+---
+layout: post
+title:  Andy West
+date:   2015-04-01 19:14:46
+artist: andy-west
+author: anthony-garone
+image: andy-west
+category: discover
+permalink: discover/andy-west
+oneliner: He plays bass with a pick and melts brains with his music.
+seo_description: Andy West is best known as the bassist for the Dixie Dregs, a band he started with Steve Morse.
+seo_keywords: Dixie Dregs, Steve Morse, John French, Henry Kaiser, Joaquin Lievano, Hilary Jones, Geoff Gould, Crazy Backwards Alphabet, Mike Keneally
+facebook_post_url:
+google_post_url:
+front_page: no
+techniques:
+  - time signatures
+  - composition
+  - harmony
+---
+## Who is Andy West?
+
+Andy West is best known for his work with the [Dixie Dregs](http://en.wikipedia.org/wiki/Dixie_Dregs), a 1970s American rock/blues/bluegrass/jazz/classical band known for their virtuosic live performances. They are led by [Steve Morse](http://en.wikipedia.org/wiki/Steve_Morse), one of the most amazing and versatile electric guitar players I've ever heard.
+
+## How I know Andy West
+
+I saw the Dregs perform live in Tempe, AZ around 1997 with a friend, who is a huge Dregs fan. During the show, he yelled in my ear, "Hey, that's Andy West over there! He's the original bassist from the Dregs!" I never forgot his face.
+
+<div class="video-wrapper">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/DOlxUqXDEHA?rel=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+About 10 years later, I was walking around the office at work and bumped into a software development director named Andy West and remembered the face. "Hey! Are you THE Andy West from the Dixie Dregs?"
+
+He said, "Every once in a while, someone recognizes that."
+
+And we got started talking about all sorts of weird music, trading CDs, sitting in each other's cars listening to music on our phones, geeking out, trading software ideas, etc. It actually led to us playing together a little bit with Paul Sears from the super-weird band, The Muffins. Lots of fun.
+
+## My work with Andy
+
+Andy and I actually recorded a track together, too, with [Sebastian Lanser](http://sebastianlanser.com), the drummer from [Panzerballett](/discover/panzerballett) and a friend of mine, Adam Strand. It's a wacky interpretation of a movement from a Bach concerto I really enjoy. Here's a video of it:
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zfzdqpEhipM?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Where you can hear Andy
+
+Anyway, Andy's been involved with a lot of cool musicians outside the Dixie Dregs: [John French](http://en.wikipedia.org/wiki/John_French_(musician)) (aka "Drumbo" from [Captain Beefheart](/discover/captain-beefheart)'s Magic Band), [Henry Kaiser](http://en.wikipedia.org/wiki/Henry_Kaiser_(musician)), [Mike Keneally](/discover/mike-keneally), [Bryan Beller](https://en.wikipedia.org/wiki/Bryan_Beller), [Mike Portnoy](http://en.wikipedia.org/wiki/Mike_Portnoy), and many others. His solo album, *Rama 1*, blew my mind when I first heard it. Amazing melodies, virtuosic performances, and some really surprising compositions.
+
+And thanks to the advent of the internet, even some of the more obscure releases in Andy's discography are readily available on iTunes. The [Crazy Backwards Alphabet](https://en.wikipedia.org/wiki/Crazy_Backwards_Alphabet) albums are pretty surprising. Sometimes, they play very straightforward blues music, but most of the time it sounds like music from another planet. His band, FWAP, is mostly blues/rock improvisation and has some nice moments. Many of the Dixie Dregs albums are on iTunes, which are really cool and fun to listen to.
+
+But for the people visiting this site looking for weird music, I'd definitely check out his *Rama 1* album. Lots of surprises there and fun moments.

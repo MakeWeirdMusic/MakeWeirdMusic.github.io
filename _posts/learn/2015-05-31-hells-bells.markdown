@@ -12,6 +12,7 @@ seo_description: "Hell's Bells is a track off Bruford's 1979 album, One of a Kin
 seo_keywords: "Bill Bruford, Allan Holdsworth, Dave Stewart, Jeff Berlin, Bruford, One of a Kind, Hell's Bells"
 facebook_post_url: https://www.facebook.com/MakeWeirdMusic/posts/754055434707182
 google_post_url: https://plus.google.com/+Makeweirdmusic/posts/jDruN8RAj6m
+front_page: yes
 techniques:
   - key modulations
   - time signatures

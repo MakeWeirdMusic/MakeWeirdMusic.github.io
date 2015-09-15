@@ -12,6 +12,7 @@ seo_description: Harnch is a jazz fusion guitar instrumental track by Anthony Ga
 seo_keywords: Anthony Garone, guitar instrumental, Pat Metheny, Gentle Giant, King Crimson, Robert Fripp
 facebook_post_url:
 google_post_url:
+front_page: yes
 techniques:
   - time signatures
   - composition
