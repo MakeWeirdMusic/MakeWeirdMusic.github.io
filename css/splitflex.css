@@ -246,7 +246,7 @@ header h1 {
   text-transform: uppercase;
 }
 
-.menu a .interview h2 span, .menu a .interview .summary, .menu a .interview .sponsor {
+.menu a .interview h2 span, .menu a .interview .summary, .menu a .interview .sponsor, .interviewer {
   color: #a2daf1;
 }
 
