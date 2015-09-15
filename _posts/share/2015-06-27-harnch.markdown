@@ -1,0 +1,48 @@
+---
+layout: post
+title:  Harnch by Anthony Garone
+date:   2015-06-27 19:14:46
+artist: anthony-garone
+author: anthony-garone
+image: anthony-garone
+category: share
+permalink: share/harnch
+oneliner: If Gentle Giant and Pat Metheny got sick and wrote a song together.
+seo_description: Harnch is a jazz fusion guitar instrumental track by Anthony Garone. It's overly complex.
+seo_keywords: Anthony Garone, guitar instrumental, Pat Metheny, Gentle Giant, King Crimson, Robert Fripp
+facebook_post_url:
+google_post_url:
+techniques:
+  - time signatures
+  - composition
+---
+## What is a "Harnch"?
+
+*Harnch* is the name of a guitar instrumental jazz fusion song by me, Anthony Garone, owner and proprietor of this very website. The performance being shared in this post is an acoustic guitar quartet arrangement I performed in Robert Fripp's [New Standard Tuning](https://en.wikipedia.org/wiki/New_standard_tuning) [NST].
+
+The song gets its name from the crazy section at the end with all the time signatures. It's the only non-swear word I could think of while recording it that adequately expressed how difficult it was to perform and record.
+
+## Music Video
+
+Here's a video with some "fun fact" overlays, including all the time signature changes. Playing this piece in NST offered a new challenge that was accommodated by the tempo decrease from the original performance.
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hKxuR7x4JrE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Original Recording
+
+The original song was performed a bit faster in standard tuning on electric guitars. I played all the instruments except for the piano, which was sequenced.
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQp9uzCcFug?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Sheet Music
+
+If you're interested in the sheet music for this song, I have it for guitar quintet in normal standard tuning (what Fripp calls "original standard tuning") and for guitar quartet in Fripp's "New Standard Tuning" (CGDAEg, low to high).
+
+- [Standard Tuning](https://github.com/MakeWeirdMusic/assets/tree/master/anthony-garone/harnch/ost)
+- [New Standard Tuning](https://github.com/MakeWeirdMusic/assets/tree/master/anthony-garone/harnch/ost) with [MIDI](https://github.com/MakeWeirdMusic/assets/tree/master/anthony-garone/harnch/ost/midi) (includes [MuseScore](http://musescore.org) file)
+
+Watch out for the coda! [Here's some additional context on my old website](http://blog.garone.org/guitar/harnch-for-five-guitars).

@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Hell's Bells by Bruford"
+title:  Hell's Bells by Bruford
 date:   2015-05-31 19:14:46
 artist: bill-bruford
 author: anthony-garone
-image: bill-bruford
+image: bill-bruford-simmons
 category: learn
-author: anthony-garone
 permalink: learn/hells-bells
 oneliner: Count to 19 and play weird chords? No biggie.
 seo_description: "Hell's Bells is a track off Bruford's 1979 album, One of a Kind, and uses odd time signatures and key modulations for great listening and playing."
