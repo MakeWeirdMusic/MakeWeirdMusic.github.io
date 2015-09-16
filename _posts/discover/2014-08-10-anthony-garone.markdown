@@ -6,7 +6,7 @@ artist: anthony-garone
 author: anthony-garone
 image: anthony-garone
 category: discover
-permalink: discover/anthony-garone
+permalink: /discover/anthony-garone
 oneliner: On the rise to international obscurity!
 seo_description: Anthony Garone is an amateur musician based in Mesa, AZ. He also runs this site.
 seo_keywords: guitar,instrumental,amateur,shred,mesa,arizona,steve vai,robert fripp

@@ -6,7 +6,7 @@ artist: anthony-garone
 author: anthony-garone
 image: anthony-garone
 category: share
-permalink: share/harnch
+permalink: /share/harnch
 oneliner: If Gentle Giant and Pat Metheny got sick and wrote a song together.
 seo_description: Harnch is a jazz fusion guitar instrumental track by Anthony Garone. It's overly complex.
 seo_keywords: Anthony Garone, guitar instrumental, Pat Metheny, Gentle Giant, King Crimson, Robert Fripp

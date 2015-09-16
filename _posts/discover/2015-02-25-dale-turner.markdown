@@ -6,7 +6,7 @@ artist: dale-turner
 author: anthony-garone
 image: dale-turner
 category: discover
-permalink: discover/dale-turner
+permalink: /discover/dale-turner
 oneliner: World's most talented goofball and world's goofiest most talentball.
 seo_description: Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.
 seo_keywords: Carl King, Musicians Institute

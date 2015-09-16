@@ -6,7 +6,7 @@ artist: king-crimson
 author: anthony-garone
 image: king-crimson
 category: discover
-permalink: discover/king-crimson
+permalink: /discover/king-crimson
 oneliner: Some of the founders of progressive rock. And terrified audiences.
 seo_description: What can be said about the Crimson King? They are one of the most influential rock bands of all time.
 seo_keywords: Robert Fripp, Adrian Belew, Bill Bruford, Trey Gunn, progressive rock

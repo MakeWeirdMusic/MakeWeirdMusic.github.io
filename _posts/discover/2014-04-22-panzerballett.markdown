@@ -6,7 +6,7 @@ artist: panzerballett
 author: anthony-garone
 image: panzerballett
 category: discover
-permalink: discover/panzerballett
+permalink: /discover/panzerballett
 oneliner: The best German jazz-metal band in the world!
 seo_description: Panzerballett is the best German jazz-metal band in the whole world! It's also the only one.
 seo_keywords: jazz, metal
