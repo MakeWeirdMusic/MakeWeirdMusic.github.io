@@ -43,6 +43,18 @@ blockquote {
   margin-bottom: 1em;
 }
 
+.menu .story {
+  background-color: #111;
+}
+
+.menu .index {
+  padding: 1em;
+}
+
+.menu .index:hover {
+  background-color: #555;
+}
+
 @media (min-width: 550px) {
   .pane {
     position: absolute;
@@ -97,7 +109,6 @@ blockquote {
 
   .menu .story {
     overflow: hidden;
-    background-color: #333;
     padding-right: 5%;
     font-size: 1.5em;
     text-align: left;
@@ -514,7 +525,6 @@ img.bg-dark {
     display: inline-block;
     vertical-align: middle;
     margin-right: 1%;
-    background-color: #111;
   }
 
   .pane {
