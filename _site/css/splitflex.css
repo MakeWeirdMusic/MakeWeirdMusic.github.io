@@ -34,7 +34,6 @@ header h1 {
   display: inline-block;
   vertical-align: middle;
   margin-right: 1%;
-  background-color: #111;
 }
 
 @media (min-width: 550px) {
@@ -92,7 +91,7 @@ header h1 {
   .menu .story {
     overflow: hidden;
     background-color: #333;
-    padding-right: 1%;
+    padding-right: 5%;
     font-size: 1.5em;
     text-align: left;
     border-bottom: 1px solid #ccc;
@@ -101,7 +100,7 @@ header h1 {
   .menu .story img {
     float: left;
     width: 50%;
-    margin-right: 2%;
+    margin-right: 5%;
   }
 
   header {
@@ -232,7 +231,7 @@ header h1 {
 
 .menu a h2 {
   text-decoration: none;
-  margin-top: 1%;
+  margin-top: 5%;
   font-size: 2em;
 }
 
@@ -401,6 +400,10 @@ img.bg-dark {
 }
 
 @media (max-width: 1600px) and (min-width: 1100px) {
+  .menu a .oneliner {
+    font-size: 0.8em;
+  }
+
   .info .social-intro {
     font-size: 1.5em;
   }
@@ -442,6 +445,10 @@ img.bg-dark {
 @media (max-width: 1099px) and (min-width: 800px) {
   h1, h2, h3 {
     font-family: 'Museo-500';
+  }
+
+  .menu a .oneliner {
+    font-size: 0.7em;
   }
 
   .info h1 span {
@@ -563,6 +570,10 @@ img.bg-dark {
     text-align: center;
   }
 
+  .menu a .oneliner {
+    font-size: 0.7em;
+  }
+
   .menu img {
     display: block;
     max-width: 430px;
@@ -620,19 +631,15 @@ img.bg-dark {
   }
 
   .menu a h2 {
-    font-size: 1.2em;
+    font-size: 1.4em;
   }
 
   .menu a .oneliner {
-    font-size: 0.7em;
+    font-size: 0.8em;
   }
 
   .menu a .sponsor {
     font-size: 0.7em;
-  }
-
-  .menu a .summary {
-    font-size: 0.4em;
   }
 
   .page {
@@ -697,8 +704,12 @@ img.bg-dark {
     font-size: 2em;
   }
 
+  .menu .oneliner {
+    font-size: 1.25em;
+  }
+
   .menu .summary, .menu .sponsor {
-    font-size: 1.1em;
+    font-size: 1.3em;
   }
 
   .page {

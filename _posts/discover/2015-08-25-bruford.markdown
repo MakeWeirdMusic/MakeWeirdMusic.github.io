@@ -1,0 +1,37 @@
+---
+layout: post
+title:  Bruford
+date:   2015-08-25 19:14:46
+artist: bill-bruford
+author: anthony-garone
+image: bill-bruford
+category: discover
+permalink: discover/bill-bruford
+oneliner: Crazy time signatures, virtuosity, and synthy prog fusion. Mmmm...
+seo_description: Bill Bruford is a unique drummer who has worked with Yes, King Crimson, Genesis, and tons of other great artists.
+seo_keywords: Yes, Steve Howe, Chris Squire, Jon Anderson, Rick Wakeman, Robert Fripp, King Crimson, Allan Holdsworth, Jeff Berlin, The Unknown John Clark, Dave Stewart
+facebook_post_url:
+google_post_url:
+front_page: no
+techniques:
+  - time signatures
+  - composition
+  - harmony
+---
+## Who is Bruford?
+
+Bruford was a short-lived quasi-jazz-progressive rock band featuring incredible musicianship, innovative compositions, and some of my favorite songs ever. They released three albums of original compositions, *[Feels Good to Me](https://en.wikipedia.org/wiki/Feels_Good_to_Me)*, *[One of a Kind](https://en.wikipedia.org/wiki/One_of_a_Kind_(Bruford_album))*, and *[Gradually Going Tornado](https://en.wikipedia.org/wiki/Gradually_Going_Tornado)*, along with a couple of live albums.
+
+The band was led Bill Bruford (who you might know from Yes and [King Crimson](/discover/king-crimson)) and featured [Jeff Berlin](https://en.wikipedia.org/wiki/Jeff_Berlin) on bass, [Dave Stewart](https://en.wikipedia.org/wiki/Dave_Stewart_(keyboardist)) on keyboards, and [Allan Holdsworth](https://en.wikipedia.org/wiki/Allan_Holdsworth) on guitar, who was later replaced by "The Unknown John Clark." Bruford's extremely complex music is made to sound effortless by these virtuosic performers.
+
+*One of a Kind* is a groundbreaking instrumental album and my favorite of all their releases. Each song is memorable and has something great to offer. It opens with the track *[Hell's Bells](/learn/hells-bells)*, which I dissected in another video. That song is followed by *One of a Kind*, a two-part song that is very near and dear to my heart. The song *5G* is so good it'll make you want to stop playing music. Honestly, every track on the album is great.
+
+*Gradually Going Tornado* features Jeff Berlin on vocals, making a... Uh, best effort. Despite the vocal performance, the songwriting is awesome on this album. *Age of Information* is a great rock song, but the song *Joe Frazier* is probably the highlight of this album. It's an instrumental track that explores some cool, fun territory and Bill Bruford lays a great foundation to let the other band members shine, particularly Jeff Berlin.
+
+*Feels Good to Me* showcases [Annette Peacock](https://en.wikipedia.org/wiki/Annette_Peacock) on vocals, which may be a bit of an acquired taste for some. Either way, this album was innovative in how it paved the way for dry-mixed, up-front female vocalists, particularly in the avant garde genre. There's a lot of great instrumental content on the album, including some songs that remained in Bill Bruford's repertoire for the remainder of his professional career, like *Beelzebub*.
+
+Some of the weird techniques employed by this band are: odd time signatures and polyrhythms, genre mixing, virtuosic performance, key modulations, extended improvisation, and more. There's a ton you can learn from listening to Bruford and even more if you put some effort into learning the material.
+
+Despite its short-lived existence, this band made a lasting impact on musicians all over the world. Musicians all over the world are posting YouTube covers and transcriptions of several songs. I plan on publishing some more content in the future covering some more notable Bruford moments.
+
+So, give a listen to each of their releases and see what inspires you to create something new and different.
