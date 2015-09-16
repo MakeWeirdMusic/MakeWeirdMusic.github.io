@@ -10,7 +10,7 @@ permalink: discover/dale-turner
 oneliner: World's most talented goofball and world's goofiest most talentball.
 seo_description: Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.
 seo_keywords: Carl King, Musicians Institute
-front_page: yes
+front_page: no
 techniques:
   - virtuosity
   - composition
@@ -38,6 +38,6 @@ I met Dale via [Carl King](/discover/carl-king) in 2011 on Facebook and we met i
 
 *Mannerisms Magnified* opens with an incredible perverse tribute to [Brian Wilson](https://en.wikipedia.org/wiki/Brian_Wilson), followed by some really cool [Elliott Smith](https://en.wikipedia.org/wiki/Elliott_Smith)-inspired songs with complex chord changes and time signatures. There are hints of [Mr. Bungle](https://en.wikipedia.org/wiki/Mr._Bungle)/[Mike Patton](https://en.wikipedia.org/wiki/Mike_Patton) throughout, as well as [Iron Maiden](https://en.wikipedia.org/wiki/Iron_Maiden). As Dale says in [our interview](/interview/dale-turner), "You can't escape the Maiden."
 
-*Interpretations* is an album full of Dale's interpretations of various pop songs. Armed with his voice and an acoustic guitar, there's tons to enjoy on here, from silly bird sounds in *Blackbird* to a solo operatic arrangement of *Bohemian Rhapsody* with plenty of falsetto vocals. There are so many priceless moments and many tender ones as well.
+*Interpretations* is an album full of Dale's interpretations of various pop songs. Armed with his voice and an acoustic guitar, there's tons to enjoy on here, from silly bird sounds in *Blackbird* to a solo operatic arrangement of *Bohemian Rhapsody* with plenty of falsetto vocals. There are so many priceless moments and many tender ones as well. Don't miss his cover of The Beach Boys' *God Only Knows*. Simply wonderful!!
 
 I don't think he's released any other music, but I'm probably wrong about that. Anyway, there's plenty to check out and enjoy.
