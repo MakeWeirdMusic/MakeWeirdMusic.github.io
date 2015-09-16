@@ -5,7 +5,7 @@ artist: mwm
 image: mwm-rectangular-clean-light
 ---
 
-{% for post in site.posts limit:8 %}
+{% for post in site.posts %}
 {% if post.front_page == false %}
   {% continue %}
 {% endif %}
@@ -14,7 +14,7 @@ image: mwm-rectangular-clean-light
     <img src="https://rawgit.com/MakeWeirdMusic/art/master/{{ post.artist }}/{{ post.image }}.svg" />
     <h2><span>{{ post.category }}: </span>{{ post.title }}</h2>
     {% if post.oneliner %}<p class="oneliner">{{ post.oneliner }}</p>{% endif %}
-    {% if post.sponsors %}<p class="sponsor">{{ post.sponsors }}</p>{% endif %}
+    {% if post.sponsors %}<p class="sponsor">Sponsored by: {{ post.sponsors }}</p>{% endif %}
   </article>
 </a>
 {% endfor %}

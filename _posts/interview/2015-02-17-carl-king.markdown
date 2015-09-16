@@ -1,0 +1,457 @@
+---
+layout: post
+title:  "Carl King"
+date:   2015-02-17 19:14:46
+artist: carl-king
+author: anthony-garone
+image: carl-king
+category: interview
+permalink: interview/carl-king
+oneliner: AKA Sir Millard Mulch and Dr. Zoltan Øbelisk. Need I say more?
+seo_description: Carl King used to make music. Now he makes stuff about music. I think.
+seo_keywords: Carl King, Sir Millard Much, Dr. Zoltan Øbelisk, drum programming
+front_page: yes
+techniques:
+- virtuosity
+- composition
+- multiple genres
+- time signatures
+- identity
+- humor
+---
+## Some Context
+
+Below is an interview I did with [Carl King](/discover/carl-king) in September 2014. As you will be able to tell, I have the utmost respect for Carl and his art. One thing I learned is that it's easy to be a fan and difficult to be the artist.
+
+Carl provides some great insight into his approach to music, how he developed as a musician, and what drove him to make music. It's interesting to hear how much emotion went into the production of his music and how much of it was negative, which is probably a good explanation for why he no longer produces music.
+
+## Interview Video
+
+Here's an audio recording and in-video transcription of the interview.
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZD2jVpT3QjQ" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+## Interview transcription
+
+Anthony: This is Anthony with MakeWeirdMusic.com and I am here talking to Carl King, also known as the guy who is responsible for Sir Millard Mulch and Doctor Zoltan Øbelisk.
+{: .interviewer }
+
+Carl: You can hear my birds in the background.
+{: .interviewee }
+
+A: Yes, we are sitting on his couch in the living room. It's wonderful. So, Carl, you've made a lot of unconventional weird music. How did that get started?
+{: .interviewer }
+
+C: Gosh, how did that get started? I don't know that I really realized that I was making weird music at first. My first love of music was John Williams' Star Wars soundtracks. I had the records and I'd listen to them. So I liked powerful sounding, positive, heroic music and so when I started writing, I started using all major chords and I continued with that throughout almost all my entire musical career, if you want to call it that. Just using heroic sounding major chords. And then I was amused by the sound of weird rhythms. It would make me laugh every time I heard it because it sounded like someone stumbling or being kind of strange.
+{: .interviewee }
+
+A: In John Williams' music? Or in other people's music?
+{: .interviewer } No, just in other music. I guess odd meter was first explained to me by some MI clinic that Steve Vai did in '84. I had a VHS tape that was several generations removed from the master. I sat up all night watching that. Actually, that videotape was so educational to me in so many ways. It just broke down everything and I learned a lot of principles there of what you can to with music. How to get good at music. How to practice, etc.
+{: .interviewee }
+
+A: Polyrhythms, tuplets, the discipline of practicing an instrument?
+{: .interviewer }
+
+C: Not tuplets. I figured that out later on, I think in music theory class. They explained this concept of what you could do and I thought, “Oh, that's something you can do. I wonder why more people don't do that. I like that idea. I'm just gonna do that a lot." So I just took it as far as I could—well, not as far as I could, but to what I liked hearing and thought, “This is fun and I like the sound of this and it doesn't seem like anyone else does it." And I actually asked Dave Weckl about it in a clinic. Raised my hand and said, “You do a lot of odd meter, but what about borrowed rhythms?" (That's what we called it in our music theory class.) And he immediately had what he wanted to say about it. He looked at me and was immediately like, “No. I don't do that because if I were to do that, people would ask me two questions: 1. What the hell are you doing? and 2. Why are you doing it? I would be out of a job if I started doing that so I just don't do it." And all my friends looked at me and laughed and said, “Well, that explains you."
+{: .interviewee }
+
+A: Right. Was that an impactful experience for you?
+{: .interviewer }
+
+C: Well, I guess I was disappointed because I love Dave Weckl so much.
+{: .interviewee }
+
+A: He's an amazing player.
+{: .interviewer }
+
+C: He's my favorite drummer. I've gone to see him so many times over the years and I always have a good time watching him play and I really wanted to have him on “my next record." And he said “no" when I asked him. He said, “I prefer to play with humans." Which could sound like an insult like I'm not a human, but anyway. But, yeah, I was disappointed that he didn't want to also do that because I thought, “This is an area that is so interesting. Why don't more people want to do that?" So I kinda felt alienated. “I like this, why don't other people like it?"
+{: .interviewee }
+
+A: So you took music theory class. Did you have formal training in your music?
+{: .interviewer }
+
+C: Only later on when I was like 20 or 21 years old. 21, I think. I enrolled in the local community college. The music department was run by this woman who was a Catholic piano virtuoso who gave up on... apparently, she had a really promising career. She was an amazing pianist and she gave it up because she fell in love with her husband and she was very religious and decided to be a part of her local community and stay and do her thing and educate people. It was amazing how much she could do. You could turn the music upside down and she could play it. She was unbelievable. At the time that I composed “Broccoli," or “A Brief History of Broccoli," or what later became known as “Gnomon - He Who Discerns and Reveals, Movement DCCLXXVII" on the Zoltan record. I remember I was writing that and I had the sheet music and I pulled her into a practice room with a piano and I was like, “Could you look at this and tell me what you think of what's going on here? And could you play some of this?" And she said, “Oh sure." And she was playing it with one hand and pointing to the sheet music with the other and saying, “Oh this is interesting here as you go through this," and just playing it with no problem. I was blown away.
+{: .interviewee }
+
+A: A real musician.
+{: .interviewer }
+
+C: Yeah. She was amazing and highly principled and strict, but also very loving towards all the students and really wanted us to do good. I actually quit after my second semester.
+{: .interviewee }
+
+A: That was when you were 21 or so.
+{: .interviewer }
+
+C: Yeah, I quit in my second semester and went back to work at the same print shop that I worked at in high school and I was like, “I don't want to be in college. I've learned enough and I know what I want to know and now I'm going to work and save up and do my music. I don't want to be in college." I hated college because I learned so fast. I didn't show up on the first day of semester 3 and I get a phone call at the print shop. She somehow found me and right after class said, “Why aren't you in my class? I want to see you tomorrow in class. You are too good at this. You have too much of a future in music. You need to be here." And the head of the music department was this other guy and he wanted to send me to the University of Iowa, like totally free. He said, “You have composition blah blah blah. I'll just get you a free ride. I know everyone there and we'll send you to Iowa and you can immerse yourself in composition." And I blew him off and I was so rude and I told him, “I don't have any interest in that." I was real cocky back then and really angry.
+{: .interviewee }
+
+A: Interesting. So when did you pick up an instrument or a computer to start making music? When did that happen and how did you start? Obviously, you don't just start with arranging a Bartok piano concerto or extreme polyrhythms... What got you started in all that?
+{: .interviewer }
+
+C: There was this friend of the family named Ron Mountenay. He was a friend of my mom. Kind of a boyfriend every once in a while. He was a really good guy and he lived a few blocks from us in South Venice, Florida. And he'd let me come over to his house. He had so much equipment and he was just hoarding... I don't know if he just maxed out all his credit cards or what he was doing, but he just built this whole studio in his garage that was always the latest and greatest whatever he wanted. He was kind of letting me hang out there to get away from my home situation and letting me make music. He was kind of a positive influence on me and was really into Mustang Sally and cover tunes. He had an Atari STE computer and he showed me Cubase and Band in a Box. He used Band in a Box a lot, which is basically a lead sheet of chord changes and measure and it'll write all the backing music for you with loops. It was a really cool tool, but he showed me Cubase where you could program in the specific notes. I think he convinced my mom to buy an STE for me for $100 or something. I took it home and I borrowed a keyboard off him and I just went up in my bedroom and messed with Cubase and was suddenly like, “Wow, I can make it play music! I don't need to play it! I can make music with this computer!" So my guitar went back into the closet behind a bunch of clothes and it just sat there for a year. I think I was 18 at the time. It was right after high school. Me and my friend Harold would just start typing in weird drum solos and laughing, saying, “I can't believe it can play a drum solo that fast." But I didn't have the imagination yet to fully exploit it, but I just kept messing around with it thinking, “Oh this is going to be so cool."
+{: .interviewee }
+
+A: So, some of those songs are pretty straightforward, but others are a little crazy.
+{: .interviewer }
+
+C: Well, that stuff there was stuff I did right out of high school, which was a cassette of elevator music called “Nice nice, very nice" and some of that was Band in a Box, but a lot of it was songs that me and Harold made up in our piano class.
+{: .interviewee }
+
+A: You have your Fanatical Video Game Retroverse album...
+{: .interviewer }
+
+C: Yeah, that's a compilation album of a whole bunch of other things I did throughout my days with the Atari STE over many years, which I then renamed all the songs and imagined there was a world in which all my music was very popular and used in all sorts of video games and corporate jingles and stuff like that. So, they're actually pre-existing things on other records I put out.
+{: .interviewee }
+
+A: Yeah, I used to have copies of some of that stuff from a long time ago, but have since lost them. And then I found the album again thinking, “That song's not called 'Aquarium,' that's called..."
+{: .interviewer }
+
+C: Yeah. My friends Martin, Chewbode, and Ian made up those named. I just sent them an email saying, “Can you make up a bunch of weird, fake names?" And I just randomly assigned them. There was no thought or correlation to the titles.
+{: .interviewee }
+
+A: There are some really great melodies on that album and some really interesting musical ideas. Obviously you put down the Atari at some point and then started arranging more standard rock instrumentation compositions. Had you been playing the guitar for a long time? You'd mentioned last night you'd played drums for some time. What is your background with those instruments?
+{: .interviewer }
+
+C: Instruments have always been a problem for me because I originally started out when I was 13 playing guitar and I had a horrible childhood home situation and I didn't want to be involved in anything. I didn't want to do anything. I didn't want to do any homework. I would just hide in my bedroom or hide in the woods across the street from my house and sit by myself and I discovered Steve Vai. "I was the original person who discovered Steve Vai." No, but his career path and seeing that VHS tape was like, “Oh, this is what I can do to get out of here. Get out of this horrible place." I just practiced a million hours a day, you know just as much as he says he did. I'd read his interviews and think, “This is what I was going to do." He was the father who showed up through magazines and videos and helped me get out of my situation. It gave me hope that I could be something else, which is not a unique story, I'm sure. I'm sure there's lots of fucked up kids who I'm sure have the same story.
+{: .interviewee }
+
+A: Mine was less emotional, but I sure went out to buy every Steve Vai issue I could. I cut out all the pictures. Read every single word I could find in print. I could totally relate to that... Practiced a zillion hours...
+{: .interviewer }
+
+C: I got pretty good, physically, at playing the guitar. Then I got into the computer stuff and started programming and then it took a lot of the frustration away because I could easily hear and see what it sounded like if I did “this" with “this" instrument, or whatever with the drums. And I started getting an idea of what it was like to arrange. I was seeing, “This is what it sounds like when you put a bass drum here." Just trying every combination I could and thought, “Oh, this didn't work. I need to remember this principle in my mind." And you start to learn habits of, “do this, don't do that." And your taste. Or, "I like it when I do this with this keyboard." It was totally listening to music and figuring out, “Why don't I like it when the snare does this or that?" So then I had to go to the music school and declare a principal instrument and all of that path. At first it was like, “Oh, it's gonna be guitar because that's what I play." And they said, “Well you can either choose classical guitar or jazz guitar." I said, “But I hate classical guitar. And I hate jazz guitar." So I majored in composition, but I had to pick an instrument, so I started with jazz guitar and there was this asshole teacher, Greg Bolton, and I had hours of tapes of him just arguing with me telling me that I can't end a song on a diminished chord. It was such a waste of time. I didn't want to learn anything this guy was telling me and he told me, “The best thing that can happen to you is just to go join a country band and make money." And he just kept deflating the dreams I had any any hope of love in music. And he told me, “Oh, you'll have kids you don't want and you'll have to go play in a country bar with music you're gonna hate." So I studied with him for a semester and I decided, “I can't handle this. This is so bad." So I switched to classical guitar and I bought this shitty student classical guitar, learned from this guy who... I don't know how to describe it... He was just so vanilla. And I didn't like him at all and I quit that after that semester and switched to percussion as my instrument, learning from Tom Suta. But the problem was I had no experience with percussion and I was starting at level 0. I started learning how to read drum music and he was like, “There is no way you're gonna be able to catch up with people who've been playing since they were a kid and have a college degree in this." And I was like, “At least I like playing drums and I can learn." So I continued studying with him. I played percussion in the local school orchestra. I played snare drum, had a weird snare drum solo at one point, which was just awkward. It was just this weird repeated pattern that went on for a long time while the instructor conducted. Anyway, I did that and I kept on studying with Tom Suta. After I quit, we just kept doing private lessons. He'd drive down to the print shop and I'd get the drum set out of the college and we'd practice sight reading and independence and then I got pretty good at it at that point. And then I switched to learning from Pat McDonald, who drummed on some of my albums. And so, I just kept going to seminars and clinics and got hooked. I thought at some point, “Okay, I'm going to become a drummer." Like, at some point I decided that. Being a drummer is not easy because where are you going to practice? You have to buy all these drum parts. Not gonna happen.
+{: .interviewee }
+
+A: Now obviously for anyone who's listened to your music, the drums are a huge part of your instrumentation and your arrangement. In fact, it seems like drummers are the only guest musicians on your albums. Tell me how, after you somehow discovered Steve Vai—was that the thread you started pulling that led you to other music and helped you find out people like Virgil Donati, Nick D'Virgilio, Morgan Agren? What got you started on these more esoteric musicians?
+{: .interviewer }
+
+C: I just think that in general drums were may more interesting and detailed. I always felt like when you read guitar magazines, it's like, “Yeah, getting that sweet tone from that whatever pickup and I like this thing and whatever." I could never pull much interesting detail out of that. I always felt so bored and when I got into drummers, I thought, “Oh now there's lots of rich content that I'm interested in." There was so much more to explore in rhythm because guitarists would rarely get away from “that sweet tone." Like they were kinda dumb in a way.
+{: .interviewee }
+
+A: Well, those magazines don't really cater themselves to super creative guitar playing, not in an offensive way... It's a lot of “How to play Led Zeppelin riffs," or “How to play blues and rock."
+{: .interviewer }
+
+C: And I never understood why guitarists just seem so dumbed down  compared to the level of academics in drum magazines. They get really specific around rhythms and techniques.
+{: .interviewee }
+
+A: Those articles in guitar magazines are the ones on the crummy, non-glossy paper in the back.
+{: .interviewer }
+
+C: I started getting into Dave Weckl clinics and going to these big drum expos where they'd have Virgil Donati. The seminars were... They were fucking scientists about everything they did... Where they put their snare drum and how high it is and which muscles they were using and their hands... It was like the science of drumming had advanced so far beyond what you'd typically hear from guitarists. So I just got hooked on that because I thought, “This is something I can study and learn and that's interesting. I could hear the difference." So I would basically listen to drums all the time. I just loved it.
+{: .interviewee }
+
+A: This is some time around when Sir Millard Mulch came about.
+{: .interviewer }
+
+C: Sir Millard Mulch came about as a name when I was in high school at about 15 because I hated mowing the lawn and I wanted to come up with another name for myself.
+{: .interviewee }
+
+A: While you were mowing the lawn? Like, “This is my other personality?"
+{: .interviewer }
+
+C: No, no. I was trying to escape my life. It was so bad and I made up another person that I could be. I think there's some tradition of doing that I've heard somewhere where people... part of becoming a man or something where you get your real name when you... Is it Jewish or something like that?
+{: .interviewee }
+
+A: Well, there is some of that with the Bar Mitzvah when you turn 13. Now it's less about labor and doing intense things. Now it's just a line you cross with study and songs.
+{: .interviewer }
+
+C: Well, I came up with this name and suddenly I was Millard. And I started asking people to call me Millard.
+{: .interviewee }
+
+A: Yeah, I never knew you as Carl. I asked you your name once and you were embarrassed to tell me.
+{: .interviewer }
+
+C: Yeah. It was a way for me to be someone else. Millard could do things that Carl couldn't do. I wasn't afraid of anyone at my high school and I was Millard and I'd just walk proudly through the place. Nobody could mess with me. At least that's how I felt in my mind. I was now Millard. Where did we go? I lost the conversation.
+{: .interviewee }
+
+A: So, you had the Atari when you were out of high school, then you started attending some schooling and formal lessons in your early 20s. When did you start making music with the traditional rock instrumentation? How did that start? The Sir Millard Mulch stuff got increasingly complex over time. The initial releases, at least when I listened to them, I didn't feel like you were fully exploring the complexities and intricacies that you would end up exploring later on in your career. So, when did Sir Millard Mulch start making “rock music" and not just “computer music?"
+{: .interviewer }
+
+C: Well, I played in a group with my friends in a band called Voice of Nothing. I played with a clean tone and we tried to write music even though we had no idea what we were doing. It was kind of terrible. We were just trying to figure it out. It ended up sounding... I don't think there's many bands that sound like that. It's not even weird in a good way, I think. Then we reformed and I started playing bass and I was playing with a pick and played with lots of distortion and we called ourselves Tepado. I started learning about rhythm sections at that point. I started kind of bossing the drummer around saying, “We need to hit on that beat together." And started learning arranging. I tried applying the same kinds of concepts from my programming to our punk rock weird progressive punk trio. He wasn't very cooperative because he--and I'm not saying that to attack him—he wasn't cooperating with me and there was a lot of resistance because I think he thought a lot of that stuff was bullshit and he just wanted to play music and he didn't want to be bossed around or told what music theory terms... “Can you play softer at this part?" “No! Fuck you! Buy me softer drums if you want me to play quieter." I couldn't do what I wanted to do there because I was moving into music theory and complexity. We couldn't do odd meters because he'd get mad about that and whatever. So I went to a drum lesson with Pat McDonald and I brought my bass in and I brought the Broccoli sheet music and I suddenly realized that I was way beyond what I thought I was because suddenly I was playing with Pat McDonald. Everything sounded amazing to me. It was so far... “Oh I'm an actual musician. I'm actually real good! I didn't know!" So I hired Pat to play in the studio with me. During the time that I was doing the computer music, I had friends that were complaining to me. “Oh, it sounds like a video game. It doesn't sound like a real band. If you could just really play it with real instruments." I always got shit on for that. Like, it wasn't really real and people always liked “real" music.
+{: .interviewee }
+
+A: There's no value in the composition, only in the performance.
+{: .interviewer }
+
+C: I always was like, “I'm gonna somehow do this with real musicians, but it's so expensive and there's nobody in Florida who can play it." And Pat moved away and there was nobody left in Florida. I was left again, alone. The new version of Cubase on Mac could record audio and I got that and went with my mom's credit card and spent about $3,000 on stuff at Thorobred music in Sarasota. Brought it all home and hooked it up and realized, “I can now edit the audio and move notes around." That's when I recorded the Yasmine Bleeth thing on my mom's back porch with dirty clothes and a cat litter box. But, yeah, that was the tool. Now I can copy and paste parts and sync things up in ways I never could before. And I can now record anything and make it sound like a band is playing. To me, anyway.
+{: .interviewee }
+
+A: When did you release Yasmine Bleeth?
+{: .interviewer }
+
+C: 2001. Right before 9/11.
+{: .interviewee }
+
+A: And Morgan Agren is on that album. How did that happen? Some dude in Florida, before the internet was really huge, there was no twitter, it wasn't easy to email people...
+{: .interviewer }
+
+C: Yeah, well I had heard Frederik Thordendal's “Special Defects" and Morgan was doing the concepts that I wanted to do. I thought, “Oh, he's already doing it! It's incredible. I need to get this guy to drum on my album." And the Yasmine Bleeth thing was intentionally trying to do a radio style rock thing because I was listening to a lot of nu-metal, like Linkin Park. I tried to do my best to make it sound like that. At least as good as I could in my bedroom or my mom's back porch. I looked up Morgan Agren on the internet and he wasn't that hard to find and I emailed him through his website, which I think was a terrible website back then, and he was completely amazed that someone on the other side of the world had heard his music. He was like, “Of course! Wow! Thank you!" I'm sure he wasn't making much money back then anyway. I think I paid him $500 and he recorded it on ADAT tapes. So I bought an ADAT machine off of ebay and hooked it up and I could only record the tracks 2 at a time off the ADATs and it was a 16-track double-tape sync. I had to record them out of the 1/4" jacks into some adapter into 1/8" stereo input on the back of my mac 2 tracks at a time and re-sync them back up and hope that Cubase would play 15 tracks of audio at the same time and somehow mix it and make it sound good. I moved a few parts around here and there because he was really experimental and weird and doing some real strange shit on some of the songs.
+{: .interviewee }
+
+A: Was there any fanfare around that release? Did you print real CDs? Did you sell them? Perform?
+{: .interviewer }
+
+C: Yeah, I printed real CDs and spent $2,000 on radio promos. A company called vision-something. I paid them to get me on college radio and it did pretty well on several stations and it kind of got this school called... I don't remember... In Orange County, CA. It was a Christian college out in Orange County and they would play it all the time on their radio station. It lasted for 16 weeks in their top 10 and they asked me to come and perform at their college. And I laughed because I couldn't even play those songs and I didn't even have a real band. “Thank you."
+{: .interviewee }
+
+A: So it sold well enough to encourage you to release another album...
+{: .interviewer }
+
+C: No. It didn't sell well at all. The sales were terrible.
+{: .interviewee }
+
+A: Oh.
+{: .interviewer }
+
+C: I actually threw a lot of the boxes in the trash at some point. It didn't sell well.
+{: .interviewee }
+
+A: You soldiered on regardless.
+{: .interviewer }
+
+C: Yeah. I actually quit music for the first time after that record. I decided I was quitting and that I was going to get into business. I started reading “Good to Great" and I thought, “Well, music is definitely not in one of the three cirlces of the hedgehog concept." I threw a bunch of the CDs in the trash and got really angry. I realized I was being stupid trying to do this music thing because it was failing. I started reading sales books and business books and a few months later I was sitting in my graphic design office at the advertising agency. And a girl who was working there named Mary Jo or Mary Ann Jo... something like that. She was weird and quirky and super intelligent, but really screwed up, I think. I couldn't get through to her or connect with her very well at all. And one day I played They Might Be Giants in my office. “Birdhouse in your Soul" and that girl walked into my office knowing all the words and singing and dancing. I suddenly became very jealous of They Might Be Giants and I thought, “Those guys made it and they did it. Why can't I do that?" And I felt horrible and it all came back to me. I started thinking, “I gave up. Why did I give up?" And then I was sitting in the front office... I would always stay late at work because my boss was kind of a cult leader. We'd all gather around him at night and listen to crazy stuff. Kind of a Frank Zappa of telemarketing. I was sitting there and I was reading Joe Girard's “How to Sell Anything to Anyone." And I looked down and I was feeling horrible and I looked down at the title of the book and suddenly it connected and I looked at the secretary and said, “I just wrote my new album. You don't realize it, but I just wrote my new album. That's it." And it all came to me. I always have those flashes of inspiration that would set me off in some huge direction and I just knew it. The next three years were spent working on How to Sell...
+{: .interviewee }
+
+A: And you came out to California...
+{: .interviewer }
+
+C: Yeah. I moved out to California for a little while because, actually, I wanted to befriend Trey Spruance. I moved to California to San Francisco, found him, got a hold of him, he reciprocated and wanted to hang out with me. He'd come over and pick me up and we'd go around the city and he would try to explain... He was a lecturer. He would lecture me for hours, he was like a professor.
+{: .interviewee }
+
+A: All those Mr. Bungle guys are pretty academic.
+{: .interviewer }
+
+C: Yeah. I think this guy in particular should have been a college professor instead of trying to be a professional musician because I realized after hanging out with him—I think I realized after driving around for 5 or 6 hours with him just talking non-stop, I looked over at him and thought, “Oh my God, this guy could die right now in the car and nobody would realize. I hope nothing happens to this guy because he's so special and a genius. I can't believe I'm in the car with this person right now." I looked up to him so much in that moment. I was like, “Wow, I'm with Frank Zappa," or someone like that. An enlightened being somehow. He told me all about the tarot and about all of these things. I went home and I was just mind-blown from this experience. I really looked up to him a lot and realized that any music he does or Mr. Bungle fame or any Secret Chiefs thing, that's nothing compared to that human being walking around. He's just doing that for fun or something. That's nothing compared to hanging out with him. I don't know how much of that was charm and manipulation at that time, or if he was just a magnetic personality. Getting older, thinking about that, I think, “I wonder how impressionable I was."
+{: .interviewee }
+
+A: You were so poor then, too. You had no money. I sent you $10 or something and you were like, “Wow, this really helps," and I was like, “It's just $10." You were SUPER appreciative and you were like, “I'm going to be able to eat for the next day or two."
+{: .interviewer }
+
+C: Yeah, friends used to send me boxes of food and stuff like that. I just couldn't get a job in San Francisco and it was not going well. But you actually told me while I was out there working on “How to Sell," you said, “If you finish the first CD, I'll play it for Steve Vai." [I was working for Steve Vai at the time.] And I was just like, “Okay." And I just locked myself up and worked until I finished the first disc and then I overnighted it to you. That was huge.
+{: .interviewee }
+
+A: Not that I want to get involved in the story...
+{: .interviewer }
+
+C: Yeah. Well, you've been a big part of my story, but whatever.
+{: .interviewee }
+
+A: What happened then? You overnighted the CD, I got it in front of Steve, and then?
+{: .interviewer }
+
+C: Well, I think I woke up to an email from Steve. I went and checked my email and there it was. An email from Steve Vai. In the “from" thing. There I was. I've made it! I completed the path that I wanted to go on. And he liked the record. And you told me his reactions and things like that. I felt like that was the greatest moment of my career. That was so big to me!
+{: .interviewee }
+
+A: And then he posted some of your music on his Favored Nations web store.
+{: .interviewer }
+
+C: Yeah, he started selling the Yasmine Bleeth CD on there. I took screenshots and I thought, I actually thought that I was about to get famous. I told someone—I actually got a job at Guitar Center for some time and I told everybody that I was Carl because I didn't want anyone to know that I was Sir Millard Mulch. At that point I found out that I needed to keep the music separate because people didn't like Sir Millard Mulch. And so if someone knew, they would fire me or something and hate me. So, then I was embarrassed about being Sir Millard Mulch for some time. Then I told a guy at the music store and I was like, “Hey I want to tell you something that I'm not telling anybody, but I'm actually Sir Millard Mulch."
+{: .interviewee }
+
+A: Did he know who that was?
+{: .interviewer }
+
+C: He was like, “Oh. I don't... What does that mean?" I was like, “Well, you might not know this but Steve Vai is probably going to put out my next record on his label." And he was like, “No shit, man!" I was like, “Yeah, I actually play guitar." He was like, “Wow! That... That's amazing." Kind of a stupid conversation.
+{: .interviewee }
+
+A: Did that help your career?
+{: .interviewer }
+
+C: It did. I was able to go up to Virgil Donati at a clinic. It gave me confidence. I didn't overly boast about it, but it made me feel legitimate, like I not have been validated or verified.
+{: .interviewee }
+
+A: Your “weird art consequential!" [Lyrics from one of Carl's songs]
+{: .interviewer }
+
+C: Yeah yeah yeah yeah. Like someone thought it was real, not only me. Someone I kinda worshiped thought I was valid. So I was able to use that, like “Here's my membership card." So I could work out deals with people. “Hey Virgil, I'm Sir Millard Mulch." I think he did something with Favored Nations somehow.
+{: .interviewee }
+
+A: He was Steve's drummer.
+{: .interviewer }
+
+C: Yeah yeah yeah. And I was able to go up to him and say, “Hey, I'm putting out a record on Favored Nations and I'd like to hire you for some drumming." I was able to be very professional for the first time. And he was like, “Oh, yeah. Email me. Whatever." So that was able to happen because of that.
+{: .interviewee }
+
+A: Now, How to Sell is kind of your magnum opus. Started as a 3-CD set with 2 real CDs and a 3rd blank CD, and it ended up being 4 CDs-worth of material. So it evolved over some time, but so much personality, such a sarcastic stance on sales and marketing and all sorts of stuff. I feel like that became a very personal record for you only because it was a consistent theme that you were so passionate about that you had to write 4 CDs worth of material and follow it up with a 200-some page book and all sorts of other material. It informed your graphic design style for your website. For me, it was like, when Sir Millard Mulch started making his mark. Can you talk about the impact of that record on you? And who were some of the people you got to play on it?
+{: .interviewer }
+
+C: I don't know. That's a lot of information. I'd like to address the manipulation aspect of it because I was working at the ad agency and I saw people around me making $100,000 a year talking on the phone selling advertisements that were worthless. That people would get no return on and there were all these techniques to get the correct decision-maker on the phone and manipulate them into buying ad space in totally worthless publications in terms of return on investment. Worthless. And we all knew that at the company and we would even use that sometimes in our pitch and still get away with selling massive amounts of advertising. The president of the company was very wealthy and as I said before he was kind of a cult leader to all of us because we all thought it was incredible. He never hired people who were A-players. He never hired someone who seemed like a good match. He would pick these weird talents out of people. Really messed-up manipulative people, like criminal manipulators. Gamblers, cheaters, like that, and bring them in and manage them and put them in these different rooms and move them around in order to control them and rake in cash. I had a discussion one night with him at Applebee's with him. I said, “I don't know how I feel morally about the company. It weirds me out that people are paying all this money and they're not getting any return and we're making money off it." And he said, “Well, look at it this way: Who is it hurting? Number 1, we're raising funds and sending it to our clients that are contracting with us to raise the money. We're basically fund raising. And you get paid to do the graphic design, our sales people make money, the client makes money, the advertisers feel good that they're contributing something to help with a project. In the end, everybody wins. These are major corporations that are spending the money. Not people. We're not stealing the money from anybody. We're taking money out of a giant company, Microsoft or whatever. This is tiny money compared to what they're spending everywhere else." And so I thought, “That's an interesting argument. I guess I can accept that." And it took me to a dark place because I always felt like such a goody-goody. Just this pure moral kid who never did any drugs and never stole anything, except for a page in a magazine with a picture of Steve Vai. I tore it out and shoplifted and I didn't have that picture and I needed to complete the wall of Steve Vai pictures. Anyway, I started really questioning myself and started testing some of my morality by going to strip clubs and doing things I shouldn't be doing. It was kind of a breaking myself down and challenging my own beliefs. I started getting involved with girls I shouldn't get involved with, started lying to people, started kind of cheating in ways of manipulating people that I knew. Started thinking, “Oh, now I kind of know how to do this. I should see what happens if I do it." And I'd go through phases where I was like, “No! I can't do that! Why am I thinking these things? I'm such a bad person." I never did anything criminal or anything, but I would just make someone think I liked them or something like that as an exercise. I don't know where to go from there. I just got really into that and it really messed me up and really changed me. I specifically know that I bring certain people onto the record just so I could use their name just to sell more records. Sometimes they would contribute nothing useful to the record, but I would figure out a way just so I could get more names on it and make it ridiculous. Let's make it look like the drummer from Good Charlotte's on the album. Then I could go out with my CD and say, “Oh, you like Cannibal Corpse? The drummer from Cannibal Corpse is on my album." “Really?! Wow! How did you do that?" It was such a local story that I could sell the stuff. I'd go out and sell my CDs to people.
+{: .interviewee }
+
+A: So a lot of your music...
+{: .interviewer }
+
+C: But that's not about music. You want to talk about making weird music. It was such a big thing for me. It was a personal adventure in manipulation.
+{: .interviewee }
+
+A: Well, it was a big motivator, in a weird way, to make that weird music.
+{: .interviewer }
+
+C: And the music was completely secondary. By that point I was just churning out music according to my formulas. It was very easy for me to make that music. The challenging thing was conceptually with the lyrics and titles and feeling like I said the things that I was experiencing while going through that process of trying to reconcile being creative and pure and being a manipulator who wanted to survive and become famous.
+{: .interviewee }
+
+A: On this album, there's a lot of what you've called “pointillism." It's like the start of that type of music.
+{: .interviewer }
+
+C: I did that way before.
+{: .interviewee }
+
+A: I know you did...
+{: .interviewer }
+
+C: But I didn't do anything new in that that I hadn't done in '96 or '95.
+{: .interviewee }
+
+A: It seemed like you were...
+{: .interviewer }
+
+C: It was like 10 years later. Maybe people started noticing it 10 years later, but I was already angry by that point because it had already been 10 years since I had done all that stuff. So I was bitter that people finally liked How to Sell because I put all these big names on it and then I was mad. “Oh, see you fucking idiots? Now you're listening to it, but it's actually I've already been doing this and you've been rejecting me all these years."
+{: .interviewee }
+
+A: The “pointillism" aspect. Dr. Zoltan ended up consuming, replacing the Sir Millard Mulch character. Dr. Zoltan was far more opinionated, far more iconoclastic, trolling the internet, making videos saying “Rage Against the Machine sucks and if you like them, you're an idiot." Super-opininated. The music was very in-your-face in terms of pointillism and the lyrical content and not nearly as friendly as the Sir Millard Mulch stuff was, or at least not as happy. What happened there?
+{: .interviewer }
+
+C: Well, I guess the smallest part of my story is the music. The bigger part was always the psychological problems and my anger. The Zoltan videos were masked attacks on my girlfriend at the time. In some ways I really hated her. And I hated LA. And I was mad at her for not understanding me. And so I would release that anger pretending that I was talking about Tool, but actually I was talking about her. I found a Tool CD in her car and I was like, “Oh, this is not good." So then I would go home. She would drop me off at my shitty house room that I lived in in Culver City and I'd go in the backyard with my computer and would just write this angry thing about Tool, but it was really a letter to her. I released it to the internet and all these Tool fans would get angry, but I knew nothing about Tool. I didn't really like them, but I didn't really care, but it was really—if you just go back and replace the word Tool with her name, just completely making fun of her. I don't know how conscious... there was a dark side of me that was doing this on purpose, but I was able to shift my mind and say, “Oh, I'm just making fun of Tool." I was very conflicted, but I was really angry at that time.
+{: .interviewee }
+
+A: Were people aware that Sir Millard Mulch guy that they were following musically, purchased CDs, whatever... Had stopped to exist and there was this new guy in his place? In marketing terms, “Oh, you've pivoted your brand" or something like that.
+{: .interviewer }
+
+C: Yeah, nobody liked it. Everybody thought I was an idiot for doing that. I don't think anybody supported me changing my name. They were like, “What are you doing? That's just stupid. It's not even a good name." And I started making these dumb videos making fun of bands and churning up all this anger on YouTube. It had nothing to do with what I was doing before. And I hated it and everybody else hated it. But I was convinced this was the way to go. “I have to follow this. This is where this is going. This is where the inspiration is taking me."
+{: .interviewee }
+
+A: And you ended up releasing an album before the “Why I Am So Wise..."
+{: .interviewer }
+
+C: Yeah, but it was only a bunch of Sir Millard Mulch songs, but I called it Dr. Zoltan. And I had Steve Cox go through and add orchestra and I remixed it and re-recorded a bunch of guitars, erased the vocals...
+{: .interviewee }
+
+A: So then you got to “Why I Am So Wise, Why I Am So Clever, And Why I Write Such Good Songs."
+{: .interviewer }
+
+C: Which is a Nietzsche reference from Ecce Homo. It's in that book, towards the end of his life when he was losing his mind.
+{: .interviewee }
+
+A: Musically, it's very intense. It seems more focused. You dropped the “skits" aspect.
+{: .interviewer }
+
+C: However, there were supposed to be skits. I never recorded them. We can talk about that, I don't know if anyone knows about that.
+{: .interviewee }
+
+A:  I'm just thinking, Zoltan... I particularly enjoy that album, much more than any of the Mulch stuff.
+{: .interviewer }
+
+C: The Zoltan?
+{: .interviewee }
+
+A: Oh yeah.
+{: .interviewer }
+
+C: Okay. You're the only person.
+{: .interviewee }
+
+A: Probably. But, I feel like you were growing musically, going through emotional changes, and your music got weirder and more pointillistic. Can you talk about what this pointillism thing is and what you were going for musically with Zoltan? Did you expect it to succeed in any way?
+{: .interviewer }
+
+C: I have to go back to the psychology again because that's what it all came from. It was so rarely about music.
+{: .interviewee }
+
+A: Some people are motivated by a lyric, some by a melody or a chord progression. For you, it's psychology.
+{: .interviewer }
+
+C: And my emotional problems. I remember telling my friend Dale [Lewis] that I make my music out of anger and it all comes from anger. He said, “I don't believe that, Carl. I think music is more to you than that and I think you can make your music without anger." And I thought, “Wow, he's kind of challenging me. I wonder if I can do it." And around that time, I moved to LA. John La Grou also wanted me to make purely beautiful music.
+{: .interviewee }
+
+A: The founder of Millennia audio?
+{: .interviewer }
+
+C: That's right. And he believed in me and he funded it and let me stay at his house for a month and work in his studio and use all his guitars and equipment. He bought me gear and backed the whole thing. Like, “All right, Carl. Let's get you out of Florida, away from the bad influences. Bring you up here to this paradise up here. Here, do anything you want. I'll take care of you. You make this giant album you want to make that's beautiful music." I was like, “All right, I'll do it." And got there and was completely blocked for the first time in my life and could not write anything. And just struggled and was depressed and felt horrible and started wandering around and crying and walking down the street in his neighborhood with tears in my eyes. “It's gone, I can't write anymore." Because I was trying not to do it from an angry place. And I really fought my way through it. I got the Prokofiev thing recorded and I was like, “But I didn't even write this. I'm just hacking through this other person's music. It's just not working. It's not flowing at all. This is wrong. It's horrible." Where did you want me to go from there? Oh, the pointillism. Yeah, I was attempting to do an instrumental album where the sky is the limit. “Here it is Carl. Do anything. We'll even buy you more computers that have orchestra instrumentation and can do the whole thing in 5.1. Got a lot of preamps and microphones. Anything you want. Here's a big studio with anything." And I just collapsed. It didn't work. I spent a whole month and got, like, 3 or 4 things recorded. I did the Bartok thing, the Prokofiev thing, and recorded the Warthog thing there, I think, and some other little bits of nothingness. It was a horrible failure for me to spend a whole month and only get that done. And, but yeah, my point was I wanted to finally explode musically and prove what I could do with music. Without the anger I couldn't do it.
+{: .interviewee }
+
+A: So what is the pointillism stuff?
+{: .interviewer }
+
+C: Pointillism stuff is... The same way you look into the stars and see constellations. They're not necessarily a scorpion, it's just dots around the shape of the scorpion. So, connect the shape of the dots. So I would have an underlying hidden rhythm that's there but I would then write around that hidden rhythm so it would only hint at the actual rhythm of the concept that's happening underneath it. But, that concept was not there. So, it's kind of like re-harmonizing the melody, but you mute the melody. And it's missing. So your mind has to then piece it together. And it sounded really jerky and weird to me and it was fun.
+{: .interviewee }
+
+A: So that's why there are 15-20 tracks that are 20-90 seconds long and they're all super pointillistic? But it was hard for you to evolve those ideas because you muted the melody.
+{: .interviewer }
+
+C: Well, I wasn't literally muting the melody, but conceptually. I would get going on something and thing, “Here's 20 seconds." And then I'd be like, “I don't know what to do." So it would just end. That sucks. It didn't have a B section or any other ideas and it would just stop. And I did that over and over trying to come up with something and I just couldn't get it going. “Well, there's another thing I couldn't go anywhere with."
+{: .interviewee }
+
+A: Was there any success with that record?
+{: .interviewer }
+
+C: No, it was terrible. As far as the reaction... Very little reaction. People still talk about “How to Sell" all the time, which is fine. I don't have any problem with that. That album, I printed 100 copies at DiscMakers for like $300 and I gave 50 of them away at NAMM at the Drumkit from Hell Toontrack booth and the other 50 I haven't even sold all of them. It was a financial...
+{: .interviewee }
+
+A: Boondoggle?
+{: .interviewer }
+
+C: Yeah. And I was surprised actually that there wasn't someone, as Zeke was saying, there wasn't someone who championed it. Without all the big names and manipulation shit and advertising and tricks and social media, it just sat there. Nobody really listened to it and I'm surprised that people like Tony Levin aren't out there... when they ask Tony Levin, “What are you listening to lately?" “Oh, I found this Dr. Zoltan thing that really did these crazy rhythms." Nobody has said that except for you.
+{: .interviewee }
+
+A: And Andy West.
+{: .interviewer }
+
+C: Yeah, I don't even know him.
+{: .interviewee }
+
+A: For many years you tried to be a musician. A weird musician. You had some progress actually selling stuff, making some sort of a living supporting yourself while also being a musician.
+{: .interviewer }
+
+C: And I thought that after “How to Sell" I was set. “Now it's going to exponentially get bigger and I'm going to be set after this. I've made it." I reached the level of success that I wanted and I thought, “I can now be a Primus or a Mr. Bungle at the next step and that's where I'm going."
+{: .interviewee }
+
+A: What are your influences? I know you don't listen to very much now, but who have been some of your major influences and what do you listen for in terms of music that appeals to you? You still sell music on your site, things you find interesting.
+{: .interviewer }
+
+C: So, we're talking present time? Present time, I don't actively listen to any music. The only part music has in my life is if I'm editing some video and I have to put music in the background. And I'm pretty good at that I think, but I will listen to a little bit of classical music in the car at low volume. I'll turn it up if I hear some Chopin and piano stuff or anything that catches my ear in a way that I don't immediately understand because I feel like I understand music too quickly and it just sounds like a formula for me. And I'm like, “There's the fucking formula again." I don't want to hear it because I immediately understand all of it. So anything I don't immediately understand, it feels like it's farther away. It feels more alive because it's not a robot. Does that make sense? It's mysterious to me. If there's a little bit of mystery, it's more real and magical.
+{: .interviewee }
+
+A: You work with a lot of musicians, many of them are full-time, they have some level of success of notoriety. Guys like Thomas Lang or Morgan Agren, they can play drums and that's what they do and they pay for their house... So you have a lot experience with people working in the music industry. If someone were to come to you and say, “I'm thinking of becoming a full-time musician," would you have any advice? Especially if they were making nonstandard music.
+{: .interviewer }
+
+C: Well, I think if you want to do it, you can do it. I mean as far as making the music, you can definitely do that. But, you really have to understand that it's very possible that no one will give a shit at all. And on a very deep level. Not just saying that. You can't just say, “Oh nobody's going to care." You really have to know, “I'm building a bunch of furniture in my garage that no one else is going to see and I'm going to stuff it in boxes and keep it in my garage. It's really the same. Or, I'm cooking a bunch of food and I'm going to just throw it in the trash. You're literally just doing that. Maybe someday someone will walk by and smell you cooking and think that you're good, but for the most part, when I get emails from kids asking me what they should do, I'm like, “Look, realistically, even all these people that you think are successful, they're really struggling. People with big names who you think have succeeded in making their weird music. Unless they're constantly touring and you see giant concerts full of people cheering and buying stuff, they're probably nobodies when they're walking down the street and they're living in an apartment that's a fucking shitty dump with nothing and they live month to month and it's not a pleasant lifestyle and a lot of people do that. They come out to LA and they do one $250 job to the next. And they, once a year, get a feature in a drum magazine or something and you think, “Oh this is this world-famous person," but no, they're playing up at the bar at the corner for 20 people on a daily or monthly basis. So there's wayyy too much expectation to be able to live off music in general. And then weird music on top of that, like, “Good luck!" Even these people like Morgan Agren are struggling and he's barely making it for all these years. So, it's not a ... You can try to do it.
+{: .interviewee }
+
+A: In terms of your composition style, I've always been fascinated at your ability to play with rhythms and to come up with parts, drum parts or strange melodies. What gets you started? What's your method? Do you sit at a computer and then you start putting in notes on the score or in the piano view or do you play a guitar?
+{: .interviewer }
+
+C: The formula for “How to Sell" was: I had a TextEdit document on my Mac that I would fill with song titles. It was all with song titles. It was the most important thing to me. I would say, if I wrote down 5 song titles that day I would consider that I wrote 5 songs because then it was just a matter of following my formula I've had for 10 years and knock out 2 songs a day, usually. “Today, it's 2 o'clock. I could have another couple songs done by 7PM. If I have those song titles to go on." So, song title. Then I would write the lyrics. And they were always, almost always the same rhythm. DUH-duh DUH-duh DUH-duh DUH-duh DUH-duh DUH-duh DUH.
+{: .interviewee }
+
+A: “But for now I'm just a flaky artist down the street." “Help me buy some food so I can say I'm in the industry."
+{: .interviewer }
+
+C: It was always that. I don't remember what that's called. Is it iambic pentameter? But yeah, that's what I did. Over and over and over again. You could just switch the lyrics all around between any song, pretty much. Unless Ian wrote the lyrics, which he did for many songs on “How to Sell." So then I had the lyrics and I would sit there with a guitar and strum major chords and write the melody and I'd say, “Oh, there it is." I'd usually throw that down on a quicktime file and record myself humming and strumming so I wouldn't forget it 5 minutes later because I wrote it so fast and then I'd go start programming it into Cubase with a 4-note chord, like blocks of whole notes with 4-part harmony. Keyboard part and stick the melody on top of that. I'd have the keyboard part with 4-note voice chords and a melody on top of it and then I'd have the template for verse, chorus, bridge and I'd go through and start putting the bass line in. And the bass line is completely fucked and all over the place. And just at random, changing the tuples, and I wouldn't even listen to it. Click click click click. “Does it sound okay?"
+{: .interviewee }
+
+A: So, it's not even intentional?
+{: .interviewer }
+
+C: No. And then there would be a spot and I'd say, “Eh, I'll move that beat over there. Does that sound good? Okay." Start programming drums. Program the fucked up drum beat. "Does that sound good? Oh, I like how that happened. That's funny." Now start filling it in with recording my actual bass and guitar playing that bass part. Then I'd add some rhythm guitar up high, some clean guitar, and then I'd go through and change the piano part to a keyboard part, maybe change the rhythm of that, background vocals, weird sound effects, “Oh this part sounds thin," add myself coughing in the background, something. And there was very little thought and it was very fast. I'd do that over and over.
+{: .interviewee }
+
+A: So even a complex piece like “Chariots of the Sales Gods..."
+{: .interviewer }
+
+C: In those parts, whenever a guitar part was too fast, I'd slow the part down and speed it back up in Cubase so I could actually play it. So I'd play it at half speed one beat or measure at a time until it's perfect, then stop, next measure, then speed it all up. And the time compression in Cubase was really good, so it sounded decent to normal. So everything was played very precisely until I got it exactly right.
+{: .interviewee }
+
+A: And then copy paste when you needed to hear it again.
+{: .interviewer }
+
+C: Yeah.
+{: .interviewee }
+
+A: Very interesting. Thank you so much for your time.
+{: .interviewer }
+
+C: Fine.
+{: .interviewee }
+
+A: Okay, bye.
+{: .interviewer }
