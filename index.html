@@ -11,7 +11,7 @@ image: mwm-rectangular-clean-light
 {% endif %}
 <a href="{{ post.url }}">
   <article class="{{ post.category }} story">
-    <img src="https://rawgit.com/MakeWeirdMusic/art/master/{{ post.artist }}/{{ post.image }}.svg" />
+    <img src="{{ site.data.artists.mwm.art_prod }}{{ post.artist }}/{{ post.image }}.svg" />
     <h2><span>{{ post.category }}: </span>{{ post.title }}</h2>
     {% if post.oneliner %}<p class="oneliner">{{ post.oneliner }}</p>{% endif %}
     {% if post.sponsors %}<p class="sponsor">Sponsored by: {{ post.sponsors }}</p>{% endif %}

@@ -9,7 +9,7 @@
 
       {% assign artist = site.data.artists[page.artist] %}
       <section class="info pane">
-        <img src="https://rawgit.com/MakeWeirdMusic/art/master/{{ page.artist }}/{{ page.image }}.svg" />
+        <img src="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.svg" />
         <p class="social-links">
           {% if artist.facebook %}<a href="{{ artist.facebook }}"><i class="fa fa-facebook-square"></i></a>{% endif %}
           {% if artist.twitter %}<a href="{{ artist.twitter }}"><i class="fa fa-twitter-square"></i></a>{% endif %}
@@ -20,7 +20,7 @@
           {% if artist.spotify %}<a href="{{ artist.spotify }}"><i class="fa fa-spotify"></i></a>{% endif %}
           {% if artist.itunes %}<a href="{{ artist.itunes }}"><i class="fa fa-apple"></i></a>{% endif %}
         </p>
-        {% if page.title == "home" %}<nav class="page-links"><p><a href="/about">About</a> &middot; <a href="/donate">Donate</a> &middot; <a href="/sponsors">Sponsors</a> &middot; <a href="/artists">Artists</a></p></nav>{% endif %}
+        <nav class="page-links"><p><a href="/about">About</a> &middot; <a href="/donate">Donate</a> &middot; <a href="/sponsors">Sponsors</a> &middot; <a href="/index">Index</a></p></nav>
       </section>
 
       <section class="content pane menu">

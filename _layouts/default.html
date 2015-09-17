@@ -14,7 +14,7 @@
       <section class="info pane">
         <h1>{% if page.category and page.category != "page" %}<span>{{ page.category }}: </span>{% endif %}{{ page.title }}</h1>
         {% if page.author %}<p class="author">By {{ author.name }}</p>{% endif %}
-        <img src="https://rawgit.com/MakeWeirdMusic/art/master/{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />
+        <img src="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />
         <p class="social-intro">Find {{ artist.name }} on:</p>
         <p class="social-links">
           {% if artist.website %}<a href="{{ artist.website }}"><i class="fa fa-external-link-square"></i></a>{% endif %}
@@ -27,6 +27,7 @@
           {% if artist.spotify %}<a href="{{ artist.spotify }}"><i class="fa fa-spotify"></i></a>{% endif %}
           {% if artist.itunes %}<a href="{{ artist.itunes }}"><i class="fa fa-apple"></i></a>{% endif %}
         </p>
+        {% if page.category and page.category == 'page' %}<nav class="page-links"><p><a href="/about">About</a> &middot; <a href="/donate">Donate</a> &middot; <a href="/sponsors">Sponsors</a> &middot; <a href="/index">Index</a></p></nav>{% endif %}
       </section>
 
       <section class="content pane page">

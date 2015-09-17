@@ -417,6 +417,11 @@ img.bg-dark {
   border-radius: 10px;
 }
 
+#artist-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #artist-table td {
   padding: 1em;
 }
@@ -599,6 +604,10 @@ img.bg-dark {
     color: #fff;
     text-decoration: none;
     text-align: center;
+  }
+
+  .menu a h2 {
+    font-size: 1.3em;
   }
 
   .menu a .oneliner {

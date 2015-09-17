@@ -11,4 +11,36 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="stylesheet" type="text/css" href="/css/MyFontsWebfontsKit.css" />
   <link rel="stylesheet" type="text/css" href="/css/font-awesome-4.4.0/css/font-awesome.min.css">
+
+  <!-- for Google -->
+  {{ if seo_description }}<meta name="description" content="{{ seo_description }}" />{{ endif }}
+  {{ if seo_keywords }}<meta name="keywords" content="{{ seo_keywords }}" />{{ endif }}
+
+  <meta name="author" content="{{ google_url }}" />
+  <meta name="publisher" content="{{ google_url }}" />
+  <link rel="author" href="{{ google_url }}" />
+  <link rel="publisher" href="{{ google_url }}" />
+  {{ if copyright }}<meta name="copyright" content="{{ copyright }}" />{{ endif }}
+  <meta itemprop="name" content="{{ title }}" />
+  {{ if seo_description }}<meta itemprop="description" content="{{ seo_description }}" />{{ endif }}
+  <meta name="application-name" content="Make Weird Music" />
+
+  <!-- for Facebook -->
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="Make Weird Music" />
+  {{ if artwork_raster }}<meta property="og:image" content="{{ art_url }}{{ artwork_raster }}" />{{ endif }}
+  <meta property="og:url" content="http://makeweirdmusic.com{{ url }}" />
+  {{ if seo_description }}<meta property="og:description" content="{{ seo_description }}" />{{ endif }}
+  <meta property="article:author" content="http://facebook.com/MakeWeirdMusic" />
+  <meta property="article:publisher" content="http://facebook.com/MakeWeirdMusic" />
+
+  <!-- for Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ title }}" />
+  <meta name="twitter:creator" content="@MakeWeirdMusic" />
+  {{ if seo_description }}<meta name="twitter:description" content="{{ seo_description }}" />{{ endif }}
+  {{ if artwork_raster }}<meta name="twitter:image" content="{{ art_url }}{{ artwork_raster }}" />{{ endif }}
+  {{ if artwork_raster }}<meta name="twitter:image:src" content="{{ art_url }}{{ artwork_raster }}" />{{ endif }}
 </head>
