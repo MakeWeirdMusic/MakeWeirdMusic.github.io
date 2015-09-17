@@ -5,10 +5,18 @@ category: page
 artist: mwm
 image: mwm-social-square
 permalink: /about/
+seo_description: Make Weird Music is a passion project by Anthony Garone showcasing unique and interesting lesser-known musicians.
+seo_keywords: progressive rock, jazz, strange music, left of center
 ---
 ## Welcome
 
 Welcome to Make Weird Music! Thanks for visiting! My name is [Anthony Garone](/discover/anthony-garone) and I run this site as a passion project. I've been playing guitar since 1996 and have been listening to lots of weird music thanks to my father's record and tape collection, which consisted of bands like [Gentle Giant](/discover/gentle-giant), [Frank Zappa](/discover/frank-zappa), [King Crimson](/discover/king-crimson), and other progressive rock bands.
+
+## Open Source!
+
+Did you know this site is open source and you can contribute art, content, video, and more via pull request? Make Weird Music operates under a [Creative Commons Attribute-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## A little personal background
 
 Between the ages of 15 and 22, I was convinced I'd become a professional musician. Working in the music industry for a year helped me realize how unlikely that'd be. [My old website](http://garone.org) and [old YouTube account](http://youtube.com/agarone) helped me develop an audience of like-minded music enthusiasts while earning a living as a software developer.
 

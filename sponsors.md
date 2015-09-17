@@ -5,6 +5,8 @@ category: page
 artist: mwm
 image: mwm-social-square
 permalink: /sponsors/
+seo_description: Make Weird Music is a non-profit fun project with assistant from great sponsors!
+seo_keywords: mad hatter guitar products, softwareplusplus, software++
 ---
 ## Thank You!
 

@@ -4,7 +4,9 @@ title: Content Index
 category: page
 artist: mwm
 image: mwm-social-square
-permalink: /index/
+permalink: /archive/
+seo_description: There's a lot of content not featured on the front page. Look around and enjoy!
+seo_keywords: weird music, unique music, progressive rock, jazz, prog, composition
 ---
 The following table contains a listing of all the posts on the site.
 
