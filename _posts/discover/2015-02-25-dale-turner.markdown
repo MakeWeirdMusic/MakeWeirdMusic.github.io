@@ -22,6 +22,8 @@ techniques:
 
 Dale is one of the most talented, funny, extraordinary people in the Los Angeles area. He plays every instrument in western music. Overall A++ guy.
 
+**[Check out our interview with Dale!](/interview/dale-turner)**
+
 ## What does Dale do?
 
 Dale Turner is a guitar teacher at [Musician's Institute](http://mi.edu), [transcriptionist and journalist at Guitar World magazine](http://www.guitarworld.com/dale-turner), and multi-instrumentalist based in Los Angeles, CA. He's [transcribed a zillion albums](http://www.intimateaudio.com/books.html), was an editor for Guitar One magazine, and is as humble as he is talented. His 2010 album, *Mannerisms Magnified*, is a fantastic release in which he played every instrument, wrote all the lyrics, mixed, edited, produced, and engineered, etc. The songs are unique and fun. You can [purchase *Mannerisms Magnified* from CarlKingdom.com](http://shop.carlkingdom.com/collections/cds/products/dale-turner-mannerisms-magnified).

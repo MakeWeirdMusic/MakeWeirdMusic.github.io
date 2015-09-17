@@ -24,6 +24,8 @@ Below is an interview [Carl King](/discover/carl-king) and I did with Dale in Se
 
 Without a doubt, the last few minutes of the interview offer such wonderful insight for anyone looking to pick up techniques on making their music more interesting (or, as we say here, "weird"). Enjoy!
 
+**[Check out our Discover post about Dale!](/discover/dale-turner)**
+
 ## Interview Video
 
 <div class="video-wrapper">
