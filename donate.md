@@ -20,6 +20,8 @@ If you find value in the site, please consider donating money or content. Anythi
 
 <a class="donation-icon" href="http://github.com/MakeWeirdMusic"><i class="fa fa-github-square"></i> Donate code and art via GitHub</a>
 
+Make Weird Music is open source and you can contribute art, content, video, and more via pull request! We operate under a [Creative Commons Attribute-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ## Sponsorship, Lessons, and More!
 
 If you'd like to sponsor a post, interview, video series, etc. let me know! If you're interested in guitar lessons, music production ideas, or a review/analysis of your music, I'm happy to do that in exchange for a donation to the site.
