@@ -16,6 +16,8 @@ Welcome to Make Weird Music! Thanks for visiting! My name is [Anthony Garone](/d
 
 Did you know this site is open source and [you can contribute art, content, video, and more]({{ site.data.artists.mwm.github }}) via pull request? Make Weird Music operates under a [Creative Commons Attribute-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+<a class="donation-icon" href="http://github.com/MakeWeirdMusic"><i class="fa fa-github-square"></i> Donate code and art via GitHub</a>
+
 ## A little personal background
 
 Between the ages of 15 and 22, I was convinced I'd become a professional musician. Working in the music industry for a year helped me realize how unlikely that'd be. [My old website](http://garone.org) and [old YouTube account](http://youtube.com/agarone) helped me develop an audience of like-minded music enthusiasts while earning a living as a software developer.
