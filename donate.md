@@ -20,7 +20,7 @@ If you find value in the site, please consider donating money or content. Anythi
 
 <a class="donation-icon" href="http://github.com/MakeWeirdMusic"><i class="fa fa-github-square"></i> Donate code and art via GitHub</a>
 
-Make Weird Music is open source and you can contribute art, content, video, and more via pull request! We operate under a [Creative Commons Attribute-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Make Weird Music is open source and <a href="{{ site.data.artists.mwm.github }}">you can contribute art, content, video, and more</a> via pull request! We operate under a [Creative Commons Attribute-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Sponsorship, Lessons, and More!
 

@@ -14,7 +14,7 @@ Welcome to Make Weird Music! Thanks for visiting! My name is [Anthony Garone](/d
 
 ## Open Source!
 
-Did you know this site is open source and you can contribute art, content, video, and more via pull request? Make Weird Music operates under a [Creative Commons Attribute-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Did you know this site is open source and [you can contribute art, content, video, and more]({{ site.data.artists.mwm.github }}) via pull request? Make Weird Music operates under a [Creative Commons Attribute-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## A little personal background
 
