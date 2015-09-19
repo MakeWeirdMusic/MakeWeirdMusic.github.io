@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+title {
+  text-transform: capitalize;
+}
+
 body {
   color: white;
   font-family: Museo-300, sans-serif;
