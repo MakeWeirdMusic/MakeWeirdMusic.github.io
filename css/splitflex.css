@@ -293,9 +293,13 @@ blockquote {
   margin: 1em auto;
 }
 
-.page p, .content p {
+.content p {
   margin-bottom: 1em;
   line-height: 1.5em;
+}
+
+.menu p {
+  margin-bottom: 0;
 }
 
 .page img {
@@ -356,17 +360,12 @@ img.bg-dark {
   background-color: rgba(0,0,0,0.3)
 }
 
-.menu .oneliner, .menu .summary {
-  padding-bottom: 1em;
-}
-
 .menu .summary, .menu .sponsor {
   font-size: 0.85em;
 }
 
 .menu .sponsor {
   font-family: 'Museo-500';
-  padding-bottom: 1em;
 }
 
 .layout-discover .content, .index-discover-row {
