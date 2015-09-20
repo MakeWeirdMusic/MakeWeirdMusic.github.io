@@ -338,6 +338,15 @@ blockquote {
 	height: 100%;
 }
 
+.important {
+  font-size: 2em;
+  line-height: 1em;
+}
+
+.non-mwm {
+  font-size: 0.8em;
+}
+
 img.circular {
   border-radius: 50%;
 }
