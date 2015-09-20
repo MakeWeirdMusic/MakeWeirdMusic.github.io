@@ -293,9 +293,9 @@ blockquote {
   margin: 1em auto;
 }
 
-.page p {
+.page p, .content p {
   margin-bottom: 1em;
-  line-height: 1.25em;
+  line-height: 1.5em;
 }
 
 .page img {
@@ -339,8 +339,9 @@ blockquote {
 }
 
 .important {
-  font-size: 2em;
-  line-height: 1em;
+  background-color: black;
+  padding: 0.35em;
+  border-radius: 10px;
 }
 
 .non-mwm {
