@@ -44,5 +44,5 @@ Carl King is a musician, author, and filmmaker based in Los Angeles, California.
 
 These are other individuals who have provided support to MWM either via money or content:
 
-- Raleigh Kathman
-- Cameron Piko
+- [Raleigh Kathman](http://soundcloud.com/giantess-music)
+- [Cameron Piko](http://montresor.bandcamp.com/)
