@@ -22,7 +22,7 @@ That's kind of a deep question. I think the best answer is, "I'm just this guy, 
 
 The only way I could get my music written about was to start my own site. So here we are.
 
-**[i class="fa fa-youtube-play"></i> Check out our Share Harnch by Anthony Garone post!](/learn/harnch)**
+**[<i class="fa fa-youtube-play"></i> Check out our Share Harnch by Anthony Garone post!](/learn/harnch)**
 
 ## What makes me weird?
 

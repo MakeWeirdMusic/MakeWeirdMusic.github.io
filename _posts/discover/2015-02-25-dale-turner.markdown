@@ -22,7 +22,7 @@ techniques:
 
 Dale is one of the most talented, funny, extraordinary people in the Los Angeles area. He plays every instrument in western music. Overall A++ guy.
 
-**[i class="fa fa-youtube-play"></i> Check out our interview with Dale!](/interview/dale-turner)**
+**[<i class="fa fa-youtube-play"></i> Check out our interview with Dale!](/interview/dale-turner)**
 
 ## What does Dale do?
 

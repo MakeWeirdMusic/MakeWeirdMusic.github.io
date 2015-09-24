@@ -62,7 +62,7 @@ During the transcription process, I also came to realize how similar the approac
 Here's a video of the interview:
 
 <div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/essLZ3eFqnc?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/essLZ2eFqnc?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 You may notice some issues with color and editing; that's totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).

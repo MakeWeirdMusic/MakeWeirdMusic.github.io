@@ -21,7 +21,7 @@ techniques:
 
 Let's pick apart the catchy hook from the song *Hell's Bells* off the 1979 release *One of a Kind* by the fusion/rock band, [Bruford](/discover/bruford). (NOTE: It is not a cover of the AC/DC song with the same name... I think?) It features Allan Holdsworth on guitar, Jeff Berlin on bass, Dave Stewart on keyboards, and Bill Bruford on drums. The song's intro alone contains odd [time signatures](/techniques/time-signatures) and [key modulations](/techniques/key-modulations) that make it weird.
 
-**[Check out our Discover post about Bruford!](/discover/bruford)**
+**[Check out our Discover post about Bruford!](/discover/bill-bruford)**
 
 ## Instructional Video
 
