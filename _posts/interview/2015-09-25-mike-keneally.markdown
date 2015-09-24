@@ -29,6 +29,16 @@ Below is an epic, huge, deep 90-minute interview with Mike Keneally conducted on
 
 **[Don't know who Mike Keneally is? Check out our Discover post about Mike!](/discover/mike-keneally)**
 
+## Interview video
+
+Here's a video of the interview:
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/essLZ2eFqnc?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+You may notice some issues with color and editing; that's totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).
+
 ## Sponsors
 
 Before getting started, I want to take a moment to thank the sponsors of this interview, without whom I wouldn't have been able to afford to conduct the interview and have the hardware to do it:
@@ -56,16 +66,6 @@ It took us a while to adjust to the changes (or at least, I did since I was a li
 As I transcribed the interview, I came to realize how deep the conversation really was and I was probably too tired to recognize it at the time. Nevertheless, we captured it all on tape and I am just beginning to really appreciate all Mike's wisdom. I'll try highlighting important stuff in the video and transcript below.
 
 During the transcription process, I also came to realize how similar the approaches and language and even tone of voice are between Mike's interview and Andy's. If you haven't heard Andy's, [definitely check it out](/interview/andy-west).
-
-## Interview video
-
-Here's a video of the interview:
-
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/essLZ2eFqnc?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-You may notice some issues with color and editing; that's totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).
 
 ## Interview transcript
 
