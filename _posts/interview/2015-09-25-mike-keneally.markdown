@@ -59,7 +59,7 @@ Carl is an expert filmmaker, author, and [former musician](/discover/carl-king).
 
 He also agreed to doing an interview. I was so freaking excited.
 
-So, the day of the interview, I left my home in Phoenix at 1AM to arrive at Carl's house in LA that morning. We then started driving out to where Mike wanted to do the interview, but there was an excessive heat warning and chance of rain. This wouldn't normally be a big deal, but Carl and I left his house without lighting and he also forgot his lenses. So, had to buy lighting and a lens on the way to Mike's.
+So, the day of the interview, I left my home in Phoenix at 1AM to arrive at Carl's house in LA that morning. We then started driving out to where Mike wanted to do the interview, but there was an excessive heat warning and chance of rain and Mike wanted us to come to his place instead. This wouldn't normally be a big deal, but Carl and I left his house without lighting and he also forgot his lenses. So, we had to buy lighting and a lens on the way to Mike's.
 
 It took us a while to adjust to the changes (or at least, I did since I was a little nervous and super-tired), but as the interview went on, it just got better and better. Admittedly, I was exhausted from both lack of sleep and from introversion, but it was _so_ worth it.
 
