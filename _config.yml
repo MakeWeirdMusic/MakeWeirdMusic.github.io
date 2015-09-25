@@ -11,3 +11,6 @@ github_username:  MakeWeirdMusic
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
