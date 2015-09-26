@@ -25,7 +25,7 @@ techniques:
 
 ## Some Context
 
-Below is an epic, huge, deep 90-minute interview with Mike Keneally conducted on September 9, 2015 at 3PM. It was filmed/engineered by [Carl King](/interview/carl-king). The story behind the interview is kinda funny, so I'll share it...
+Below is an epic, huge, deep 90-minute interview with Mike Keneally conducted on September 9, 2015 at 3PM. It was filmed/engineered by [Carl King](/interview/carl-king). The story behind the interview is kinda funny, so I'll share it [in a later section](#story)...
 
 **[Don't know who Mike Keneally is? Check out our Discover post about Mike!](/discover/mike-keneally)**
 
@@ -38,6 +38,22 @@ Here's a video of the interview:
 </div>
 
 You may notice some issues with color and editing; that's totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).
+
+## Glowing Reviews
+
+I've gotten such great feedback on this interview!! Thank you to the hundreds of people who watched/read it in the first couple days!!
+
+> Much thanks for doing the interview! It was by far, hands down, the best interview I have seen with any musician - Ever! Really unbelievable. - *Lucas L.*
+
+> Thanks so much for doing this! I haven't enjoyed an interview that much for a long, long time. - *Andre L.*
+
+> This might be the best MK interview yet. Thanks to all for making it happen! - *Jeff S.*
+
+> I have to admit that I was completely unfamiliar with his music and hadn't heard much of the bands he's recorded with but that wasn't an issue because I could really appreciate Mike's insight to the creative process behind the music, especially as a designer. Shortly after watching the video I spend another hour into the night exploring his music catalog, and wandered over to Zappa, Vai, Satriani and was completely blown away. - *Will M.*
+
+> It is all put together with generosity and care. A good team enabling a great interview. Most outfits would put their cold pruning shears on such a thing -- "What? Go 90 minutes? We wouldn't stretch our format for Thomas Jefferson or Martin Luther King, let alone this Mike Keneally guy." I hope they feel our gratitude. - *Doug S.*
+
+> A fine interview. A capital interview, yes! Thank you Anthony Garone! Please check out MakeWeirdMusic.com for all your weird music needs. - *Mike Keneally*
 
 ## Sponsors
 
@@ -54,6 +70,7 @@ Ed is an electrical engineer and business management consultant. He runs Mad Hat
 Carl is an expert filmmaker, author, and [former musician](/discover/carl-king). His book, [So, You're a Creative Genius... Now What? <i class="non-mwm fa fa-external-link-square"></i>](http://www.amazon.com/Youre-Creative-Genius-Now-What/dp/1932907920), has been a huge inspiration for me and many others. He filmed this interview and provided lots of great equipment and expertise.
 
 ## How this interview happened
+{: #story }
 
 [Ken Coffman <i class="non-mwm fa fa-external-link-square"></i>](http://kencoffman.com), a fan of Make Weird Music, saw [our interview with Andy West](/interview/andy-west) and recommended I email Mike to request an interview. While encouraging, this request also seemed a little far-fetched. Instead, I emailed Mike sharing the Andy West interview basically saying, "Hey, pardon the interruption, but I thought you'd be interested in this interview I did with Andy West." Oddly enough, he wrote back saying he'd not only seen it, but he shared it on his facebook page!
 
@@ -216,7 +233,7 @@ AG: Right. But you wouldn’t know that now because you did it the way you did. 
 MK: In my head, I honestly feel like I’m doing it for the music. All these little tweaks... Just because the songs have layers and they’re intricate and there’s a lot stuff to manage. When you’re in the studio working on one particular thing, maybe you’re focused on the drum sound one day, and you come back to the studio a week later you might find that the guitars are really suffering for what you did with the drums. Then you just have to take a step back for the wider cinemascope view.
 {: .interviewee}
 
-But, time is the only answer to that, the only way you can hope to corral all these elements, at least for me because my ambitions are kind of big musically. The type of stuff that I’m trying to do. And just to balance all the stuff that I... What I’m trying to do is: <span class="important">I want the material to pay off close attention.</span> I want it to be dense. But I don’t wan it to be so dense that it doesn’t make sense. I don’t want it to sound cluttered. I want it to have layers. I want it to be something that’s worth diving into.
+But, time is the only answer to that, the only way you can hope to corral all these elements, at least for me because my ambitions are kind of big musically. The type of stuff that I’m trying to do. And just to balance all the stuff that I... What I’m trying to do is: <span class="important">I want the material to pay off close attention.</span> I want it to be dense. But I don’t want it to be so dense that it doesn’t make sense. I don’t want it to sound cluttered. I want it to have layers. I want it to be something that’s worth diving into.
 {: .interviewee}
 
 Overall I want the listening experience to be kind of smooth in a way. I think I’ve probably approached that ideal with the _Scambot 2_ mixes more than I did on _You Must Be This Tall_, which is an extremely dense record and maybe ultimately does have some clutter-y stuff, maybe in the midrange there’s too much information and I could have carved some stuff away to allow the musical essential meat of the thing, the nutritional content, to speak more.

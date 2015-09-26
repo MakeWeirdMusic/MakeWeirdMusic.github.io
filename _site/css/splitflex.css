@@ -47,6 +47,10 @@ blockquote {
   margin-bottom: 1em;
 }
 
+blockquote p:only-child {
+  margin-bottom: 0;
+}
+
 .menu .story {
   background-color: #111;
 }
