@@ -4,10 +4,10 @@
     <title>Make Weird Music</title>
     <description>A resource for musicians to discover new artists, learn weird music techniques, listen to interviews, and share their weird music.
 </description>
-    <link>http://makeweirdmusic.com/</link>
-    <atom:link href="http://makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Sep 2015 22:41:12 -0700</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2015 22:41:12 -0700</lastBuildDate>
+    <link>http://www.makeweirdmusic.com/</link>
+    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 25 Sep 2015 23:01:37 -0700</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2015 23:01:37 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -17,6 +17,16 @@
 &lt;p&gt;Below is an epic, huge, deep 90-minute interview with Mike Keneally conducted on September 9, 2015 at 3PM. It was filmed/engineered by &lt;a href=&quot;/interview/carl-king&quot;&gt;Carl King&lt;/a&gt;. The story behind the interview is kinda funny, so I’ll share it…&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/discover/mike-keneally&quot;&gt;Don’t know who Mike Keneally is? Check out our Discover post about Mike!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
+
+&lt;p&gt;Here’s a video of the interview:&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/essLZ2eFqnc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You may notice some issues with color and editing; that’s totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).&lt;/p&gt;
 
 &lt;h2 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h2&gt;
 
@@ -40,23 +50,13 @@
 
 &lt;p&gt;He also agreed to doing an interview. I was so freaking excited.&lt;/p&gt;
 
-&lt;p&gt;So, the day of the interview, I left my home in Phoenix at 1AM to arrive at Carl’s house in LA that morning. We then started driving out to where Mike wanted to do the interview, but there was an excessive heat warning and chance of rain. This wouldn’t normally be a big deal, but Carl and I left his house without lighting and he also forgot his lenses. So, had to buy lighting and a lens on the way to Mike’s.&lt;/p&gt;
+&lt;p&gt;So, the day of the interview, I left my home in Phoenix at 1AM to arrive at Carl’s house in LA that morning. We then started driving out to where Mike wanted to do the interview, but there was an excessive heat warning and chance of rain and Mike wanted us to come to his place instead. This wouldn’t normally be a big deal, but Carl and I left his house without lighting and he also forgot his lenses. So, we had to buy lighting and a lens on the way to Mike’s.&lt;/p&gt;
 
 &lt;p&gt;It took us a while to adjust to the changes (or at least, I did since I was a little nervous and super-tired), but as the interview went on, it just got better and better. Admittedly, I was exhausted from both lack of sleep and from introversion, but it was &lt;em&gt;so&lt;/em&gt; worth it.&lt;/p&gt;
 
 &lt;p&gt;As I transcribed the interview, I came to realize how deep the conversation really was and I was probably too tired to recognize it at the time. Nevertheless, we captured it all on tape and I am just beginning to really appreciate all Mike’s wisdom. I’ll try highlighting important stuff in the video and transcript below.&lt;/p&gt;
 
 &lt;p&gt;During the transcription process, I also came to realize how similar the approaches and language and even tone of voice are between Mike’s interview and Andy’s. If you haven’t heard Andy’s, &lt;a href=&quot;/interview/andy-west&quot;&gt;definitely check it out&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
-
-&lt;p&gt;Here’s a video of the interview:&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/essLZ2eFqnc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;You may notice some issues with color and editing; that’s totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).&lt;/p&gt;
 
 &lt;h2 id=&quot;interview-transcript&quot;&gt;Interview transcript&lt;/h2&gt;
 
@@ -435,8 +435,8 @@
 &lt;p class=&quot;interviewer&quot;&gt;AG: Yeah! Make weird music, or else!&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Sep 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/interview/mike-keneally</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/interview/mike-keneally</guid>
+        <link>http://www.makeweirdmusic.com/interview/mike-keneally</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally</guid>
         
         
         <category>interview</category>
@@ -494,8 +494,8 @@
 &lt;p&gt;And if you’re looking for something REALLY out there, check out his performance of &lt;em&gt;Fire Strings&lt;/em&gt; with the Tokyo Metropolitan Symphony Orchestra.&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Sep 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/discover/steve-vai</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/discover/steve-vai</guid>
+        <link>http://www.makeweirdmusic.com/discover/steve-vai</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/steve-vai</guid>
         
         
         <category>discover</category>
@@ -551,8 +551,8 @@
 &lt;p&gt;Sounds like some awesome weird music to me!&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Sep 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/discover/mike-keneally</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/discover/mike-keneally</guid>
+        <link>http://www.makeweirdmusic.com/discover/mike-keneally</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/mike-keneally</guid>
         
         
         <category>discover</category>
@@ -582,8 +582,8 @@
 &lt;p&gt;So, give a listen to each of their releases and see what inspires you to create something new and different.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Aug 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/discover/bill-bruford</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/discover/bill-bruford</guid>
+        <link>http://www.makeweirdmusic.com/discover/bill-bruford</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/bill-bruford</guid>
         
         
         <category>discover</category>
@@ -629,8 +629,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 10 Aug 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/discover/anthony-garone</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/discover/anthony-garone</guid>
+        <link>http://www.makeweirdmusic.com/discover/anthony-garone</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/anthony-garone</guid>
         
         
         <category>discover</category>
@@ -675,8 +675,8 @@
 &lt;p&gt;Watch out for the coda! &lt;a href=&quot;http://blog.garone.org/guitar/harnch-for-five-guitars&quot;&gt;Here’s some additional context on my old website&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Jun 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/share/harnch</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/share/harnch</guid>
+        <link>http://www.makeweirdmusic.com/share/harnch</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/harnch</guid>
         
         
         <category>share</category>
@@ -750,8 +750,8 @@ B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
 &lt;p&gt;Should you find yourself learning this song, let me know! I’d love to hear it!!&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 May 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/learn/hells-bells</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/learn/hells-bells</guid>
+        <link>http://www.makeweirdmusic.com/learn/hells-bells</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/hells-bells</guid>
         
         
         <category>learn</category>
@@ -787,8 +787,8 @@ B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
 &lt;p&gt;I don’t think he’s released any other music, but I’m probably wrong about that. Anyway, there’s plenty to check out and enjoy.&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 May 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/discover/dale-turner</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/discover/dale-turner</guid>
+        <link>http://www.makeweirdmusic.com/discover/dale-turner</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/dale-turner</guid>
         
         
         <category>discover</category>
@@ -1100,8 +1100,8 @@ B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
 &lt;p class=&quot;interviewer&quot;&gt;A: I know. I’m stealing it.&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 May 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/interview/dale-turner</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/interview/dale-turner</guid>
+        <link>http://www.makeweirdmusic.com/interview/dale-turner</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/dale-turner</guid>
         
         
         <category>interview</category>
@@ -1446,8 +1446,8 @@ B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
 &lt;p&gt;AW: Thank you!&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Apr 2015 12:14:46 -0700</pubDate>
-        <link>http://makeweirdmusic.com/interview/andy-west</link>
-        <guid isPermaLink="true">http://makeweirdmusic.com/interview/andy-west</guid>
+        <link>http://www.makeweirdmusic.com/interview/andy-west</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/andy-west</guid>
         
         
         <category>interview</category>
