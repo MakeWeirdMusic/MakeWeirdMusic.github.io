@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mike Keneally"
+title:  "Mike Keneally Interview"
 date:   2015-09-25 19:14:46
 artist: mike-keneally
 author: anthony-garone
