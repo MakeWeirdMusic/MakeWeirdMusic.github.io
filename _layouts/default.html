@@ -12,7 +12,7 @@
       {% assign artist = site.data.artists[page.artist] %}
       {% assign author = site.data.authors[page.author] %}
       <section class="info pane">
-        <h1>{% if page.category and page.category != "page" %}<span>{{ page.category }}: </span>{% endif %}{{ artist.name }}</h1>
+        <h1>{% if page.category and page.category != "page" %}<span>{{ page.category }}: </span>{% endif %}{% if page.category == "discover" or page.category == "interview" %}{{ artist.name }}{% else %}{{ page.title }}{% endif %}</h1>
         {% if page.author %}<p class="author">By {{ author.name }}</p>{% endif %}
         <img src="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />
         <p class="social-intro">Find {{ artist.name }} on:</p>
