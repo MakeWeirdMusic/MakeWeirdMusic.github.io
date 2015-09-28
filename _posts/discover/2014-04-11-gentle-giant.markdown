@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Gentle Giant"
+title:  "Discover Gentle Giant"
 date:   2014-04-11 19:14:46
 artist: gentle-giant
 author: anthony-garone
 image: gentle-giant
 category: discover
-permalink: /discover/gentle-giant
+permalink: /discover/gentle-giant/
 oneliner: Complex medieval blues/rock with a twist of avant garde.
 seo_description: Gentle Giant were an incredibly influential progressive rock group from the 1970s. Probably my favorite band ever.
 seo_keywords: gentle giant, progressive rock, three friends, crazy talent

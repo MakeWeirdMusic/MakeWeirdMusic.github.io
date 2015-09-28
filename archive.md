@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Content Index
+title: Content Archive
 category: page
 artist: mwm
 image: mwm-social-square

@@ -6,11 +6,11 @@ artist: steve-vai
 author: anthony-garone
 image: steve-vai
 category: interview
-permalink: /interview/steve-vai
+permalink: /interview/steve-vai/
 oneliner: A pioneer in the field of instrumental guitar rock music who constantly innovates and grows.
 seo_description: Steve Vai has blazed several trails in the art of guitar technique, manufacturing, performance, sounds, and composition.
 seo_keywords: Steve Vai, Frank Zappa, Joe Satriani
-front_page: yes
+front_page: no
 sponsors: Software++, Mad Hatter Guitar Products, and Carl King Creative
 techniques:
   - virtuosity

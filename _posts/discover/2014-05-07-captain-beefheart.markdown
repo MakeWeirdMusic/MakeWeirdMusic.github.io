@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Captain Beefheart"
+title:  "Discover Captain Beefheart"
 date:   2014-05-07 19:14:46
 artist: captain-beefheart
 author: anthony-garone
 image: captain-beefheart
 category: discover
-permalink: /discover/captain-beefheart
+permalink: /discover/captain-beefheart/
 oneliner: There are forty people in the world and five of them are hamburgers.
 seo_description: Captain Beefheart was years ahead of his musical time. People will probably talk about his music for years to come.
 seo_keywords: beefheart, zappa, psychedelic rock, don van vliet

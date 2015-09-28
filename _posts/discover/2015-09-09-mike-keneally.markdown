@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Mike Keneally"
+title:  "Discover Mike Keneally"
 date:   2015-09-09 19:14:46
 artist: mike-keneally
 author: anthony-garone
 image: mike-keneally-singing
 category: discover
-permalink: /discover/mike-keneally
+permalink: /discover/mike-keneally/
 oneliner: Multi-instrumentalist songwriting madman of the post-Zappa prog rock era.
 seo_description: Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.
 seo_keywords: Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The Residents, King Crimson, Henry Cow, Joni Mitchell, Bob Dylan, The Beatles, Alice Cooper, The Rolling Stones, Simon & Garfunkel, Miles Davis, John Coltrane, Scambot, Nonkertompf, Wooden Smoke

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Dale Turner"
+title:  "Dale Turner Interview"
 date:   2015-05-25 19:14:46
 artist: dale-turner
 author: anthony-garone
 image: dale-turner
 category: interview
-permalink: /interview/dale-turner
+permalink: /interview/dale-turner/
 oneliner: A total nut in every sense of the word (except a literal 'nut').
 seo_description: Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.
 seo_keywords: mannerisms magnified, dale turner, brian wilson, jeff buckley, beach boys, elliott smith, chris cornell, iron maiden, music production, songwriting, musicians institute
