@@ -88,13 +88,13 @@ In each post document is relevant front matter. Here's [an example](_posts/disco
 ```yaml
 ---
 layout: post
-title:  "Steve Vai"
+title:  "Discover Steve Vai"
 date:   2015-09-13 19:14:46
 artist: steve-vai
 author: anthony-garone
 image: steve-vai
 category: discover
-permalink: /discover/steve-vai
+permalink: /discover/steve-vai/
 oneliner: Stunt guitarist for Frank Zappa with a solo career spanning over 30 years.
 seo_description: Steve Vai is a virtuoso guitarist who has played for Frank Zappa, Whitesnake, Alcatrazz, David Lee Roth, and others.
 seo_keywords: Frank Zappa, Whitesnake, David Lee Roth, Alcatrazz, Joe Satriani
@@ -109,7 +109,7 @@ techniques:
 
 `layout: post` should never change unless you're (for some reason) contributing a new page.
 
-`title` should be the human-readable name of the artist/band (e.g. "Steve Vai").
+`title` should be the human-readable name of the artist/band (e.g. "Steve Vai") with the category in the relevant place (e.g. "Discover Steve Vai" vs. "Steve Vai Interview").
 
 `date` should be in the format above and can be any recent date.
 
