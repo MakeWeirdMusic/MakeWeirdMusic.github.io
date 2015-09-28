@@ -7,7 +7,7 @@ author: anthony-garone
 image: steve-vai
 category: interview
 permalink: /interview/steve-vai/
-oneliner: A pioneer in the field of instrumental guitar rock music who constantly innovates and grows.
+oneliner: See and hear what makes Steve Vai's brain tick when composing and performing.
 seo_description: Steve Vai has blazed several trails in the art of guitar technique, manufacturing, performance, sounds, and composition.
 seo_keywords: Steve Vai, Frank Zappa, Joe Satriani
 front_page: no
