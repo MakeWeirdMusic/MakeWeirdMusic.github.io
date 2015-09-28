@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Carl King"
+title:  "Carl King Interview"
 date:   2015-02-17 19:14:46
 artist: carl-king
 author: anthony-garone
 image: carl-king
 category: interview
-permalink: /interview/carl-king
+permalink: /interview/carl-king/
 oneliner: AKA Sir Millard Mulch and Dr. Zoltan Øbelisk. Need I say more?
 seo_description: Carl King used to make music. Now he makes stuff about music. I think.
 seo_keywords: Carl King, Sir Millard Much, Dr. Zoltan Øbelisk, drum programming

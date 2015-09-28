@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Frank Zappa"
+title:  "Discover Frank Zappa"
 date:   2015-03-28 19:14:46
 artist: frank-zappa
 author: anthony-garone
 image: frank-zappa
 category: discover
-permalink: /discover/frank-zappa
+permalink: /discover/frank-zappa/
 oneliner: Long live the king of weird music!
 seo_description: Frank Zappa is the poster child for weird music in the 20th century. From rock to psychedelic to chamber orchestra, he had it all.
 seo_keywords: Zappa Plays Zappa, Frank Zappa, Steve Vai, Tommy Mars, Complexity, Orchestration, Virtuosity, Humor

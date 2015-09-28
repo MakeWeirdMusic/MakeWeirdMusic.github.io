@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Andy West
+title:  Discover Andy West
 date:   2015-04-01 19:14:46
 artist: andy-west
 author: anthony-garone
 image: andy-west
 category: discover
-permalink: /discover/andy-west
+permalink: /discover/andy-west/
 oneliner: He plays bass with a pick and melts brains with his music.
 seo_description: Andy West is best known as the bassist for the Dixie Dregs, a band he started with Steve Morse.
 seo_keywords: Dixie Dregs, Steve Morse, John French, Henry Kaiser, Joaquin Lievano, Hilary Jones, Geoff Gould, Crazy Backwards Alphabet, Mike Keneally

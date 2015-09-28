@@ -330,6 +330,12 @@ blockquote p:only-child {
   margin-bottom: 0.5em;
 }
 
+#more-content {
+  background-color: black;
+  border-radius: 10px;
+  padding: 1em;
+}
+
 .video-wrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */

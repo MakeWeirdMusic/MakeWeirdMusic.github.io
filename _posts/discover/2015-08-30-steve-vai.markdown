@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Steve Vai"
+title:  "Discover Steve Vai"
 date:   2015-09-13 19:14:46
 artist: steve-vai
 author: anthony-garone
 image: steve-vai
 category: discover
-permalink: /discover/steve-vai
+permalink: /discover/steve-vai/
 oneliner: Stunt guitarist for Frank Zappa with a solo career spanning over 30 years.
 seo_description: Steve Vai is a virtuoso guitarist who has played for Frank Zappa, Whitesnake, Alcatrazz, David Lee Roth, and others.
 seo_keywords: Frank Zappa, Whitesnake, David Lee Roth, Alcatrazz, Joe Satriani

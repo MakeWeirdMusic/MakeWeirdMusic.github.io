@@ -12,7 +12,7 @@
       {% assign artist = site.data.artists[page.artist] %}
       {% assign author = site.data.authors[page.author] %}
       <section class="info pane">
-        <h1>{% if page.category and page.category != "page" %}<span>{{ page.category }}: </span>{% endif %}{{ page.title }}</h1>
+        <h1>{% if page.category and page.category != "page" %}<span>{{ page.category }}: </span>{% endif %}{% if page.category == "discover" or page.category == "interview" %}{{ artist.name }}{% else %}{{ page.title }}{% endif %}</h1>
         {% if page.author %}<p class="author">By {{ author.name }}</p>{% endif %}
         <img src="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />
         <p class="social-intro">Find {{ artist.name }} on:</p>
@@ -35,6 +35,11 @@
         <article>
           {{ content }}
         </article>
+        {% if page.category != "page" %}<div id="more-content">
+          <h2>Want More Content?</h2>
+          <p>There's tons more content <a href="/archive">in the archives</a>!</p>
+          {% if page.previous != "nil" %}<p>Check our previous post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>{% endif %}
+        </div>{% endif %}
       </section>
 
     </div><!-- #container -->

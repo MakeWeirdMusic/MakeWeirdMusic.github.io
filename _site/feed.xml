@@ -6,12 +6,351 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Sep 2015 20:42:05 -0700</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2015 20:42:05 -0700</lastBuildDate>
+    <pubDate>Sun, 27 Sep 2015 21:26:26 -0700</pubDate>
+    <lastBuildDate>Sun, 27 Sep 2015 21:26:26 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Mike Keneally</title>
+        <title>Steve Vai Interview</title>
+        <description>&lt;h2 id=&quot;some-context&quot;&gt;Some Context&lt;/h2&gt;
+
+&lt;p&gt;Below is a 1-hour interview with Steve Vai conducted on September 12, 2015 at 12PM. It was filmed/engineered by &lt;a href=&quot;/interview/carl-king&quot;&gt;Carl King&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/discover/steve-vai&quot;&gt;Don’t know who Steve Vai is? Check out our Discover post about Steve!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
+
+&lt;p&gt;Here’s a video of the interview:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;VIDEO COMING SOON&lt;/em&gt;&lt;/p&gt;
+
+&lt;!-- &lt;div class=&quot;video-wrapper&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/essLZ2eFqnc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt; --&gt;
+
+&lt;p&gt;You may notice some issues with color and editing; that’s totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).&lt;/p&gt;
+
+&lt;h2 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h2&gt;
+
+&lt;p&gt;Before getting started, I want to take a moment to thank the sponsors of this interview, without whom I wouldn’t have been able to afford to conduct the interview and have the hardware to do it:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://softwareplusplus.com&quot;&gt;Cory Berg at Software++ &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://madhatterguitarproducts.com&quot;&gt;Ed Heisler at Mad Hatter Guitar Products &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://carlkingdom.com&quot;&gt;Carl King Creative &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cory is a software development and management expert who’s written a fantastic book called &lt;a href=&quot;http://www.amazon.com/Software-Must-Have-Skills-Engineers-ebook/dp/B00U4ZRQC6&quot;&gt;Software++: Must-Have Skills for Engineers &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. There are a lot of software people I’ve met via Make Weird Music and Guitar Circle.&lt;/p&gt;
+
+&lt;p&gt;Ed is an electrical engineer and business management consultant. He runs Mad Hatter Guitar Products and has developed a great &lt;a href=&quot;http://madhatterguitarproducts.com/pages/mad-hatter-solderless-tone-shaping-system-kits&quot;&gt;solderless electronics kit for guitars &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. I purchased one and installed it in my white Ibanez Jem. It’s never sounded better. I’m not a tone connoisseur, but even I can tell that the guitar sounds &lt;em&gt;so much better&lt;/em&gt; than the standard, low-end stock components that came with the guitar.&lt;/p&gt;
+
+&lt;p&gt;Carl is an expert filmmaker, author, and &lt;a href=&quot;/discover/carl-king&quot;&gt;former musician&lt;/a&gt;. His book, &lt;a href=&quot;http://www.amazon.com/Youre-Creative-Genius-Now-What/dp/1932907920&quot;&gt;So, You’re a Creative Genius… Now What? &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, has been a huge inspiration for me and many others. He filmed this interview and provided lots of great equipment and expertise.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview transcript&lt;/h2&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;Anthony: Hi, this is Anthony from Make Weird..&lt;/p&gt;
+
+&lt;p&gt;[Steve proceeds to give me a noogie and then rearrange/fix my hair.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Steve: Get outta here!&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: And that’s how we start it! Anthony from MakeWeirdMusic.com and I’m here with Steve Vai. Steve, the purpose of Make Weird Music is to be a resource to musicians who may or may not have explored a lot of new kinds of music. So, could you give a brief intro to yourself and what you do musically?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Well, on one level, my name is Steve Vai and I am a musician and a guitar player and I love traveling around making music and playing it live. And I play the guitar.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: I’m highlighting you on Make Weird Music and the context of the word “weird” is not necessarily “unlistenable” or “unapproachable” or anything like that. People who do things different, who don’t write pop music targeted to the radio for mass sales and that kind of thing. I want to get behind the motivation of your creativity, what your approach is to composition and how you ended up getting into instrumental guitar music and that kind of thing. When you say, “I play music” and “I play the guitar,” what makes you different from, say, a guitar player who plays in a blues band?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Well, the same thing that makes them different from people that play in other kinds of bands. There’s a wide selection of music that I enjoy. I like listening to various genres, but when I was growing up, I was a teenager in the 70s, and so I was into all that progressive rock stuff, &lt;a href=&quot;https://en.wikipedia.org/wiki/Led_Zeppelin&quot;&gt;Led Zeppelin &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and &lt;a href=&quot;https://en.wikipedia.org/wiki/Yes_(band)&quot;&gt;Yes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and &lt;a href=&quot;https://en.wikipedia.org/wiki/Queen_(band)&quot;&gt;Queen &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and all that stuff.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;As I was growing up, I was really into these kinds of progressive guitar players. I listened to blues. I went through jazz phases. Classical phases. It was so interesting to hear such great players all the time. One of the things I realized is “I’ll never be that good.” It was stimulating, but &lt;span class=&quot;important&quot;&gt;I never felt like I’d be very good at doing &lt;em&gt;that&lt;/em&gt; and why, when somebody else was doing it so well.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So I would learn the riffs just for fun, but the thing that always turned me on the most, and the one thing that I’ve always had with me through my whole career, was always the “home base”–the enthusiasm I feel for coming up with something new. For me, at least… New for me.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;You’re always expanding on your own self.&lt;/span&gt; You’re never the same one moment after the next, so the most exciting thing for me is when I do something or I come up with an idea that I haven’t had before. That’s my fuel, that’s my source of inspiration. What I realized I was doing as I never thought I was “good enough” is I would come up with things on my own and say, “Well, that’s interesting. That’s fun. I haven’t heard that.” And then I’d challenge myself to reach different plateaus of technical proficiency and see where that could take me on a creative level and then rise above it. Constantly this rising and it’s exciting!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;That’s how I developed my own style. It’s like an accident.&lt;/span&gt; It was almost kind of a conscious turning away from “the norm.” When I say, “the norm,” I mean “genre-specific type of playing,” which is beautiful, I love it, but I can’t do it. It seemed like a waste of time to try to play what sounds like something else that’s already better than what I could do. I just sort of organically started finding things that I liked.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;One of the things that made it work is I had no expectations.&lt;/span&gt; I wouldn’t sit down and say, “Okay, I need to write something that everybody will like.” I didn’t think anybody would &lt;em&gt;ever&lt;/em&gt; hear anything I did anywhere. It was my little secret, which created an opening because if nobody’s going to hear what you’re doing, then you can just do whatever you want.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I was really excited when I would come across something that sounded unique to me. Like I said, I had no expectations… So this is sort of a challenge that I to people sometimes when I’m giving a lecture or something, I say, &lt;span class=&quot;important&quot;&gt;“Go to write a song, but write a song as if no one’s ever going to hear it.”&lt;/span&gt; If I was to tell you that the next song you write is not going to get on the radio, nobody’s going to hear it, nobody’s going to buy it…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Some people respond to that with, &lt;span class=&quot;important&quot;&gt;“Well, then why would I do it?” My answer is, “You shouldn’t because you don’t really want to.”&lt;/span&gt; Some people see the opening in that. What that opening is is the message that “now you have no expectations, you can do whatever you want, you can be completely free of the fear of being criticized, the fear of failing.” You’ve put it away, you’ve already “failed” so to speak with worldly success of it. So, it can create this opening of freedom, like real fearlessness.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;Fear is the thing that holds people back from their own unique potentiality.&lt;/span&gt; The interesting thing is, that piece of fearless creative enjoyable enthusiastic non-critical work that you then do is usually the thing you’re going to be the most successful at. You’re usually creating a style and your real true self is flowing into it. Then, the appropriate audience will be responding to it as opposed to trying to second-guess an audience, which is just stress, and you’re competing with people who write music in a field that’s very natural to them. So, that’s what I’ve become more aware of.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Were those fears and anxieties ever a part of your development of your voice and your identity as a musician?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: On one level, yes, because once I started to tour, like when I started with &lt;a href=&quot;/discover/frank-zappa&quot;&gt;Frank Zappa&lt;/a&gt;, or even when I’d have to play live, I enjoyed it, but there was always this nervousness. What that nervousness is (that we feel) really is just our ego. It’s fear. It boils down to fear of not being accepted. You know what I mean?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: I &lt;em&gt;do&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: When you start to recognize that for what it is, then you can work on it. That’s really your true work because &lt;span class=&quot;important&quot;&gt;you can’t really be uniquely expressive if you’re afraid.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: How did you feel when you released your debut album, &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Flex-Able&quot;&gt;Flex-Able &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/em&gt;? Were you feeling that “I’m just gonna do this and nobody’s gonna listen to it and that’s cool.” Was that where you were coming from?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Yeah. When I made &lt;em&gt;Flex-Able&lt;/em&gt;, I had no intentions of being a–at least in my head–a touring, famous… Matter of fact, the idea of being famous was terrifying to me. I don’t know why. I think when I was young, you know you hear things? I think somebody said, “People who are famous go insane.” So I always felt like I was teetering on the edge anyway, so I thought “fame is gonna make me crazy.” It did take its toll in various ways. I’m not so famous, which is kind of nice. I can live a normal life. Um… What was the question?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Hah, when you were making &lt;em&gt;Flex-Able&lt;/em&gt;…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Okay. So, still I loved that feeling of recording and editing and making music, coming up with an idea and working on it. So I would record tons and tons and tons of stuff because just recording was fascinating to me and it was all this really crazy stuff.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I was living in Sylmar with 8 people in the house, all friends. It was like a wayward home for musician refugees. &lt;span class=&quot;important&quot;&gt;I was making music to entertain me and my friends.&lt;/span&gt; I didn’t even plan on releasing it, you know? So there was no expectation. There was just this free flow, no concern if it was going to make me money or not, no concern if I’m going to be accepted with it or not. Pfft, the &lt;em&gt;furthest&lt;/em&gt; thing! Because it was so weird!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;The music was kind of left of center. It was very Zappa-influenced because Frank was one of my biggest influences so you can hear that phase of my life. I was working with him, I was seeing how he made music, and it was very… I was very impressionable. I loved his music.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So then when it was all finished–and that was my biggest learning curve, I recorded that record twice because &lt;span class=&quot;important&quot;&gt;I used to work really fast and sloppy. “Okay it’s done!” and I would listen to it and go, “Why does this sound like crap?”&lt;/span&gt; So after hanging out with Frank and seeing how everything is “like this,” I maybe went even too much into that really rigid precision, but it was good for me because it created an integrity. At the time, sometimes it was too much. And even now, sometimes I get carried away with the forensic nature of editing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Do you feel that through your career as a musician, you’ve evolved your voice? Do you feel like you were still discovering it and you’re still in the process of discovering it? Like, that was your voice for that time? How do you feel about the evolution of your self?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Everybody is constantly evolving. You cannot stand still. It’s absolutely impossible. On some levels, it looks that way, but no. Even at this moment, when I was talking a minute ago, I’m different. &lt;span class=&quot;important&quot;&gt;When you make a record or you do a piece of art or anything creative, it’s like a little snapshot as to where you were at the time&lt;/span&gt; and you continue to evolve and so many things have an effect on your creative outlook, your creative perspective, how you’re finding yourself… Things that even seem almost inconsequential: people you meet, things you might eat, places you go, the little voice in your head that remembers things from your past or projects into the future.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;All of these things are continually undergoing metamorphosis. Your perspective on even the same thoughts that you’ve had is changing constantly. So, that would only naturally have an effect on your creative integrity. So, yeah, I look back at that music and the guy that was making it and I see a lot of innocence, a lot of almost bombastic freedom. It’s that youthful freedom when you’re 21/22 years old. It was an explosion of freedom. And then when I released &lt;em&gt;Flex-Able&lt;/em&gt;, &lt;span class=&quot;important&quot;&gt;I was even apprehensive to try because I thought, “Oh, this music is weird.” But I thought, “Well, I like it.”&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;It sort of captured this this weird innocence and corniness side to me that was just pretty prevalent at one point. I thought, “Well maybe somebody will like it.” And then I released it and, yeah, it attracted a particular type of audience. I think what they’re responding to in it is just the honestness, the sincerity of it. I know that when I make music that isn’t very honest, when I’m actually trying to hit a particular group, I always miss the mark. Even if it’s a hit, or even if it’s something that some people might like, I always feel that &lt;span class=&quot;important&quot;&gt;unless there’s something in it that moves me a particular way, I’ve missed out on my potential.&lt;/span&gt; And those songs have no real pull to me.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Interesting! Composition, what is composition like for you? How has that evolved over time for you?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Well, composition is like anything else. It’s a creative expression and it’s the one that I do that I like doing the most. There’s other ways that I love being creative, but composition is like anything else in that there’s a period of time that you go through where you have to hone your tools, you have to sharpen your knives, you have to prepare your vessel, and there’ a lot of focus and a lot of thinking (so to speak) and it’s a lot of repeating and repeating and repeating, it’s a lot of focusing how to change your style a little bit, or researching other music…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Whatever it is, there’s a period of time where, if you’re an athlete, you’re honing your craft, you’re learning the hoops. If you ever played golf, it’s this extraordinary sport because my father used to take me and he used to try to teach me. I’m so golf spastic. Actually, I was pretty good until my back… But, there’s so much to think about, you keep your eye on the ball, keep your knees this way, swing and follow all the way through, keep your head down, and it’s like, “How can you remember all this stuff?” Because you do it over and over and over and over and over and over again until it becomes natural. And then &lt;span class=&quot;important&quot;&gt;once something becomes natural, once the technique becomes honed, then you have to go deeper than the technique.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;You have to access that part of you that’s deeper than the mind portion, that’s deeper than just the technique, or else you’ll sound great, but you’ll just sound like technique that knows what it’s doing. It needs that level of depth and then the technique becomes your tool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So in composing, you go through the period, and it’s not hard… There’s some rules you gotta know because you’re dealing with time-based reality and people’s abilities and the limitations of an instrument, but there’s so many creative tools when you’re composing, it’s just amazing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;It’s so much more, for me, in many ways, it’s so much more open and creative than just with a band or even just sitting and playing guitar because now you have a whole large group of people that have to play &lt;em&gt;exactly&lt;/em&gt; what you write and there’s tools where you can manipulate notes, there’s dynamics, there’s articulations, there’s all sorts of things you can do to one little note to make it sound a certain way. And then you can combine them with all these instruments. It’s this incredible palette of colors.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;For me, the composition process makes every day like Christmas because you just hear things in your head. You don’t want to have to think about how to put it out. You hear it and then you know. So, the composition process is very similar in many ways to other creative processes, although the results are completely different.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: When you are composing, whether it’s for an orchestra or a rock band arrangement, do you ever feel that you’re in a rut or “I keep doing this same thing and this is not who I am.” Maybe your influences have had too much influence and you’re not expressing yourself. If so, how do you break out of that?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Well, yes and there’s various ways you can circumnavigate around those ruts. &lt;span class=&quot;important&quot;&gt;The first thing is: Don’t worry about it.&lt;/span&gt; That’s &lt;em&gt;big&lt;/em&gt; though, because a lot of people &lt;em&gt;really&lt;/em&gt; worry. They think, “Oh my God, I’ve lost my mojo. I have no more vision. I have no more creativity. What am I gonna do? I keep repeating myself!” Well, that’s worrying. Another way to look at it is that the lull in your creativity is actually very valuable because it’s, in a way, it’s like you’re preparing and giving it a break.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, there’s many things that you can do that I can recommend to get through these ruts. First, don’t worry. And it’s different for different people. Some people are constantly inspired, like Frank, for instance. It never ended and he was always in the moment of it. But, for someone like me, I’m not always inspired. &lt;span class=&quot;important&quot;&gt;I’d say maybe 3% of the time, I’m &lt;em&gt;really inspired&lt;/em&gt;, but I can do a lot with that 3%.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, what I do is when I feel something is coming or if I’m playing something and I like it and I feel that it has some “juice” to it, so to speak, I capture it somehow. I have thousands and thousands of talking into a microphone, by my bed I’ve got stuff, and it’s all over the place. The iPhone is usually…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Voice Notes?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Every musician’s favorite app.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: I’ve got hundreds and hundreds and thousands from before cell phones were in existence. Some of them carry a lot of power for me and that’s where I go to to find a lot of songs. That’s where I find most of my songs. Any of my songs that you might like, I can probably show you the “la la la la la.” &lt;span class=&quot;important&quot;&gt;And all you need is just a little thread! Just a thread!&lt;/span&gt; And then when you go back and listen to it, even if you’re in a rut, it can pull you out. That’s one thing that can help. So, whenever you feel something is happening, try to capture it or document it somehow and then go back to it when you feel like you’re in a rut.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Another way is to listen, completely make a left turn and go listen to some music that you’d never think that you would listen to or expect you would listen to. For instance, if you’re a big metal head, I would challenge you to &lt;span class=&quot;important&quot;&gt;go and listen to &lt;a href=&quot;https://en.wikipedia.org/wiki/Gustav_Mahler&quot;&gt;Mahler &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Symphony_No._4_(Mahler)&quot;&gt;4th &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Symphony_No._5_(Mahler)&quot;&gt;5th symphonies &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; 10 times each with an open mind.&lt;/span&gt; That could be more valuable than anything else I’ve given you because that’s really powerful and incredible music. Or listen to the &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Rite_of_Spring&quot;&gt;Rite of Spring &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/em&gt; by &lt;a href=&quot;https://en.wikipedia.org/wiki/Igor_Stravinsky&quot;&gt;Stravinsky &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Just listen to it 10 times. Your world will change. Your world will change. It’s mind-expanding.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/iHlJhuS_3TA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;But you have to go into it with an open mind, without criticizing it or judging it&lt;/span&gt;, just like I have to go into country music with that or else I’ll cut my throat or something. Then I’ll enjoy it. I used to be like that, &lt;em&gt;verrrry&lt;/em&gt; rigid. &lt;em&gt;Very&lt;/em&gt; rigid. “This is it!” And when I was a kid, “If it’s not Led Zeppelin, it’s nothing.” And that only stifles your own creativity because the thing that the universe has to offer that’s so plentiful and absolutely at the core of creativity is the diversity. There’s nothing the same in the whole universe! Nothing! I mean, isn’t that remarkable?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: It’s incredible.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: It’s incredible, if you think about it. So, with that in mind, your ability to be creative is unique because you are an expression of the universe. So, yeah, that’s some of the things that I do. If you just go and force yourself with an open mind to listen… Like when I was doing &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Alive_in_an_Ultra_World&quot;&gt;Alive in an Ultra World &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/em&gt;, it was a glorious project because I was listening to all of this music from different countries, this cultural music. It was really beautiful because you taste the flavor of the country, you taste the people and the way the music is structured, because I have a musical ear (in a sense) I can hear the time signature, I can hear the technical aspects, but &lt;span class=&quot;important&quot;&gt;when you’re listening to it, you’re not listening to the technical. You’re hearing the thing that’s deeper than their technique.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, if you go listen to a Bulgarian women’s choir, you think, “I don’t want to listen to a Bulgarian women’s choir, sounds like women making weird noises.” Listen really carefully. It will just change your world. That, then, can inspire you. Or if you’re a blues player, go listen to &lt;a href=&quot;https://en.wikipedia.org/wiki/Meshuggah&quot;&gt;Meshuggah &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Just listen to a few of their records–soft, if necessary. Just listen to the creative aspects of it and it’ll have a huge impact.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qc98u-eGzlc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Your music ranges from straightforward (just you and an acoustic guitar not doing anything super technical, chords and singing beautiful melodies)…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: I can’t on an acoustic guitar…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Hah! But then some of your other songs are very influenced by Stravinski and Ravel and these kinds of complex, more modern composers. Do you get in a mood and say, “I really want to channel some of that.” Or do these things just come out through listening 10 times?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Well, both. Sometimes what we hear has an impact on us and then it comes out unconsciously. Somehow it flows out into what we do. Somehow it does. To some degree. And then there’s the actual listening to something and being moved and saying, “I want to write something like that,” which is the way most people write music. There’s nothing wrong with that because it will still sound different, but that’s how things evolve, too. I do that occasionally, too.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Sometimes it works if there’s enough unique ideas that flow into it. If I just go to plagiarize a song, you wouldn’t know it was the original song, but usually it doesn’t carry–for me–the kind of thing I’m looking for in my music. Sometimes it does. Like, for instance, take something like &lt;em&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VlexYog2kZA&quot;&gt;Building the Church &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/em&gt;. My kids were listening to &lt;a href=&quot;https://en.wikipedia.org/wiki/Linkin_Park&quot;&gt;Linkin Park &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. I, immediately, when I heard it, I said, “That’s some nice big fat guitar. I like that. I gotta do something like that.” You know, those heavy chords and the tuning? I was inspired by that and that flowed into &lt;em&gt;Building the Church&lt;/em&gt;, &lt;em&gt;but&lt;/em&gt;!&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VlexYog2kZA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;There was enough other stuff, like the tapping thing, which originated 35 years ago with the song &lt;em&gt;Upanishads&lt;/em&gt; and that was just a–I needed to transcend the gimmick nature of it. So, I put my technical mind to work and I said, “Well, I know that if I create these chords…” There was that. And then it had to have a particular melody that felt a certain way and then it had to have something else a little special, so there’s a little thing in the end… So you might be able to hear that it was [influenced].&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;You take something else like &lt;em&gt;Dying for Your Love&lt;/em&gt;, which is on that record, that wasn’t inspired by anybody. That was just me listening to my inner ear and following a melody based on an emotional state of mind. That started out fooling around on a sample thing until the drum beat came. Then I took it from there. So there’s different ways.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Do you ever feel that you compromise in your music? Do you listen to something and go, “I could go in this direction, but that might bother some… my audience?” Or something like that? Do you ever feel sensitive to anything other than what suits you when you’re composing or performing?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Well, it has to suit you first. Why do it? Why do it if it doesn’t suit you? If it suits you–&lt;span class=&quot;important&quot;&gt;If you make &lt;em&gt;you&lt;/em&gt; the most important thing in what &lt;em&gt;you do&lt;/em&gt;, then the audience that comes to it will be the right audience for you&lt;/span&gt; as opposed to trying to say, “Well this genre here likes this kind of music, so let me throw some of that…” That’s insane thinking! I shouldn’t say it’s “insane,” it’s very common. And I do do it sometimes! But those songs just do not carry that thing that I like the most, which is, “Whoa. Oh my God, did that really sound real?” That’s what I like. Sometimes that happens.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;That piece I just played you, the second half of &lt;em&gt;Mighty Messengers&lt;/em&gt; [from an upcoming anniversary release of &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Passion_and_Warfare&quot;&gt;Passion and Warfare &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/em&gt; ], to me it’s just so beautiful. It’s so beautiful, you know? I just love sitting there and just hearing those rich, thick chords with all these guitars and the melody, the way it moves. The solo section, which every little piece (for me) is… I mean, I worked on every piece until I did something different than I’d ever done.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;That’s what I do. I’ll sit with a solo sometimes, I’ll do that so that when I listen back–and you hear yourself doing something that you haven’t really ever done, you’re just like, “Holy mackerel, wow! That’s so cool! So cool!” And it’s okay to feel that way about what you do. Why not?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;The thing that says in you, “This sucks,” is your own ego. What it’s &lt;em&gt;really&lt;/em&gt; saying is, “This is not better. This will not be proclaimed as making me mightier and greater of a brilliant creator than everybody else on the planet so it must suck.” It’s this weird shit in your head.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Creating something and then listening back and critiquing it, that’s a different story. “Oh I hear… I like that, I don’t like that, let me see how I can…” That’s good. I can only speak for myself because I used to go through every kind of emotional dynamic. Now it’s really: You gotta please yourself first.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: We’re in a day and age where there are countless options, countless guitar tones, software that can manipulate every single thing you do and now it’s so easy to use that it’s almost more difficult not to get caught up in it. How do you feel about the evolution of what has been available to you from 30-some years ago to what you have now?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: It’s amazing. It’s wonderful. It’s based on your attitude. &lt;span class=&quot;important&quot;&gt;Whatever your attitude on it will become your reality.&lt;/span&gt; So, if you’re looking at something… There’s three basic ways to look at something. Take new technology that’s come in and it’s suddenly there and it’s endless and it keeps developing every minute.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;One perspective is: “This sucks. Why can’t we all just go back to just picking up the guitar and just playing it?” Well, go ahead and do that. Nobody’s telling you you have to record it with reverse flanges and chop it up and have it up on YouTube within 10 seconds. But, usually that kind of perspective carries with it a lot of baggage, like, “Not only does this suck, but the whole business sucks because how can I sell music anymore with this new technology, streaming, I can’t get paid at all. Why make music?” &lt;span class=&quot;important&quot;&gt;If you have to ask yourself that question, don’t make it! Go do something else!&lt;/span&gt; Because you’re not really compelled to do it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;People that make music under any circumstance &lt;em&gt;have no choice&lt;/em&gt;. It’s like, “This is what I wanna do and that’s it.” So, perspective of “everything is sucking” isn’t just what you’re observing in the music business, it’s what you’re observing in most of your life usually. And it’s just your perspective. You could say, “But Steve, no, this is real. This is true. Streaming has destroyed the ability for artists to make money.” Well, on one level, that is true. There’s a lot of things that are true, though.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;There’s a lot of other things that are true. For instance, right now is the best time in history to be an independent musician. You have more tools at your disposal than has ever been before. If you have the goods, if you’re creative enough, you can create your work. There’s so many people now to network with, you can get with other people… You couldn’t do that in the past. There’s so much you couldn’t do!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, that’s the second perspective: Looking out and seeing, “How can this serve me? How can all this wonderful–wonderful!–technology serve me?” And I can tell you &lt;span class=&quot;important&quot;&gt;I’m doing better now than I’ve ever been doing and I’m selling a lot less records&lt;/span&gt; because records don’t sell, but I’m just doing gangbusters. I had my best year ever in my life this year.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Congratulations! That’s amazing!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Yeah. The government likes it, too. They’re very happy for me. Because I look and I see, “How can this serve me?” And that’s just a shift, just a simple shift, and then other things that are true are now on your radar. And whatever belief you have becomes your truth, but they’re all just thoughts in your head anyway. So, you have the ability to shift the vibration of your thoughts from that first perspective to the second perspective, which is much more advantageous to you. And there’s a lot of truths in that, too! Write a list of them! Write a list of all of the truths that make you feel good. There’s nothing better you can do.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;And then there’s the third perspective, which is usually reserved for those people that breathe very thin air. That perspective is: “This is wonderful technology that’s going on in the world. How can I improve it? What does it lack? Where can I take it? What is impractical about it?” And there’s no end to where that ladder climbs to, by the way.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;If you look to the past, you’ll find at any time in history, most of the time people feel like wherever they have evolved to with a particular technology, they feel like they’ve arrived. “How can it ever get better than vinyl?” Now it’s like, “Great Steve, but how is it ever going to get better than streaming anything you want?” It’s gonna get a lot better.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I don’t know what that is, but I know that what we look for as a species is convenience, simplicity, and immediacy. There’s nothing wrong with that, but it’s never going to happen because even when you’re at that stage, even if you can say, “&lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Queen_II&quot;&gt;Queen II &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;Liar&lt;/em&gt;…” Oh that’s on &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Queen_(Queen_album)&quot;&gt;Queen I &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/em&gt; You can just say, “I wanna hear &lt;em&gt;Queen I&lt;/em&gt;, &lt;em&gt;Liar&lt;/em&gt;.” And all of a sudden, you just start hearing it. That’s pretty immediate, no bills to pay, or maybe there’s bills to pay, but nothing to touch. That’s a lot more convenient than what we have now, which is a big pain in the ass, really. It’s still completely inferior as far as I’m concerned. I tried to do the streaming and, no, it’s not good enough. It doesn’t work every place, I have to reach into my pocket and grab something and fiddle around, I don’t want to do any of that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Hope you have a connection, hope you’re logged in…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Hope you’re logged in! It’s so inferior! Come on, guys! So, there’s somebody sitting there right now going, “Nah, nah, it’s just not right yet. What can I do to make it right? What can I do to make it better?” And that’s the third way of thinking. So, look at the vast contrast in the person that’s saying, “Okay all of these great toys, now I’m going to focus on this and make this. I have a vision for something that’s much better.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;And that’s how it always works to the guy that “everything sucks.” And they’re talking about the &lt;em&gt;same thing!&lt;/em&gt; The perspective that you choose is not just reflected in the thing you’re looking at, it’s reflected in all the other things in your life. All you have to do is change one little perspective in some place one little bit and then everything else changes too.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Has your music always been so influenced by these softer skills? These emotional approaches, spiritual approaches to your music?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Well, whenever we enter that creative zone in our heads, we’re always attracted to the things that we’re most interested in at the time. So, when I look back, like I’m doing this 25th anniversary [of &lt;em&gt;Passion and Warfare&lt;/em&gt;] and I’m going all the way back to &lt;em&gt;Flex-Able&lt;/em&gt; and I’m listening to all the tracks that I recorded and stuff like that, there was a period of discovery for me back then when I was going through changes and I was studying metaphysics and spirituality and all these things, so a lot of the symbolism flowed into the music, but a lot of it was really just symbolism and surface value things. I didn’t really understand at the time–well how would you? Now, a different kind of interconnection flows into the music, so to speak.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: When you hear that older music, are you still as proud of it as you were when it was new? Do you listen and you’re excited by it, or is it like, “Well, that’s cute Steve.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Yeah, a lot of “that’s cute. That’s funny. I remember that guy.” &lt;span class=&quot;important&quot;&gt;I don’t really feel proud, I feel gratitude. I’m grateful that I did it.&lt;/span&gt; I see that kid sitting there working his ass off, same thing I’m doing now, and just having fun. Just being creative and getting an idea and having to do it. And that’s never changed. &lt;span class=&quot;important&quot;&gt;All the technology’s changed, the way you do it, the tools you use might change, but still the arising of an inspired idea, you need that.&lt;/span&gt; And back then, I was cutting my teeth in the studio learning how to record, learning how to decorate the stereo real estate, so I hear all that too. There’s still something in there that I get a kick out of.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Were you a musician before you picked up the guitar?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Yeah, I believe so. I mean a “musician” is a big word.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: I don’t mean as a profession, but as your identity, your form of expression.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: I know that I always had a deep attraction to music. A lot of people do. Most people do. I think when I was 4 years old, I remember walking up to a piano and hitting a note and realizing to the right, the notes go higher, and to the left, they go lower. And immediately, I had two great epiphanies right at that moment. One was I understood instinctually the construction of music, so whenever I would hear, I would think, “Oh, that’s what music is!” And then, “These are all the notes.” I could see them, I kinda knew what staffs were and those kinds of things, you know?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;When I heard anything, I could say, “Okay, that’s that and oh, that’s cool.” But then the other realization was I was overcome with the reality that musical creativity is infinite, that no one can tap it out, that it’ll never end. Within me alone are infinite musically creative ideas. I knew at that moment, that flooded through me, and I knew I was going to be a musician. I didn’t know the word “musician,” I didn’t know what that meant, I just knew that “I like this, I want to be one of those creators forever. This is what I like.” It was an epiphany of sorts.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Yeah, absolutely. That drives so much creativity, when people have that epiphany moment.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Yeah. And you can point to times in your life where you have them. It’s like a moment of clarity. You can even picture, smell what was going on, or see what was going on. So, I loved the way music looked. I thought it looked like beautiful art and I would doodle musical notes and I just started writing. I didn’t know what I was writing, but it looked like music and it didn’t have any sense to it. Then I started to learn, “Okay, this is that and that’s what that means,” and I &lt;em&gt;loved&lt;/em&gt; that information.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;I had no interest whatsoever in virtually anything that I was learning in school.&lt;/span&gt; &lt;span class=&quot;interviewer&quot;&gt;[Author’s Note: Do yourself a favor and read &lt;em&gt;&lt;a href=&quot;http://www.amazon.com/Element-Finding-Passion-Changes-Everything/dp/0143116738&quot;&gt;The Element &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/em&gt; or watch &lt;a href=&quot;https://www.ted.com/speakers/sir_ken_robinson&quot;&gt;Ken Robinson’s TED Talks &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; on this subject.]&lt;/span&gt; I couldn’t retain things like history. I could not retain anything. I’d sit and I’d listen to the teacher and I’d just say, “I don’t care about any of this shit. And I don’t want to know about it. It’s crazy people at war! Why do I want to know about that?”&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: And you’re graded on it. And your success is determined by how you memorized it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: And the level of your intelligence is based on it… Now, if it’s interesting to you, that’s great! And I can understand that there’s certain things that are probably a good idea to know and I know those, but spinning wheels learning about “things.” I like math, but if you don’t like math, no worries! Don’t study it! But, that’s unfortunately not where we’re at right now. But, that was the thing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;You asked if I knew I was a musician. No, I didn’t, I just knew that I loved music and I had all these musical ideas. Now, I didn’t realize until later in life that most people don’t hear and see music that way unless you’re a musician. And then there’s this more visual/audible understanding in your head.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;It took me many years before I could call myself a musician because it was always such a sacred word. You know the word “musician” to me meant somebody who &lt;em&gt;really knew music&lt;/em&gt; and &lt;em&gt;really immersed themselves in the musical experience&lt;/em&gt; and &lt;em&gt;had command over the technique and the technology&lt;/em&gt; and could just &lt;em&gt;hear this and see that&lt;/em&gt;. And I said, “Yeah, that’s what you are. That’s what you like. Go with it.” There was always this apprehension to call myself a musician because I was afraid of sounding pretentious. Like, “Ohhh yeah? Now you’re a musician? Oh yeah?”&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: “Can you do this?”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: “Can you do that?” Then I realized that’s another egoic mind structure. Then that went away and it was just, “Yeah, I play music. I’m a musician.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Do you still face any of these inhibitions or these things that block your creativity or the good voice that tells you who you are and what you do?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Well, the little voice that tells you who you are and what you do is an identity that you created for yourself through your life. You know what I mean? It’s not &lt;em&gt;really&lt;/em&gt; who you are.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: It’s your idea of who you are.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: It’s your &lt;em&gt;idea&lt;/em&gt; of who you are. Yeah, it’s the… You have a name, which is just funny sounds that come out of the mouth, and you picture your name as a hat, all the things you went through you throw into that hat, and then you look at these things and you create an identity for yourself. “I am this guy that this happened to, or this one man/woman, or this happened to me so that means I am this and I have these issues and I have these strengths,” so you create this identity for yourself, but it’s not really who you are.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;On one level, it’s fine, you know? But people say, “Music is your life.” “No, it’s not. Music is what I do in life. Life is something much deeper than what I do in it. Not just me, but everybody.” So, your question was…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Do you still face these things that torture many &lt;em&gt;other&lt;/em&gt; people and perhaps tortured you in the past?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: There’s various aspects of things that torture me and one of the things I’m getting over right now, as stupid and as simple as it might sound: it’s little frustrations that have always driven me crazy when I’m at work. I’ll be into doing something, all of a sudden a string would break or a battery would go dead or something where I have to go and deal with it. It would always create this frustration. And it’s funny because I can be really solid on so many levels. People come to me with problems, or I have a problem, but run out of &lt;em&gt;battery&lt;/em&gt;?! “Why can’t you?! Why does it?!” It’s a form of suffering.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I realized I don’t want to suffer at all in life, so how do you deal with it? These things happen, all this stuff happens, so you just deal with it, but you don’t need the drama. And then &lt;span class=&quot;important&quot;&gt;you use going up and changing the battery as part of the process of making the record and getting to your goal and &lt;em&gt;it’s fine&lt;/em&gt;.&lt;/span&gt; There’s things that are challenges, I have similar challenges as many people, but through the past 5, 6 years I’ve been undergoing a huge change. We all do. This is profound change for me.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;One of the biggest things a person can go through is when they &lt;span class=&quot;important&quot;&gt;start recognizing in themselves their own destructive thought patterns&lt;/span&gt; that have been in place sometimes for many, many, &lt;em&gt;many&lt;/em&gt; years. And they’re just thoughts in your head, but you believe them! But they’re relative. Once you realize that, you’re starting to access freedom, liberation because you’re not a prisoner of your own thoughts. That’s really what meditation helps with, all those things.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, do I suffer through a lot of the things that everybody else does? I go through them, but I can’t vouch for the way other people suffer. When I look into the world, I see there’s a lot of it. They take things very seriously and I used to, too. Very, very fiercely intense. Now I don’t! Hah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: A lot of people write music in response to an emotional trial or something. It sounds like you’re getting to a point where the creativity is more pure and less reactive. It’s creative for the sake of being creative, not “I need to express how pissed off I got when that battery died.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: &lt;span class=&quot;important&quot;&gt;No, I don’t do that because that perpetuates that frame of mind.&lt;/span&gt; I’ve always felt, and I don’t criticize anybody because everything is a process and it’s different for different people, but emotion is… Let’s say it’s a vibration, which it is. We’re really just vibrating energy, any scientist will tell you… Well, not any, but you know…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: [Points to Carl King] That scientist will…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: So we’re just vibrating energies and a thought is like an energy and it has a vibrational quality to it, so to speak. Those thoughts create corresponding emotions. That’s what emotions are: emotions are just indicators of what you’re really thinking. So if you want to know what you’re thinking, ask yourself how you feel.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;But &lt;span class=&quot;important&quot;&gt;are you in touch with the way you feel?&lt;/span&gt; In order to be in touch with the way you feel, you need to be able to put your attention into your body and see how it feels. With thoughts being of various qualities, they create a resonance in your body, which then turns into an emotion. It’s not the other way around.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;A lot of people think, “I’m just feeling shitty.” You’re feeling shitty because of the thoughts you’re thinking. You don’t realize it because there’s this natural momentum that has happened over your whole life. Actually, it’s the collective consciousness of humanity for thousands of years, thousands and thousands of years. They’re not even your thoughts really. But they are, they’re thinking you. So, that has an effect in the body as an emotion, so when you then enter the creative zone in anything you do and you’re basing it on an emotional charge, that flows into whatever you do.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, &lt;span class=&quot;important&quot;&gt;you can hear that in certain music, people are very happy to tell you how miserable they are.&lt;/span&gt; They’re very happy to create music about how fucked up their life is and how fucked up the world is. Oh, that’s a good one! Because when you proclaim that the world is fucked up, what you’re really saying is, “Because I know better. Because I &lt;em&gt;am&lt;/em&gt; better. I’m better than the world and I can show you how. The world is fucked up!” It’s a form of insanity, but it’s the ego and it only brings suffering to yourself and others and that flows into your work and that work carries that energy.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Now the reason why so many people are attracted to brokenhearted love songs is because most people are brokenhearted. They’re looking for something in another person that you can’t find because it’s not there. You have to &lt;span class=&quot;important&quot;&gt;find it in yourself and then you can share it, that’s when you can become really useful and helpful.&lt;/span&gt; When you enter a particular emotional frame of mind and you create within it, you’re perpetuating that particular frame of mind.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;You need to decide how you want to feel. Do you want to feel miserable?, which the ego loves. Some people really love feeling miserable. They don’t want to not feel miserable. They don’t want to not feel drama. They don’t want to not complain about something. It’s because it’s a sense of identity. With complaining you’re telling the world that you’re better than whatever it is that you’re complaining about. Or, do you want to put all that emotion aside and just get real with it? Enter that zone…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Now I use “emotionless” but it sounds on one level like a coldness, but really it’s pure joy, really, because &lt;span class=&quot;important&quot;&gt;when you enter that ultra zone of creativity, you’re resonating at a higher vibration&lt;/span&gt;, so to speak. What comes out may not necessarily… It’s comes out through the filter of who you are, too. That’s what I focus on. Now, do I like to create things that sound really intense and wild? Yeah! Sometimes yeah! I like to, the best that I possibly can, find the most beautiful stuff that I can write.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;What I love doing, I was just telling Pia the other night, I love cultivating delicacies and I like to find little… And I’ll do it with one little kind of thing that I’m the &lt;em&gt;only&lt;/em&gt; one that’s going to get it. I am the &lt;em&gt;only one&lt;/em&gt;, but oddly enough, there’s this small group of people that get it. And that’s nice. But that’s what I like. I like it to feel powerful and joyful all the time.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Now when I look back on some of my music, &lt;span class=&quot;important&quot;&gt;there’s some real tortured stuff because I was really tortured at some points in my life.&lt;/span&gt; But if you stay in that, you perpetuate more of it. Now some people might say, “Well, no that’s how you work it out. Get angry! And you do that!” Yes, if you’re using the anger to escalate yourself to the next higher emotional state, and then the next one, and then the next one…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Not to just &lt;em&gt;replace&lt;/em&gt; the torture.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Yeah, but if you stay in the anger, no it’s not good for you, it’s just going to perpetuate more of it and you’re going to be more miserable and you’ll love being miserable more and more until there’s a collapse because nothing can withstand the weight of that kind of suffering. Your ego has a built-in self defense mechanism.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Wow. Some deep stuff. Carl, do you have any questions?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;Carl: Did you just make all that stuff up?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: I don’t know.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;C: No, I do have a question, actually, that popped up. Somehow, this sounds a little bit like, and I don’t mean this in any making-fun-of-you kind of way, but some of this sounds like &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Dianetics&quot;&gt;Dianetics &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/em&gt;. Things that you’re referencing, elements of it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Well, it could be. I read the &lt;em&gt;Dianetics&lt;/em&gt; book 35 years ago along with many other books. What I realized is that, at the core, religions basically have fundamental truth that resonates with all of them. I can’t really comment on &lt;em&gt;Dianetics&lt;/em&gt;. I have some friends that are &lt;a href=&quot;https://en.wikipedia.org/wiki/Scientology&quot;&gt;Scientologists &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and I read the book many years ago and I actually was audited when I first moved out to California. I was, like, 20 years old and they were out on the street and it was a very interesting process.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I think I understood that the basic principle was–now I’m using different terminology, but it’s the same terminology, it’s a parallel terminology with anything that Christ might have said or Buddha or any of that, and basically is: You’re not your thoughts. Your thoughts have an energy to them and who you are is under the thoughts, it’s your consciousness itself.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;When you realize, and it’s not something acquire, you already are, but it’s obscured and in &lt;em&gt;Dianetics&lt;/em&gt;, the process is to eliminate those mind patterns that are obscuring your true presence, your true consciousness. They have terminologies for it, I don’t know what it is… What do they call it?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;C: &lt;a href=&quot;https://en.wikipedia.org/wiki/Thetan&quot;&gt;Thetans &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Thetans! Whatever it is. And then you reach a stage where you’re clear and that means that you have conquered the world the way Jesus said it in that there’s nothing in the world that’s gonna disturb your peace. And that’s the destiny of all of us, hopefully. I don’t know these things for sure. So, you can say the same thing about Buddhism, or Christianity, or any of these. They’re all pointing to one thing, but the ego of man is not satisfied.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Everybody’s at a different level of understanding and they’re all ranked. There’s nobody that’s wrong because that’s what they see! And to them, this is their reality. And there’s always people below them that they’re pulling up and there’s always people above them that they’re being pulled up by. So, it’s all relative wherever you are in your religion, even if you’re a right-wing fundamentalist. It’s fine, “fine” until you suffer and you might start hearing the truth of it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Anyway, maybe that’s some analogy with Scientology. But, Scientology, like very many of the others, there’s also an egoic contingency that the reason I didn’t pursue it more, I saw the deep ego in it. When I was being audited, I understood the processes of explaining certain situations in my life that were painful in order to work them out and confront them.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;But then there was this suggestion that I felt from the people that were interviewing me where they were holding something over you because whenever you express something that’s personal, you are being vulnerable, you’re allowing yourself to be very vulnerable and there’s people who will abuse that, and that’s what I was feeling. And I don’t think that’s the case with everybody in that religion, whatever it is. I have friends that are Scientologists, amazing people, and it’s worked for them beautifully. And then there’s zombies, and it’s like that in all of them.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Well, it’s really interesting to hear how this all feeds into your creative approach and your composition. It’s fascinating and that’s what I’m learning through these interviews. Everyone’s approaches are so…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: Yeah, my creative approach, I didn’t really talk to much about that. One of the things that I do that I want to share and I think you’ll really enjoy, I think &lt;span class=&quot;important&quot;&gt;my greatest talent is the ability to visualize.&lt;/span&gt; I didn’t realize I was doing it all these years, but that’s what I would recommend people focus on when they want to be creative. Visualize how you want to feel about what you’re going to create. Visualize yourself performing it, visualize yourself creating it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Sometimes what I do is &lt;span class=&quot;important&quot;&gt;I write a list of the things that I want a particular song to have.&lt;/span&gt; I don’t know what the song is going to be, but I know that it’s going to happen because I’ve been doing it so long I’m conditioned to know that “if I want this, it’s going to happen.” So, one of the things you can try that’s really exciting, and I do this sometimes, is you just write a list of the kind of things that you want in a song and then watch it come together. Enjoy the process of it coming together.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;The most important thing that you can feel when you’re creating is enthusiasm for the unique creative ideas that arise in you. &lt;span class=&quot;important&quot;&gt;If you don’t have the enthusiasm, wait until an idea comes that gives it to you.&lt;/span&gt; Don’t block it because of your ego. That’s hard to do. And the other thing that I might say very simply is you can only do one thing at a time, even if you have plans to do hundreds of things, you can really only do one thing in this moment and if you give it your full attention while you’re doing it, there’s a quality that flows into it that’s very powerful. You lose psychological time.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Right. You’re in the element.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: You’re in the now.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: All right, well thank you so much. I really appreciate you getting into this.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;S: You got it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: That’s a wrap!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Sep 2015 12:14:46 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/interview/steve-vai/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/steve-vai/</guid>
+        
+        
+        <category>interview</category>
+        
+      </item>
+    
+      <item>
+        <title>Mike Keneally Interview</title>
         <description>&lt;h2 id=&quot;some-context&quot;&gt;Some Context&lt;/h2&gt;
 
 &lt;p&gt;Below is an epic, huge, deep 90-minute interview with Mike Keneally conducted on September 9, 2015 at 3PM. It was filmed/engineered by &lt;a href=&quot;/interview/carl-king&quot;&gt;Carl King&lt;/a&gt;. The story behind the interview is kinda funny, so I’ll share it &lt;a href=&quot;#story&quot;&gt;in a later section&lt;/a&gt;…&lt;/p&gt;
@@ -463,8 +802,8 @@
 &lt;p class=&quot;interviewer&quot;&gt;AG: Yeah! Make weird music, or else!&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Sep 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/mike-keneally</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally</guid>
+        <link>http://www.makeweirdmusic.com/interview/mike-keneally/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally/</guid>
         
         
         <category>interview</category>
@@ -472,7 +811,7 @@
       </item>
     
       <item>
-        <title>Steve Vai</title>
+        <title>Discover Steve Vai</title>
         <description>&lt;h2 id=&quot;thanks-to-our-sponsors&quot;&gt;Thanks To Our Sponsors!&lt;/h2&gt;
 
 &lt;p&gt;Special thanks to &lt;a href=&quot;http://softwareplusplus.com&quot;&gt;Cory Berg at Software++&lt;/a&gt; and to &lt;a href=&quot;http://carlkingdom.com&quot;&gt;Carl King Creative&lt;/a&gt; for sponsoring this interview.&lt;/p&gt;
@@ -522,8 +861,8 @@
 &lt;p&gt;And if you’re looking for something REALLY out there, check out his performance of &lt;em&gt;Fire Strings&lt;/em&gt; with the Tokyo Metropolitan Symphony Orchestra.&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Sep 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/steve-vai</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/steve-vai</guid>
+        <link>http://www.makeweirdmusic.com/discover/steve-vai/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/steve-vai/</guid>
         
         
         <category>discover</category>
@@ -531,7 +870,7 @@
       </item>
     
       <item>
-        <title>Mike Keneally</title>
+        <title>Discover Mike Keneally</title>
         <description>&lt;h2 id=&quot;who-is-mike-keneally&quot;&gt;Who is Mike Keneally?&lt;/h2&gt;
 
 &lt;p&gt;He is many things! A multi-instrumentalist virtuoso who broke into the music industry as a guitarist for Frank Zappa in the late 1980s, then worked with Frank’s son Dweezil in the early 1990s, then with Steve Vai in the later 90s, then with Joe Satriani, and ended up playing guitar on Metalocalypse, all the while releasing a bunch of insane solo material.&lt;/p&gt;
@@ -579,8 +918,8 @@
 &lt;p&gt;Sounds like some awesome weird music to me!&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Sep 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/mike-keneally</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/mike-keneally</guid>
+        <link>http://www.makeweirdmusic.com/discover/mike-keneally/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/mike-keneally/</guid>
         
         
         <category>discover</category>
@@ -588,7 +927,7 @@
       </item>
     
       <item>
-        <title>Bruford</title>
+        <title>Discover Bruford</title>
         <description>&lt;h2 id=&quot;who-is-bruford&quot;&gt;Who is Bruford?&lt;/h2&gt;
 
 &lt;p&gt;Bruford was a short-lived quasi-jazz-progressive rock band featuring incredible musicianship, innovative compositions, and some of my favorite songs ever. They released three albums of original compositions, &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Feels_Good_to_Me&quot;&gt;Feels Good to Me&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/One_of_a_Kind_(Bruford_album)&quot;&gt;One of a Kind&lt;/a&gt;&lt;/em&gt;, and &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Gradually_Going_Tornado&quot;&gt;Gradually Going Tornado&lt;/a&gt;&lt;/em&gt;, along with a couple of live albums.&lt;/p&gt;
@@ -610,8 +949,8 @@
 &lt;p&gt;So, give a listen to each of their releases and see what inspires you to create something new and different.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Aug 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/bill-bruford</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/bill-bruford</guid>
+        <link>http://www.makeweirdmusic.com/discover/bill-bruford/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/bill-bruford/</guid>
         
         
         <category>discover</category>
@@ -619,7 +958,7 @@
       </item>
     
       <item>
-        <title>Anthony Garone</title>
+        <title>Discover Anthony Garone</title>
         <description>&lt;h2 id=&quot;who-am-i&quot;&gt;Who am I?&lt;/h2&gt;
 
 &lt;p&gt;That’s kind of a deep question. I think the best answer is, “I’m just this guy, you know?”&lt;/p&gt;
@@ -657,8 +996,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 10 Aug 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/anthony-garone</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/anthony-garone</guid>
+        <link>http://www.makeweirdmusic.com/discover/anthony-garone/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/anthony-garone/</guid>
         
         
         <category>discover</category>
@@ -703,8 +1042,8 @@
 &lt;p&gt;Watch out for the coda! &lt;a href=&quot;http://blog.garone.org/guitar/harnch-for-five-guitars&quot;&gt;Here’s some additional context on my old website&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Jun 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/harnch</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/harnch</guid>
+        <link>http://www.makeweirdmusic.com/share/harnch/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/harnch/</guid>
         
         
         <category>share</category>
@@ -778,8 +1117,8 @@ B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
 &lt;p&gt;Should you find yourself learning this song, let me know! I’d love to hear it!!&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 May 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/learn/hells-bells</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/hells-bells</guid>
+        <link>http://www.makeweirdmusic.com/learn/hells-bells/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/hells-bells/</guid>
         
         
         <category>learn</category>
@@ -787,44 +1126,7 @@ B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
       </item>
     
       <item>
-        <title>Dale Turner</title>
-        <description>&lt;h2 id=&quot;who-is-dale-turner&quot;&gt;Who is Dale Turner?&lt;/h2&gt;
-
-&lt;p&gt;Dale is one of the most talented, funny, extraordinary people in the Los Angeles area. He plays every instrument in western music. Overall A++ guy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/interview/dale-turner&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;&lt;/i&gt; Check out our interview with Dale!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;what-does-dale-do&quot;&gt;What does Dale do?&lt;/h2&gt;
-
-&lt;p&gt;Dale Turner is a guitar teacher at &lt;a href=&quot;http://mi.edu&quot;&gt;Musician’s Institute&lt;/a&gt;, &lt;a href=&quot;http://www.guitarworld.com/dale-turner&quot;&gt;transcriptionist and journalist at Guitar World magazine&lt;/a&gt;, and multi-instrumentalist based in Los Angeles, CA. He’s &lt;a href=&quot;http://www.intimateaudio.com/books.html&quot;&gt;transcribed a zillion albums&lt;/a&gt;, was an editor for Guitar One magazine, and is as humble as he is talented. His 2010 album, &lt;em&gt;Mannerisms Magnified&lt;/em&gt;, is a fantastic release in which he played every instrument, wrote all the lyrics, mixed, edited, produced, and engineered, etc. The songs are unique and fun. You can &lt;a href=&quot;http://shop.carlkingdom.com/collections/cds/products/dale-turner-mannerisms-magnified&quot;&gt;purchase &lt;em&gt;Mannerisms Magnified&lt;/em&gt; from CarlKingdom.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;is-dale-a-nice-guy&quot;&gt;Is Dale a Nice Guy?&lt;/h2&gt;
-
-&lt;p&gt;Yes. Super nice.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-do-you-know&quot;&gt;How do you know?&lt;/h2&gt;
-
-&lt;p&gt;I met Dale via &lt;a href=&quot;/discover/carl-king&quot;&gt;Carl King&lt;/a&gt; in 2011 on Facebook and we met in person shortly after. We connected on several musical influences, like &lt;a href=&quot;https://en.wikipedia.org/wiki/Chris_Cornell&quot;&gt;Chris Cornell&lt;/a&gt;, &lt;a href=&quot;/discover/steve-vai&quot;&gt;Steve Vai&lt;/a&gt;, and Carl’s musical personalities Sir Millard Mulch and Dr. Zoltan Øbelisk. Anyone who loves Chris Cornell’s &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Euphoria_Morning&quot;&gt;Euphoria Morning&lt;/a&gt;&lt;/em&gt; album as much as I do is a friend of mine.&lt;/p&gt;
-
-&lt;h2 id=&quot;okay-what-about-his-music&quot;&gt;Okay, what about his music?&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Mannerisms Magnified&lt;/em&gt; opens with an incredible perverse tribute to &lt;a href=&quot;https://en.wikipedia.org/wiki/Brian_Wilson&quot;&gt;Brian Wilson&lt;/a&gt;, followed by some really cool &lt;a href=&quot;https://en.wikipedia.org/wiki/Elliott_Smith&quot;&gt;Elliott Smith&lt;/a&gt;-inspired songs with complex chord changes and time signatures. There are hints of &lt;a href=&quot;https://en.wikipedia.org/wiki/Mr._Bungle&quot;&gt;Mr. Bungle&lt;/a&gt;/&lt;a href=&quot;https://en.wikipedia.org/wiki/Mike_Patton&quot;&gt;Mike Patton&lt;/a&gt; throughout, as well as &lt;a href=&quot;https://en.wikipedia.org/wiki/Iron_Maiden&quot;&gt;Iron Maiden&lt;/a&gt;. As Dale says in &lt;a href=&quot;/interview/dale-turner&quot;&gt;our interview&lt;/a&gt;, “You can’t escape the Maiden.”&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Interpretations&lt;/em&gt; is an album full of Dale’s interpretations of various pop songs. Armed with his voice and an acoustic guitar, there’s tons to enjoy on here, from silly bird sounds in &lt;em&gt;Blackbird&lt;/em&gt; to a solo operatic arrangement of &lt;em&gt;Bohemian Rhapsody&lt;/em&gt; with plenty of falsetto vocals. There are so many priceless moments and many tender ones as well. Don’t miss his cover of The Beach Boys’ &lt;em&gt;God Only Knows&lt;/em&gt;. Simply wonderful!!&lt;/p&gt;
-
-&lt;p&gt;I don’t think he’s released any other music, but I’m probably wrong about that. Anyway, there’s plenty to check out and enjoy.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 May 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/dale-turner</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/dale-turner</guid>
-        
-        
-        <category>discover</category>
-        
-      </item>
-    
-      <item>
-        <title>Dale Turner</title>
+        <title>Dale Turner Interview</title>
         <description>&lt;h2 id=&quot;some-context&quot;&gt;Some Context&lt;/h2&gt;
 
 &lt;p&gt;Below is an interview &lt;a href=&quot;/discover/carl-king&quot;&gt;Carl King&lt;/a&gt; and I did with Dale in September 2014. While it’s interesting enough to read-through, I highly recommend listening to the audio because Dale has a great sense of humor, provides lots of fun voices, and the interview is pretty dynamic.&lt;/p&gt;
@@ -1128,8 +1430,8 @@ B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
 &lt;p class=&quot;interviewer&quot;&gt;A: I know. I’m stealing it.&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 May 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/dale-turner</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/dale-turner</guid>
+        <link>http://www.makeweirdmusic.com/interview/dale-turner/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/dale-turner/</guid>
         
         
         <category>interview</category>
@@ -1137,348 +1439,39 @@ B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
       </item>
     
       <item>
-        <title>Andy West</title>
-        <description>&lt;h2 id=&quot;interview-video&quot;&gt;Interview Video&lt;/h2&gt;
+        <title>Discover Dale Turner</title>
+        <description>&lt;h2 id=&quot;who-is-dale-turner&quot;&gt;Who is Dale Turner?&lt;/h2&gt;
 
-&lt;p&gt;In April 2015, I interviewed &lt;a href=&quot;/discover/andy-west&quot;&gt;Andy West&lt;/a&gt;. We discussed lots of interesting stuff related to “weird music,” including his influences, what “weird” means, and more.&lt;/p&gt;
+&lt;p&gt;Dale is one of the most talented, funny, extraordinary people in the Los Angeles area. He plays every instrument in western music. Overall A++ guy.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/discover/andy-west&quot;&gt;Check out our Discover post about Andy!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/interview/dale-turner&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;&lt;/i&gt; Check out our interview with Dale!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;video-wrapper&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/meZk10p9dFo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;h2 id=&quot;what-does-dale-do&quot;&gt;What does Dale do?&lt;/h2&gt;
 
-&lt;h2 id=&quot;interview-transcription&quot;&gt;Interview Transcription&lt;/h2&gt;
-&lt;p class=&quot;interviewer&quot;&gt;AG: Hi this is Anthony from Make Weird Music and I’m here with Andy West from the Dixie Dregs, FWAP, Crazy Backwards Alphabet, all manners of bands…&lt;/p&gt;
+&lt;p&gt;Dale Turner is a guitar teacher at &lt;a href=&quot;http://mi.edu&quot;&gt;Musician’s Institute&lt;/a&gt;, &lt;a href=&quot;http://www.guitarworld.com/dale-turner&quot;&gt;transcriptionist and journalist at Guitar World magazine&lt;/a&gt;, and multi-instrumentalist based in Los Angeles, CA. He’s &lt;a href=&quot;http://www.intimateaudio.com/books.html&quot;&gt;transcribed a zillion albums&lt;/a&gt;, was an editor for Guitar One magazine, and is as humble as he is talented. His 2010 album, &lt;em&gt;Mannerisms Magnified&lt;/em&gt;, is a fantastic release in which he played every instrument, wrote all the lyrics, mixed, edited, produced, and engineered, etc. The songs are unique and fun. You can &lt;a href=&quot;http://shop.carlkingdom.com/collections/cds/products/dale-turner-mannerisms-magnified&quot;&gt;purchase &lt;em&gt;Mannerisms Magnified&lt;/em&gt; from CarlKingdom.com&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p class=&quot;interviewee&quot;&gt;AW: The Mistakes.&lt;/p&gt;
+&lt;h2 id=&quot;is-dale-a-nice-guy&quot;&gt;Is Dale a Nice Guy?&lt;/h2&gt;
 
-&lt;p class=&quot;interviewer&quot;&gt;AG: The Mistakes. Yeah?&lt;/p&gt;
+&lt;p&gt;Yes. Super nice.&lt;/p&gt;
 
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. It’s been many years, but you know, might as well count it.&lt;/p&gt;
+&lt;h2 id=&quot;how-do-you-know&quot;&gt;How do you know?&lt;/h2&gt;
 
-&lt;p class=&quot;interviewer&quot;&gt;AG: I wanted to kinda get some background on your musical history and then how you have gotten into the bands you were in, what prompted you to get out of the music industry, and try to get a sense of your compositional method (if you have one). So why don’t we get started with your background? How did you get started with music?&lt;/p&gt;
+&lt;p&gt;I met Dale via &lt;a href=&quot;/discover/carl-king&quot;&gt;Carl King&lt;/a&gt; in 2011 on Facebook and we met in person shortly after. We connected on several musical influences, like &lt;a href=&quot;https://en.wikipedia.org/wiki/Chris_Cornell&quot;&gt;Chris Cornell&lt;/a&gt;, &lt;a href=&quot;/discover/steve-vai&quot;&gt;Steve Vai&lt;/a&gt;, and Carl’s musical personalities Sir Millard Mulch and Dr. Zoltan Øbelisk. Anyone who loves Chris Cornell’s &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Euphoria_Morning&quot;&gt;Euphoria Morning&lt;/a&gt;&lt;/em&gt; album as much as I do is a friend of mine.&lt;/p&gt;
 
-&lt;p class=&quot;interviewee&quot;&gt;AW: Okay, so first off I appreciate you asking me to do this. I think it’s an interesting idea. I looked at the website and I see you’re evolving it, putting more stuff there. I think we have to talk about the context of weird music just for a minute here because there’s a couple of avenues here. There’s the experience of it. The learning of it, the hearing of it, the attraction to it, those kinds of things. And then there’s the kind of performance and composition aspects of it, right? You have to start with “Why would anyone be interested in this stuff at all?” I haven’t got a clue. I don’t know why. All I know is that for anyone who is interested in unusual music or weird music or whatever you want to call it—and we can talk about some of these definitions—there’s always some kind of pivotal thing that you hear in their background that said, “Yeah, it was really weird this happened. I was exposed to this and then it’s never been the same.” So I’ve had a couple of those things, they were many years ago. I remember when I was in high school, I went over to my friend’s house to play pool because he had a pool table. But for some reason, this was like in the 7th grade or something and the music he was playing was &lt;a href=&quot;http://en.wikipedia.org/wiki/Sun_Ra&quot;&gt;Sun Ra&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Terry_Riley&quot;&gt;Terry Riley&lt;/a&gt;…&lt;/p&gt;
+&lt;h2 id=&quot;okay-what-about-his-music&quot;&gt;Okay, what about his music?&lt;/h2&gt;
 
-&lt;p class=&quot;interviewer&quot;&gt;AG: I don’t know Terry Riley…&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mannerisms Magnified&lt;/em&gt; opens with an incredible perverse tribute to &lt;a href=&quot;https://en.wikipedia.org/wiki/Brian_Wilson&quot;&gt;Brian Wilson&lt;/a&gt;, followed by some really cool &lt;a href=&quot;https://en.wikipedia.org/wiki/Elliott_Smith&quot;&gt;Elliott Smith&lt;/a&gt;-inspired songs with complex chord changes and time signatures. There are hints of &lt;a href=&quot;https://en.wikipedia.org/wiki/Mr._Bungle&quot;&gt;Mr. Bungle&lt;/a&gt;/&lt;a href=&quot;https://en.wikipedia.org/wiki/Mike_Patton&quot;&gt;Mike Patton&lt;/a&gt; throughout, as well as &lt;a href=&quot;https://en.wikipedia.org/wiki/Iron_Maiden&quot;&gt;Iron Maiden&lt;/a&gt;. As Dale says in &lt;a href=&quot;/interview/dale-turner&quot;&gt;our interview&lt;/a&gt;, “You can’t escape the Maiden.”&lt;/p&gt;
 
-&lt;p class=&quot;interviewee&quot;&gt;AW: Oh my God, okay. This is really old stuff, but it’s very avant garde. And then a &lt;a href=&quot;http://en.wikipedia.org/wiki/Ravi_Shankar&quot;&gt;Ravi Shankar&lt;/a&gt; and a &lt;a href=&quot;http://en.wikipedia.org/wiki/Yehudi_Menuhin&quot;&gt;Yehudi Menuhin&lt;/a&gt; “East meets West” album, and &lt;a href=&quot;http://en.wikipedia.org/wiki/Harry_Partch&quot;&gt;Harry Partch&lt;/a&gt;. So this guy had a really broad—I don’t know… I think his parents somehow… who knows how or why, but I just remember this music striking me and, of course, I remember all these things. The thing back then was, “Wow, what is this? It’s so different from everything else.” So, there was kind of that that was just an exposure. The other thing was being in Atlanta and, oddly enough, Atlanta had really weird bands. Primarily the Hampton Grease Band. Have you ever heard of them?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Interpretations&lt;/em&gt; is an album full of Dale’s interpretations of various pop songs. Armed with his voice and an acoustic guitar, there’s tons to enjoy on here, from silly bird sounds in &lt;em&gt;Blackbird&lt;/em&gt; to a solo operatic arrangement of &lt;em&gt;Bohemian Rhapsody&lt;/em&gt; with plenty of falsetto vocals. There are so many priceless moments and many tender ones as well. Don’t miss his cover of The Beach Boys’ &lt;em&gt;God Only Knows&lt;/em&gt;. Simply wonderful!!&lt;/p&gt;
 
-&lt;p class=&quot;interviewer&quot;&gt;AG: No.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Oh my goodness. Okay. I brought this [CD]. This is the “&lt;em&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Music_to_Eat&quot;&gt;Music to Eat&lt;/a&gt;&lt;/em&gt;” album by &lt;a href=&quot;http://en.wikipedia.org/wiki/Hampton_Grease_Band&quot;&gt;Hampton Grease Band&lt;/a&gt;. So you can listen to this after I leave and finish this. It came out in the 60s and it’s notoriously the worst-selling album that Columbia ever released. &lt;a href=&quot;http://en.wikipedia.org/wiki/Bruce_Hampton&quot;&gt;Bruce Hampton&lt;/a&gt; is the guy that started the Hampton Grease Band. &lt;a href=&quot;http://en.wikipedia.org/wiki/Glenn_Phillips&quot;&gt;Glenn Phillips&lt;/a&gt; was his guitar player and there were a lot of others… He’s kind of like the &lt;a href=&quot;http://en.wikipedia.org/wiki/Miles_Davis&quot;&gt;Miles Davis&lt;/a&gt; of Atlanta weird music. So all these people would come through his band and they continue to to this day.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh, he’s still around?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah, Bruce is a very interesting guy and he’s always attracted the most incredible musicians. This is something that you’ll really enjoy. So, there’s those kinds of things… And this is another one: The Hampton Grease Band turned into Colonel Bruce Hampton and this is just one of probably a half-dozen albums he did around that time. “One Ruined Life of a Bronze Tourist.” So there’s all kinds of weird, very interesting stuff on here.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Would you liken his music to anyone else?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Um, it’s… it’s like… I’d have to say “no.” And I also can’t explain why this band was so popular in Atlanta because when you hear the music you’ll ask the same question. When I lived in Atlanta and I was in high school, I saw a place that was a sports arena, which is where they had wrestling matches but they also had concerts. The day before I moved to Augusta when I was in 11th grade or 10th grade, I was 16, and the day before I moved there I saw the Hampton Grease Band and Fleetwood Mac playing. That was the old &lt;a href=&quot;http://en.wikipedia.org/wiki/Fleetwood_Mac&quot;&gt;Fleetwood Mac&lt;/a&gt;, the bluesy kind of the “&lt;em&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Oh_Well_(song)&quot;&gt;Oh Well&lt;/a&gt;&lt;/em&gt;” Fleetwood Mac, you know? That was kind of interesting. There’s also for me all those avenues which led to those kinds of things. And again, I don’t want to go on and on… I could go on and explain the life history of a human being who’s listened to music his whole life is a long thing… I guess the point I’m trying to make here is that there’s always ways and events that link music to people’s times in their lives that is interesting. You draw on that forever to some degree.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Absolutely, and for me the purpose of the website to help others discover strange music—not strange like you wouldn’t want to listen to it, but you probably wouldn’t have found it unless someone told you about it… Like, it wouldn’t be something that’s heard on the radio or necessarily shared by your friends unless you have friends that like weird music. I want the site to inspire people to, even if they write straightforward songs, do something that can make it a little interesting for the listener. It’s cool to hear your background in weird music and to hear artists that you’ve discovered, too. I look forward to hearing those.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: There’s a list and I have some in my phone to remind me of to talk about. What’s interesting about now versus then is it took a lot of effort to pursue music back then. There wasn’t this instant gratification of “Let’s just go find 25 different amazingly weird things.” We can do that in as long as it takes to click. You’d have to track this stuff down, you’d have to have people who had collections of this stuff. You’d be invested in it. “Okay, let’s listen to this.” It wasn’t like, “Let’s listen to 10 seconds of this and then 10 seconds of that.” This isn’t really about the “bad”-ness of today versus yesterday. It’s just a different kind of thing. Some people read books and some people don’t. They just want the five-second sound byte, the list of headlines. “I want to see the twitter feed.” I was listening to this woman from work today on a little video cast on a work website and she was like, “Here’s why I like social media,” and she was talking—I’m reminded of the &lt;a href=&quot;/discover/frank-zappa&quot;&gt;Frank Zappa&lt;/a&gt; interview where Ted Koppel says, “You’re obviously a very intelligent man, Mr. Zappa.” You know, a back-handed compliment if there ever was one. She’s obviously very intelligent, but she was saying, “I use Twitter as my news feed.” And I’m like, “Oh, okay, you get all your news through Twitter. How interesting…”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: The people YOU follow, the people YOU choose…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: As if that’s okay. For me it’s not.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Kind of curates your own bubble.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: At the same time, I totally understand it. Obviously this person has found something they’re comfortable with hearing or seeing or whatever. So anyway, I was thinking about this. There’s lot of stories to tell that are probably really boring because who cares, at some point. Maybe you want to have on your site just a link to every kind of thing because literally it’s all out there. You can find out the whole history of the Hampton Grease Band if you search right now. For me, there’s a lot of these things. That was where I kind of fell into this. I started as a musician just like many people kind of from a rock and roll perspective with popular music. The Beatles were the thing and then it became Hendrix and then Jefferson Airplane and I was just attracted to it for whatever reason. And the counterculture. I remember the principal at our school would come by and say, “My little hippies. What are you guys doing?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s interesting. I bet there’s a whole other way of thinking that you probably have living through that era. For me, my dad just had those records. I didn’t know that it was counter-culture or different or anything. For me, he was in this band and I would hear him rehearse and they would play Jethro Tull, Genesis, Van Der Graaf Generator… I didn’t know that it wasn’t normal. My mom just listened to different music. I just tended to not like that music as much. I don’t know if there’s an explanation.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I honestly don’t think there is. I think there’s just something inside people that draws out their curiosity in different ways. Some people are really attracted to understanding sports and team sports and individual sports, etc. Some people are really attracted to books. They like really hard-to-follow challenging things. Others like these really breezy stories that will just hold their attention until they stop. It’s inexplicable to me. But if you never are exposed to this stuff or even think about it, you might miss something. Although, sometimes I wonder about that too. Maybe everything is exactly as it should be.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It reminds me of that Zappa quote how music without any sort of weird notes is like watching a movie with no antagonist or eating cottage cheese. Yeah, you should be challenged.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Well, how challenged?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That I don’t know. Especially if you listen to music for entertainment. Should you really be challenged by your entertainment? I don’t know.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I don’t know either. But, you can find beauty in different things. I mentioned the experience in high school and then when I moved to Augusta, Georgia is when I met Steve Morse and we started the Dixie Dregs. There’s lots of stuff on the internet about the Dregs and it’s easy to find. The simple story is that Steve was a very unique composer and guitar player who practiced all the time, like many of these guys who are great do. They just, for some reason, that’s what he did and he started to pull things out of the air that the rest of us couldn’t imagine. So we followed and it was great.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Did you meet in high school?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. What’s interesting is that the Dregs took on a kind of persona of Steve’s music. Even concurrent to that, for me, I was exploring all these kinds of things. I was coming from Atlanta listening to the Hampton Grease Band and all these other things. I brought this Bartok string quartets album because when I was in college, this was the stuff that just got to me. I don’t remember how I first heard it. When I did, I was just like, “What is this?” And it was not like “tweaky” or something that you’ve never seen before and you think, “How bizarre is this weird geometric thing?” It was this really wonderful beautiful thing and I couldn’t even imagine how it happened. I couldn’t really see the path from what I knew to that. It was, again, inexplicable. Whereas if you listen to the more classical Bach or Beethoven, you can hear these threads and you can feel a different kind of thing. This to me was a little bit inexplicable. Years later, I started to understand his folk music connection and his own way of thinking and I read about how he thought about some of this stuff and what he did. I learned a little more about it, but I am definitely not a music scholar or anything like that. I just listen and like this stuff. So, that was something that really, really got to me as well was finding this kind of modern advanced kind of classical music and going back in time to Schoenberg and Stravinsky and all that kind of more angular radical stuff. The other thing is I wonder now from a vantage point of history and consumption, having a lifetime of consumption of this stuff, and you say for example, “No, I’ve never even heard of the Hampton Grease Band,” it’s like, “Wow, I’m so surprised considering how much I have found that you DO know about that old stuff.” Part of me says, “How important is that old stuff?” And it’s probably not very.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: There’s sentiment and importance and it’s hard to tell the difference sometimes.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: That’s another thing. I try to understand, “What is the value of currency?” meaning “current now?” How important is it right now that people are doing something that kind of in a way has already been done, but if it’s now, it’s different? I don’t know, have you thought about that?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I have a bit, especially with these remixes of these old albums where Steven Wilson, in particular, has been remixing King Crimson, Jethro Tull, Emerson Lake and Palmer or something like that. Anyway, just listening to these albums as remixes makes it almost sound like new music because they clean up the vocals, it doesn’t sound like 1970s tape with 1970s mastering and the drums have pillows stuffed in them. It sounds more like modern music and I wonder when I hear it… when I pop in Gentle Giant’s “Power and the Glory” on blu-ray, it feels new, I know the music very well, and then I think, “Man, this is even more non-standard, out of left field… If it was released today, who knows if they could have gotten anywhere with it?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Well, you know, there’s been so many notes played and there’s so many words written and there’s so many movies made… It’s like a big massive stream and you wonder kind of what is going to continue to pop out or matter. It’s curious to me, I don’t really have a strong opinion on it because no matter what I think or do, stuff is going to happen and people are going to pursue weird stuff. You’re going to write the Moby Dick album. Somehow, some way that happened. And I think it’s all good. I do think that for people that want to pursue it, it’s interesting to kind of tug on a thread. We started the band and had a little bit of a hiatus and then came back together into the more modern band after Steve had gone to University of Miami and I want to bring that up because when I went down there, that was when I started to get exposed to jazz. I had no idea about “jazz.” It didn’t mean anything to me. For example, in the University of Miami when I first walked in to the main room where we would have small group rehearsal or larger classes and this kind of thing, there was a picture of Coltrane on the wall and I was like, “Who’s that?” And they looked at me like I was nuts. But the interesting thing about that is, for me in the 90s, somehow I started listening again to Miles Davis and then Coltrane and I went backwards through that whole catalog and consumed it and I was like, “Oh my God.” Talk about weird music! If you really put yourself in the time when that music was made… How could it be? How could it even happen?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I totally get that. I sometimes will listen to The Residents and I wonder, “How did that happen?” Like “Hello Skinny…” What possessed anyone to do that, whether it was then or now, to tell this very strange story…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I don’t remember the song exactly…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It goes “Skinny was born in a bathtub and grew so incredibly thin that even the end of an eyedropper sucked him in.” The lyrics are so strange and there’s this terrifying black and white video and they melded the art with the music in this very strange product. It’s almost timeless. You couldn’t tell if somebody made it last year or 30-40 years ago. I wonder about that. These anomalous music products, how did they come out of nowhere? The brain that made them ended up making all this other stuff and it just becomes a part of their portfolio, but for me it’s kind of a milestone and it’s fun for me to think about how we interpret the work of other people, how artists generally hate what they’ve done and move on… Like my friend Carl King, he doesn’t want to make music ever again and I think, “What a shame. He’s such a great talent.” But, for him, he hated the way his music was going…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Well, you know, it’s about living a life. It’s not about…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Entertaining others?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. The idea of this—you actually mentioned a couple things and I want to pull these out because I didn’t want to forget about these things. I had The Residents on here as one of the topics just because it’s a crazy thing. Even Devo, they were very weird.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah. Mark Mothersbaugh, I don’t know if he would have made it as a musician, but he’s still doing lots of interesting new stuff. Those guys, it’s probably a passion for them. They probably would continue to do it if they were destitute.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Even things like Chick Corea and Keith Jarrett. The first time I heard Chick Corea was from exposure at the University of Miami. I remember the album of solo improvisations and it was so striking to me, like the Bartok thing. “Where is this even coming from? I don’t understand this. I really like it. It’s not like noise to me.” That took a lot facility. That wasn’t like a “folky” thing.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How do they prepare themselves to do that? Do they think it’s that outlandish? As a musician yourself, maybe you’ve produced something like that where somebody goes, “What the heck is that about? How did he do that?” And you have a very laymen explanation for it that’s probably not that interesting to you.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: To go down the path of creating music that’s no normal, I think the first thing there is to do it for yourself. For some reason you find this really interesting and you really hope that others do, but it’s not a criteria. It’s not a motivator. What’s motivating is, “Where did this come from? It kind of fell out of my fingers, or it was a sound that I like that I want to repeat.” It’s really easy to do weird stuff now. Again, when I started on this, I didn’t have the capacity to hear everything in my head. Steve is like that, many musicians are like that where somehow it’s just “in there” and it’s just about getting facility to pull it out. I’m more about tugging on things and seeing what I can find there. For me, when we first had 4-track tape recorders, getting the Teac 4430 was the first one that changed everything where suddenly people could have multi tracking in their own home. How crazy is that right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I recorded stuff on that machine when I was about 14 years old on that machine, the 1/4” 4-track.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: It’s awesome. And I learned a lot about writing doing that, too, because I would figure out a little pattern. During this time, Steve would write occasionally things in odd times. The other thing that happened was a distinct kind of shift in his skills. When we were in high school, we wrote more rock-oriented things and we’d play that kind of stuff. Then he went to University of Miami and got exposed to jazz. The Mahivishnu Orchestra was out at that time. All that kind of stuff happened. Mahivishnu was one of those things where it’s like, “Okay if we’re going to learn any of this stuff” (which we did because we were like a Mahivishnu cover band). So, they were really weird because they were always doing these things in odd times so everything was about counting. When you’re young and you’re just counting—anyone can feel 4/4, 3/4, etc.—when you start to break it down and you have these choppy combination rhythms—7/8 and 5/8 makes 12, kind of—for us, just learning those songs really pulled out the weird rhythms. That became a whole fascination for me. It was interesting hearing the thing Carl [King] was talking about. I just listened to it because I was trying to catch up on that thing and I remember having a similar kind of thing (it wasn’t as advanced as he was thinking about with rhythms)…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: The borrowed rhythms?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: For me, it was just like, “Oh, polyrhythms of 3 against 4… how do you break that down?” And then starting to count and tap that out. Exploring that whole thing. Nowadays, it’s totally easy in a sequencer to hear that stuff. Put it in, play around with it…For me when I like to write, that’s kind of what I’ll do. I’ll pull something out of the bass guitar, or maybe a synth sound, and then if it has a feeling—because I like odd rhythms, but it’s not a requirement—it’s easy to put in and you can start to think, “Oh maybe I should have a bass line here, or maybe this should have something flowy here or maybe a weird sound here…”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Do you—might be getting ahead of us—but is that how you construct things? Is it kind of piecemeal based on what you’re hearing at the time? Construction set kind of thing?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I would say so. I don’t think of songs in total. I do think very traditionally in some ways about sections. I like to have a song go from somewhere to somewhere with repeated sections and typical forms. Build them up, really build them up from something that runs through, a rhythmic pattern or a chordal pattern or a bass line and then start to layer on so it really is constructing or building up.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Before computers were a major part of the music industry, were you doing everything by writing it out? Working by ear with other people or by yourself and recording to tape?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Mainly by ear, not a lot of written stuff unless I needed to for some reason or I was trying to remember something. I do have a lot of old pieces of music paper with lines on them. When I would write something and didn’t have a tape deck, I would write it down so I wouldn’t forget it. As long as I can remember, it was really about capturing ideas on tape and going back to them.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Do you feel like the things you grew up listening to or the eras of when you discovered Coltrane and Miles Davis, do those things fill gaps in your musical emotional state of being? Or do they motivate you in a certain direction? Do they provide influences for you? What does that do when you become obsessive about…?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I appreciate it when I’m drawn into music. It happens less now than it used to. Sometimes I think about re-exploring that stuff. It’s not like you hear it for the first time and it’s just in you, so that’s kind of a positive thing to me. “Oh you know, someday I’ll go back and revisit that and really listen to that again.” Every now and again I’ll do something like that, like when I was going through that jazz thing and I discovered Miles and Coltrane and I discovered people like Bill Evans. Then you read all this history and how people talked about Bill Evans and it’s like, “What’s all this?” And the first time you hear his music you’re like, “Well, this isn’t really that amazing.” But then all of a sudden you’re in it and it’s like, “Wow. What the heck? This is really special. This is really different. It’s not just jazz. It’s something really different.” I don’t know how to explain it. For me, I’d like to know more about that. I’d like to go in and dig in.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Do you find tactics or techniques or maybe it makes you feel a certain way and you think, “I’d like to understand that better?” Or is it just like, “Oh, that’s cool. I should try that sometime.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I think it should be all about feeling. I was thinking to myself the other day the kind of athleticism of the music I played in my 20s and the challenging nature of “can I even execute this?” kind of thing. And that’s kind of a cool thing, but I would much rather feel a sense of beauty, power, sadness, than “wow! amazing!”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: “Another guy that can play really good.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: The other thing is the bar is raised so high, this is just where you want to focus. A lot of times, I’ll spend a Saturday morning on YouTube and just go, “Oh my God, what’s going on here? Where are these people coming from? How did they get here?” The musicianship is so astonishing. I have a deep appreciation for that level of skill, but at the same time you can listen to a Tom Waits song and be completely blown away, which is also pretty weird.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Absolutely. And the stylization of the sound of his music is a whole other thing to get immersed in.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: So, when you think about weird music, there’s all these threads. That’s why I’m almost struggling with the term “weird” because weird can be funny. Funny is good.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And I actually want it to be open. I want it to be anything. It should just be “not so predictable.” It should just be “not so conformist.” Even if it’s I-IV-V, make it asymmetrical, add a beat, do something strange between the chords, take a major and make it a minor. Just do something that makes it like, “Whoa! I didn’t see that coming.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: It’s funny. I can’t remember when this was. Some time when I was at work over the past 30 years and someone found out I was a musician, this woman, and I remember talking to her and she said, “Oh yeah, I love music! Whitney Houston is my favorite!” And of course I had a knee-jerk reaction to that because, while Whitney Houston as a vocalist was certainly skilled and proficient, the music did nothing for me at all. And talk about formulaic, it’s kind of like, “Well, we’re going to do a song that does ‘this.’”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yep. “This is the [dynamic] curve.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Again, you want to check yourself because it’s not about being an elitist, but it’s about “well, okay, I’m happy that someone appreciates music at all!” Because it’s almost kind of rare these days. At the same time, you’d hope that they would go further.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s the thing about “weird.” Sometimes, the listener doesn’t even have to know that you went further. You can do things in such a way that sounds perfectly normal to the big Whitney Houston fan, but in the background, you’re like, “I used a non-diatonic chord there and that’s what makes that cool.” Or, even Outkast’s “Hey Ya,” which has a bar of 6 in the chorus and that, to me, is “that’s cool! I like that!” It’s a really simple, stupid song and it’s fun and totally entertaining, but there’s a bar of 6 in it and I think, “That’s weird and he did that and that’s cool.” So, what is normal to you? To define “weird,” we should have a sense of normal.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I am really not a fan of pop music at all. I just don’t appreciate it anymore. There’s amazing skill (if you will) when you think about some of these singers. Because of the internet and TV and everything else, the best ones are going to rise up. The big eye’s looking for attention, who’s going to pop up? “Not quite there, not quite there, not quite there, oh wow! That’s pretty high.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And it’s a whole package thing. The look, the stage presence, all that stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I just find it really boring.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Is that what “not weird” music is for you?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Probably.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: What does the term “weird music” evoke for you?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I can find an emotional content in a lot of things that have unusual tonalities or instrumentation, that kind of stuff. If I was going to say “weird,” it would be that. It would be a recognition that this is not what is commonly done.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Out of conformance.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah, there’s some aspect to it that makes it attractive and unique in that way, but I always go back to “How does it actually make me feel?” If I feel a certain way, then I can start to dig into an analysis of what it actually is.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Do you consider the music you’ve written or performed on over 20 albums weird music?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Well, I don’t think the Dregs is weird at all.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Really?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. That music has clear roots. You can sort of trace back and see where it’s coming from and either you appreciate that or you don’t. One of the things that we did that I think is common to the kind of music that I like is we actually played it. We had ourselves in it. Yes, it’s a performance, but we were a band in the best sense of the word. We knew each other, we liked each other, we lived with each other. There was a lot of connections there. And I think that comes through. When you see a band play and musicians are communicating, they’re communicating on some sort of cerebral level. It’s about the feeling that’s coming through the music. That’s awesome! It’s awesome when you see that. It’s so wonderful. It’s so different than “there’s the star and there’s the backup players and here’s a sound” and “Oh, I love this song!” It’s not like that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: For me, that’s interesting mostly because a lot of my music and musical influences are solo, multi-instrumentalist-type people who lock themselves in the studio and it’s them and maybe a couple other people. There’s no band. But, it’s “this is the product of my hands.” I do love a lot of band music, but I go to see live bands to support them and to see that music performed live. It’s cool to understand the dynamics and stuff. But, often there’s a different drummer and a different bass player.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Sometimes great songs are great songs.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: But, that’s cool that that’s such a part of the experience for you with the Dixie Dregs.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah, and it’s also what I look for when I hear other musicians play. The MIM here is great and you’ve told me about a couple of things. I went and saw Steve Gadd and Jimmy Johnson and some other session players. This guy, I forget the guitar player’s name, but he’s a great guitar player. Kind of one of these guys that you wouldn’t know about but he’s played on a gazillion albums. These are all older guys, but they were just so happy to be playing. They were all masters of their instruments. The music wasn’t weird, it was just a joy to listen to, though. So, that was another kind of thing that you can draw on that is part of this whole music thing. Back to the “weird” thing, now you compare and contrast that with…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Crazy Backwards Alphabet, perhaps?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. Sure. That’s actually a very interesting conversation because I met &lt;a href=&quot;http://en.wikipedia.org/wiki/Henry_Kaiser_(musician)&quot;&gt;Henry Kaiser&lt;/a&gt;, who’s another guy who I learn so much from. He’s like a musicologist. I haven’t seen Henry in many years but I’m thinking about it now because when I used to go over to his house, I would always just say, “Okay, what do you have?” And he would pull something out and say, “Here, listen to this.” All this amazing music. I can’t remember what his website is, but if you do a search, you can find him. He’s got a list of a hundred or more different things, each of which definitely qualifies as “weird” and each of which is wonderful and amazing in its own way.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: On Henry Kaiser’s website.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. I recently found it and he had redone it, but the links are still there. You probably want to put a link to that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How did that get started? How did that band get incarnated?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I met Henry through this guy, &lt;a href=&quot;http://www.ggould.com&quot;&gt;Geoff Gould&lt;/a&gt;. He’s a bass maker, he started Modulus graphite.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: He made the current basses you have, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. And Jeff lives in San Francisco and he made instruments for Grateful Dead, for Phil Lesh. He’s been around for a while. He started this whole graphite thing and one day I was visiting him in his shop and Henry came in and he introduced me and said, “Oh yeah, you guys should get to know each other.” I got to know Henry when I lived in San Francisco. We just stayed in touch. I can’t even begin to describe how he plays guitar because it’s very unusual.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, I watched a few videos and the one of your bass video all those years ago. That was really interesting, his technique, his ideas, everything about it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: He’s so out there. For me, again, he’s just a really smart guy and a really great guy to be around. I felt like when I was around him I was learning stuff. I guess that made me very open to these different approaches. He was really into Captain Beefheart and I never listened to anything by Captain Beefheart. He had this idea to put this band together. He had met this drummer from Sweden and said, “Let’s try and do something.” It was all his idea. He would bring these songs in and one of them was this Captain Beefheart song. I think it’s on one of these albums. If I get the title right, I think it’s “A Carrot is the Same as a Diamond to a Blind Horse.” It’s this really weird title. But, the whole thing about playing this was the patterns on the bass and the song itself was just so unusual and weird, but to play it, what I did was I didn’t think about rhythm, per se. What I learned playing with Henry was that rhythm—the Dregs was the exact opposite. It was: Here’s the beat and you’re playing just on top of it, a little behind it. You learn all these things as a musician that are exactly how you’re going to do it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It’s precisely constructed.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: It’s precision. Yeah. Precision can create a lot of amazing feels. It’s not all about being mechanical, right? But, you’re precisely dragging. That kind of stuff. With Henry and these guys, it was very different. It was, “Okay, we’re going to start here and we’re going to end here.” And what happens in between is stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s interesting.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: So we would play. At first I was really disconcerted by this whole thing because I’m very used to playing with precision and particularly drummers who are super-precise and great. As a bass player, it’s wonderful because I don’t have to think. I can just play.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: You feel, you communicate.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: So with this other thing, it was really different. Then I started to have a lot of fun with it. “This is really cool. It’s really, really different.” It was all about that kind of thing, like trying to understand rhythm from a different perspective. And the song, it’s like I’m not playing the song with precision, what I’m doing is playing a feeling and it starts “here” and it ends “here.” It was really cool and we had a great time with that. As a matter of fact, the follow-on to that is when I met Mike Keneally at a NAMM show, I didn’t know who Mike was, but I saw him play with Dweezil. They had this band in the early 90s and they were doing this crazy stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Is that Z?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: It was pre-Z. Bryan Beller was in the band and Mike and they were at the NAMM show and they did this thing. They had this famous medley they did that was about a bar and a half of 50 or 70 songs. It was incredible and it just flowed from beginning to end. I was talking to Mike and he didn’t mention the Dregs. He said, “I really like that Crazy Backwards Alphabet album.” That was the first conversation we had and I was like, “Oh, I like this guy because he’s talking about something different.” And he knew Henry and that was like, “Oh, we’ve been talking about doing something. Maybe this would be a catalyst.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How did John French get involved?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah, so John was the drummer in Beefheart.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Drumbo, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. That was the Crazy Backwards Alphabet thing. So, there was Drumbo and the guy from Sweden and he tracked down Drumbo. I guess Henry knew everybody in Beefheart’s band because he was just a fan.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Beefheart didn’t have fans. He had fanatics.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Drumbo was great. We did a couple of his songs on that album and he put out an album that I played on that was part of that whole time. It was pretty cool. He was just a guy living out in somewhere way out in… I forget what that valley is up north of LA.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: There’s a lot of them.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah, I see it in my head. You go up the 5 and you turn right and you’re off in there. It was the desert.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Logistically, how did all that work out? Were you making a living with this weird band?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Well, no. My little part of the story is that I got to be really good as a bass player for the Dregs, but I was really not a good journeyman musician. I really don’t like to play other people’s music if I don’t really love it somehow. The thing with Henry, we did a couple of gigs. Even The Mistakes did a gig or two. But, that was just so narrowly focused, there was no way to make money doing that really. The Dregs was kind of a miracle to make money. When the band broke up the first time and I moved to California, I just gave lessons and tried to play in different bands and really didn’t find anything. That’s when I started getting into computers and software and that whole thing.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: What was that like for you? Was there remorse or any sort of sadness moving on? Or was it more like: “This was so hard, I’m glad to find something reliable?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: This doesn’t have so much to do with weird music, but it’s interesting perhaps. For me, there was a lot of turmoil in the sense that I really loved the band and I loved being in the band. It got to be very difficult. We got to the point where we weren’t getting anywhere. We had a lot of issues with the business people and this kind of stuff. We just really worked hard and kind of burned out a little bit. I think Steve was ready to go to the next level, which he did. For me, it was just like, “Okay, what’s next?” I’d always been interested in computers, so I was attracted to that. When I got my first job in software, I was thrilled to get a paycheck.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Something reliable every two weeks…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah! It was like, “What am I gonna do?” I had lived the life of a musician through my 20s. It was very experiential. I worked really hard to be in the band, but a lot of it was just living life. I had no idea what corporate America was like. I’d heard about it. I knew there was a lot of people that worked jobs.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Did you enjoy your life as a musician? Or was it more about, “I loved playing music and everything else was secondary?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: It’s hard to say. I think I was kind of a pragmatist about it all. I do love playing music, and I did. I wasn’t willing to go down with it, per se.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Maybe Steve was, based on his desire to go to the next level.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Steve was just… There were a lot of issues with us and our business. The fact that we kind of had done the same thing for a while and it had just stopped in a way. We were successful, but we weren’t wildly successful. We had to keep working and at some point, it just doesn’t seem as much fun to go into the same old clubs and do it over and over and over. You want something a little different. Again, part of that is just the essence of being young and youthful and dissatisfied, not knowing anything. Steve was just such a consummate musician. Rod the same way, and T. Allen also at the time was the first violinist and he just wanted a normal life, too. So, he went off and got his medical degree. Mark O’Connor was in the band for a little bit. Some of these guys are just like, “I’m going to do whatever it takes. I’m me and this is it.” And they could pull it off.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I’d just read an interesting quote from JK Simmons. You’ve seen him in a lot of things, but… He said for himself he couldn’t even think of anything else to do with his life than act. He said, “That’s how I knew because I had absolutely no other interests. And even if I realized, this is really hard, I should find something else, nothing came to me.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: That’s exactly how I was when we started the band and through the time that we had the band. What happened for me was right around the time I turned 30, I started to think of other things. “Why am I limiting myself?” in a way.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I know you think the Dregs music is straightforward and not weird, but it’s very complex and very difficult.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I’ll give it that for sure.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And certainly precise! It’s definitely not pop music. It’s hardly blues/jazz/rock. It’s a fusion of many different things. What level did you have to exert yourself and make it so it was reasonably accessible so you could make money? Was there anything like that?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: The only thing we did was we were a live band. We understood when we played how a crowd responded to our songs, so we would try to build it to a peak as we’d go through a show. We always had a formula to our albums if you listen to them. There’s always a couple of rockers, there’s always a celtic/bluegrass-y thing in there, there’s a symphonic long-form thing, which I love all those things. They’re great. So we had a way of kind of performing through that stuff. That was kind of “manipulative,” if you will. We thought about that. In terms of the actual music, the only thing is we were trying to become more successful. I won’t say “make more money,” it was really more about becoming more successful and trying to get to a different level. The only pressures we ever had were from the record company and people trying to help us in some weird way. So, Clive Davis, when he signed with Arista, he had us in his office to talk about what we were doing. He’s a really weird guy. Have you seen him on TV? Do you know who he is?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, I can visualize him, but I don’t know why I’ve seen him.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: He’s one of these classic record producer, record company owner guys from back then who had a string of gazillion people who he made rich and famous. I think Whitney Houston was in that bunch, too.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: She was with the singer from Gentle Giant, actually.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Oh, Derek Shulman?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, Derek Shulman was her A&amp;amp;R guy.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Clive used to be one of these guys. All I remember is going into his office and he was like, “Yeah, you know, it’s really…” He was really kind of vague. All he could do was play us Jeff Beck’s Wired and said, “You should think about this.” And we didn’t understand what he was saying. “Are you telling us to play that? Yeah, we like Jeff Beck, but that’s not what we do.” At the same time, we’re like, “How come we’re stuck here? How do we get these people to do this thing?” We had done some tours with Santana and the Doobie Brothers, so that’s when we had this idea of “Let’s get these guys to do something with us. Yeah, they will. They’ll sing a couple of songs with us, some rock tunes with vocals and see if that does anything.” That was about the extent of us trying to manipulate our own success. That was the last album that we all did together. It was called “Industry Standard” for a reason.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Ah, now that makes sense.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: It’s like, “Oh God, people are telling us to…” You know. We were ridiculous. We had fun when we played. We always just felt like, “Well if we do that and people like that and people do respond to that, that’s what we’re going to do.” It wasn’t like a plan.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Right. It was a thing that worked for a time.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. Exactly.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s cool.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I don’t know any other way.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: The most straightforward thing I think in your discography is FWAP. Very blues/rock standard kind of album. Your solo stuff is all over the map. Could you go into how those things have both fit into who you are?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah, sure. Again, I’m kind of a fan of music and the Dregs were kind of a variety act in the sense of what I just was talking about. It’s like we had this kind of thing and this kind of thing and we sort of walk you through those things in a show. FWAP was more… The idea was “Can we do sort of bluesy improvisational music that has some kind of coherence?” Obviously the people in that group could play. They were all professional musicians with years of experience. With that thing, it was fun because it was just when we would play together, we would have fun again. It would gel. It’s hard to explain this kind of thing because unless you’re playing parts or you’re playing like a rock band, there’s a lot of feeling and there’s a lot of cerebral connection. It’s hard to explain, but…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Well, it’s not something to be captured on a disc, but it’s something to be experienced in a live setting.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I wonder about this stuff. I don’t really like these kinds of mystical explanations, but there really isn’t a lot of words or science behind it. You just do it. So, that was that. It was really intended as a live thing. I played with Joaquin in this band Zazyn, which was more electronic and fusion-y. He knew Hilary and said, “Let’s try and jam.” When we jammed with Hilary, I was just like, “Whoa, this is great!” She’s another one of those kind of drummers that’s just so fluid and powerful. So, that was kind of cool.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: What about Rama 2?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I think I told you I have dozens of unfinished pieces that I’m really just waiting for the time to be able to do them. And I plan on it, and it’s getting close, which is great because I had sort of given up on it for a while. Work takes so much out of you. We’ve talked about this a little bit. So, I can see that happening in a year or two, getting back into creating more music. There’s also this part of me which goes, “Do we really need more notes?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: But, it’s for you.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: That’s the thing! I’m like, “Well, you know I still want to do it for some reason, so what the heck?” And it’d be great if people listened to it. I have this sort of weird, naive belief that there’s a reason to do it. The way that other album came about was the same kind of thing. I’ve been working with sequencers and tapes forever. After I learned how to program, I thought, “Maybe I should get into this music stuff.” It’s funny, when Carl had mentioned the Atari ST, that was another computer I had. I learned how to program on that. I got a job with this company out of LA that was doing one of the first hard disk recording systems. I can’t remember the name, I’d have to look it up. The sound bite there is I did all this work on this thing and there were a couple of guys there who were brilliant. They were DSP guys. Math guys that really understood the stuff. And they knew a lot about operating systems and they were all musicians, but they had this whole thing. Of course, there was some guy who was “the business guy” and I remember doing all this work and going to get a paycheck and the guy said, “Yeah, come down, I’ll meet you on Thursday” and he wouldn’t be there. He just wouldn’t be there. And I was like, “What?” And finally they got about a month behind paying me and every now and again a check would come. Then I was like, “What the hell?” This is worse than the music business! Honestly, since then, I just remember having this very conscious thought because the guys who were writing this stuff were so creative and cool and the Atari at that time, you had Cubase… I think it was called Cubase then. There were a handful of sequencers coming out. Digital Performer was just coming out on the mac. There was so much cool stuff and creative stuff, but no money. Now you had engineers who were behaving like musicians. They just love what they’re doing so they just do it. Much respect for that, but at that point in my life, I was like, “I thought I was going to make a living!”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: “This is not the promise I was looking for!”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Exactly. So then I started doing all this boring business stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: In terms of composition, I think a lot about that Rama album. It’s very diverse, there’s some very complex melody, chord structure, you’ve got amazing musicians on it, but when I think back to the songs, I think kind of like what you were saying earlier: How did he think like that? Do you start with a melody? You mentioned that you’ll hear a sound or something will come out of your fingers…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Just to walk through those things, the stuff that has a lot of notes in the bass were just bass lines that just “came out.” I was playing and I would find something and usually what I would do is program that into that computer so I would have it there and then I would start to layer things onto it. A lot of those songs got almost done for a long time, then finally I was talking to Mike Keneally and said, “You gotta help me come and finish these things because I’m not finishing anything.” Then he came to my house for 5 days and was like, “Okay, yeah, that’s great.” I had all of these things that were just kind of almost there completely. Where it needed an additional overlay of a melody, he would throw it on there. A lot of that stuff I did have there. So the things with the thumpy bass lines were bass oriented. The weirder sax things came from sounds. I was playing around with sounds in the synth and they would just start to make me think, “Oh, I love the way this sounds!” Every sound that I play, I will immediately will play some melody or chord around it. It just comes out.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: For me, I’ll flip through all the patches and think, “Oh, I could do something with that.” It’s more about the potential. I don’t actually create something, but I know something is there. I hear a sound and think, “Nope, doesn’t strike anything in me,” or, “Oh, there definitely is something in there.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: So a lot of that is the sound discovery stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: But it’s primarily in the computer?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Do you primarily compose on Logic now?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Yeah. And I also like a 6-string bass for writing. I can always come up with chords and lines and things that you can layer stuff on. It’s not hard to write music for me.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I try to wrap these interviews up with: If somebody were to say to you, “Hey, you were a musician! You did it! I like to write music that people don’t listen to.” What would you say to somebody? Mostly it’s a question of my own because that’s my scenario, but, if I were interested in being a full-time musician, would you recommend to that person they do it? They follow their passion? Or, “You know what, you really should be more pragmatic and find something that’ll make you money.” How do you approach those kinds of questions?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: Being a human being is complicated. I’ve certainly had my own fair share of dysfunction in my life. I think people can fool themselves into a misguided sense of passion, which is actually kind of running away from responsibility. On the other hand, sometimes those people really luck up and make it. They end up making a living doing whatever it is. You can’t talk to a musician who has made a living who doesn’t say, “I always knew I was going to do this.” There’s a certain amount of luck involved. I think it’s really hard to make a living now doing music. So, I generally tell people if anyone ever bothers to ask, especially when you’re young and you’ve got tons of energy… I used to work and then play music all night. Why not? Then you can get some time to figure it out and figure out what’s important to you. But! There’s lots of tools and lots of cool stuff. The hardest thing is finding other people who think like you to be around and work with if you want to.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Do you have any recent recommendations or discoveries of music?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I find myself actually drawn to ambient music now. There’s so many labels and people that do this stuff, but just the other day I was going into VLC or iTunes, but there’s internet radio by classification or category. You can always discover stuff if you sit down and just go through some of those things and hear things. And there’s always incredible things. For fear of putting any undue focus on one thing for the five people who are going to hear this at some point, I kind of feel like there’s a lot of cool stuff out there, but I don’t even have time to listen or explore everything.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Well, your recommendation for Avishai Cohen… game-changer for me. So, I thank you for that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: That’s cool. If there’s anything of that caliber, I’ll be sure to let you know.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Cool. Well, thank you so much for your time. I appreciate you coming to my living room, dealing with all this.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AW: I know, it’s fun. To me, it’s kind of an inspiration to meet someone who is just pursuing this kind of thing or the thought or the line in your own life. You’ve got a dual life going on. Do it while you can. I applaud you for it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Thank you. Cool! Thanks a lot, Andy!&lt;/p&gt;
-
-&lt;p&gt;AW: Thank you!&lt;/p&gt;
+&lt;p&gt;I don’t think he’s released any other music, but I’m probably wrong about that. Anyway, there’s plenty to check out and enjoy.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Apr 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/andy-west</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/andy-west</guid>
+        <pubDate>Mon, 25 May 2015 12:14:46 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/discover/dale-turner/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/dale-turner/</guid>
         
         
-        <category>interview</category>
+        <category>discover</category>
         
       </item>
     

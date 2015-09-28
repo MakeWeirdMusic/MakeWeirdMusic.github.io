@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Joe Baldassarre"
+title:  "Joe Baldassarre Interview"
 date:   2014-07-27 19:14:46
 artist: joe-baldassarre
 author: anthony-garone
 image: joe-baldassarre
 category: interview
-permalink: /interview/joe-baldassarre
+permalink: /interview/joe-baldassarre/
 oneliner: Dr. Joe is professor emeritus of music at Boise State University. He's also a prog rocker.
 seo_description: Dr. Joe is professor emeritus of music at Boise State University. He's also a prog rocker.
 seo_keywords: the path, medieval music, early music, gentle giant, king crimson, luter, young jane

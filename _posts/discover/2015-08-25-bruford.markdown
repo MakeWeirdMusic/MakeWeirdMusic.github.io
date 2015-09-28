@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Bruford
+title:  Discover Bruford
 date:   2015-08-25 19:14:46
 artist: bill-bruford
 author: anthony-garone
 image: bill-bruford
 category: discover
-permalink: /discover/bill-bruford
+permalink: /discover/bill-bruford/
 oneliner: Crazy time signatures, virtuosity, and synthy prog fusion. Mmmm...
 seo_description: Bill Bruford is a unique drummer who has worked with Yes, King Crimson, Genesis, and tons of other great artists.
 seo_keywords: Yes, Steve Howe, Chris Squire, Jon Anderson, Rick Wakeman, Robert Fripp, King Crimson, Allan Holdsworth, Jeff Berlin, The Unknown John Clark, Dave Stewart

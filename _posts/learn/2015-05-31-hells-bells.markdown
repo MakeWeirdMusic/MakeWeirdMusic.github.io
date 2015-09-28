@@ -6,7 +6,7 @@ artist: bill-bruford
 author: anthony-garone
 image: bill-bruford-simmons
 category: learn
-permalink: /learn/hells-bells
+permalink: /learn/hells-bells/
 oneliner: Count to 19 and play weird chords? No biggie.
 seo_description: "Hell's Bells is a track off Bruford's 1979 album, One of a Kind, and uses odd time signatures and key modulations for great listening and playing."
 seo_keywords: "Bill Bruford, Allan Holdsworth, Dave Stewart, Jeff Berlin, Bruford, One of a Kind, Hell's Bells"

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "The Residents"
+title:  "Discover The Residents"
 date:   2014-04-11 19:14:46
 artist: the-residents
 author: anthony-garone
 image: the-residents
 category: discover
-permalink: /discover/the-residents
+permalink: /discover/the-residents/
 oneliner: Eyeballs, top hats, and the weirdest performance art you've never heard.
 seo_description: The Residents have been making weird music since the 1960s and continue to terrify listeners to this day.
 seo_keywords: residents, band, weird, avant garde, art rock

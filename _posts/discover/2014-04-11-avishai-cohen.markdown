@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Avishai Cohen"
+title:  "Discover Avishai Cohen"
 date:   2014-04-11 19:14:46
 artist: avishai-cohen
 author: anthony-garone
 image: avishai-cohen
 category: discover
-permalink: /discover/avishai-cohen
+permalink: /discover/avishai-cohen/
 oneliner: Genre-defying jazz-ish art in the form of music.
 seo_description: Avishai Cohen is a bassist and jazz composer from Israel. He employs several tactics to make his music incredibly beautiful. And weird.
 seo_keywords: avishai cohen, jazz, multiple genres, time signatures, instrumentation
