@@ -44,6 +44,7 @@
   <meta name="twitter:image" content="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.png" />
   <meta name="twitter:image:src" content="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.png" />
 
+{% if jekyll.environment == "production" %}
   <!-- Google Analytics -->
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -54,4 +55,5 @@
   ga('create', 'UA-67825692-1', 'auto');
   ga('send', 'pageview');
   </script>
+{% endif %}
 </head>

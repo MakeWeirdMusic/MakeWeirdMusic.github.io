@@ -24,7 +24,7 @@ techniques:
 
 ## Some Context
 
-Below is a 45-minute interview with Steve Vai conducted on September 12, 2015 at 12PM. It was filmed/engineered by [Carl King](/interview/carl-king).
+Below is a 1-hour interview with Steve Vai conducted on September 12, 2015 at 12PM. It was filmed/engineered by [Carl King](/interview/carl-king).
 
 **[Don't know who Steve Vai is? Check out our Discover post about Steve!](/discover/steve-vai)**
 
@@ -57,7 +57,7 @@ Carl is an expert filmmaker, author, and [former musician](/discover/carl-king).
 Anthony: Hi, this is Anthony from Make Weird..
 {: .interviewer}
 
-Steve proceeds to give me a noogie and then rearrange my hair.
+[Steve proceeds to give me a noogie and then rearrange/fix my hair.]
 
 Steve: Get outta here!
 {: .interviewee }
