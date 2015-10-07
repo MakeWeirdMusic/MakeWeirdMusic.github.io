@@ -148,7 +148,7 @@ Most of my gear is pretty low end and my son’s band has much nicer equipment t
 
 ## What do you listen to for inspiration?
 
-I love a lot of the early church music, such as William Byrd. I am a big fan of Bach, but he is sometimes too constrained by the rules. Choral music. A friend here at GORGG just gave me a CD of Gabriel Faure’s piano quintets, which should be nice. I don’t care much for modern pop music or much of the church music nowadays.
+I love a lot of the early church music, such as William Byrd. I am a big fan of Bach, but he is sometimes too constrained by the rules of music theory and harmony. The ways he always returns to "home" are limits I like to explore beyond. I like a lot of choral music. A friend here at GORGG just gave me a CD of Gabriel Faure’s piano quintets, which should be nice. I don’t care much for modern pop music or much of the church music nowadays.
 
 ## Other Anecdotes
 
@@ -170,5 +170,5 @@ I didn't actually write out *Knots* for the band. We just kind of did it line by
 
 ### Lotus Super 7
 
-In the 1970s, I owned a Lotus Super 7 Series 4. In an effort to be practical, I ended up selling it, but there was no market for it where I was living, so I had a friend drive it up to the city to sell it. He loved it so much he ended up buying it himself. I really miss that car and woud love to get another someday.
+In the 1970s, I owned a Lotus Super 7 Series 4. In an effort to be practical, I ended up selling it, but there was no market for it where I was living, so I had a friend drive it up to the city to sell it. He loved it so much he ended up buying it himself. I really miss that car and would love to get another someday.
 
