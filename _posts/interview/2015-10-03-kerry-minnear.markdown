@@ -54,7 +54,7 @@ The only guarantee I had of a good time was a ticket to see [Three Friends](), a
 
 ## Three Friends Concert
 
-The concert venue doors opened at 7PM and I waited an hour amongst people (primarily speaking French) who all seemed to have a buddy to hang with. I hadn’t felt so lonely in quite some time.
+The concert venue doors opened at 7PM and I waited an hour amongst people (primarily speaking French) all of whom seemed to have a buddy to hang with. I hadn’t felt so lonely in quite some time.
 
 The opening act, [The Moulettes](), blew me away (more on that in another post coming soon) and Three Friends performed. Three Friends were great, too! I’d never seen/heard Gentle Giant music performed live, so it was a real treat to get ~2 hours of it amongst ~1,200 enthusiastic fans. At some point during the show, I saw Kerry Minnear sitting about 10 seats to my right and my stomach clenched in nervous excitement. “He’s here! He’s really here!” I had no idea at this time how this would be the very tip of the iceberg in terms of my interaction with him over the course of the next two days.
 
@@ -74,11 +74,11 @@ Soon, I met a few other super-friendly people (namely Marc, AKA “No More Phil�
 
 !Me and Gary
 
-We had a nice conversation and then went our separate ways for a morning activity and lunch. I went with Marc, Dave (AKA “twosheds”), and his wife, Karen to a pub to watch a soccer game. Then we went to a small coffee shop to see The Moulettes play again, where Malcolm kindly introduced himself and Kerry ended up sitting down at the same table as me. Feeling slightly overwhelmed, I gave him the gift box and he put it in his pocket, thanking me quietly. About 15 other GORGG attendees filed in over time. The place was packed.
+We had a nice conversation and then went our separate ways for a morning activity and lunch. I went with Marc, Dave (AKA “twosheds”), and his wife, Karen, to a pub to watch a soccer game on TV. Then we went to a small coffee shop to see The Moulettes play again, where Malcolm kindly introduced himself and Kerry ended up sitting down at the same table as me. Feeling slightly overwhelmed, I gave Kerry the gift box and he put it in his pocket, thanking me quietly. About 15 other GORGG attendees filed in over time. The place was packed.
 
 ## Meeting Kerry Minnear
 
-After The Moulettes slayed us all with a wonderful acoustic set, approximately 20 GORGG people left to find a pub. Drinking is a frequent activity at GORGG, I would find out. On the way to the pub, I saw Kerry looking around calling my name.
+After The Moulettes slayed us all with a wonderful acoustic set, approximately 20 GORGG people left to find a pub. Drinking is a frequent activity at GORGG. On the way to the pub, I saw Kerry looking around calling my name.
 
 “Antony? Antony?” (This is how British people say my name.)
 
@@ -106,7 +106,7 @@ Keep in mind that this interview was not recorded and is not a direct transcript
 
 ## What Happened After Gentle Giant?
 
-After Gentle Giant disbanded in 1980, everyone went their separate ways. Ray went on to make techno music and did quite well with that. He used some sort of pseudonym and was part of a larger crowd of floating musicians doing these sort of techno releases for discos and clubs. He did quite well with it for a time. He then went on to do video and DVD work, like building interactive menus and assembling DVD content for Marillion, Queen, and some Hollywood stuff. He’s done all the artwork and video stuff for our recent releases, too, like [*The Power and the Glory* remix DVD]() and the new [*Octopus* remix DVD](). He and I promised to work together on some collaborative material, but neither of us was terribly impressed with the other’s ideas. That kind of fell flat. That was a few years ago.
+After Gentle Giant disbanded in 1980, everyone went their separate ways. Ray went on to make techno music and did well with that. He used some sort of pseudonym and was part of a larger crowd of floating musicians doing these sort of techno releases for discos and clubs. He then went on to do video and DVD work, like building interactive menus and assembling DVD content for Marillion, Queen, and some Hollywood stuff. He’s done all the artwork and video stuff for our recent releases, too, like [*The Power and the Glory* remix DVD]() and the new [*Octopus* remix DVD](). He and I promised to work together on some collaborative material, but neither of us was terribly impressed with the other’s ideas. That kind of fell flat. That was a few years ago.
 
 Derek went on to work in the music business. He was always the business person behind Gentle Giant, which was great for us and difficult in some ways. He managed our salaries, helped to use record company advances effectively, which were effectively loans and not salary payments from the record company. This was great because it reduced our taxes in that the advances were like loans that we had to pay off in terms of recouping of costs. The record company would give us a sizable advance and Derek would split it up so we could all live off it for a decent amount of time. Then we would also have money left over to go record our music in the studio. As this was more of a loan that we had to payoff through record sales, we were basically off the hook in terms of paying taxes on the “income,” which made life a lot easier.
 
@@ -124,7 +124,7 @@ We ended up moving to the midlands into a dreadful area near Birmingham and we�
 
 ## What Are You Up To Lately?
 
-I retired a couple years ago and my wife also retired, so we have been spending a lot of time at home, helping our children out with their lives and taking care of our parents. It’s quite an ordinary life, really. We have a couple grandchildren and we get to see them often.
+I retired a couple years ago and my wife also retired, so we have been spending a lot of time at home, helping our children out with their lives and taking care of our parents. It’s an ordinary life, really. We have a couple grandchildren and we get to see them often.
 
 As far as music, I play very regularly at church. I play a lot of guitar now, and some bass, with some drums as needed. Our church is about 100 people with 4 drummers (not at the same time like King Crimson), so I don’t play drums very much. A couple of them are quite good. For the most part, I volunteer and participate where I am needed. I fill the gaps.
 
@@ -134,15 +134,15 @@ I don’t like leading the church band or choosing the music because I’m too p
 
 ## Are You Writing Any New Music?
 
-In terms of composing, I’ve been in a bit of a dry spell and I’m working through that. It has been the cause of some anxiety because I know what I used to do with Giant and that work set an expectation of a standard for my music. Perhaps I am a different person now or I’ve evolved. I am still looking for that person inside of me. Nowadays, I start to compose and I don’t seem to have any ideas that really pull me in and show real cause for mental investment. If it isn’t worth the investment, I don’t find much reason to do anything but scrap it. It isn’t very good, even according to my friends!
+In terms of composing, I’ve been in a bit of a dry spell and I’m working through that. It has been the cause of some anxiety because I know what I used to do with Giant and that work set a personal expectation of a standard for my music. Perhaps I am a different person now or I’ve evolved. I am still looking for that person inside of me. Nowadays, I start to compose and I don’t seem to have any ideas that really pull me in and show real cause for mental investment. If it isn’t worth the investment, I don’t find much reason to do anything but scrap it. It isn’t very good, even according to my friends!
 
-I am usually composing on the piano when I do try to compose. Sometimes I’ll just play some chord progressions and let a finger or two wander and do what they wish, but nothing in the past couple of years has really been fruitful. It’s been quite a challenge for me.
+I am usually composing on the piano when I do try to compose. Sometimes I’ll just play some chord progressions and let a finger or two wander and do what they wish, but nothing in the past couple of years has really been fruitful. It’s been a challenge for me.
 
 One of my daughters is involved in [Lord of the Dance](), the [Michael Flatley]() thing, and she gets to do some lovely Celtic singing. And my other daughter is singing in another band. I thought it would be nice to be able to write some nice contrapuntal songs that the three of us could perform together, so I promised myself and them that I would write some stuff in my retirement, but it just hasn’t gone anywhere.
 
-I have a studio upstairs in the loft at home and a way of recording the piano downstairs. Most ideas start at the piano and if there’s anything worth investing in, I’ll take that idea to the computer upstairs where the rest of the instruments are.
+I have a studio upstairs in the loft at home and a way of recording the piano downstairs. Most ideas start at the piano and if there’s anything worth investing in, I’ll take that idea to the computer upstairs where the rest of the instruments are. It's not a very convenient workflow. Perhaps that has affected my lack of productivity as well.
 
-I still have my old white cello, though the bow is broken and the instrument is quite beat up after someone borrowed it. I’ve got my Tokei Stratocaster copy, which I got quite cheap for 80 quid somewhere, and I would love to upgrade, but I really dislike the instrument shopping experience. I’ll try a strat or a tele in the store and bring my Tokei to compare with the new guitar and say, “No, this isn’t quite as nice as my Tokei.” Those guitars are looked upon quite favorably in the market, it seems.
+I still have my old white cello, though the bow is broken and the instrument is quite beat up after someone borrowed it. I’ve got my Tokei Stratocaster copy, which I got very cheap for 80 quid somewhere, and I would love to upgrade, but I really dislike the instrument shopping experience. I’ll try a strat or a tele in the store and bring my Tokei to compare with the new guitar and say, “No, this isn’t as nice as my Tokei.” Those guitars are looked upon favorably in the market, it seems.
 
 Most of my gear is pretty low end and my son’s band has much nicer equipment than I do, which is something I probably need to change. I’m looking at getting some new gear, like a better Strat, maybe a Tele, and an Avid Eleven Rack.
 
@@ -166,7 +166,7 @@ We also had a tire blow in the middle of the summer in the Arizona desert. It wa
 
 ### Knots
 
-I didn't actually write out *Knots* for the band. We just kind of did it line by line.
+I didn't actually write out *Knots* for the band. We just kind of did it line by line, stacking one part on the next until those parts were complete. The rest of the song is straightforward enough and didn't require anything to be written down.
 
 ### Lotus Super 7
 
