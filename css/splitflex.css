@@ -218,7 +218,7 @@ blockquote p:last-child, #more-content p:last-child {
 }
 
 .info .author {
-  font-size: 1.25em;
+  font-size: 1.75em;
   margin-bottom: 1em;
 }
 
@@ -485,10 +485,6 @@ img.bg-dark {
     font-size: 1.5em;
   }
 
-  .info .author {
-    font-size: 1em;
-  }
-
   .info .artist {
     width: 60%;
   }
@@ -536,10 +532,6 @@ img.bg-dark {
 
   .info .page-links, header {
     font-size: 1.2em;
-  }
-
-  .info .author {
-    font-size: 1em;
   }
 
   .info .artist {
@@ -787,13 +779,13 @@ img.bg-dark {
 
 }
 
-@media (min-height: 900px) and (min-width: 800px) {
+@media (min-height: 950px) and (min-width: 800px) {
   .info {
     font-size: 0.8em;
   }
 
   .info .artist {
-    width: 40%;
+    width: 50%;
   }
 
   .info .oneliner {
@@ -806,7 +798,7 @@ img.bg-dark {
 
 }
 
-@media (max-height: 899px) {
+@media (max-height: 949px) {
   #profile {
     width: 10%;
     height: 10%;
@@ -818,13 +810,13 @@ img.bg-dark {
 
 }
 
-@media (max-height: 899px) and (min-width: 800px) {
+@media (max-height: 949px) and (min-width: 800px) {
   .info {
     font-size: 0.75em;
   }
 
   .info .artist {
-    width: 25%;
+    width: 45%;
   }
 
   .info .social {
@@ -845,7 +837,7 @@ img.bg-dark {
 
 }
 
-@media (max-height: 899px) and (max-width: 799px) {
+@media (max-height: 949px) and (max-width: 799px) {
   .info {
     font-size: 0.8em;
   }
