@@ -3,6 +3,7 @@ layout: post
 title:  "Kerry Minnear Interview"
 date:   2015-10-04 19:14:46
 artist: gentle-giant
+member: Kerry Minnear
 author: anthony-garone
 image: gentle-giant
 category: interview
