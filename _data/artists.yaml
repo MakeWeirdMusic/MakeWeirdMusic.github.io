@@ -23,6 +23,7 @@ mwm:
   twitter: http://twitter.com/MakeWeirdMusic
   art_prod: https://cdn.rawgit.com/MakeWeirdMusic/art/master/
   art_dev: https://rawgit.com/MakeWeirdMusic/art/master/
+  assets_prod: https://cdn.rawgit.com/MakeWeirdMusic/assets/master/
   github: http://github.com/MakeWeirdMusic
 anthony-garone:
   name: Anthony Garone

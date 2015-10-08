@@ -449,7 +449,7 @@ img.bg-dark {
   border-radius: 10px;
 }
 
-#artist-table {
+#artist-table, .twitter-tweet {
   margin-left: auto;
   margin-right: auto;
 }

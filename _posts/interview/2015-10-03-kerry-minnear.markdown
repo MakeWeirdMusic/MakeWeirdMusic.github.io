@@ -45,7 +45,7 @@ It turns out that GG is a non-trivial part of many other people’s lives as wel
 
 I made some custom gift boxes as a token of appreciation for Gary and Kerry. The boxes contained a handwritten card, an Amazon gift card, and a USB flash drive containing videos of the [Steve Vai interview](/interview/steve-vai), [Mike Keneally interview](/interview/mike-keneally), [*Harnch* for 4 guitars](/share/harnch), and several GG-inspired songs I’d released (namely [*Pune*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/pune-feat.-jake-ineck/id561140550?i=561140751) and [*God Rest Ye Merry, Gentle Giant*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/god-rest-ye-merry-gentle-giant/id584043305)).
 
-!CUSTOM GIFT BOXES
+![Make Weird Music gift boxes for Kerry Minnear and Gary Green]({{ site.data.artists.mwm.assets_prod }}interview/kerry-minnear/mwm-boxen.jpg)
 
 ## What Have I Gotten Myself Into?
 
@@ -61,19 +61,23 @@ The opening act, [The Moulettes&nbsp;<i class="non-mwm fa fa-external-link-squar
 
 After the show, I saw a guy with a GORGG shirt and introduced myself. He said to meet in the “hospitality room” at the hotel after the show. I didn’t know where that really was and I was pretty exhausted from traveling all day, so I just went back to my hotel and got some much-needed rest.
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Had a wonderful time yesterday with a couple dozen int&#39;l Gentle Giant fans in Montreal! And Three Friends! <a href="http://t.co/TAJpWQY1aI">pic.twitter.com/TAJpWQY1aI</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/651018950344593408">October 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Meeting Gary Green
 
 In the morning, I found the hospitality room. No one was there. I waited in the lobby until I saw a guy wearing a Gentle Giant shirt. He was a college-grad filmmaker named Morgan Miller who made a great music video based on Free Hand.
 
 <div class="video-wrapper">
-MORGAN'S FILM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vUu3A5HOxLY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Pretty funny.
 
 Soon, I met a few other super-friendly people (namely Marc, AKA “No More Phil”) and then Gary Green and his wife. I nervously pulled the gift box from my jacket pocket, thanking him as he opened it up. He was touched and gave me a big hug, thanking me for the gift. It was so welcoming! Then someone suggested we get a picture together.
 
-!Me and Gary
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Met Gary Green of <a href="https://twitter.com/GGIANTMUSIC">@GGIANTMUSIC</a> this morning. Very kind person. <a href="http://t.co/tyvooEj9sY">pic.twitter.com/tyvooEj9sY</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/650690466019733504">October 4, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 We had a nice conversation and then went our separate ways for a morning activity and lunch. I went with Marc, Dave (AKA “twosheds”), and his wife, Karen, to a pub to watch a soccer game on TV. Then we went to a small coffee shop to see The Moulettes play again, where Malcolm kindly introduced himself and Kerry ended up sitting down at the same table as me. Feeling slightly overwhelmed, I gave Kerry the gift box and he put it in his pocket, thanking me quietly. About 15 other GORGG attendees filed in over time. The place was packed.
 
@@ -99,13 +103,16 @@ After The Moulettes slayed us all with a wonderful acoustic set, approximately 2
 
 He then introduced me to his wife, who also thanked me for the gift. I was astounded at their humility and down-to-earth nature.
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Meeting Kerry Minnear of <a href="https://twitter.com/GGIANTMUSIC">@GGIANTMUSIC</a>. Incredible. Never thought this would happen. <a href="http://t.co/M9hMN75zlz">pic.twitter.com/M9hMN75zlz</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/650791133728100352">October 4, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Kerry and I ended up talking for ~90 minutes about a variety of subjects. I’ll try to recount them here as best I can. I did not expect to do an ad-hoc interview and had brought a suitcase full of video, audio, and lighting equipment just in case either Gary or Kerry found the time to do an interview.
 
 ## Interview Summary
 
 Keep in mind that this interview was not recorded and is not a direct transcript in any way. What I've written below is a best-attempt at capturing Kerry's words by memory on my flight back home from Montreal.
 
-I’d consider it a recounting of events and conversation, at best. He is a man of Christian faith and is humble beyond description. He specifically doesn’t want to be “quoted” or committed to a misspoken statement. So, I will do my best to summarize what we talked about and try to recall what he said as he said it in a way that synthesizes a lot of our casual conversation.
+I’d consider it a synthesized recounting of events and conversation, at best. He is a man of Christian faith and is humble beyond description. He specifically doesn’t want to be “quoted” or committed to a misspoken statement. So, I will do my best to summarize what we talked about and try to recall what he said as he said it in a way that synthesizes a lot of our casual conversation.
 
 ## What Happened After Gentle Giant?
 
@@ -151,7 +158,7 @@ I’d consider it a recounting of events and conversation, at best. He is a man 
 
 ## What do you listen to for inspiration?
 
->I love a lot of the early church music, such as [William Byrd](https://en.wikipedia.org/wiki/William_Byrd). I am a big fan of [Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach), but he is sometimes too constrained by the rules of music theory and harmony. The ways he always returns to "home" are limits I like to break. I like a lot of choral music. A friend here at GORGG just gave me a CD of [Gabriel Faure](https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9)’s piano quintets, which should be nice as I'm already familiar with several of Faure's works. I don’t care much for modern pop music or much of the church music nowadays. The choruses of the songs just aren't terribly interesting.
+>I love a lot of the early church music, such as [William Byrd](https://en.wikipedia.org/wiki/William_Byrd). I am a big fan of [Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach), but he is sometimes too constrained by the rules of music theory and harmony. The ways he always returns to "home" are limits I like to break. I like a lot of choral music and classical music. A friend here at GORGG just gave me a CD of [Gabriel Faure](https://en.wikipedia.org/wiki/Gabriel_Faur%C3%A9)’s piano quintets, which should be nice as I'm already familiar with several of Faure's works. I don’t care much for modern pop music or much of the church music nowadays. The choruses of the songs just aren't terribly interesting.
 
 ## Interesting Tidbits
 
@@ -161,7 +168,14 @@ Kerry also shared several interesting facts about his life that I thought would 
 - *Knots* was not written on paper. They recorded it one layer at a time in the studio under Kerry's guidance.
 - He once went to play [*Experience*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/experience/id731938339?i=731938359) on a [Mighty Wurlitzer organ&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Wurlitzer) wearing a black cape and got stuck in the organ pit when the power went out just before performing.
 - While driving the tour bus through Arizona, he slammed on the brakes upon seeing a [roadrunner](https://en.wikipedia.org/wiki/Roadrunner) crossing the road, which woke up the entire band and he was so excited to tell them what he'd seen.
+- His [vibraphone](https://en.wikipedia.org/wiki/Vibraphone) was from his school days and he acquired them from one of his percussion teachers. I forget whether he said he still had them, but I'm pretty sure he doesn't.
+- Despite living an hour from Robert Fripp and being in the touring circuit at the same time as King Crimson, Kerry and Robert have never met.
+- Kerry is a big Peter Gabriel fan, but the two have never met. They were recently in the same room at the 2015 Prog Awards where Gentle Giant won a lifetime achievement award, but Kerry and Peter didn't cross paths.
+- He doesn't feel that Gentle Giant fit within the 'prog rock' genre. It's too constrained a category to define what GG was going for.
 
 ## Wrap-Up
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Had such a great time at the GORGG Gentle Giant gathering in Montreal. Thank you to all my new friends! <a href="http://t.co/lUNqM5v9bY">pic.twitter.com/lUNqM5v9bY</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/651421086408667137">October 6, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Kerry and I spent many hours getting to know each other personally that weekend. I could not believe what a kindred spirit I'd found in him and I feel that we have developed a new friendship that I hope will endure for years to come. I am so grateful for the experience I had at GORGG and the open arms with which everyone welcomed me. What a great community! Next year's GORGG can't come soon enough...
