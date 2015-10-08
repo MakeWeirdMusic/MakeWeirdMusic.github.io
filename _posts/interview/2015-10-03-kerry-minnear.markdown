@@ -25,7 +25,7 @@ techniques:
 
 ## A Friendly Disclaimer
 
-The following interview content with Kerry Minnear of Gentle Giant is in a pretty different format than you might expect because of the nature of how Kerry and I met and conducted an informal interview over the weekend of October 3, 2015. It was not filmed, no audio was captured, and it was completely impromptu. This may seem less like an interview than any other interview you’ve ever read; however, I’ve never claimed to be a journalist, nor even a storyteller. I can assure you I will do my best here to describe the experience I had talking at great length with Kerry.
+The following interview content with [Kerry Minnear&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://en.wikipedia.org/wiki/Kerry_Minnear) of Gentle Giant is in a pretty different format than you might expect because of the nature of how Kerry and I met and conducted an informal interview over the weekend of October 3, 2015. It was not filmed, no audio was captured, and it was completely impromptu. This may seem less like an interview than any other interview you’ve ever read; however, I’ve never claimed to be a journalist, nor even a storyteller. I can assure you I will do my best here to describe the experience I had talking at great length with Kerry.
 
 This is a long-form article because it is such a personal story and I’m writing this as I’m coming off a bit of a high from the events that have taken place just hours ago.
 
@@ -151,8 +151,8 @@ I’d consider it a recounting of events and conversation, at best. He is a man 
 
 ## What do you listen to for inspiration?
 
->I love a lot of the early church music, such as William Byrd. I am a big fan of Bach, but he is sometimes too constrained by the rules of music theory and harmony. The ways he always returns to "home" are limits I like to explore beyond. I like a lot of choral music. A friend here at GORGG just gave me a CD of Gabriel Faure’s piano quintets, which should be nice. I don’t care much for modern pop music or much of the church music nowadays.
+>I love a lot of the early church music, such as William Byrd. I am a big fan of Bach, but he is sometimes too constrained by the rules of music theory and harmony. The ways he always returns to "home" are limits I like to break. I like a lot of choral music. A friend here at GORGG just gave me a CD of Gabriel Faure’s piano quintets, which should be nice as I'm already familiar with several of Faure's works. I don’t care much for modern pop music or much of the church music nowadays. The choruses of the songs just aren't terribly interesting.
 
 ## Wrap-Up
 
-Kerry and I spent many hours getting to know each other that weekend. I could not believe what a kindred spirit I'd found in him and I feel that we have developed a new friendship that I hope will endure for years to come. I am so grateful for the experience I had at GORGG and the open arms with which everyone welcomed me. What a great community! Next year's GORGG can't come soon enough...
+Kerry and I spent many hours getting to know each other personally that weekend. I could not believe what a kindred spirit I'd found in him and I feel that we have developed a new friendship that I hope will endure for years to come. I am so grateful for the experience I had at GORGG and the open arms with which everyone welcomed me. What a great community! Next year's GORGG can't come soon enough...
