@@ -29,6 +29,9 @@ Below is an epic, huge, deep 90-minute interview with Mike Keneally conducted on
 
 **[Don't know who Mike Keneally is? Check out our Discover post about Mike!](/discover/mike-keneally)**
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Laughing about talking about making weird music with <a href="https://twitter.com/MikeKeneally">@MikeKeneally</a> <a href="http://t.co/9aIE1jK07T">pic.twitter.com/9aIE1jK07T</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/642148128154517504">September 11, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Interview video
 
 Here's a video of the interview:
