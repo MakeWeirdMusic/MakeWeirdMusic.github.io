@@ -160,6 +160,7 @@ Kerry also shared several interesting facts about his life that I thought would 
 - He owned a [Lotus Super Seven Series 4&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Lotus_Seven) (I have always wanted a Super 7 and even owned a kit for a replica!)
 - *Knots* was not written on paper. They recorded it one layer at a time in the studio under Kerry's guidance.
 - He once went to play [*Experience*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/experience/id731938339?i=731938359) on a [Mighty Wurlitzer organ&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Wurlitzer) wearing a black cape and got stuck in the organ pit when the power went out just before performing.
+- While driving the tour bus through Arizona, he slammed on the brakes upon seeing a [roadrunner](https://en.wikipedia.org/wiki/Roadrunner) crossing the road, which woke up the entire band and he was so excited to tell them what he'd seen.
 
 ## Wrap-Up
 
