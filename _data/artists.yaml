@@ -9,6 +9,7 @@ steve-vai:
   google: https://plus.google.com/108889577909943567150
   facebook: https://www.facebook.com/stevevai
   twitter: https://www.twitter.com/stevevai
+  instagram: https://instagram.com/stevevaihimself/
 bill-bruford:
   name: Bill Bruford
   website: http://billbruford.com
@@ -24,6 +25,8 @@ mwm:
   art_prod: https://cdn.rawgit.com/MakeWeirdMusic/art/master/
   art_dev: https://rawgit.com/MakeWeirdMusic/art/master/
   github: http://github.com/MakeWeirdMusic
+  pinterest: http://pinterest.com/MakeWeirdMusic
+  instagram: http://instagram.com/MakeWeirdMusic
 anthony-garone:
   name: Anthony Garone
   website: http://garone.org
@@ -107,6 +110,7 @@ the-residents:
   itunes: https://itunes.apple.com/us/artist/the-residents/id26238269
   facebook: https://www.facebook.com/TheOfficialResidents
   twitter: https://twitter.com/theresidents
+  instagram: https://instagram.com/theofficialresidents/
 gentle-giant:
   name: Gentle Giant
   website: http://www.blazemonger.com/GG
@@ -123,6 +127,7 @@ avishai-cohen:
   itunes: https://itunes.apple.com/us/artist/avishai-cohen/id422352916
   facebook: https://www.facebook.com/AvishaiCohenMusic
   twitter: https://twitter.com/avishaicohen
+  instagram: https://instagram.com/avishaicohenmusic/
 mike-keneally:
   name: Mike Keneally
   website: http://keneally.com
