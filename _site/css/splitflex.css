@@ -306,7 +306,7 @@ blockquote p:last-child, #more-content p:last-child {
   margin: 1em auto;
 }
 
-.content p {
+.content p, .content li {
   margin-bottom: 1em;
   line-height: 1.5em;
 }
@@ -317,6 +317,10 @@ blockquote p:last-child, #more-content p:last-child {
 
 .page img {
   max-width: 100%;
+}
+
+.image {
+  max-width: 20em;
 }
 
 .page a {
@@ -449,7 +453,7 @@ img.bg-dark {
   border-radius: 10px;
 }
 
-#artist-table, .twitter-tweet {
+#artist-table, .twitter-tweet, .image {
   margin-left: auto;
   margin-right: auto;
 }

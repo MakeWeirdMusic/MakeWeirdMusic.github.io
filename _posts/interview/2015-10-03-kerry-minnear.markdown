@@ -43,9 +43,10 @@ Many of my musical influences have also listed Gentle Giant as a significant inf
 
 It turns out that GG is a non-trivial part of many other people’s lives as well! This summer, I received an email from an Israeli guitarist named Yehuda about our mutual efforts in fighting our way through playing the [King Crimson](/discover/king-crimson) piece, [*Fracture*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](/learn/fracture). After a few months of back-and-forth communication, he asked me if I listened to Gentle Giant, to which I emphatically replied, “Yes!” Then he informed me that he’s an organizer of an event called [GORGG&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://gorgg.org) [Global On-Reflection Giant Gathering], which is an annual gathering of the [GG mailing list&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.blazemonger.com/GG/On-Reflection_mailing_list) members, including original GG members Kerry Minnear, Gary Green, and [Malcolm Mortimore&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.blazemonger.com/GG/Malcolm_Mortimore). He said, “Consider yourself invited,” and I immediately booked my travel.
 
-I made some custom gift boxes as a token of appreciation for Gary and Kerry. The boxes contained a handwritten card, an Amazon gift card, and a USB flash drive containing videos of the [Steve Vai interview](/interview/steve-vai), [Mike Keneally interview](/interview/mike-keneally), [*Harnch* for 4 guitars](/share/harnch), and several GG-inspired songs I’d released (namely [*Pune*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/pune-feat.-jake-ineck/id561140550?i=561140751) and [*God Rest Ye Merry, Gentle Giant*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/god-rest-ye-merry-gentle-giant/id584043305)).
-
 ![Make Weird Music gift boxes for Kerry Minnear and Gary Green]({{ site.data.artists.mwm.assets_prod }}interview/kerry-minnear/mwm-boxen.jpg)
+{: .image }
+
+I made some custom gift boxes as a token of appreciation for Gary and Kerry. The boxes contained a handwritten card, an Amazon gift card, and a USB flash drive containing videos of the [Steve Vai interview](/interview/steve-vai), [Mike Keneally interview](/interview/mike-keneally), [*Harnch* for 4 guitars](/share/harnch), and several GG-inspired songs I’d released (namely [*Pune*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/pune-feat.-jake-ineck/id561140550?i=561140751) and [*God Rest Ye Merry, Gentle Giant*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/god-rest-ye-merry-gentle-giant/id584043305)).
 
 ## What Have I Gotten Myself Into?
 
@@ -61,7 +62,7 @@ The opening act, [The Moulettes&nbsp;<i class="non-mwm fa fa-external-link-squar
 
 After the show, I saw a guy with a GORGG shirt and introduced myself. He said to meet in the “hospitality room” at the hotel after the show. I didn’t know where that really was and I was pretty exhausted from traveling all day, so I just went back to my hotel and got some much-needed rest.
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Had a wonderful time yesterday with a couple dozen int&#39;l Gentle Giant fans in Montreal! And Three Friends! <a href="http://t.co/TAJpWQY1aI">pic.twitter.com/TAJpWQY1aI</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/651018950344593408">October 5, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">In Montreal for the Three Friends concert to hear live <a href="https://twitter.com/GGIANTMUSIC">@GGIANTMUSIC</a> music!! <a href="http://t.co/QAvTWorr7d">pic.twitter.com/QAvTWorr7d</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/650455932627869697">October 3, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Meeting Gary Green
@@ -175,7 +176,7 @@ Kerry also shared several interesting facts about his life that I thought would 
 
 ## Wrap-Up
 
+Kerry and I spent many hours getting to know each other personally that weekend. I could not believe what a kindred spirit I'd found in him and I feel that we have developed a new friendship that I hope will endure for years to come. I am so grateful for the experience I had at GORGG and the open arms with which everyone welcomed me. What a great community! Next year's GORGG can't come soon enough...
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Had such a great time at the GORGG Gentle Giant gathering in Montreal. Thank you to all my new friends! <a href="http://t.co/lUNqM5v9bY">pic.twitter.com/lUNqM5v9bY</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/651421086408667137">October 6, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Kerry and I spent many hours getting to know each other personally that weekend. I could not believe what a kindred spirit I'd found in him and I feel that we have developed a new friendship that I hope will endure for years to come. I am so grateful for the experience I had at GORGG and the open arms with which everyone welcomed me. What a great community! Next year's GORGG can't come soon enough...
