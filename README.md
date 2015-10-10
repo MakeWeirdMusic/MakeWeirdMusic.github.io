@@ -66,6 +66,8 @@ artist-name:
   facebook: https://facebook.com/artist-page
   twitter: https://twitter.com/artist-id
   github: http://github.com/artist-id
+  pinterest: https://pinterest.com/artist-name
+  instagram: https://instagram.com/artist-name
 ```
 
 I don't think I support any other services not listed above. If something comes up, be sure to add a font-awesome icon in the [default.html](_layouts/default.html) &lt;section class="info pane"&gt; element.
@@ -83,37 +85,44 @@ Again, see other entries for reference.
 
 ## Front Matter
 
-In each post document is relevant front matter. Here's [an example](_posts/discover/2015-08-30-steve-vai.markdown):
+In each post document is relevant front matter. Here's [an example](_posts/interview/2015-10-03-kerry-minnear.markdown):
 
 ```yaml
 ---
-layout: post
-title:  "Discover Steve Vai"
-date:   2015-09-13 19:14:46
-artist: steve-vai
-author: anthony-garone
-image: steve-vai
-category: discover
-permalink: /discover/steve-vai/
-oneliner: Stunt guitarist for Frank Zappa with a solo career spanning over 30 years.
-seo_description: Steve Vai is a virtuoso guitarist who has played for Frank Zappa, Whitesnake, Alcatrazz, David Lee Roth, and others.
-seo_keywords: Frank Zappa, Whitesnake, David Lee Roth, Alcatrazz, Joe Satriani
-front_page: no
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - time signatures
+  layout: post
+  title:  "Kerry Minnear Interview"
+  date:   2015-10-04 19:14:46
+  artist: gentle-giant
+  member: Kerry Minnear
+  author: anthony-garone
+  image: gentle-giant
+  category: interview
+  permalink: /interview/kerry-minnear/
+  oneliner: The keyboardist from Gentle Giant tells us what he's been up to lately.
+  seo_description: Kerry Minnear was the keyboardist for Gentle Giant. He tells us what he's been up to the last 30 years.
+  seo_keywords: Gentle Giant, Ray Shulman, Derek Shulman, John Weathers, Phil Shulman, Gary Green, Experience, Power and the Glory
+  front_page: yes
+  sponsors:
+  techniques:
+    - virtuosity
+    - composition
+    - multiple genres
+    - multi-instrumentalist
+    - time signatures
+    - instrumentation
+    - counterpoint
 ---
 ```
 
 `layout: post` should never change unless you're (for some reason) contributing a new page.
 
-`title` should be the human-readable name of the artist/band (e.g. "Steve Vai") with the category in the relevant place (e.g. "Discover Steve Vai" vs. "Steve Vai Interview").
+`title` should be the human-readable name of the artist/band (e.g. "Gentle Giant") with the category in the relevant place (e.g. "Discover Gentle Giant" vs. "Gentle Giant Interview").
 
 `date` should be in the format above and can be any recent date.
 
 `artist` is an important field and should match the name of the folder containing the artist's artwork in [our art repository](http://github.com/makeweirdmusic/art) as well as the field in [artists.yaml](_data/artists.yaml).
+
+`member` is available if we are writing about one or more members of a band. e.g. Kerry Minnear of Gentle Giant
 
 `author` should match the computer-readable name you put in [authors.yaml](_data/authors.yaml).
 
@@ -139,6 +148,4 @@ Look at other posts within the category in which you're interested. Model the st
 
 ## Warnings
 
-I'm not a Jekyll expert or anything. I haven't set this thing up for several environments yet. There's no "dev" confinguration differing from "prod". You're welcome to help with that if I don't get to it, but a key requirement for me is to be able to do a `git pull` and then `jekyll serve --watch`.
-
-There's tons of room for improvement in this repository. Thanks for your interest!
+I'm not a Jekyll expert or anything. There's tons of room for improvement in this repository. Thanks for your interest!

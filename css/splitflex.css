@@ -150,12 +150,12 @@ blockquote p:last-child, #more-content p:last-child {
   color: #d8e0cd;
 }
 
-.info .social-intro {
+.social-intro, .info .oneliner {
   font-size: 2em;
   margin-top: 1em;
 }
 
-.info .social-links {
+.social-links {
   font-size: 4em;
   margin-top: 0.5em;
   letter-spacing: 0.25em;
@@ -218,7 +218,7 @@ blockquote p:last-child, #more-content p:last-child {
 }
 
 .info .author {
-  font-size: 1.25em;
+  font-size: 1.75em;
   margin-bottom: 1em;
 }
 
@@ -306,7 +306,7 @@ blockquote p:last-child, #more-content p:last-child {
   margin: 1em auto;
 }
 
-.content p {
+.content p, .content li {
   margin-bottom: 1em;
   line-height: 1.5em;
 }
@@ -317,6 +317,10 @@ blockquote p:last-child, #more-content p:last-child {
 
 .page img {
   max-width: 100%;
+}
+
+.image {
+  max-width: 20em;
 }
 
 .page a {
@@ -449,7 +453,7 @@ img.bg-dark {
   border-radius: 10px;
 }
 
-#artist-table {
+#artist-table, .twitter-tweet, .image {
   margin-left: auto;
   margin-right: auto;
 }
@@ -473,20 +477,16 @@ img.bg-dark {
     font-size: 0.8em;
   }
 
-  .info .social-intro {
+  .social-intro, .info .oneliner {
     font-size: 1.5em;
   }
 
-  .info .social-links {
+  .social-links {
     font-size: 3em;
   }
 
   .info .page-links, header {
     font-size: 1.5em;
-  }
-
-  .info .author {
-    font-size: 1em;
   }
 
   .info .artist {
@@ -526,20 +526,16 @@ img.bg-dark {
     display: block;
   }
 
-  .info .social-intro {
+  .social-intro, .info .oneliner {
     font-size: 1.25em;
   }
 
-  .info .social-links {
+  .social-links {
     font-size: 2.5em;
   }
 
   .info .page-links, header {
     font-size: 1.2em;
-  }
-
-  .info .author {
-    font-size: 1em;
   }
 
   .info .artist {
@@ -569,15 +565,6 @@ img.bg-dark {
     display: block;
     width: 100%;
     font-size: 1.5em;
-  }
-
-  #profile {
-    width: 25%;
-    height: 25%;
-    padding: 1%;
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 1%;
   }
 
   .pane {
@@ -617,11 +604,11 @@ img.bg-dark {
     font-size: 2em;
   }
 
-  .info .social-intro {
+  .social-intro, .info .oneliner {
     font-size: 1.25em;
   }
 
-  .info .social-links {
+  .social-links {
     font-size: 1.7em;
   }
 
@@ -672,11 +659,11 @@ img.bg-dark {
     font-size: 2em;
   }
 
-  .info .social-intro {
+  .social-intro, .info .oneliner {
     font-size: 1.25em;
   }
 
-  .info .social-links {
+  .social-links {
     font-size: 1.7em;
   }
 
@@ -738,11 +725,11 @@ img.bg-dark {
     display: block;
   }
 
-  .info .social-intro {
+  .social-intro, .info .oneliner {
     font-size: 1.25em;
   }
 
-  .info .social-links {
+  .social-links {
     font-size: 1.7em;
   }
 
@@ -796,17 +783,65 @@ img.bg-dark {
 
 }
 
-@media (min-height: 799px) and (max-height: 1000px) and (min-width: 799px) {
+@media (min-height: 950px) and (min-width: 800px) {
   .info {
-    font-size: 0.9em;
+    font-size: 0.8em;
   }
 
   .info .artist {
-    width: 70%;
+    width: 50%;
   }
+
+  .info .oneliner {
+    max-width: 70%;
+  }
+
+  .info .social {
+    font-size: 0.8em;
+  }
+
 }
 
-@media (max-height: 800px) and (min-width: 799px) {
+@media (max-height: 949px) {
+  #profile {
+    width: 10%;
+    height: 10%;
+    padding: 1%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 1%;
+  }
+
+}
+
+@media (max-height: 949px) and (min-width: 800px) {
+  .info {
+    font-size: 0.75em;
+  }
+
+  .info .artist {
+    width: 45%;
+  }
+
+  .info .social {
+    font-size: 0.7em;
+  }
+
+  .info .oneliner {
+    max-width: 70%;
+  }
+
+  .info h1 {
+    font-size: 3em;
+  }
+
+  header {
+    font-size: 1.5em;
+  }
+
+}
+
+@media (max-height: 949px) and (max-width: 799px) {
   .info {
     font-size: 0.8em;
   }
