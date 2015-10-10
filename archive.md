@@ -18,7 +18,7 @@ Posts marked with <i class="fa fa-youtube-play"></i> contain a video we produced
     {% continue %}
   {% endif %}
   <tr class="index-{{ post.category }}-row">
-    <td><a href="{{ post.permalink }}">{% if post.front_page %}<i class="fa fa-youtube-play"></i> {% endif %}<span class="index-{{ post.category }}">{{ post.category | capitalize }}: </span>{{ post.title }}</a></td>
+    <td><a href="{{ post.permalink }}">{% if post.front_page %}<i class="fa fa-youtube-play"></i>&nbsp;{% endif %}<span class="index-{{ post.category }}">{{ post.category | capitalize }}: </span>{{ post.title }}</a></td>
     <td>{{ post.date | date: '%B %Y' }}</td>
   </tr>
 {% endfor %}
