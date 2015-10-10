@@ -9,7 +9,7 @@ seo_keywords: weird, unique, unknown
 ---
 
 {% for post in site.posts %}
-{% if post.front_page == false %}
+{% if post.front_page == false or post.draft == true %}
   {% continue %}
 {% endif %}
 <a href="{{ post.url }}">

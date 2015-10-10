@@ -10,8 +10,9 @@ permalink: /interview/steve-vai/
 oneliner: See and hear what makes Steve Vai's brain tick when composing and performing.
 seo_description: Steve Vai has blazed several trails in the art of guitar technique, manufacturing, performance, sounds, and composition.
 seo_keywords: Steve Vai, Frank Zappa, Joe Satriani
-front_page: no
+front_page: yes
 sponsors: Software++, Mad Hatter Guitar Products, and Carl King Creative
+draft: yes
 techniques:
   - virtuosity
   - composition
