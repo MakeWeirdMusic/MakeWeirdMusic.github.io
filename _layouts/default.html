@@ -18,7 +18,6 @@
             {% else %}{{ page.title }}{% endif %}</h1>
         {% if page.author %}<p class="author">By {{ author.name }}</p>{% endif %}
         <img src="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />
-<<<<<<< HEAD
         <p class="oneliner">{{ page.oneliner }}</p>
         <div class="social">
           <p class="social-intro">Find {{ artist.name }} on:</p>
@@ -29,29 +28,14 @@
             {% if artist.youtube %}<a href="{{ artist.youtube }}"><i class="fa fa-youtube-square"></i></a>{% endif %}
             {% if artist.google %}<a href="{{ artist.google }}"><i class="fa fa-google-plus-square"></i></a>{% endif %}
             {% if artist.github %}<a href="{{ artist.github }}"><i class="fa fa-github-square"></i></a>{% endif %}
+            {% if artist.pinterest %}<a href="{{ artist.pinterest }}"><i class="fa fa-pinterest-square"></i></a>{% endif %}
+            {% if artist.instagram %}<a href="{{ artist.instagram }}"><i class="fa fa-instagram"></i></a>{% endif %}
             {% if artist.soundcloud %}<a href="{{ artist.soundcloud }}"><i class="fa fa-soundcloud"></i></a>{% endif %}
             {% if artist.wikipedia %}<a href="{{ artist.wikipedia }}"><i class="fa fa-wikipedia-w"></i></a>{% endif %}
             {% if artist.spotify %}<a href="{{ artist.spotify }}"><i class="fa fa-spotify"></i></a>{% endif %}
             {% if artist.itunes %}<a href="{{ artist.itunes }}"><i class="fa fa-apple"></i></a>{% endif %}
           </p>
         </div>
-=======
-        <p class="social-intro">Find {{ artist.name }} on:</p>
-        <p class="social-links">
-          {% if artist.website %}<a href="{{ artist.website }}"><i class="fa fa-external-link-square"></i></a>{% endif %}
-          {% if artist.facebook %}<a href="{{ artist.facebook }}"><i class="fa fa-facebook-square"></i></a>{% endif %}
-          {% if artist.twitter %}<a href="{{ artist.twitter }}"><i class="fa fa-twitter-square"></i></a>{% endif %}
-          {% if artist.youtube %}<a href="{{ artist.youtube }}"><i class="fa fa-youtube-square"></i></a>{% endif %}
-          {% if artist.google %}<a href="{{ artist.google }}"><i class="fa fa-google-plus-square"></i></a>{% endif %}
-          {% if artist.github %}<a href="{{ artist.github }}"><i class="fa fa-github-square"></i></a>{% endif %}
-          {% if artist.pinterest %}<a href="{{ artist.pinterest }}"><i class="fa fa-pinterest-square"></i></a>{% endif %}
-          {% if artist.instagram %}<a href="{{ artist.instagram }}"><i class="fa fa-instagram"></i></a>{% endif %}
-          {% if artist.soundcloud %}<a href="{{ artist.soundcloud }}"><i class="fa fa-soundcloud"></i></a>{% endif %}
-          {% if artist.wikipedia %}<a href="{{ artist.wikipedia }}"><i class="fa fa-wikipedia-w"></i></a>{% endif %}
-          {% if artist.spotify %}<a href="{{ artist.spotify }}"><i class="fa fa-spotify"></i></a>{% endif %}
-          {% if artist.itunes %}<a href="{{ artist.itunes }}"><i class="fa fa-apple"></i></a>{% endif %}
-        </p>
->>>>>>> master
         {% if page.category and page.category == 'page' %}<nav class="page-links"><p><a href="/about">About</a> &middot; <a href="/donate">Donate</a> &middot; <a href="/sponsors">Sponsors</a> &middot; <a href="/archive">Archive</a></p></nav>{% endif %}
       </section>
 
