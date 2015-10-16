@@ -68,7 +68,7 @@ After the show, I saw a guy with a GORGG shirt and introduced myself. He said to
 
 ## Meeting Gary Green
 
-In the morning, I found the hospitality room. No one was there. I waited in the lobby until I saw a guy wearing a Gentle Giant shirt. He was a college-grad filmmaker named Morgan Miller who made a great music video based on Free Hand.
+In the morning, I found the hospitality room. No one was there. I waited in the lobby until I saw a guy wearing a Gentle Giant shirt. He was a college-grad filmmaker named [Morgan Miller&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.youtube.com/channel/UCSN3kZ1j5jG1G9_1yeP-rHg) who made a great music video based on [Free Hand&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Free_Hand).
 
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vUu3A5HOxLY" frameborder="0" allowfullscreen></iframe>
