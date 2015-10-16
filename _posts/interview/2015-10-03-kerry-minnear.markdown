@@ -11,8 +11,8 @@ permalink: /interview/kerry-minnear/
 oneliner: The keyboardist from Gentle Giant tells us what he's been up to lately.
 seo_description: Kerry Minnear was the keyboardist for Gentle Giant. He tells us what he's been up to the last 30 years.
 seo_keywords: Gentle Giant, Ray Shulman, Derek Shulman, John Weathers, Phil Shulman, Gary Green, Experience, Power and the Glory
-front_page: no
-draft: yes
+front_page: yes
+draft: no
 sponsors:
 techniques:
   - virtuosity
