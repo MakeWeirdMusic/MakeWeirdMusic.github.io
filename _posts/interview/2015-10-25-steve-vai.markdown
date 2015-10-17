@@ -33,11 +33,9 @@ Below is a 1-hour interview with Steve Vai conducted on September 12, 2015 at 12
 
 Here's a video of the interview:
 
-*VIDEO COMING SOON*
-
-<!-- <div class="video-wrapper">
+<div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/essLZ2eFqnc?rel=0" frameborder="0" allowfullscreen></iframe>
-</div> -->
+</div>
 
 You may notice some issues with color and editing; that's totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).
 
@@ -54,6 +52,9 @@ Cory is a software development and management expert who's written a fantastic b
 Ed is an electrical engineer and business management consultant. He runs Mad Hatter Guitar Products and has developed a great [solderless electronics kit for guitars&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://madhatterguitarproducts.com/pages/mad-hatter-solderless-tone-shaping-system-kits). I purchased one and installed it in my white Ibanez Jem. It's never sounded better. I'm not a tone connoisseur, but even I can tell that the guitar sounds _so much better_ than the standard, low-end stock components that came with the guitar.
 
 Carl is an expert filmmaker, author, and [former musician](/discover/carl-king). His book, [So, You're a Creative Genius... Now What?&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.amazon.com/Youre-Creative-Genius-Now-What/dp/1932907920), has been a huge inspiration for me and many others. He filmed this interview and provided lots of great equipment and expertise.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Check out this awesome contributed artwork of <a href="https://twitter.com/stevevai">@stevevai</a> by Nick Prol. More of his work: <a href="http://t.co/iNy6DjxoDd">http://t.co/iNy6DjxoDd</a> <a href="http://t.co/VvJUMKpBOv">pic.twitter.com/VvJUMKpBOv</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/655421741846495232">October 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Interview transcript
 
