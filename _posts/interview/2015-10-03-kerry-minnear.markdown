@@ -76,12 +76,12 @@ In the morning, I found the hospitality room. No one was there. I waited in the 
 
 Pretty funny.
 
-Soon, I met a few other super-friendly people (namely Marc, AKA “No More Phil”) and then Gary Green and his wife. I nervously pulled the gift box from my jacket pocket, thanking him as he opened it up. He was touched and gave me a big hug, thanking me for the gift. It was so welcoming! Then someone suggested we get a picture together.
+Soon, I met a few other super-friendly people (namely Phil Nomore) and then Gary Green and his wife. I nervously pulled the gift box from my jacket pocket, thanking him as he opened it up. He was touched and gave me a big hug, thanking me for the gift. It was so welcoming! Then someone suggested we get a picture together.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Met Gary Green of <a href="https://twitter.com/GGIANTMUSIC">@GGIANTMUSIC</a> this morning. Very kind person. <a href="http://t.co/tyvooEj9sY">pic.twitter.com/tyvooEj9sY</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/650690466019733504">October 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-We had a nice conversation and then went our separate ways for a morning activity and lunch. I went with Marc, Dave (AKA “twosheds”), and his wife, Karen, to a pub to watch a soccer game on TV. Then we went to a small coffee shop to see The Moulettes play again, where Malcolm kindly introduced himself and Kerry ended up sitting down at the same table as me. Feeling slightly overwhelmed, I gave Kerry the gift box and he put it in his pocket, thanking me quietly. About 15 other GORGG attendees filed in over time. The place was packed.
+We had a nice conversation and then went our separate ways for a morning activity and lunch. I went with Phil, “twosheds”, and his wife, to a pub to watch a soccer game on TV. Then we went to a small coffee shop to see The Moulettes play again, where Malcolm kindly introduced himself and Kerry ended up sitting down at the same table as me. Feeling slightly overwhelmed, I gave Kerry the gift box and he put it in his pocket, thanking me quietly. About 15 other GORGG attendees filed in over time. The place was packed.
 
 ## Meeting Kerry Minnear
 
