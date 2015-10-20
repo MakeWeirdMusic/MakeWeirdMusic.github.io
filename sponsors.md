@@ -48,4 +48,5 @@ These are other individuals who have provided support to MWM either via money or
 - [Cameron Piko](http://montresor.bandcamp.com/)
 - Anila Arthanari
 - [Nick Prol](http://www.dkvine.com/features/dku_comix)
-- Robbie Seahag Mangano
+- [Robbie Seahag Mangano](http://www.facebook.com/robbieseahag)
+- [Jeries Alfreih](http://www.youtube.com/jeriesalfreih)
