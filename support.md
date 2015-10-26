@@ -1,18 +1,27 @@
 ---
 layout: page
-title: Donate
+title: Support
 category: page
 artist: mwm
 image: mwm-social-square
-permalink: /donate/
+permalink: /support/
 seo_description: Make Weird Music is a zero-profit fun venture by Anthony Garone. It's open source and you can contribute!
 seo_keywords: donate, money, code, art, open source
+redirect_from: "/donate"
 ---
 ## Help Keep It Weird!
 
-So, this is the awkward page where I ask you for help. This site has been way more successful than I ever expected. It's also cost me much more than I ever expected!
+So, this is the awkward page where I ask you for help. 
 
-If you find value in the site, please consider donating money or content. Anything donated will go directly toward funding the site.
+### Easy Stuff
+
+The easiest way to support the site is to share the content. We're on all the social networks and clicking "Share" is super-easy and meaningful. Spread the word!
+
+### Not Easy Stuff
+
+This site has been way more successful than I ever expected. It's also cost me much more than I ever expected!
+
+If you find value in the site, please consider donating money, code, artwork, or written content. Anything donated will go directly toward the site and *not* into my pocket.
 
 <a href="http://paypal.me/MakeWeirdMusic" class="donation-icon"><i class="fa fa-paypal"></i> Donate via Paypal</a>
 
