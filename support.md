@@ -7,7 +7,7 @@ image: mwm-social-square
 permalink: /support/
 seo_description: Make Weird Music is a zero-profit fun venture by Anthony Garone. It's open source and you can contribute!
 seo_keywords: donate, money, code, art, open source
-redirect_from: "/donate"
+redirect_from: "/donate/"
 ---
 ## Help Keep It Weird!
 
