@@ -710,8 +710,7 @@ img.bg-dark {
   .page {
     padding: 4%;
   }
-
-}
+} 
 
 @media (max-width: 499px) {
   .info h1 {
@@ -756,13 +755,27 @@ img.bg-dark {
     text-align: center;
   }
 
+  .menu .story {
+    padding-bottom: 5%;
+  }
+
   .menu img {
     display: block;
-    max-width: 430px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
     float: none;
+  }
+
+  .menu a h2,
+  .menu .oneliner,
+  .menu .sponsor {
+    padding: 0 4%;
+  }
+
+  .menu a .index h2,
+  .menu .index .oneliner {
+    padding: 0;
   }
 
   .menu a h2 {
@@ -780,7 +793,7 @@ img.bg-dark {
   .page {
     padding: 4%;
   }
-
+  
 }
 
 @media (min-height: 950px) and (min-width: 800px) {
