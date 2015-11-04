@@ -4,7 +4,7 @@ title:  "Discover Avishai Cohen"
 date:   2014-04-11 19:14:46
 artist: avishai-cohen
 author: anthony-garone
-image: avishai-cohen
+image: avishai-cohen-2015
 category: discover
 permalink: /discover/avishai-cohen/
 oneliner: Genre-defying jazz-ish art in the form of music.
