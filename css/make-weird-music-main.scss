@@ -1,14 +1,18 @@
-* {
+---
+# This comment is needed for Jekyll to compile Sass
+---
+
+* { 
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
+} 
+  
 title {
   text-transform: capitalize;
 }
 
-body {
+body {  
   color: white;
   font-family: 'Proxima Nova', Museo-300, sans-serif;
   background-color: #d8e0cd;
@@ -328,7 +332,7 @@ blockquote p:last-child, #more-content p:last-child {
 }
 
 .page a:hover {
-  color: yellow
+  color: yellow;
 }
 
 .page ul {
@@ -599,7 +603,7 @@ img.bg-dark {
 
 }
 
-@media (min-width: 600px) and (max-width: 799px) {
+@media (min-width: 550px) and (max-width: 799px) {
   .info h1 {
     font-size: 2em;
   }
@@ -654,65 +658,7 @@ img.bg-dark {
 
 }
 
-@media (min-width: 500px) and (max-width: 599px) {
-  .info h1 {
-    font-size: 2em;
-  }
-
-  .social-intro, .info .oneliner {
-    font-size: 1.25em;
-  }
-
-  .social-links {
-    font-size: 1.7em;
-  }
-
-  .info .page-links, header {
-    font-size: 1.2em;
-  }
-
-  .content {
-    left: 0%;
-  }
-
-  .menu {
-    display: block;
-  }
-
-  .menu a {
-    display: block;
-    color: #fff;
-    text-decoration: none;
-    text-align: center;
-  }
-
-  .menu img {
-    display: block;
-    max-width: 430px;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    float: none;
-  }
-
-  .menu a h2 {
-    font-size: 1.4em;
-  }
-
-  .menu a .oneliner {
-    font-size: 0.8em;
-  }
-
-  .menu a .sponsor {
-    font-size: 0.7em;
-  }
-
-  .page {
-    padding: 4%;
-  }
-} 
-
-@media (max-width: 499px) {
+@media (max-width: 549px) {
   .info h1 {
     font-size: 2em;
     font-family: 'Museo-500';
