@@ -66,6 +66,10 @@ Jan: Hello! I'm Jan Zehrfeld from Munich, Germany. I started a band called Panze
 I'm a big fan of extremely sophisticated. Back in 2004, I was just finishing my studies as a jazz guitar player. My influences were, at that time, or my heroes were [Scott Henderson](https://en.wikipedia.org/wiki/Scott_Henderson)'s [Tribal Tech](https://en.wikipedia.org/wiki/Tribal_Tech), [Planet X](https://en.wikipedia.org/wiki/Planet_X_(band)) with [Virgil Donati](https://en.wikipedia.org/wiki/Virgil_Donati) and [Tony MacAlpine](https://en.wikipedia.org/wiki/Tony_MacAlpine), as well as [Meshuggah]() and [Mats/Morgan](https://en.wikipedia.org/wiki/Mats/Morgan_Band), which are friends of [Meshuggah](https://en.wikipedia.org/wiki/Meshuggah), also from Sweden. They do kind of similar rhythmic stuff like Meshuggah, but not that heavy. It's more funky or [Zappa](/discover/frank-zappa)-esque, maybe.
 {: .interviewee}
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eQR2nzu3vkc?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Well, I'm not a big fan of Frank Zappa, actually, but I dig his music a lot. I mean, I respect it a lot and I can see there are many people drawing parallels between the music I compose and Frank Zappa's music, which I totally agree to because the basic statement of the music is kind of the same. Panzerballett's music came many years after and the musical statements are related. I think there is a lot of music that were my main influences that were influenced by Frank Zappa's music. So, there are big parallels.
 {: .interviewee}
 
@@ -105,6 +109,10 @@ This was the beginning of 2006 when we started to play live as a quintet. From t
 It turned out that in this Panzerballett sound, you have two main parts: one is the wrecking ball heavy metal part which is the riff part which is bass and rhythm guitar (what I basically do) and then there's the melody part, which is the saxophone and to support this, the lead guitar doubles the saxophone, which is a nice blend. You can arrange a second voice, which sounds very nice, and the melody part gets stronger and gets equal to the riff part.
 {: .interviewee}
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jM4W3qaNfng?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 And of course the drums play a very big role. Or it's the counterpart? We have two main parts: the drums and the rest of the band because the drums hold it all together. All the [polyrhythmic](https://en.wikipedia.org/wiki/Polyrhythm) stuff that happens in the composition has to be underlined in the drums. Both parts, which are rhythmically working against each other are brought together in the drums. It has to happen in the drummer's brain.
 {: .interviewee}
 
@@ -119,6 +127,10 @@ J: A perfect fit! Right! And then we had some other lineup changes, but basicall
 
 He wanted 50% cover material. It was his concept. At first, I thought I wanted to only write my own stuff, but then I thought about it and tried to cover and my first cover was [*Pink Panther*](https://en.wikipedia.org/wiki/The_Pink_Panther_Theme). I thought it was a bit fun and it turns out that it worked. I tried to translate *Pink Panther* into the same style that I composed the other songs. It worked out well and it was fun doing it because it's another way of working because you already have a musical pool you can draw from.
 {: .interviewee}
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c27XfStLp1o?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 This was more than just covering it was a bigger invasion into the musical material. I call it "verkrassung," or the "crassification" of it. That's kind of my word for it. It's really an invasion in taking out the elements and putting them together in a completely different way. This was the fun part about it. This is where I think the humor comes from. This is where people recognize some humorous stuff in the arrangements because they recognize what actually happens to the musical material when they know it and they know the original and how I treat the music. They can hear it and recognize it and that's the fun part about Panzerballett.
 {: .interviewee}
@@ -137,6 +149,10 @@ J: Oh really?! I want to hear it! Through all the years, it's always been my aim
 
 It takes a lot of time, especially when we started this [quintuplet](https://en.wikipedia.org/wiki/Tuplet) thing, it took a lot of work. The first quntuplet arrangement was [*Some Skunk Funk*](https://en.wikipedia.org/wiki/The_Brecker_Bros.). The whole song is based on quintuplets and it took us half a year to get through the head of the song. And then we had to find a way of improvising on it, which took another half a year until we got through it. In the following years, we started to really play it more and more relaxed and now we actually, after writing some more quintuplet arrangements, we got used to it. In the first phases, it was really hard to "get" it. Now it's starting from zero again because we started from septuplets.
 {: .interviewee}
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BFoZoTwGfJk?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 A: When I first heard *Some Skunk Funk*, I thought, "Are they actually doing this all in quintuplets?" And then I thought, "No, that's really stupid. Why would anyone do that?" I thought I was totally wrong. Then after about four months of really listening to it, I thought, "No, they really are subdividing quintuplets." It just blows me away that you did something like that. It's so detailed and complex.
 {: .interviewer}
@@ -188,3 +204,7 @@ A: Where did you come across these technical artists? How did you first discover
 
 J: Tribal Tech was through a friend of mine. It was the same guy that I played my demo to later on and inspired me to name the band Panzerballett because he said, "It sounds like tanks that are kind of dancing ballet." It was the same guy who took me--years before that--he was very into technical music, he's a guitar player who got into [Paul Gilbert](https://en.wikipedia.org/wiki/Paul_Gilbert) and [Steve Vai](/interview/steve-vai) [NOTE: Check out our Steve Vai interview!] and all those guitar heroes very early, and he always showed me those guys and he was buying all these guitar magazines, which I did not do at the time, but he got me to this technical music. He also took me to a Tribal Tech concert in Munich. My first experience was not a CD or recording, but a live concert and it was a punch in the face, and to the brain as well. And it was so...
 {: .interviewee}
+
+## End of Part 1
+
+This is where Jan's camera ran out of disk space. We will soon be doing Part 2!! Stay tuned!!
