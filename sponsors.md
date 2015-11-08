@@ -50,3 +50,4 @@ These are other individuals who have provided support to MWM either via money or
 - [Nick Prol](http://www.dkvine.com/features/dku_comix)
 - [Robbie Seahag Mangano](http://www.facebook.com/robbieseahag)
 - [Jeries Alfreih](http://www.youtube.com/jeriesalfreih)
+- John Landy
