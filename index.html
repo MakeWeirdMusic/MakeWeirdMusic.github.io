@@ -15,9 +15,12 @@ seo_keywords: weird, unique, unknown
 <a href="{{ post.url }}">
   <article class="{{ post.category }} story">
     <img src="{{ site.data.artists.mwm.art_prod }}{{ post.artist }}/{{ post.image }}.svg" />
-    <h2><span>{{ post.category }}: </span>{% if post.category == "interview" and post.member %}{{ post.member }}{% elsif post.category == "interview" or post.category == "discover" %}{{ site.data.artists[post.artist].name }}{% else %}{{ post.title }}{% endif %}</h2>
-    {% if post.oneliner %}<p class="oneliner">{{ post.oneliner }}</p>{% endif %}
-    {% if post.sponsors %}<p class="sponsor">Sponsored by: {{ post.sponsors }}</p>{% endif %}
+
+    <div class="story-text">
+      <h2><span>{{ post.category }}: </span>{% if post.category == "interview" and post.member %}{{ post.member }}{% elsif post.category == "interview" or post.category == "discover" %}{{ site.data.artists[post.artist].name }}{% else %}{{ post.title }}{% endif %}</h2>
+      {% if post.oneliner %}<p class="oneliner">{{ post.oneliner }}</p>{% endif %}
+      {% if post.sponsors %}<p class="sponsor">Sponsored by: {{ post.sponsors }}</p>{% endif %}
+  </div>
   </article>
 </a>
 {% endfor %}
