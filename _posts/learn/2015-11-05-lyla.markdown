@@ -37,8 +37,8 @@ Here is the score for performing *Lyla* on guitar.
 
 In case you're interested, here are the [MuseScore&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://musescore.org) and MusicXML files:
 
-- [MuseScore (.mscz)&nbsp;<i class="fa fa-download"></i>](/files/lyla/lyla.mscz)
-- [MusicXML (.xml)&nbsp;<i class="fa fa-download"></i>](/files/lyla/lyla.xml)
+- [MuseScore (.mscz)&nbsp;<i class="fa fa-download"></i>]({{ site.data.artists.mwm.assets_prod }}learn/lyla/lyla.mscz)
+- [MusicXML (.xml)&nbsp;<i class="fa fa-download"></i>]({{ site.data.artists.mwm.assets_prod }}learn/lyla/lyla.xml)
 
 ## Structure
 

@@ -40,6 +40,7 @@
       </section>
 
       <section class="content pane page">
+        {% if page.category != "page" %}{% include ad.html %}{% endif %}
         <article>
           {{ content }}
         </article>

@@ -45,7 +45,7 @@ The original song was performed a bit faster in standard tuning on electric guit
 
 If you're interested in the sheet music for this song, I have it for guitar quintet in normal standard tuning (what Fripp calls "original standard tuning") and for guitar quartet in Fripp's "New Standard Tuning" (CGDAEg, low to high).
 
-- [Standard Tuning](https://github.com/MakeWeirdMusic/assets/tree/master/anthony-garone/harnch/ost)
-- [New Standard Tuning](https://github.com/MakeWeirdMusic/assets/tree/master/anthony-garone/harnch/ost) with [MIDI](https://github.com/MakeWeirdMusic/assets/tree/master/anthony-garone/harnch/ost/midi) (includes [MuseScore](http://musescore.org) file)
+- [Standard Tuning]({{ site.data.artists.mwm.assets_prod }}share/harnch/ost)
+- [New Standard Tuning]({{ site.data.artists.mwm.assets_prod }}share/harnch/ost) with [MIDI]({{ site.data.artists.mwm.assets_prod }}share/harnch/ost/midi) (includes [MuseScore](http://musescore.org) file)
 
 Watch out for the coda! [Here's some additional context on my old website](http://blog.garone.org/guitar/harnch-for-five-guitars).

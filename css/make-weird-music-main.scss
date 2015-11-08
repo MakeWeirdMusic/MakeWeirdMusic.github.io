@@ -2,17 +2,17 @@
 # This comment is needed for Jekyll to compile Sass
 ---
 
-* { 
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-} 
-  
+}
+
 title {
   text-transform: capitalize;
 }
 
-body {  
+body {
   color: white;
   font-family: 'Proxima Nova', Museo-300, sans-serif;
   background-color: #d8e0cd;
@@ -54,13 +54,13 @@ header h1 {
 }
 
 blockquote {
-  background-color: rgba(255,255,255,0.2);
+  background-color: rgba(0,0,0,0.2);
   padding: 1em;
   border-radius: 10px;
   margin-bottom: 1em;
 }
 
-blockquote p:last-child, #more-content p:last-child {
+blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   margin-bottom: 0;
 }
 
@@ -201,7 +201,7 @@ blockquote p:last-child, #more-content p:last-child {
   margin-bottom: 0.25em;
 }
 
-.info h1 span, .page h2 {
+.info h1 span, .page h2, .page h3 {
   text-transform: uppercase;
 }
 
@@ -305,9 +305,16 @@ blockquote p:last-child, #more-content p:last-child {
   font-size: 1.25em;
 }
 
-.page article {
+.page article, .ad {
   max-width: 40em;
   margin: 1em auto;
+}
+
+.ad {
+  /*background-color: rgba(255,255,255,0.1);*/
+  background-color: rgba(0,0,0,0.3);
+  padding: 1em;
+  border-radius: 10px;
 }
 
 .content p, .content li {
@@ -739,7 +746,7 @@ img.bg-dark {
   .page {
     padding: 4%;
   }
-  
+
 }
 
 @media (min-height: 950px) and (min-width: 800px) {
