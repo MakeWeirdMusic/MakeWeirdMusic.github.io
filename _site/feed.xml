@@ -6,9 +6,87 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Nov 2015 00:58:53 -0700</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2015 00:58:53 -0700</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2015 22:50:20 -0700</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2015 22:50:20 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Lyla by Avishai Cohen</title>
+        <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
+
+&lt;p&gt;This post explores a solo guitar arrangement I did of a beautiful song called &lt;em&gt;Lyla&lt;/em&gt; by &lt;a href=&quot;/discover/avishai-cohen&quot;&gt;Avishai Cohen&lt;/a&gt;. The original recording features &lt;a href=&quot;https://en.wikipedia.org/wiki/Rhodes_piano&quot;&gt;Fender Rhodes keyboard&lt;/a&gt;, drums, &lt;a href=&quot;https://en.wikipedia.org/wiki/Double_bass&quot;&gt;upright bass&lt;/a&gt;, flute, and trumpet. I’m a sucker for moody songs played on the Rhodes (see also &lt;a href=&quot;/discover/gentle-giant&quot;&gt;Gentle Giant&lt;/a&gt;’s incredibly beautiful song, &lt;a href=&quot;https://itunes.apple.com/us/album/the-power-and-the-glory/id731975200&quot;&gt;&lt;em&gt;Aspirations&lt;/em&gt;&lt;/a&gt;) and this song certainly fits that description.&lt;/p&gt;
+
+&lt;p&gt;I was immediately attracted to this song when I first heard it a few years ago and it’s never quite left my short-term musical memory banks. At some point, I realized the sheet music for the song was available in Avishai’s online store, so I bought it and saw that it could probably be arranged into a nice solo guitar piece. It took over a year of sporadic effort to turn it into what we’ll cover in this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/discover/avishai-cohen&quot;&gt;Check out our Discover post about Avishai Cohen!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;instructional-video&quot;&gt;Instructional Video&lt;/h2&gt;
+
+&lt;p&gt;I’ve put together an instructional video that illustrates everything in the charts below. Watch that if, like me, you don’t like reading.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO COMING SOON&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sheet-music&quot;&gt;Sheet Music&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://soundslice.com&quot;&gt;Soundslice&lt;/a&gt; is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It’s super-duper awesome. Check it out!&lt;/p&gt;
+
+&lt;p&gt;Here is the score for performing &lt;em&gt;Lyla&lt;/em&gt; on guitar.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.soundslice.com/scores/36180/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore&lt;/a&gt; and MusicXML files:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/lyla/lyla.mscz&quot;&gt;MuseScore (.mscz)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/lyla/lyla.xml&quot;&gt;MusicXML (.xml)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;structure&quot;&gt;Structure&lt;/h2&gt;
+
+&lt;p&gt;There are two main parts to this arrangement (the original recording has 3 or 4 parts). There’s the opening section that’s fairly straightforward consisting of chord triads. I’ll call that ‘Part A’.&lt;/p&gt;
+
+&lt;p&gt;The second part, ‘Part B,’ is the part with the beautiful harmonic minor melody.&lt;/p&gt;
+
+&lt;h2 id=&quot;harmonic-minor&quot;&gt;Harmonic Minor&lt;/h2&gt;
+
+&lt;p&gt;If you’re unfamiliar with the harmonic minor scale, &lt;a href=&quot;https://en.wikipedia.org/wiki/Minor_scale#Harmonic_minor_scale&quot;&gt;Wikipedia has a nice entry about it&lt;/a&gt;. It’s the scale that’s most often used to play Middle Eastern-sounding music. It’s a natural minor scale with a raised 7th note. Avishai plays with the scale in the Part B melody, but if you think of it as staying within B harmonic minor, you’ll be all right.&lt;/p&gt;
+
+&lt;p&gt;Here’s a C major scale: C D E F G A B C&lt;/p&gt;
+
+&lt;p&gt;Here’s a C natural minor scale: C D &lt;strong&gt;Eb&lt;/strong&gt; F G &lt;strong&gt;Ab&lt;/strong&gt; &lt;strong&gt;Bb&lt;/strong&gt; C&lt;/p&gt;
+
+&lt;p&gt;Here’s a C harmonic minor scale: C D Eb F G Ab &lt;strong&gt;B&lt;/strong&gt; C&lt;/p&gt;
+
+&lt;p&gt;Notice the 3rd, 6th, and 7th change between major and natural minor. Then notice that the 7th changes between the natural minor and the harmonic minor. Alternatively, the 3rd and 6th are the only notes that differ between a major and harmonic minor scale.&lt;/p&gt;
+
+&lt;p&gt;Irrelevant conceptual question: Can you guess what a C harmonic major scale looks like based on the above information?&lt;/p&gt;
+
+&lt;h2 id=&quot;performing-and-hands&quot;&gt;Performing and Hands&lt;/h2&gt;
+
+&lt;p&gt;You’ll notice that left-hand fingerings are quite a stretch at times. Maintaining consistently solid notes is a huge challenge, as is playing the piece with continuity between measures. Part B relies on a series of minor 2nd intervals since it’s based in harmonic minor.&lt;/p&gt;
+
+&lt;p&gt;Part A has its own challenges, though. That stretch in measure 17 is a doozy to play smooth. Same with measure 18 and 19. Further beware of transitioning out of those little fills around the open high E string and effortlessly landing on that Bb major triad. Tough stuff!&lt;/p&gt;
+
+&lt;p&gt;There are a couple of &lt;a href=&quot;https://en.wikipedia.org/wiki/Grace_note&quot;&gt;grace notes&lt;/a&gt; in the score. Those are the little notes with lines through them. They’re basically “notes of no rhythmic value.” In other words, play them as fast as you can before playing the following note.&lt;/p&gt;
+
+&lt;p&gt;You’ll also note some notes with “4:3” within brackets. This is a particular &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuplet&quot;&gt;tuplet&lt;/a&gt; called a quadruplet. That means that 4 beats will replace 3 beats. In the case of this song, two quadruplet quarter notes are equal duration to a non-quadruplet dotted quarter note. Clear as mud, right?&lt;/p&gt;
+
+&lt;p&gt;While this piece can be played with a pick, I recommend playing with fingers instead. It’s a little more sensible and this is a sensitive piece of music that can use the finesse and softness of fingers. I’m a self-avowed picking nerd and I can’t imagine wanting to play this piece with a pick. But, to each his/her own.&lt;/p&gt;
+
+&lt;p&gt;With the melody in Part B beginning on the 3rd beat of each measure, you’ll want to lead with the fingers that play the melody. I’ve indicated left hand fingerings with the little numbers near the note heads in the upper stave.&lt;/p&gt;
+
+&lt;h2 id=&quot;time-signature&quot;&gt;Time Signature&lt;/h2&gt;
+
+&lt;p&gt;The song is in &lt;a href=&quot;https://en.wikipedia.org/wiki/Triple_metre&quot;&gt;the 3/4 time signature&lt;/a&gt;, which is normally pretty straightforward. What makes this song difficult from a time perspective is where the accents live in Part B. The melody begins on the 3 and the rhythm support is on 1 and 2. Traditional 3/4 songs usually have the melody begin on beat 1, but this song’s melody lives almost entirely within beat 3. Pretty interesting.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Nov 2015 12:14:46 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/learn/lyla/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/lyla/</guid>
+        
+        
+        <category>learn</category>
+        
+      </item>
     
       <item>
         <title>Kerry Minnear Interview</title>
@@ -1032,6 +1110,195 @@
       </item>
     
       <item>
+        <title>Jan Zehrfeld Interview</title>
+        <description>&lt;h2 id=&quot;some-context&quot;&gt;Some Context&lt;/h2&gt;
+
+&lt;p&gt;Below is the first of a multi-part interview with Jan Zehrfeld of Panzerballett, the world’s best and only jazz-metal band.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/discover/panzerballett&quot;&gt;Don’t know who Panzerballett is? Check out our Discover post about them!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Due to the time difference between Arizona and Germany, we conducted this interview early in the morning for Jan and in the middle of the night for myself. I was probably more tired than he was, but it’s hard to tell.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
+
+&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+
+&lt;h3 id=&quot;part-1&quot;&gt;Part 1&lt;/h3&gt;
+
+&lt;p&gt;&lt;audio src=&quot;http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-20151022.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or, &lt;a href=&quot;http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-20151022.mp3&quot;&gt;download an mp3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
+
+&lt;p&gt;Here’s a video of the interview:&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vwTBhKy2A98?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This is the first videoconference interview I’ve done with the site. There are some issues that I’m figuring out.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview transcript&lt;/h2&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;Anthony: Hi, this is Anthony from MakeWeirdMusic.com and I am here with Jan Zehrfeld of Panzerballett. Jan, could you introduce yourself? The purpose of the site is to introduce people to new music, particularly musicians and to expand their horizons. So, go ahead and tell us what you do and how you got into it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Jan: Hello! I’m Jan Zehrfeld from Munich, Germany. I started a band called Panzerballett, or “Panzer Ballet” as Americans say it, back in 2004 and this is kind of extreme music. It mixes and blends together styles which are basically far away from each other, like there is a lot of heavy metal in there as well as jazz. So, you could call it “jazz metal” or “metal jazz” or whatever, also mixed with some other styles like funk and maybe some grooving styles, but I think mainly it’s about extremeness and complexity and about complex rhythms. I’m a big fan of extremely sophisticated. Back in 2004, I was just finishing my studies as a jazz guitar player. My influences were, at that time, or my heroes were Scott Henderson’s Tribal Tech, Planet X with Virgil Donati and Tony MacAlpine, as well as Meshuggah and Mats/Morgan, which are friends of Meshuggah, also from Sweden. They do kind of similar rhythmic stuff like Meshuggah, but not that heavy. It’s more funky or Zappa-esque, maybe. Well, I’m not a big fan of Frank Zappa, actually, but I dig his music a lot. I mean, I respect it a lot and I can see there are many people drawing parallels between the music I compose and Frank Zappa’s music, which I totally agree to because the basic statement of the music is kind of the same. Panzerballett’s music came many years after and the musical statements are related. I think there is a lot of music that were my main influences that were influenced by Frank Zappa’s music. So, there are big parallels. But I don’t actually listen a lot to Frank Zappa because it’s not my cup of tea. He has lots of criticism about politics happening back then in America, which I don’t know and I’m not inside the whole thing so I don’t understand it that well. And there is a lot of lyrics and I don’t do lyrics &lt;em&gt;at all&lt;/em&gt;. I cannot write lyrics, actually. Everything that I’ve tried is nothing that I’d like people to hear. I don’t think it’s anything that I consider as “worth spreading.” I think only about the music itself, not about lyrics. I would say, now that I got kind of into a dead end, or blind alley… I was about to explain the music of Panzerballett…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: So tell me about when you finished your studies in 2004, how did Panzerballett come about?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J: I had this vision of what I wanted to do and, having written a thesis about Meshuggah and Meshuggah’s music and development and really I got deep into the stuff and transcribed and played and covered some of Meshuggah’s stuff in my final exam… I started composing my own songs during my jazz guitar studies and I thought, “Well, I want to actually form a band that’s playing only my own compositions.” That’s when I started looking for musicians because the band that I had back then for my final exam–it was fun playing with them, but they didn’t have time for a steady band. So, I had to actually look for musicians who had enough time to form a band and to really rehearse a lot and get into things. Then I found three guys, Max Bucher, Flo Schmidt, and Gregor Bürger. I knew all of them from the local scene as jazz musicians and Gregor had his own funk big band, which is still happening. It’s called Ear Force. I played in his big band. The first thing was I was looking for was a keyboard player, but I couldn’t find any. There weren’t that many keyboard players who were much into jazz music or, on the other hands, the jazz pianists playing keyboards with sounds usually didn’t do that. So, there were maybe two or three guys and they were already professionals that didn’t want to or have enough time. I was racking my brain how to solve this problem. Then there was, in a different context, a rehearsal with a band that was rehearsing just for fun and they were already good musicians who didn’t want to join Panzerballett, but they invited me to come into the rehearsal room and they said, “Well, bring your own songs. We can jam on them.” These were a drummer, bass player, and a saxophone player. I thought, “Well, I could compose something for this session without it being a band, but I want to do something cool.” So, I started composing something for guitar, saxophone, drums, and bass. These were actually the first songs that later I used for Panzerballett. Because it turned out that it’s actually working with heavy guitar and saxophone, these were fusion compositions and it was a lot of fun trying out things with this lineup and this instrumentation. I didn’t think that the saxophone could be something that could play a role like a keyboard, but on the other hand, I found out I could play some of the role the keyboard would, so I found a way for this lineup and instrumentation. That was kind of the starting point for writing my own compositions and &lt;em&gt;then&lt;/em&gt; I found those compositions in Munich for having this steady band and &lt;em&gt;then&lt;/em&gt; we met once a week and rehearsed for half a year and it turned out that it worked and we played our first gig. I think it was half a year later. We formed in January and the first gig was around June or something in a small club. It turned out it was fun and it worked. We decided, “Well, let’s make a record.” I wrote some more songs. At first, it takes a lot of work until you have enough material for a concert and then a CD. In the concert, there were some songs that were not in 100% in the Panzerballett concept because we played some standards and some blues stuff as well. It wasn’t the thing that I actually wanted to do with Panzerballett. In the end, maybe a couple months later, we had enough material and we went into the studio in March 2005. This was the debut. During the recording of this album, we were a quartet. I found that in the studio, songs were missing a guitar or something. Sometimes the saxophone was standing there a little bit “alone” and I thought, “I could actually do overdubs.” In every song, I found some parts that I could double some guitars or some saxophones and play comping and guitar solos. After we recorded this debut, I thought, “It would be great if we could do this live as well.” So I asked a friend, a second guitar player, who played all these parts live. It was Andreas Dombert. This was the beginning of 2006 when we started to play live as a quintet. From that time on, it’s stayed as a quintet. It turned out that in this Panzerballett sound, you have two main parts: one is the wrecking ball heavy metal part which is the riff part which is bass and rhythm guitar (what I basically do) and then there’s the melody part, which is the saxophone and to support this, the lead guitar doubles the saxophone, which is a nice blend. You can arrange a second voice, which sounds very nice, and the melody part gets stronger and gets equal to the riff part. And of course the drums play a very big role. Or it’s the counterpart? We have to main parts: the drums and the rest of the band because the drums hold it all together. All the polyrhythmic stuff that happens in the composition has to be underlined in the drums. Both parts, which are rhythmically working against each other are brought together in the drums. It has to happen in the drummer’s brain. It took some time to realize or to implement and assemble. Sebastian came to the band since our first drummer, Max, came from more of a jazzy funky groovy world and not so much from a metal world. He was not a metal head at all. Sometimes I felt the music needed something like a metal impact from the drummer. He played great, but at some time, when I met Sebastian, I immediately knew that this is the guy that I needed for the music.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: A perfect fit.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J: A perfect fit! Right! And then we had some other lineup changes, but basically from the time on that Sebastian joined the band, it was sounding already a lot like it sounds now. The first record with Sebastian was &lt;em&gt;Starke Stucke&lt;/em&gt; and then there was this record label, ACT, which was from–actually it’s &lt;a href=&quot;https://de.wikipedia.org/wiki/Siegfried_Loch&quot;&gt;Siggi Loch&lt;/a&gt; who founded this label and he used to be the head of Warner at one time, then he founded his own label. This is a very important jazz label. He came to one of our release shows from the debut and he signed us after that directly after that show. He told me, “If we want to work together you have to cover music as well.” He wanted 50% cover material. It was his concept. At first, I thought I wanted to only write my own stuff, but then I thought about it and tried to cover and my first cover was &lt;em&gt;Pink Panther&lt;/em&gt;. I thought it was a bit fun and it turns out that it worked. I tried to translate &lt;em&gt;Pink Panther&lt;/em&gt; into the same style that I composed the other songs. It worked out well and it was fun doing it because it’s another way of working because you already have a musical pool you can draw from. This was more than just covering it was a bigger invasion into the musical material. I call it “verkrassung,” or the “crassification” of it. That’s kind of my word for it. It’s really an invasion in taking out the elements and putting them together in a completely different way. This was the fun part about it. This is where I think the humor comes from. This is where people recognize some humorous stuff in the arrangements because they recognize what actually happens to the musical material when they know it and they know the original and how I treat the music. They can hear it and recognize it and that’s the fun part about Panzerballett.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Absolutely.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J: After &lt;em&gt;Pink Panther&lt;/em&gt;, I thought, “Let’s take some more songs that everybody knows from both the jazz world and the metal world.” So, I took &lt;em&gt;Paranoid&lt;/em&gt; and made a jazz ballad out of it. I took &lt;em&gt;Smoke on the Water&lt;/em&gt; and translated it. It all worked well and it was kind of the starting point that’s gone until now. The latest record, we have &lt;strong&gt;again&lt;/strong&gt; &lt;em&gt;Pink Panther&lt;/em&gt;. This is an arrangement of an arrangement. We have &lt;em&gt;Mahna Mahna&lt;/em&gt; on this record. I’m sure you know it. Everybody knows it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: Yes. I did an arrangement of it myself.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J: Oh really?! I want to hear it! Through all the years, it’s always been my aim and my intention to do research and exploit the old boundaries of what’s possible and to go to the limit of what’s possible for the single player and for the whole band. If you can play your own part, it doesn’t mean the whole band can play it as well. It was really a lot of work for every single musician separately as well as for the whole band. It’s like building some complex sculpture and you first you have to build the single elements and then you have to put them together. It’s like twice the amount of work. It takes a lot of time, especially when we started this quintuplet thing, it took a lot of work. The first quntuplet arrangement was &lt;em&gt;Some Skunk Funk&lt;/em&gt;. The whole song is based on quintuplets and it took us half a year to get through the head of the song. And then we had to find a way of improvising on it, which took another half a year until we got through it. In the following years, we started to really play it more and more relaxed and now we actually, after writing some more quintuplet arrangements, we got used to it. In the first phases, it was really hard to “get” it. Now it’s starting from zero again because we started from septuplets.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: When I first heard &lt;em&gt;Some Skunk Funk&lt;/em&gt;, I thought, “Are they actually doing this all in quintuplets?” And then I thought, “No, that’s really stupid. Why would anyone do that?” I thought I was totally wrong. Then after about four months of really listening to it, I thought, “No, they really are subdividing quintuplets.” It just blows me away that you did something like that. It’s so detailed and complex.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J: Yes, when thinking about it, it blows me away too. This was the exciting thing about it: to do something that nobody else does. That way to divide the groove and divide the beat into 5 parts. I didn’t hear it before. Of course in Zappa’s music, you have lots of quintuplets, but not a whole song in quintuplets. Or you have some solo players playing some fast drums in quintuplets, but it’s a totally different effect to arrange something for a whole band based on this quintuplet quantization.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: I thought I was interpreting it incorrectly because it was so far out of the norm that I must be misinterpreting what was being done. So when I said, “That would be stupid,” I was thinking &lt;em&gt;for me&lt;/em&gt;, “Why would you think that’s what they did? That’s nonsensical.” But that’s what it was!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J: Totally! It is total nonsense to do it. And that’s the fun part about it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A: So, you mentioned you’re really into complexity and you’re using these genres that don’t typically go together–jazz and metal. Can you talk about what got you into the complexity and why that is so attractive to you that you wanted to form a whole–not just a band about it, but a completely unique band that blends these interesting genres.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J: Well, probably because I cannot do anything else than that because anything else would not make sense to me. It’s a reflection of my own inner way of thinking. From the time that I played guitar or maybe one year after I took up playing guitar, I got into jazz music and I always liked to play jazz music. I decided to study jazz music as well, so this was something that had a big part of my musicianship. It played a very important role to have freedom of improvising and also there’s sophistication and the elaborateness of the music. The complexity of jazz was always attractive, the harmonies, etc. On the other hand, the reason I play music is to channel aggression. The reason why I took up playing guitar when I was 16, it was the time of Guns n’ Roses, Metallica… The metal boom. The power that came from metal or heavy rock was always… AC/DC was always&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;A:&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;J:&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Sep 2015 12:14:46 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/interview/jan-zehrfeld/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jan-zehrfeld/</guid>
+        
+        
+        <category>interview</category>
+        
+      </item>
+    
+      <item>
         <title>Discover Steve Vai</title>
         <description>&lt;h2 id=&quot;thanks-to-our-sponsors&quot;&gt;Thanks To Our Sponsors!&lt;/h2&gt;
 
@@ -1268,394 +1535,6 @@
         
         
         <category>share</category>
-        
-      </item>
-    
-      <item>
-        <title>Hell&#39;s Bells by Bruford</title>
-        <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
-
-&lt;p&gt;Let’s pick apart the catchy hook from the song &lt;em&gt;Hell’s Bells&lt;/em&gt; off the 1979 release &lt;em&gt;One of a Kind&lt;/em&gt; by the fusion/rock band, &lt;a href=&quot;/discover/bruford&quot;&gt;Bruford&lt;/a&gt;. (NOTE: It is not a cover of the AC/DC song with the same name… I think?) It features Allan Holdsworth on guitar, Jeff Berlin on bass, Dave Stewart on keyboards, and Bill Bruford on drums. The song’s intro alone contains odd &lt;a href=&quot;/techniques/time-signatures&quot;&gt;time signatures&lt;/a&gt; and &lt;a href=&quot;/techniques/key-modulations&quot;&gt;key modulations&lt;/a&gt; that make it weird.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/discover/bill-bruford&quot;&gt;Check out our Discover post about Bruford!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;instructional-video&quot;&gt;Instructional Video&lt;/h2&gt;
-
-&lt;p&gt;I’ve put together an instructional video that illustrates everything in the charts below. Watch that if, like me, you don’t like reading.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/wNCSTNHejAY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;time-signatures&quot;&gt;Time Signatures&lt;/h2&gt;
-
-&lt;p&gt;The time signatures in this song are ridiculous. It took me a long time to figure the signatures out, then it took me even longer to believe they were correct!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn.rawgit.com/MakeWeirdMusic/art/master//bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-A-1067x600.png&quot; alt=&quot;A section: 19/8 = 7/8 + 7/8 + 5/8&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What this means is each phrase is 19 beats (eighth notes/quavers) composed of a bar of 7, a bar of 7, and a bar of 5.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn.rawgit.com/MakeWeirdMusic/art/master/bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-B-1067x600.png&quot; alt=&quot;B section: 19/8 = 4/8 + 4/8 + 4/8 + 4/8 + 3/8&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This section starts with the Gb chord (fingers in the section below) and ends with the Am7.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn.rawgit.com/MakeWeirdMusic/art/master/bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-C-1067x600.png&quot; alt=&quot;C section: 19/8 ¿ 11.3/9 ≥ 17/3 ? (It&#39;s a joke)&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Just kidding on that last one…&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I highly recommend &lt;a href=&quot;https://youtu.be/wNCSTNHejAY&quot;&gt;watching the video&lt;/a&gt; above to make sure you hear me play through each section and you can count it out yourself.&lt;/p&gt;
-
-&lt;h2 id=&quot;chords&quot;&gt;Chords&lt;/h2&gt;
-
-&lt;p&gt;Obviously, this song makes use of odd &lt;a href=&quot;http://makeweirdmusic.com/techniques/time-signatures&quot;&gt;time signatures&lt;/a&gt;, but what may not be obvious by glancing at the chords is that it also employs regular &lt;a href=&quot;http://makeweirdmusic.com/techniques/key-modulations&quot;&gt;key modulations&lt;/a&gt;. What I find most interesting about the key modulations is the keys change between Bb major and E major, two notes that form &lt;a href=&quot;http://en.wikipedia.org/wiki/Tritone&quot;&gt;a “tritone” interval relationship&lt;/a&gt; that sound pretty ugly when played together.&lt;/p&gt;
-
-&lt;p&gt;Here are the chords and fingerings:&lt;/p&gt;
-
-&lt;pre class=&quot;tab&quot;&gt;      BbM7add2   Bb2      Gb      Fm7    Cadd2/E     C        Am7
-  e   -10----   ----   -------   -----   ------   ------   --------
-T B   ----10-   -11-   -------   ---6-   --8---   ----8-   -10p8---
-A G   -10-10-   -10-   -----6-   -8---   ----7-   --9---   ------9-
-B D   -10-10-   -10-   -6h8---   -6---   -10---   -10---   -10-----
-  A   -13-13-   -13-   -9-----   -8---   --7---   -10---   --0-----
-  E   -------   ----   -------   -----   ------   --8---   --------
-         E2         Gb2
-      -7-----   --9-------
-      ---7-9-   -----9-11-
-      -9-9-9-   -11-11-11-
-      -9-9-9-   -11-11-11-
-      -7-7-7-   --9--9--9-
-      -0-0-0-   ----------
-&lt;/pre&gt;
-
-&lt;h2 id=&quot;this-stuff-aint-easy-folks&quot;&gt;This Stuff Ain’t Easy, Folks!&lt;/h2&gt;
-
-&lt;p&gt;There are several brave souls who’ve recorded covers of “Hell’s Bells” on youtube, often of varying quality. The song is quite complex and was proven to be a challenge even for Mike Portnoy, Billy Sheehan, Derek Sherinian, and Tony MacAlpine! (Skip to 1:50 to check it out)&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/QmCJRciBZRQ?t=1m47s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Should you find yourself learning this song, let me know! I’d love to hear it!!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 31 May 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/learn/hells-bells/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/hells-bells/</guid>
-        
-        
-        <category>learn</category>
-        
-      </item>
-    
-      <item>
-        <title>Dale Turner Interview</title>
-        <description>&lt;h2 id=&quot;some-context&quot;&gt;Some Context&lt;/h2&gt;
-
-&lt;p&gt;Below is an interview &lt;a href=&quot;/discover/carl-king&quot;&gt;Carl King&lt;/a&gt; and I did with Dale in September 2014. While it’s interesting enough to read-through, I highly recommend listening to the audio because Dale has a great sense of humor, provides lots of fun voices, and the interview is pretty dynamic.&lt;/p&gt;
-
-&lt;p&gt;Without a doubt, the last few minutes of the interview offer such wonderful insight for anyone looking to pick up techniques on making their music more interesting (or, as we say here, “weird”). Enjoy!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/discover/dale-turner&quot;&gt;Check out our Discover post about Dale!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-video&quot;&gt;Interview Video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tvt2GFQGb3E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;Anthony: This is Anthony from MakeWeirdMusic.com. I am here with Dale Turner, multi-instrumentalist, instructor at Musician’s Institute in the guitar program, and all-around pretty decent-looking guy.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Dale: &lt;strong&gt;Insane voice&lt;/strong&gt; Well, first of all I must say that I am deeply offended because I am assuming by your very presence in this room, you’re implying that I make weird music. That hurts me deeply. Give me a break. &lt;strong&gt;End insane voice&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lots of laughter&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Sorry about that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Why would that be the first thing you say?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Can we get some more chair in this mix?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;Carl: It’s a good start.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Many thanks to Carl King Creative for the gear to do this, and for engineering and being an all-around decent-looking guy. All right, we’ve started this thing off with a bang. Dale!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Anthony!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: What’s your story? How did you get started with music?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: My parents always had tunes in the house, but I know what got me motivated to try to be an instrument-playing person. Two people named David when I was a kid: 1. My uncle David, and 2. Another David.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Laughter&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: What the hell happened?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: They can’t both be your uncle! You’re like, “1. My uncle David, the second is another guy named David.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: I have, like, a shitload of Uncle Davids. I’m totally serious. I got so many fucking Uncle Davids and Uncle Bobs.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Okay, so, two guys named David… No one’s going to find this funny.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Two guys named David are sitting in a church…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Okay, so what got you started in music?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Well, I know what started me wanting to play stuff was, uh… Now I can’t even say David without fucking myself up. I don’t even know what was so funny.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;A: It’s not the name, it’s just two guys named David. So, two guys named David…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: This is Anthony from MakeWeirdMusic.com.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;C: Just keep it rolling.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Yeah, so how did you get started with making music?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: My Uncle David… [laughter]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Laughter&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;C: Maybe you should just skip that part. Come back to it later.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: So your parents had instruments or something?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: No! All right, so my Uncle David…&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Laughter&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: You can do this.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: All right, I’ll do this. But, since I already said Uncle David.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: I’m not going to laugh this time. It’s this guy &lt;strong&gt;Pointing to Carl&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: So because I already said his name, I’m gonna not say it. Uncle David was in a cover band in downtown Seattle and I remember getting in to see him at a bar—I think it was 1st grade or younger—And he was playing drums and singing and when I heard him actually play and sing a Beach Boys song, a song that I actually knew already, and seeing an actual person I knew being the performer, it kind of freaked me out.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;And at the same time, another fellow named David was a piano playing bad-ass. I used to always go over for family gatherings over to their pad and I saw him ripping through Flight of the Bumble Bee, but a boogie-woogie version of it. So that motivated me to ask, “Can I have piano lessons?” So I got piano lessons and that got me to mucking around with the music thing.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: So, was piano your first instrument? Sounds like at a pretty early age. 6 or 7?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Yeah, I think that was in first grade when I started piano and I bashed on that all the way until 7th grade. 5th grade I started trumpet, played that all the way throughout the end of high school. Then picked up piano again—well, picked it up… you know what I mean. Started bashing on it. “I was really ripped by the time I was in 12th grade, so I picked up piano.” Anyway, and got back into that. Guitar started happening when I was 15 and that sorta took over because it’s sorta hard to rock on the piano. I mean, you could somewhat with the synthesizer/keyboard thing. Trumpet was sort of the opposite of rocking. Plus I got braces, which sort of trashed my trumpet chops. So I just went gung-ho on guitar and that was that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Was the guitar an instrument for you to compose or to perform? What were you doing on the guitar at that age?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: The first year on guitar, I did take lessons for that very first year and I started learning chords and some scale type of stuff. But, after that first year, I quit and just started making up riffs. I always made up unaccompanied solos because I sort of worshipped those guitar beasts playing their 2-minute Eruption-type things. I hilariously still have a million of those on tape. Every month or so, I would make my own little Eruption. And that’s kinda all I did for a while on guitar. Then started figuring out solos and songs of other people and started jamming along. Then started playing with a drummer friend of mine, Dean, and we started writing some rock songs and that was kind of the first time I interacted on the guitar with another person and that brought it to the next level.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: When did you start making music? Recording it? Composing?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: I think the first song—well, I had this cheap acoustic guitar that I did make up goofy little songs on and I had a cassette recorder. I think I had two cassette recorders and I would play one part into the cassette recorder and come up with another layer of it and somehow I would come up with a 2-track thing of this little cheapo acoustic guitar. And I had a few songs like that, I remember, and they were all named after different girls, of course. One of them was the Monica song, but we don’t have to go there. I think my first real—I guess they were real to me—I did write a song on the piano that was sort of a dirge-y thing. I think I was probably a late bloomer. I have no idea.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;As far as the songwriting thing, I just wanted to get good at an instrument, but I was still trying to be creative on it as well at the same time. Trying to do my own arrangements of other songs in live bands or adapting keyboard parts on guitar. So I was always trying to do something a little extra, I guess. At some point I moved down to Los Angeles—Oh, I totally spaced out. I was in a few rock bands in the Seattle area, but it was mostly me contributing electric guitar parts to another guy’s songs just trying to beef them up. Maybe I learned a little bit about metal through that experience, which is kind of what I was raised on anyway. Dio, Maiden, Queensryche—that kind of stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: So, those were some influences for you? You were playing in Seattle and you ended up in LA.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Yeah and I did the music school thing, which was fantastic.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Where did you go?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: USC, actually, for four years. Totally bitchin’. I initially had my sights set on trying to be a studio guitar type person or side person touring goofball, but at some point I got way into wanting to be Pat Metheny. Kind of, something like that, which obviously didn’t happen. But I really went into the instrumental—I don’t want to say fusion, but it was jazz-influenced tasteful tunes. The songs themselves were great—Metheny’s songs were amazing, plus the playing—And that was always an inspiration to try to meld the two. I didn’t get into vocal songs until quite a while, other than joke kind of songs, but nothing serious until way down the road. Over time, I tried to integrate my interest in yodeling/singing and diversity guitar approaches and Iron Maiden-influenced songs. Can’t escape the Maiden.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: How many official releases do you have? Have you played with bands and released albums? Or have you only done solo work?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: It’s not too much stuff. I did one acoustic guitar quartet CD that I’m on that was really fun. I was in David Pritchard’s acoustic guitar quartet for maybe 5 or 7 years and we played live a lot and I did get to do one recording, which is actually on a Warner Brothers subsidiary, which is kinda neato. And then a bunch of CDs that just went with instructional books that I started to get involved in. That was a whole other goal: instructional books with audio. So, did a lot of that kind of recording, which was cool because it forced me to learn how to record. And that, coming from a backwards angle, was partly what got me more interested in another type of songwriting, I guess. I was already writing for instructional books, and I forget if I was already writing for magazines by that time.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;When I got a hold of an actual recording system that enabled me to layer parts, that actually got me way more motivated to compose and flesh out ideas. Prior to that, it was always boom box land, which is still songwriting because a song doesn’t have to be a billion tracks to be a song.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: But, the constraints are very different.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: I guess it just made it a little more exciting to hear something that sounded less crappy. Now, I have a whole stupid thing in my head that is important to me: The difference between songwriting and production. So many people get enamored by the stylization and the production elements of a song versus spending a crazy amount of time on just the craft of songwriting and they neglect the real nuts and bolts of songwriting that really makes a song be a song versus just all the textural ear candy stuff that you hear that makes something sound interesting, but when you boil it down and strip away the stylization, the song might not be as much… You know what I’m saying.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: The second album by Seal with Trevor Horn’s production. I just remember thinking, “This album is incredible!” Then I started learning the songs and I was like, “Wow, these songs are so simple, but he turned them into incredible works of art,” but behind it is just a normal song.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Yeah, that’s the kind of thing I started to notice a lot. I was telling Carl this. When I was transcribing for Guitar World for a billion years, part of the gig is to write out songs that are flavor of the month, chart-topping tunes, from doing that over and over—I was already doing full-album stuff, but this is the specific singles-type market transcription thing—And I started to notice in a ton of well-known, “modern” songs that if you just remove the percussive aspects—you know, the drum track or whatever was driving the groove—it was like, freakin’ bare bones, minimal two-chord stuff, which started to actually really, really bother me.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So I tried to really not be dependent upon the ear candy stuff and I just tried to develop in areas that make a song—at least in whatever level I’m able to achieve—somewhat interesting instead of just the two- or three-chord thing, which is super-cool, but now I can’t even write a song that’s just two- or three-chord because I’m… all fucked up.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: How did you end up with those professional gigs. You ended up getting published in magazines that are sold all over the country, you’re writing transcription books, doing lessons and writing songs in the style of… How did you end up with a gig like that?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: That was a trip. It was actually pretty crazily calculated. I didn’t know how it was going to unfold, but I had very specific goals way before I was interested in songwriting. Going way back in time, I knew I didn’t suck at transcribing and I also really liked it and I always was impressed by being a fan of guitar magazines for lots of years, “Oh wow, how did these guys learn how to write this stuff out?” You know, all that kind of stuff. So I wanted to learn how to do that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;That’s one of the many things that sent me down the path to get musically literate to the point where I could write stuff out, which doesn’t make anybody a good musician, it’s just a technical thing. But I was way interested in that for whatever reason and at some point I really tried to get a job doing that and that took a while for that to materialize. Then once that materialized, at some point one of the companies that I worked for thought I wasn’t a complete idiot and they—because most people agree that I’m some sort of idiot…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Yeah, Carl’s shaking his head in agreement. And I’m also nodding.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Yeah, mega-idiot. Megidiot! And they asked me to audition and send in a few writing samples analyzing the music of Steve Morse, who also happens to be one of my all-time favorite writing musical beasts.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Incredible guy.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Totally. So I wrote out a whole analysis of a bunch of his riffs and pieces and things and sent it in, and they were like, “Okay!” The first thing I got to write was a book in the style of Steve Morse, which is a jackpot blast for me. So I started doing a lot of that kind of stuff for this company, which ended up through another in-road hooking me up with a separate company which eventually gave birth to its own guitar magazine, which was Guitar One, and I was west coast editor of for 11 years until it got killed.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;But, prior to that, I randomly transcribed an Albert Lee video and the guy that was interviewing Albert Lee in the video, Askold Buk, randomly remembered me years later when he was working at Guitar World, said, “Hey, that guy was sort of not-horrible at transcribing,” so then I got hooked into Guitar World that way. All that stuff kind of happened—I don’t want to say snowballed—But one thing definitely fed into the other and I definitely had a goal of transcribing, writing instructional books, instructional content and interviewing all my favorite musical heroes in guitar magazines, and each one of those things started to happen over time. And it was cool and I learned a lot.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;C: Can I suggest a question? I have a question. This is Carl King speaking. I’m wondering why you wanted to do that instead of being a guitar god on stage in the limelight. Why were you attracted behind the scenes?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: To nerd-dom? Actually I know exactly how to answer that! Initially when I did move down here, I had a very clear idea of what I wanted to do. And then that changed. But then I was interested in so many different things that I wasn’t 100% interested in one thing enough to devote myself entirely to one thing. So, I wasn’t really sure anymore what I truly wanted to do, but I knew I wanted to at least find a way to employ myself that I could also learn at the same time while I figured out what the hell I wanted to really do. And that’s really what made me bash on that—I really wanted to do that stuff anyway and in a way it was a little more than I wanted to play because—&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;That’s actually not true because at the same time, I was in several bands while I was doing the transcribing stuff. I was still in that acoustic guitar quartet, I was in two different rock-oriented bands, I was in a blues and R&amp;amp;B cover band—a bunch of stuff. And I kind of liked all that, but it wasn’t enough for me to get 14 roommates and live in a small apartment and say, “Let’s just give it a whirl!” For whatever reason, that type of thing didn’t appeal to me by this point in time in my life. Not where I am now, but way back then.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;And another bizarre thing, at some point I had a ton of friends that were the type of guitar player who, “All I want to do is jam and play and jam and play!” all the freakin’ time. Part of me started to view the guitar playing music-making part—maybe this is after being in a bunch of bands that didn’t work out—I started making the guitar thing a more personal thing, so I didn’t go that other route because of that, I guess.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Did you consider yourself a full-time musician? Or did you consider yourself a writer? What would you have called your trade at that point?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: That is kind of a funny question because I still have a hard time saying, “Oh, I’m a musician.” You know what I mean? For two years, I had a full-time job that was kind of music-related, but it was an organization that booked classical and jazz and world music acts in venues throughout Los Angeles, including the Orpheum Theater, and other crazy theaters that were “historically or architecturally significant” (I used the do the marketing and crap for them). And then at some point, I started to teach guitar at night at USC. The first time I remember labeling myself, I think I was calling myself a guitar journalist, which is kind of weird, because I was writing a lot about guitar. Or maybe it was guitar transcriber/journalist. Transcribing a bunch of things, but also writing about and interviewing a bunch of my favorite peeps.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: But you weren’t writing or producing your own music at that time, were you?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: No, but I was still doing the other stuff, recording instructional CDs. It wasn’t like, “I made another album!” at all. Total late bloomer. Like I was yammering earlier. In a weird way, it’s possible that what got me motivated to get into the songwriting thing was a reaction against stuff I noticed that was driving me crazy, plus stuff that I really liked, plus a bunch of hand injuries that made it a bit trickier for me to deliver some guitar lickage. I was doing a Joe Satriani instructional CD and in the middle of it, fried my hand and got the carpal tunnel fun. So I couldn’t play for a while and getting back into playing, I wanted to feel like I was making music, so I got more into playing and singing at the same time, but really doing it in a technical way since I was always trying to get more technical on the guitar.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;When my hand was destroyed I could really only play basic stuff, but the technical ability to sing and play complicated rhythmic relationships, I really tried to go deep into that partly because it was to keep the challenge and feel like I’m developing, but at the time I got really into Jeff Buckley, and all that stuff at the time started to present a little of a detour from the path I’d been on previously with the borderline wannabe guitar jock thing. I thought, “Okay, now I’m done soloing apparently. I’ll try to use the guitar for another purpose.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: So what started your compositional era? What was the transition like from where you were then to starting to write and record your own music? And you retained all those jobs throughout, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: The cool thing about it—I don’t want to say “blessing”—but the fact that I was not deriving my livelihood from shredding did make it possible for me to keep going. So I’m still interviewing all sorts of favored guitar people from any playing style: Yngwie, Paul Gilbert, Buckethead, but then John Frusciante, Chris Cornell, tons of people. Way over 100 guys. So I was still surviving monetarily and in a way, getting inside of the heads of those world-renowned artist beasts, sort of did a little something internally, maybe. I don’t know. It was kind of motivational when I would interview these people who were not these shredding mutant beasts.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;John Frusciante in particular was a big inspiration because it was really obvious how he just stripped away everything from his life that didn’t relate to being in the most creative frame of mind possible at all times. He didn’t freakin’ drive a car at all. He was always as relaxed as possible, which I’m not, but it was interesting being around those kinds of people. Brian Wilson I got to interview a couple times, which was brutal for me. I think I’m getting off-target. At some point, I did start writing songs that were vocal-oriented a teeny bit before my hand imploded.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: I’m interested in getting the story from when you were just starting out to when you were…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Tune-smithing?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Yeah, and particularly what I might call “unorthodox music” like on Mannerisms Magnified only in that it follows normal song structure, but there’s all sorts of interesting rhythmic stuff going on, there’s hardly a 1-4-5 moment on the CD. So in that respect, you’re making music that doesn’t just cater to normal people’s expectations, but it’s great music that’s very much “you,” but perhaps at the expense of “I’m not going to just make another formulaic song that you’ll hear on the radio and try to get a hit,” rather “I want to make music that’s meaningful, but people will like it to.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Oh, thanks man. I would think by the time that recording came out, since I’m definitely not… totally young. I think with all the different jobs that I had prior to really starting to feel some drive and momentum and creative feeling connected with song making, at some point I tried to take the acoustic guitar and use it like a piano player would because I was always interested in solo guitar playing… arrangements of popular songs that weren’t just guitar. So, after my hand was trashed but I still was doing my regular work connected with the musical universe and the Buckley fandom that I mentioned earlier, I did start to learn a bunch of cover songs, but tried to tweak them in the way he always did. Not exactly like he did, but any performance you hear of Jeff Buckley doing a cover song, it was totally not him trying to cop the original. There was so much of the wealth of influences that he had throughout his musical life and his unbelievable improvisational ability all funneling into his performances that I really got inspired by that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, the first thing I did, but a huge number of songs that I always liked, I tried to work out ways to make them be cool to me on guitar and voice. At some point, I recorded a bunch of them, but just to give them to my mom for Christmas. This is way back, I think in 2000. That was just a live thing I recorded right here where we’re sitting and that was just me singing and playing at the same time. That was a thing I was trying to get into, the rhythmic independence and that whole challenge. Four years after I gave that to my mom, I’d given a bunch of copies to pals, and a couple of them were like, “Dude, you should maybe think of, like, I don’t know, put this out.” Because there’s a couple of goofy things on there. There’s a guitar/vocal only version of Bohemian Rhapsody that’s sort of funny, I think. There’s a pretty cool version of God Only Knows by the Beach Boys, just guitar and voice.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;In 2004, I finally put that out and that actually would be the first release that I put out myself and it’s called “Interpretations” because that’s basically what it is. And there’s liner notes where I tried to briefly describe all the little tweaks I tried to do: meter changes, feel changes, a bunch of songs that were piano and adapted on guitar. There’s even a version of “Hallelujah” that I did that was obviously inspired by Buckley, and I tried not to blatantly rip it off. That would be the first thing that I’d say, “Oh, I’m an artist now,” even though it’s not anything that I created, other than the arranging and personalizing I tried to do with those other songs that I loved.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Was that released by yourself or did you have a distributor or something like that?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: I did the full-on independent thing. I started Intimate Audio, which is my “label name” and that’s also my website, intimateaudio.com. I was also interested in music made 100% by the people themselves and so in listening to records like that, I felt more intimately connected with them as artists. That’s part of the motivation behind creating Intimate Audio, the site. Way back it used to be a forum. I had a little message board and I made a little radio station where people would upload their songs. This was before myspace. And I’d do reviews of their songs, stuff they recorded at home, played all the instruments themselves, that sort of stuff. I had a streaming radio station and it was pretty cool, but once myspace came out, it just made it kind of pointless. Plus, it was kind of a lot of work doing that stuff by hand, it was not automated at all. So anyway, Intimate Audio was kind of about that and I just went through CD Baby, iTunes, Amazon, etc. that anybody can do nowadays, which is pretty cool.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Mannerisms Magnified was the next release?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: That’s right.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: What was your motivation to make that album? To be the one playing everything. You did everything except manufacture the equipment you used to make it and to produce the album.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Yeah, that was a really stupid idea. No, I think that gets back to the whole Intimate Audio mission thing that I got into from being into records by Elliot Smith, Todd Rundgren, Jon Brion, Joseph Arthur, the first Paul McCartney solo album, even Phil Collins. Tons of records out there where one person did everything. Being impressed by that doesn’t necessarily mean the music is good, but I already was impressed by the music of some of these people Stevie Wonder, there’s some records where he almost played everything. Prince.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Lenny Kravitz…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Exactly. And actually on my goofy website I have a whole section on the website called “Multi-Instrumentalists” and hilariously the first album on there is by Greg Wells, who I would have to (if I could) mention was a huge influence on me trying to go that whole multi-instrumentalist route. A million years ago I auditioned for Greg Wells’ band, that was at the time called Silas Loader, and I failed miserably. I didn’t get it. The tour never happened anyway, so I didn’t miss out. The crazy thing is that he was at the time k. d. lang’s drummer and he played every instrument on his record. It was on IRS records. He didn’t know at the time that the label was about to go bankrupt and the whole thing kind of imploded.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;The record is awesome. I learned half of it in two days, which is super quick and is a bonus of me being a transcribing psychopath learning it in the car as I do my business. The other records that I mentioned weren’t necessarily “rock band” records. They were other styles, but this was an actual rock record where one guy played everything. That was kind of a “blueprint” of some form. Freakishly some years later, I started to notice co-writing credits of him showing up on Aerosmith records. Now he’s produced Katy Perry, wrote some stuff on the latest Adelle record… He’s a total freaking monster. He’s a real badass and he still is playing everything. Pretty inspiring guy. I don’t know him at all, he was really cool when I got to play with him in the attempt to get into that band. That’s part of what planted the seed for me trying to much around in that area.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: At some point, you had to decide, “I’m going to write an entire album’s worth of material and I’m going to perform on every instrument on it, and mix it, engineer, do all of it.” Was there a deciding factor in that or did it organically happen?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: I should back up a little bit and throw this in there. Part of the reason this whole thing is a direction I’m still on in my new mix of tunes that I’m doing—I’m torturing myself in the same idiotic way—twelve or thirteen more songs, writing and playing everything… But I do know for sure having been in a bunch of bands, none of them were huge but everyone wanted them to be successful, and every single one of them imploding for one reason or another, or some kooky flavor of the month stylistic change… I just decided to stop.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;At some point I did actually know what I wanted after a million years and I just figured that I would try to do it myself because I was sick of the drama, I guess, and issues. That was another thing that made me try to be a self-contained thing. I didn’t realize at all how challenging and brutal it would be, especially in three key areas: the drums—which I did real acoustic drums—and the lyrics writing, and the mixing aspect. And even in the end for Mannerisms Magnified, I still had a guy bail me out with the mix big time. But, those three things were things I didn’t foresee as being a colossal time-suck. Also in the same way, way back when I said, “Why do I want to get a job transcribing and stuff like that?” part of the learning junkie in me did want to learn more about drums, learn about mixing, trying to wear all those different hats. It certainly wasn’t making me a worse musical person. And at some point I kind of would like to be—this is kind of a fantasy—but Jon Brion is one of my top four biggest musical inspirations possible. For a million years, I only had a list of three—there’s a billion on that list, but I only had three humongous ones—and I recently slapped him up there. Just an un-freaking-believable all-around force. He’s a film composer, singer-songwriter, multi-instrumentalist, producer. I’ve seen his live show a million times at Largo, and even when Cafe Largo moved to the Coronet Theater, where he plays everything and totally does solo shows where he’s looping himself on a drum kit, making up songs on the spot, doing medleys… I’ve seen him do all of The Who’s Tommy all by himself…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So at some point, my motivation was to do it for my own musical projects, but I think I would enjoy augmenting other people’s tracks. I did that a few years ago with a fellow that used to record here. I played drums on his stuff and produced his record. That was the only full-band record that I produced here. But a bunch of other singer-songwriters would record guitar and vocal demo stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Cool! What is next for you, then? You say you’ve got 12 or 13 new songs you’re working on?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: I did try to spend two years really promoting Mannerisms Magnified and I got a lot of good ink, good press, which is kinda cool. I played a little bit, but then I had a whole other hand issue develop, which resulted in me needing to have spine surgery, so that slowed me down a little bit, and then had two babies in the midst of that. But even during that I started to slap together some new tunes for another recording. I’ve got another one that’s brewing that’s probably going to be another thousand years. It’s 12 or 13 tunes. Some attributes would be similar to the previous thing where there’s some a cappella vocal things. Most of them stem from acoustic guitar, but I layered a bunch of electric instruments on them. This one’s way more electric guitar-heavy though. Some of the songs are weirder and a little more rock-oriented, I guess. I don’t really know how much more time that’s going to take. I can say that I’ve done all the… I should tell you because it’s silly. I usually record all the acoustic guitar for each song, then electric bass, and then electric guitars, then other ear candy for each song… I’ve pretty much done that for all the songs. I’ve gotta do the drums and then finish some lyrics so that I can do the yodeling and then, of course, mix. I have no idea how long that’s gonna take. Hopefully next year, but I have no clue.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: That’s awesome!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Thank you, man. I can’t wait to throw them at you.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: I usually try to end with: You are a full-time musician. Would you recommend to others the path of somebody who strives to make real music that has unorthodox qualities (weird music)… What would be your advice to somebody who says, “I’ve just got this style and it’s my own and it’s not pop/rock. It’s not going to be on the radio most likely. How do I approach that? That’s what I want to do with my life.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Then start building it. Whatever it is that you do musically, whatever market you—I don’t even want to say the word “market” because it makes me hurl—but whatever you classify yourself in this day and age, it’s irresponsible to not have some foundational form of income that hopefully relates to the area that you want to have your brain swim in. So as long as you’ve got that handled and you are able to carve out free time… Some people have issues with procrastination and all that stuff, obviously you’ve got to fight through that. You’ve got to please yourself first.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Any real song in the last billion years that people hear as being “revolutionary and amazing and game-changing and birth-of-style,” those people all are just doing what they wanted to do. They weren’t like, “Oh, if I mix a little bit of this song and I take the groove of this song and I pick this subject”—sometimes people will lyrically pick a subject that is accessible—but please yourself first. If you don’t have enough of a self to begin with, that’s a problem. I have a lot of songwriting students that I do catch trying to chase a trend, which the only time for me that’s cool is if you’re doing a work-for-hire thing where somebody needs you to write music “like this” or if you get yourself in a position where you’re writing video game music or film music, you’ve already got parameters set for yourself and that’s killer.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I do regularly see a bunch of people changing their minds in the same way that I think “Chinese Democracy,” the Guns ‘n Roses album that took 15 freaking years, that’s the same type of wheel-spinning hell he must have been putting himself through. In the time when that record was started, there was industrial music, then Korn came out, there was a bunch of ska… violently different trends, end over end over end… I don’t know the first five years of Chinese Democracy sounded like, but I would bet that there was blatant genre-jumping—that’s dickish of me to say—that kind of thing you should just flush down the toilet if you already know what you want to do. If you don’t, as long as you’re chasing something then you’re going to grow and pieces of little things that you sample or tap into style-wise will become part of your musical makeup, and as get closer you won’t even know. Then all of a sudden you’ll look back and say, “Holy shit, I really actually do like specific stuff and I actually kind of do have a feel that I’m climbing toward, some kind of sound.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;If you’re in a position right now where you like a bunch of things and you’re not really sure which one is the greatest, that’s good. Just try to get really good at all those different things. At some point, you’re going to notice two different things: what you truly are the most cut-out to do that you’re naturally the best at, and what you actually love and not what you sort of like. Once you start getting closer to figuring that out, put all your eggs in that basket and try growing in those areas. And that’s when you’re going to hopefully start making some freaking weird music!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Cool! Thank you for all your time, perspective, context, all that. I appreciate it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Thank you, man!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Ok, bye!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: We didn’t even talk about Vai!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Is he a big thing for you?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Oh yeah! I mean everyone has been. I was telling Carl I used to vandalize my school with his name and shit. All sorts of crap. In a way, that sort of got me interested in weirdness.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: The Steve Vai stuff?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Yeah, I don’t know.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;C: I wanted to hear some of the specific ways. What elements are you making weird? What makes your melody weird? How do you feel about doing it? You say you’re into weird music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Can I insert some things? Kind of foundation stuff. What kind of things that attribute to my affinity of weirdness?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: What are some things that you attribute to your affinity to weirdness?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: That’s a good question!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Thank you, I just made it up.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Right on! Crazy thing… I was weaned on cartoons. I always loved Bugs Bunny cartoons. I didn’t really like any other cartoons. It was all the Warner Brothers stuff. A billion years later, I realized that Milt Franklin and Carl Stalling were the musical guys for that. I was always being pounded with that cartoon music. I always loved John Williams.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: That’s what Carl said this morning. I interviewed him. John Williams got him going on music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: I wouldn’t say John Williams is weird.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: No, but powerful.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Yeah. There’s a difference between the stereotypical film composer that’s got the classical foundation versus somebody like John Williams that’s a thematic freaking beast. It doesn’t sound like scales and arpeggios in some kind of chord sequence. It’s an obvious theme. And I know just from loving all those movies that got him there, Star Wars and a bunch of that music, is clearly influenced by Stravinsky. Way down the road I got way into Stravinsky. I also got way into Bartok. I got way into Chopin. So a lot of that started to get under my skin that would at some point influence me gravitating toward some kinds of sounds.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Also way back when I was a kid, I used to listen to Spike Jones music who, if some people don’t know, he’s a 50s-era big band guy and a percussionist that hilariously was with Mel Blanc in a band called City Slickers. If you check out any of their recordings, it’s a bunch of goofballs just going off percussion instruments and weird voices. I know of that… This is single-digit age because my uncle DAVID and my dad had those records.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;And when I became a complete guitar spaz, I came across Steve Vai. Initially it was the movie Crossroads, but then I heard the first David Lee Roth album, which completely blew my mind, which made me get his Flexable record. When I heard that, I couldn’t believe what I was hearing. I literally worshipped that guy for quite a while to the extent where I damaged some desks and bathroom stalls in his good name when I was in high school. I still love all that stuff. That left-of-center sound that I was always fascinated by, compounded by a ton of other stuff later, had to have some kind of influence in opening me up to sit in a position to chill out, listen, and absorb, and be moved by some heavier stuff, I suppose.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;C: Are there specific ways that you make your music weird instead of sounding normal or boring?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: &lt;strong&gt;Weird voice&lt;/strong&gt; Here’s a thing that I’ve started to talk quite a bit about with my songwriting students (I feel weird saying that, but I do have several freaking songwriting students)…&lt;strong&gt;End weird voice&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: You are a teacher at a music school, so I would hope…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Oh yeah, that’s right. I forgot about that. It does help. And truthfully, that’s another way… I teach music theory at a freaking music college, Musician’s Institute. My head is constantly swimming in stuff all the freaking time.  The more you mess with that stuff and have it in your head, the easier it is to analyze the stuff you hear that you stumble across and absorb.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;A thing that I do encourage my songwriting students, a place I try to get them to, is what I did with myself and am always trying to improve, obviously: If you can take any number of your favorite songs and be able to describe in real actual terms what it is that you really love about the songs—and I don’t mean, “Oh the melody’s really nice,” which doesn’t explain anything—At some point I had several realizations in a row and none of these realizations were the reason I liked them. I didn’t read something in a magazine and go, “Oh this song has that, and so I like it.” These are songs that I’ve loved for years. Way after the fact, I started thinking, “Why is this song giving me goosebumps in this one spot?” Every time, it would be a non-diatonic chord in that one little spot. Some kind of sneak attack of a non-diatonic chord. Usually when somebody tries to analyze what’s happening, they’ll go, “Oh I really like the melody, kind of THERE.” What it is is the one melody note in relation to the surprise chord is the reason you’re getting an emotional reaction to it. Well, that means I have to get better at using non-diatonic chords in my stuff. But even before that, I realized that to me the key to having non-generic music has to come from the chord progressions, unless we’re talking about purely production stylization textural elements that make it interesting from sound design.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: It makes me think of Chris Cornell’s album, “Euphoria Morning.” Every two to four beats, he’s changing a chord using diminished, half-diminished, tons of 7ths, and augmented chords… It’s very much like the Lennon/McCartney stuff. The whole flavor of chords instead of really simple stuff. “Flutter Girl,” every two beats, there’s a new chord.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: And that was the one single from that album. Hilariously that you mention that, people always say, “Well, you’re just stuck in the past man.” Well, that album right now is inside the CD player of my car. I listen to that album all the freaking time still. I interviewed him for that album. I interviewed Alain Johannes and his band, Eleven, was the rhythm section for that album. I recently even hilariously did a little text back and forth with Allen through a Kickstarter thing because he’s releasing another solo album, and he’s a crazy musical genius guy that’s unheralded to some extent. Amazing guitar player. Plays a billion other stringed and woodwind instruments. Amazing songwriting.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Anyway, there’s so many people out there to be inspired by, it’s ridiculous. So, an album like that would clearly be him and his guitar. And the production aspects, the ear candy, the layers of guitars, the treatment of the voice throughout, is what starts to stylize the songs. With that in mind, I try to use a crowbar separation between elements that contribute stylization and production versus just pure core musical things. That would be getting back to the whole “chords” thing.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;If you listen to “Nevermind,” the second Nirvana record, all those progressions are—the vast majority of them, the melodies are great—but part of the reason the melodies are great is that they have chords dropped underneath them that are just oozing with the curve ball thing. These are just two of several ingredients. You come to the realization that it’s not really the melody, but an interesting chord sequence that might inspire the melody, that’s one thing. So I decided to go down the path of creating more interesting chord progressions. A separate realization was the surprise insertion of non-diatonic chords.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Another realization I started to notice a crazy amount of my favorite songs, every section was in a different key. The verse would be in this key, the pre-chorus would be in this key, and the chorus would be in another key, which generated a constant uptick in musical drama. So, “Okay, now I have to figure out how to get better at key changes.” Then I started to notice a lot of the songs that I like have a great flow to them. Then I started to realize, “Wow this song has seven measures in the verse. This one’s got a 9-bar thing.” All these asymmetrical elements. So I tried to make myself being open to not being super symmetrical. This one chord might be held an extra beat, so it’s a 5/4 bar that makes a little bit of a change-up to help stuff from being bloated.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So all these little things I started to notice, including subtle use of odd meter, and I just tried to get better at all those kinds of things. Beyond those core musical things, there might be other things that I might consider being more production and stylization. I began to notice that, because I’ve worshipped the Beach Boys since I was 5. That’s all I freaking listened to for years, until Kiss! For example, every chorus to the most artistic Beach Boys songs, there are three different vocal parts. There’s a lead vocal, there’s a counter line, and there’s some kind of pad or rhythmic chanting vocal thing. And these are songs that I already loved and something about those appealed to me, so I tried to get a little bit of that in there. Even moreso, just the tracks to those more artsy Beach Boys songs, the instrumental interplay, the instrument line with the vocal, I was way attracted to that so I want to get better at that in my own stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I like weird background vocals, like King’s X with the cluster vocal harmonies. Way into Bobby McFerrin. Way into Mr. Bungle. All sorts of stuff where the influence there might be less structural, but might be a little bit more vocal stylization stuff that I just liked. The thing I try to work with my songwriting students is, if you can get a list going of songs you like and really, in a specific way, be able to describe and pinpoint the kinds of things you like, those areas are what you want to get better at. It can be 15 things. I have a list that’s at least that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;As you get better at each of those different categories, and it can be from a million different styles of music, the way all that stuff gets reassembled is going to be what your style is. Really. If it’s all stuff that you love and you’re getting better at all those individual areas that you love, then that has to be what’s going to make the end result of your tune-smithing. Does that kind of make sense?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Yeah, I love that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: Don’t forget the whole other aspect: the instrumental—I really want to make sure people get the difference between that kind of stuff and the stylization production elements. There’s so many people who get trapped in the “I’m gonna use all these loops and drag all this crap in off my hard drive and program all this midi textural junk,” but when it still comes down to it, it’s still a basic chord progression—which doesn’t mean it’s bad, but if you are trying to get into heavier, more weird stuff, there’s ways to be weird without just involving sound design.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: Cool! Thanks again, Dale.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;D: I forgot the other thing. This is an offshoot of the same thought of people getting enamored by sound design, which is bitchin’ because I would love to get into sound design to have technical elements, which truthfully is what I’m trying to have with my newer stuff. I’m trying to have interesting structural songs, but then try to go hopefully similarly weird with weird guitar sounds, weird ear candy, all that kind of business. Wish me luck!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;But, I see also people fall into the trap of, “Oh, I just tuned my strings to some weird stuff on my guitar and you know, it makes me write better.” And 9 times out of 10, those people that are the open-tuning mutants, still the same basic preschool chord changes. They just sound different because of the resonance of the open strings. It’s very rare, unless you start to really evolve in harmonic territory, to get beyond your influence of the same normal stuff, even if you’re tuning crazy. Rare exceptions would be Joni Mitchell. You listen to Joni Mitchell, billions of tunings, completely NOT run of the mill diatonic chord progression stuff. Very artistic and amazing. So, she’s got not only the interesting guitar sound, but is not restricted by influence. And Michael Hedges, open tunings but really not falling back to the same attraction of generic sounds that would result from being in standard tuning. He’s really always reaching.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Anyway, I wanted to throw that in there because I see that all the time. It’s kind of a shame: denial. Doesn’t mean the songs aren’t good, it just means you’re really not doing what you wouldn’t have been doing in standard tuning. Anyway, that probably makes me sound like an asshole.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: No, no. The rest of the interview made you sound like one. Thank you. Can we do, “Ok Bye?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;C: That’s my sign-off!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;A: I know. I’m stealing it.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 May 2015 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/dale-turner/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/dale-turner/</guid>
-        
-        
-        <category>interview</category>
         
       </item>
     

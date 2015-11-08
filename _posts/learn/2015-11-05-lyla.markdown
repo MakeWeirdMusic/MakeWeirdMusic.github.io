@@ -1,0 +1,79 @@
+---
+layout: post
+title:  Lyla by Avishai Cohen
+date:   2015-11-05 19:14:46
+artist: avishai-cohen
+author: anthony-garone
+image: avishai-cohen-2015
+category: learn
+permalink: /learn/lyla/
+oneliner: A solo guitar arrangement of Avishai's beautiful song.
+seo_description: "Lyla is a beautiful song and title track from his 2003 release. Here's our solo guitar arrangement."
+seo_keywords: "Avishai Cohen, jazz, solo guitar, Lyla"
+draft: no
+front_page: yes
+---
+## What are we learning?
+
+This post explores a solo guitar arrangement I did of a beautiful song called *Lyla* by [Avishai Cohen](/discover/avishai-cohen). The original recording features [Fender Rhodes keyboard](https://en.wikipedia.org/wiki/Rhodes_piano), drums, [upright bass](https://en.wikipedia.org/wiki/Double_bass), flute, and trumpet. I'm a sucker for moody songs played on the Rhodes (see also [Gentle Giant](/discover/gentle-giant)'s incredibly beautiful song, [*Aspirations*](https://itunes.apple.com/us/album/the-power-and-the-glory/id731975200)) and this song certainly fits that description.
+
+I was immediately attracted to this song when I first heard it a few years ago and it's never quite left my short-term musical memory banks. At some point, I realized the sheet music for the song was available in Avishai's online store, so I bought it and saw that it could probably be arranged into a nice solo guitar piece. It took over a year of sporadic effort to turn it into what we'll cover in this post.
+
+**[Check out our Discover post about Avishai Cohen!](/discover/avishai-cohen)**
+
+## Instructional Video
+
+I've put together an instructional video that illustrates everything in the charts below. Watch that if, like me, you don't like reading.
+
+**VIDEO COMING SOON**
+
+## Sheet Music
+
+[Soundslice](http://soundslice.com) is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It's super-duper awesome. Check it out!
+
+Here is the score for performing *Lyla* on guitar.
+
+<iframe src="https://www.soundslice.com/scores/36180/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
+
+In case you're interested, here are the [MuseScore](http://musescore.org) and MusicXML files:
+
+- [MuseScore (.mscz)](/files/lyla/lyla.mscz)
+- [MusicXML (.xml)](/files/lyla/lyla.xml)
+
+## Structure
+
+There are two main parts to this arrangement (the original recording has 3 or 4 parts). There's the opening section that's fairly straightforward consisting of chord triads. I'll call that 'Part A'.
+
+The second part, 'Part B,' is the part with the beautiful harmonic minor melody.
+
+## Harmonic Minor
+
+If you're unfamiliar with the harmonic minor scale, [Wikipedia has a nice entry about it](https://en.wikipedia.org/wiki/Minor_scale#Harmonic_minor_scale). It's the scale that's most often used to play Middle Eastern-sounding music. It's a natural minor scale with a raised 7th note. Avishai plays with the scale in the Part B melody, but if you think of it as staying within B harmonic minor, you'll be all right.
+
+Here's a C major scale: C D E F G A B C
+
+Here's a C natural minor scale: C D **Eb** F G **Ab** **Bb** C
+
+Here's a C harmonic minor scale: C D Eb F G Ab **B** C
+
+Notice the 3rd, 6th, and 7th change between major and natural minor. Then notice that the 7th changes between the natural minor and the harmonic minor. Alternatively, the 3rd and 6th are the only notes that differ between a major and harmonic minor scale.
+
+Irrelevant conceptual question: Can you guess what a C harmonic major scale looks like based on the above information?
+
+## Performing and Hands
+
+You'll notice that left-hand fingerings are quite a stretch at times. Maintaining consistently solid notes is a huge challenge, as is playing the piece with continuity between measures. Part B relies on a series of minor 2nd intervals since it's based in harmonic minor.
+
+Part A has its own challenges, though. That stretch in measure 17 is a doozy to play smooth. Same with measure 18 and 19. Further beware of transitioning out of those little fills around the open high E string and effortlessly landing on that Bb major triad. Tough stuff!
+
+There are a couple of [grace notes](https://en.wikipedia.org/wiki/Grace_note) in the score. Those are the little notes with lines through them. They're basically "notes of no rhythmic value." In other words, play them as fast as you can before playing the following note.
+
+You'll also note some notes with "4:3" within brackets. This is a particular [tuplet](https://en.wikipedia.org/wiki/Tuplet) called a quadruplet. That means that 4 beats will replace 3 beats. In the case of this song, two quadruplet quarter notes are equal duration to a non-quadruplet dotted quarter note. Clear as mud, right?
+
+While this piece can be played with a pick, I recommend playing with fingers instead. It's a little more sensible and this is a sensitive piece of music that can use the finesse and softness of fingers. I'm a self-avowed picking nerd and I can't imagine wanting to play this piece with a pick. But, to each his/her own.
+
+With the melody in Part B beginning on the 3rd beat of each measure, you'll want to lead with the fingers that play the melody. I've indicated left hand fingerings with the little numbers near the note heads in the upper stave.
+
+## Time Signature
+
+The song is in [the 3/4 time signature](https://en.wikipedia.org/wiki/Triple_metre), which is normally pretty straightforward. What makes this song difficult from a time perspective is where the accents live in Part B. The melody begins on the 3 and the rhythm support is on 1 and 2. Traditional 3/4 songs usually have the melody begin on beat 1, but this song's melody lives almost entirely within beat 3. Pretty interesting.

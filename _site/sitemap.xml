@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.makeweirdmusic.com/learn/lyla/</loc>
+    <lastmod>2015-11-05T12:14:46-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.makeweirdmusic.com/interview/kerry-minnear/</loc>
     <lastmod>2015-10-04T12:14:46-07:00</lastmod>
   </url>
@@ -10,6 +14,10 @@
   </url>
   <url>
     <loc>http://www.makeweirdmusic.com/interview/mike-keneally/</loc>
+    <lastmod>2015-09-25T12:14:46-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.makeweirdmusic.com/interview/jan-zehrfeld/</loc>
     <lastmod>2015-09-25T12:14:46-07:00</lastmod>
   </url>
   <url>
@@ -37,11 +45,11 @@
     <lastmod>2015-05-31T12:14:46-07:00</lastmod>
   </url>
   <url>
-    <loc>http://www.makeweirdmusic.com/interview/dale-turner/</loc>
+    <loc>http://www.makeweirdmusic.com/discover/dale-turner/</loc>
     <lastmod>2015-05-25T12:14:46-07:00</lastmod>
   </url>
   <url>
-    <loc>http://www.makeweirdmusic.com/discover/dale-turner/</loc>
+    <loc>http://www.makeweirdmusic.com/interview/dale-turner/</loc>
     <lastmod>2015-05-25T12:14:46-07:00</lastmod>
   </url>
   <url>
