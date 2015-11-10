@@ -23,6 +23,8 @@ techniques:
 
 Panzerballett are the best German jazz-metal band you've never heard. They are fearless, frighteningly talented, and fun. Each of their four albums are a great blend of twisted jazz-metal cover music and originals.
 
+**[Watch/Listen/Read our interview with Jan Zehrfeld](/interview/jan-zehrfeld), the mastermind behind Panzerballett!!**
+
 ## What is "jazz metal?"
 
 I came across this video of their excellent drummer, [Sebastian Lanser](http://sebastianlanser.com), tracking drums for *Zappa Medley From Hell, Pt. 1* from the album *Hart Genossen*:
