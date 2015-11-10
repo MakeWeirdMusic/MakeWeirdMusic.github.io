@@ -51,9 +51,11 @@ Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/ja
 
 Here's a video of the interview:
 
-**VIDEO COMING SOON!**
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wsAwnTjvh4Y" frameborder="0" allowfullscreen></iframe>
+</div>
 
-This is the first videoconference interview I've done with the site. There are some issues that I'm figuring out.
+This is the first videoconference interview I've done with the site. There are some issues that I'm figuring out. This was a great learning experience for me, which probably makes it a less enjoyable viewing and listening experience. Anyone who complains will be justified and will be called a "freeloader."
 
 ## Interview transcript
 
