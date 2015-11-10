@@ -35,6 +35,14 @@ Here's an audio recording and in-video transcription of the interview.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZD2jVpT3QjQ" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
+## Interview Audio (Podcast)
+
+Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
+
+<p><audio src="http://audio.makeweirdmusic.com/interview/carl-king/carl-king-mwm-interview.mp3" controls preload="none" /></p>
+
+Or, [download an mp3](http://audio.makeweirdmusic.com/interview/carl-king/carl-king-mwm-interview.mp3).
+
 ## Interview transcription
 
 Anthony: This is Anthony with MakeWeirdMusic.com and I am here talking to Carl King, also known as the guy who is responsible for Sir Millard Mulch and Doctor Zoltan Øbelisk.

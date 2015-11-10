@@ -32,6 +32,14 @@ Without a doubt, the last few minutes of the interview offer such wonderful insi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tvt2GFQGb3E" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
+## Interview Audio (Podcast)
+
+Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
+
+<p><audio src="http://audio.makeweirdmusic.com/interview/dale-turner/dale-turner-mwm-interview.mp3" controls preload="none" /></p>
+
+Or, [download an mp3](http://audio.makeweirdmusic.com/interview/dale-turner/dale-turner-mwm-interview.mp3).
+
 ## Interview Transcript
 
 Anthony: This is Anthony from MakeWeirdMusic.com. I am here with Dale Turner, multi-instrumentalist, instructor at Musician's Institute in the guitar program, and all-around pretty decent-looking guy.
