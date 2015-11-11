@@ -189,6 +189,8 @@ I've always wanted to bring these elements together. I wanted to be able to both
 A: Oh yeah. You could say, "I latched onto it," or, "I grasped it..."
 {: .interviewer}
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Who&#39;s been listening to the new Panzerballett album, &quot;Breaking Brain?&quot; I love it! What do you think? <a href="https://t.co/8vDJXoL22G">pic.twitter.com/8vDJXoL22G</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/664232776204464128">November 11, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 J: So complexity from jazz harmony, complexity from Indian rhythms or polyrhythms... This always felt great for me to, on the one hand, <span class="important">punch the audience in the face by playing really energetic and loud music</span> and, on the other hand, to make it sophisticated in a way that they actually don't get it in the first place, or they have to first think about it.
 {: .interviewee}
 
