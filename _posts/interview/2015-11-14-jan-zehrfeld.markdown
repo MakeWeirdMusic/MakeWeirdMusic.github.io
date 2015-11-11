@@ -41,8 +41,6 @@ Here's audio of the interview (NOTE: hitting the "play" button requires a hefty 
 
 ### Part 1
 
-**AUDIO COMING SOON!**
-
 <p><audio src="http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-20151022.mp3" controls preload="none" /></p>
 
 Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-20151022.mp3).
@@ -52,7 +50,7 @@ Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/ja
 Here's a video of the interview:
 
 <div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wsAwnTjvh4Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kkNfXg1RRuY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 This is the first videoconference interview I've done with the site. There are some issues that I'm figuring out. This was a great learning experience for me, which probably makes it a less enjoyable viewing and listening experience. Anyone who complains will be justified, but will also be called a "freeloader."
