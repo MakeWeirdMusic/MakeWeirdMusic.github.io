@@ -31,7 +31,7 @@ Below is the first of a multi-part interview with Jan Zehrfeld of Panzerballett,
 
 Due to the time difference between Arizona and Germany, we conducted this interview early in the morning for Jan and in the middle of the night for myself. I was probably more tired than he was, but it's hard to tell.
 
-Also, Jan's camera could only record ~40 minutes at a time, so our interview ended abruptly. I also hadn't figured out how to record our conversation correctly, so I'm missing the audio and video from my end.
+Also, Jan's camera could only record ~40 minutes at a time, so our interview ended abruptly. I also hadn't figured out how to record our conversation correctly, so I'm missing the audio and video from my end. And it was so hot in the Arizona summer that I had to run the air conditioner so my computer wouldn't melt. This made the quality of my audio suck eggs.
 
 Good thing this is just a personal hobby project or I'd feel like I really failed!
 
@@ -55,7 +55,7 @@ Here's a video of the interview:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wsAwnTjvh4Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
-This is the first videoconference interview I've done with the site. There are some issues that I'm figuring out. This was a great learning experience for me, which probably makes it a less enjoyable viewing and listening experience. Anyone who complains will be justified and will be called a "freeloader."
+This is the first videoconference interview I've done with the site. There are some issues that I'm figuring out. This was a great learning experience for me, which probably makes it a less enjoyable viewing and listening experience. Anyone who complains will be justified, but will also be called a "freeloader."
 
 ## Interview transcript
 
