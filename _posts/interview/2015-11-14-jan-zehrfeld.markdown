@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "Jan Zehrfeld Interview"
-date:   2015-09-25 19:14:46
+date:   2015-11-11 19:14:46
 artist: panzerballett
 member: Jan Zehrfeld
 author: anthony-garone
 image: panzerballett
 category: interview
 permalink: /interview/jan-zehrfeld/
-oneliner: Learn how Jan Zehrfeld "crassifies" music through Panzerballett.
+oneliner: Learn how Jan Zehrfeld 'crassifies' music through Panzerballett.
 seo_description: Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.
 seo_keywords: panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser
 front_page: yes
-draft: yes
+draft: no
 techniques:
   - virtuosity
   - composition
