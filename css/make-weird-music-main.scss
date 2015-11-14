@@ -25,6 +25,10 @@ h1, h2, h3, h4 {
   font-family: Museo-700;
 }
 
+img {
+  max-width: 100%;
+}
+
 header {
   position: fixed;
   width: 50%;
@@ -120,6 +124,8 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   }
 
   .menu .story {
+    @include flexbox();
+
     overflow: hidden;
     padding-right: 5%;
     font-size: 1.5em;
@@ -127,10 +133,17 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
     border-bottom: 1px solid #ccc;
   }
 
-  .menu .story img {
-    float: left;
+  .menu .story .image-wrap {
     width: 50%;
     margin-right: 5%;
+  }
+
+  .menu .story .story-text {
+    width: 50%;
+
+    p:last-child {
+      margin-bottom: 5%;
+    }
   }
 
   header {
@@ -254,9 +267,14 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   background-color: #d56f0a;
 }
 
-.menu img {
+.menu .image-wrap {
+  @include flexbox();
   margin-right: 2%;
   background-color: rgba(255,255,255,0.4);
+
+  img {
+    @include alignSelf(flex-end);
+  }
 }
 
 .menu a h2 {
@@ -275,19 +293,28 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   text-transform: uppercase;
 }
 
-.menu a .interview h2 span, .menu a .interview .summary, .menu a .interview .sponsor, .interviewer {
+.menu a .interview h2 span, 
+.menu a .interview .summary, 
+.menu a .interview .sponsor, 
+.interviewer {
   color: #a2daf1;
 }
 
-.menu a .discover h2 span, .menu a .discover .summary, .menu a .discover .sponsor {
+.menu a .discover h2 span, 
+.menu a .discover .summary, 
+.menu a .discover .sponsor {
   color: #ffc7c2;
 }
 
-.menu a .learn h2 span, .menu a .learn .summary, .menu a .learn .sponsor {
+.menu a .learn h2 span, 
+.menu a .learn .summary, 
+.menu a .learn .sponsor {
   color: #92e7a7;
 }
 
-.menu a .share h2 span, .menu a .share .summary, .menu a .share .sponsor {
+.menu a .share h2 span, 
+.menu a .share .summary, 
+.menu a .share .sponsor {
   color: #ffef8a;
 }
 
@@ -302,7 +329,6 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
 }
 
 .ad {
-  /*background-color: rgba(255,255,255,0.1);*/
   background-color: rgba(0,0,0,0.3);
   padding: 1em;
   border-radius: 10px;
@@ -388,10 +414,6 @@ img.bg-dark {
 .menu .summary, .menu .sponsor {
   font-size: 0.85em;
 }
-
-/*.menu .sponsor {
-  font-family: 'Museo-500';
-}*/
 
 .layout-discover .content, .index-discover-row {
   background-color: #400;
@@ -684,7 +706,8 @@ img.bg-dark {
     left: 0%;
   }
 
-  .menu h2, .content h2 {
+  .menu h2, 
+  .content h2 {
     font-family: 'Museo-500';
   }
 
@@ -703,12 +726,9 @@ img.bg-dark {
     padding-bottom: 5%;
   }
 
-  .menu img {
-    display: block;
-    width: 100%;
+  .menu .image-wrap {
     margin-left: auto;
     margin-right: auto;
-    float: none;
   }
 
   .menu a h2,

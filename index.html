@@ -14,7 +14,9 @@ seo_keywords: weird, unique, unknown
 {% endif %}
 <a href="{{ post.url }}">
   <article class="{{ post.category }} story">
-    <img src="{{ site.data.artists.mwm.art_prod }}{{ post.artist }}/{{ post.image }}.svg" />
+    <div class="image-wrap">
+      <img src="{{ site.data.artists.mwm.art_prod }}{{ post.artist }}/{{ post.image }}.svg" />
+    </div>
 
     <div class="story-text">
       <h2><span>{{ post.category }}: </span>{% if post.category == "interview" and post.member %}{{ post.member }}{% elsif post.category == "interview" or post.category == "discover" %}{{ site.data.artists[post.artist].name }}{% else %}{{ post.title }}{% endif %}</h2>
