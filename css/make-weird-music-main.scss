@@ -2,6 +2,8 @@
 # This comment is needed for Jekyll to compile Sass
 ---
 
+@import "_mixins";
+
 * {
   margin: 0;
   padding: 0;
@@ -84,21 +86,17 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   }
 
   .info {
+    @include flexbox();
+    @include flexDirection(column);
+    @include justifyContent(center);
+    @include alignItems(center);
+
     position: fixed;
     overflow: hidden;
     background-color: white;
     background-color: #d8e0cd;
     background-color: #333234;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     padding: 5%;
-
-    display: -webkit-flex;
-    -webkit-flex-direction: column;
-    -webkit-justify-content: center;
-    -webkit-align-items: center;
   }
 
   .content {
@@ -106,24 +104,17 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   }
 
   .menu {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: stretch;
-    align-content: stretch;
-
-    display: -webkit-flex;
-    -webkit-flex-direction: column;
-    -webkit-flex-wrap: nowrap;
-    -webkit-justify-content: center;
-    -webkit-align-items: stretch;
-    -webkit-align-content: stretch;
+    @include flexbox();
+    @include justifyContent(center);
+    @include flexWrap(nowrap);
+    @include flexDirection(column);
+    @include alignItems(stretch);
+    @include alignContent(stretch);
   }
 
   .menu a {
-    flex: 1;
-    -webkit-flex: 1;
+    @include flex(1);
+
     color: #fff;
     text-decoration: none;
   }
