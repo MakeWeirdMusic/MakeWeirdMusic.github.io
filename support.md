@@ -17,6 +17,8 @@ So, I'm just one person and this is a part-time effort for me. I need help! Forr
 
 The easiest way to support the site is to **share the content**. We're on all the social networks and clicking "Share" is super-easy and meaningful. Spread the word!
 
+{% include mailchimp.html %}
+
 ### Somewhat Easy Stuff
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">These black MWM shirts are beautiful! Let me know if you wanna buy one! <a href="https://t.co/zRcCdlOGei">pic.twitter.com/zRcCdlOGei</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/663422572953001984">November 8, 2015</a></blockquote>
