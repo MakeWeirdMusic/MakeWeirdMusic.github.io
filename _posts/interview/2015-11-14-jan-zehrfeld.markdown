@@ -26,7 +26,9 @@ techniques:
 
 ## Some Context
 
-Below is the first of a multi-part interview with Jan Zehrfeld of Panzerballett, the world's best and only jazz-metal band.
+Below is the ***Part 1*** of a multi-part interview with Jan Zehrfeld of Panzerballett, the world's best and only jazz-metal band.
+
+Done with Part 1? [Check out ***Part 2***](/interview/jan-zehrfeld/part-2)!
 
 **[Don't know who Panzerballett is? Check out our Discover post about them!](/discover/panzerballett)**
 
@@ -42,9 +44,9 @@ Here's audio of the interview (NOTE: hitting the "play" button requires a hefty 
 
 ### Part 1
 
-<p><audio src="http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-20151022.mp3" controls preload="none" /></p>
+<p><audio src="http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-part1-20151022.mp3" controls preload="none" /></p>
 
-Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-20151022.mp3).
+Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-part1-20151022.mp3).
 
 ## Interview video
 
@@ -210,4 +212,4 @@ J: Tribal Tech was through a friend of mine. It was the same guy that I played m
 
 ## End of Part 1
 
-This is where Jan's camera ran out of disk space. We will soon be doing Part 2!! Stay tuned!!
+This is where Jan's camera ran out of disk space. [Check out Part 2 for more](/interview/jan-zehrfeld/part-2)!
