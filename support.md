@@ -13,18 +13,20 @@ redirect_from: "/donate/"
 
 So, I'm just one person and this is a part-time effort for me. I need help! Forrealz!
 
-### Easy Stuff
+## Easy Stuff
 
 The easiest way to support the site is to **share the content**. We're on all the social networks and clicking "Share" is super-easy and meaningful. Spread the word!
 
-### Somewhat Easy Stuff
+{% include mailchimp.html %}
+
+## Buy a Shirt
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">These black MWM shirts are beautiful! Let me know if you wanna buy one! <a href="https://t.co/zRcCdlOGei">pic.twitter.com/zRcCdlOGei</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/663422572953001984">November 8, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 We've got shirts for $20 apiece (plus shipping)! They're beautiful and wonderful and cool! Use the email link below and let me know if you want one (please include your size and shipping address).
 
-### Not So Easy Stuff
+## Donate Content or Money
 
 This site has been way more successful than I ever expected. It's also cost me much more than I ever expected!
 
