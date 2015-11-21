@@ -47,7 +47,9 @@
         {% if page.category != "page" %}<div id="more-content">
           <h2>Want More Content?</h2>
           <p>There's tons more content <a href="/archive">in the archives</a>!</p>
-          {% if page.previous != "nil" %}<p>Check our previous post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>{% endif %}
+          {% if page.previous != "nil" %}<p>Check our previous post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+          {% include mailchimp.html %}
+          {% endif %}
         </div>{% endif %}
       </section>
 
