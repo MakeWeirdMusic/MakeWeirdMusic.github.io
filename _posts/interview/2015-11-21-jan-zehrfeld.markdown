@@ -12,7 +12,7 @@ oneliner: Jan gets deeper into the wrecking ball method.
 seo_description: Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.
 seo_keywords: panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser
 front_page: no
-draft: yes
+draft: no
 techniques:
   - virtuosity
   - composition
@@ -39,16 +39,16 @@ Here's audio of the interview (NOTE: hitting the "play" button requires a hefty 
 
 ### Part 2
 
-<p><audio src="http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-part2-20151112.mp3" controls preload="none" /></p>
+<p><audio src="http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-part2-20151112.mp3" controls preload="none" /></p>
 
-Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-part2-20151112.mp3).
+Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-part2-20151112.mp3).
 
 ## Interview video
 
 Here's a video of the interview:
 
 <div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kkNfXg1RRuY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OE4mOZ8bX0Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
 This second attempt at a videoconference interview went much better, though I still had a couple issues. Parts 3 and 4 will be slightly better.
