@@ -12,7 +12,7 @@ oneliner: Jan gets deeper into the wrecking ball method.
 seo_description: Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.
 seo_keywords: panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser
 front_page: no
-draft: yes
+draft: no
 techniques:
   - virtuosity
   - composition

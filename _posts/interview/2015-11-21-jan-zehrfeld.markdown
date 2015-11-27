@@ -27,6 +27,8 @@ techniques:
 
 Below is ***Part 2*** of our multi-part interview with Jan Zehrfeld of Panzerballett, the world's best and only jazz-metal band. Make sure you read/watch [***Part 1***](/interview/jan-zehrfeld) so you are prepared for Part 2!
 
+Done with Part 2? [Check out Part 3](/interview/jan-zehrfeld/part-3)!
+
 **[Don't know who Panzerballett is? Check out our Discover post about them!](/discover/panzerballett)**
 
 We conducted Part 2 on Thursday, November 12 at 1AM Arizona time, which is 9AM in Munich, Germany. I was really tired at first and we talked until almost 4AM my time. Believe it or not, there are two more parts to this interview beyond this!
@@ -173,4 +175,4 @@ This was something that I never understood. <span class="important">Why does it 
 
 ## End of Part 2
 
-This is where Jan's camera ran out of disk space. Stay tuned for Part 3 of this interview...
+This is where Jan's camera ran out of disk space. [Move on to Part 3](/interview/jan-zehrfeld/part-3)!
