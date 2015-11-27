@@ -48,7 +48,7 @@ Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/ja
 Here's a video of the interview:
 
 <div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kkNfXg1RRuY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVYPm6fDisg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 This third attempt at a videoconference interview went much better is the best so far. Hopefully, Part 4 is even better!
