@@ -47,11 +47,11 @@ Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/ja
 
 Here's a video of the interview:
 
-**AUDIO COMING SOON!**
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/NtdaEW5ARcQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview transcript
 
-Jan: It's always, yeah, grass is greener on the other side. It's always that I am wanting the other thing that I do not have right now. When I'm in a metal concert, I'm listening to a metal band and I'm missing the improvisation. At a jazz concert, sometimes I'm missing the wrecking ball. EDIT
+Jan: It's always, yeah, grass is greener on the other side. It's always that I am wanting the other thing that I do not have right now. When I'm in a metal concert, I'm listening to a metal band and I'm missing the improvisation. At a jazz concert, sometimes I'm missing the wrecking ball.
 {: .interviewee}
 
 Being in the metal community, being the one who's actually into jazz, or being among jazz guys always wanting to be the metal guy, <span class="important">always wanting to be the different guy, to do something different, to be different from the others</span>... It's a desire that comes from myself and that's the same contrast that I need. You automatically get it at the same time when performing songs that incorporate both elements.
@@ -72,7 +72,7 @@ A: Is within a song a small enough thing? You said, "When I'm in a group, I'm al
 J: Yes it is because the song is designed in a way to fulfill that desire automatically. Some songs that don't have improvisation, like *Mahna Mahna*, which doesn't have improvisation. The song is quite short, but if it was 8 minutes long and it wouldn't have improvisation, then I would miss something. Since it's 2 minutes, that's okay for a non-improvisational part.
 {: .interviewee}
 
-When it's a whole song without improvisation, something is definitely missing. EDIT So, most of the songs have a well-balanced ratio--what means "well-balanced?" Well, enough balance for fulfilling the desired ratio of improvisation versus composition.
+When it's a whole song without improvisation, something is definitely missing. So, most of the songs have a well-balanced ratio--what means "well-balanced?" Well, enough balance for fulfilling the desired ratio of improvisation versus composition.
 {: .interviewee}
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/bEdh3IjJ9Gk?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -120,7 +120,7 @@ A: I guess I can only think of one more question and it's 3:40 in the morning. B
 J: Personally, I would say just <span class="important">doing this thing is the most satisfying experience for me as a musician.</span> It has been by far the most satisfying because it's nice to be a side-man playing music from other other composers, other bands, or doing stuff in other bands, cover bands... The diversity makes it exciting.
 {: .interviewee}
 
-But, still <span class="important">everything is not half as satisfying as doing your own thing</span> and knowing that there is no end to it so you can always go on and on and on and finding new stuff. That's how I assign the importance or priority in EDIT doing this Panzerballett stuff. It's my first priority of what I want to go on with and what I put my efforts into emotionally. As a musician, it makes me EDIT my source of inspiration  of what I do.
+But, still <span class="important">everything is not half as satisfying as doing your own thing</span> and knowing that there is no end to it so you can always go on and on and on and finding new stuff. That's how I assign the importance or priority in doing this Panzerballett stuff. It's my first priority of what I want to go on with and what I put my efforts into emotionally. As a musician, it makes me my source of inspiration  of what I do.
 {: .interviewee}
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DnYs2vVi4QA?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -128,7 +128,7 @@ But, still <span class="important">everything is not half as satisfying as doing
 When I wake up and start practicing, I know I want to. It used to be like that. When I didn't have it, it used to be a random thing I liked, different stuff. What I practiced wasn't as focused as what it is now. Now I want to be really... I got the *Erkenntnis*... What is that in German? The awareness or knowledge that you cannot be able to do everything. A country or recording guitarist or classical guitarist. There are so many great aspects of playing guitar, but the time is limited and you have to focus on something.
 {: .interviewee}
 
-I think by <span class="important">making weird music, I've found something that's really myself</span> and that's what I can do good. That's my cup of tea. That's what I can do best. That's what I have to EDIT. I know I have to really specialize in order to get a chance to be recognized by the world. Otherwise, I don't have a chance because there are so many good musicians. You have to find a way to do your own thing *and then* putting 100% into it and then you have a chance to be recognized.
+I think by <span class="important">making weird music, I've found something that's really myself</span> and that's what I can do good. That's my cup of tea. That's what I can do best. That's what I have to. I know I have to really specialize in order to get a chance to be recognized by the world. Otherwise, I don't have a chance because there are so many good musicians. You have to find a way to do your own thing *and then* putting 100% into it and then you have a chance to be recognized.
 {: .interviewee}
 
 I think I've found the thing that I can do best so now I know what to focus on way better. I know, "Well, maybe I should check out more of this technique or that technique" and it'd be great to be a nice flamenco player. Why not? But, when just starting to do it, I recognize, "No!"" <span class="important">It would take so much longer and it would distract from what I can do best</span>, which is this weird thing. I need to focus on the weird stuff.
