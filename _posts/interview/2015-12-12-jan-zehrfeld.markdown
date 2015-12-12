@@ -37,8 +37,6 @@ Here's audio of the interview (NOTE: hitting the "play" button requires a hefty 
 
 ### Part 4
 
-**AUDIO COMING SOON!**
-
 <p><audio src="http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-part4-20151112.mp3" controls preload="none" /></p>
 
 Or, [download an mp3](http://audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-interview-mwm-part4-20151112.mp3).
