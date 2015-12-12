@@ -8,7 +8,7 @@ author: anthony-garone
 image: panzerballett
 category: interview
 permalink: /interview/jan-zehrfeld/part-3/
-oneliner: Jan gets deeper into the wrecking ball method.
+oneliner: Part 3 (of 4) deep into the wrecking ball method.
 seo_description: Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.
 seo_keywords: panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser
 front_page: no
@@ -285,4 +285,4 @@ J: Yes. Now it's getting very interesting.
 
 ## End of Part 3
 
-Just one more part left! Stay tuned for Part 4 of this interview...
+Just one more part left! Check out [Part 4](/interview/jan-zehrfeld/part-4) of this interview...
