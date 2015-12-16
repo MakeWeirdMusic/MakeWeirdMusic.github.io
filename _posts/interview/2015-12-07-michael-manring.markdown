@@ -68,6 +68,8 @@ M: The first thing that we all kind of got into, all the kids in my neighborhood
 One of the things about that was there's a lot of different kinds of music at Woodstock. You know, [Jimi Hendrix&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jimi_Hendrix) was there, but also [Ravi Shankar&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Ravi_Shankar) and [Sha Na Na&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Sha_Na_Na) and [Richie Havens&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Richie_Havens). All kinds of stuff. For me, at least, and I think for some of my friends, too, that was part of the appeal. This whole world of different things going on and there was kind of a lot to learn. "Where is this coming from? What is this doing? How do these people get to what they're doing?" That was a real fascination. So, the first thing I was into was just kind of everything. Just getting into listening to all of it, trying to figure out what it was.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/3fZBaPS_XvQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 For me, <span class="important">the bass was the common thread through it all. I just loved the sound.</span> At first I didn't know what the sound was, actually. As a younger kid, I always loved the sound of the bass, but there wasn't a lot of information about music in those days, so you'd hear something, you'd hear a sound, and as part of an ensemble, you don't even know what's making what. There wasn't a lot of music video in those days, either. So, it took me a while to figure out that it was bass, but by the time Woodstock came out, that kind of information was much more available and you knew who the players were, what they were playing, and so that's what really got me into it.
 {: .interviewee }
 
@@ -115,6 +117,8 @@ A: I see. So you were playing regularly with that big band after your first year
 
 M: Yeah, I did that kind of while I was in high school, but kind of had to back out of it just because I couldn't finish high school and do that at the same time. It was too much. Right out of Berklee, I went on the road playing top 40 music, which in those days was disco.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/nvIydHPhb98?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 In those days, we wore the platform shoes and shiny, shiny shirts with collars that went out to here. Aerodynamic. And we played [*Boogie Oogie Oogie*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Boogie_Oogie_Oogie) and [*Disco Inferno*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Disco_Inferno) and that band was a road band. We all lived in different cities and so there was no home to go to. So we were on the road always. Usually play out a week or two weeks in one place. Most typically hotels, you know a hotel ballroom or there were little hotel disco clubs. And then we would travel on a Sunday to the next place and then play there.
 {: .interviewee }
@@ -203,6 +207,8 @@ M: Yeah, the Kitchen was just getting started...
 A: [David Byrne&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/David_Byrne), [The Residents](/discover/the-residents), [Laurie Anderson&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Laurie_Anderson)... Amazing acts played there all the time for cheap.
 {: .interviewer}
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/B9ZOjpsXxPY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 M: Yep! That's right!
 {: .interviewee}
 
@@ -241,6 +247,8 @@ M: Sure. It was kind of complicated for a bit because it was an incredible oppor
 That was hard for me that there was this person who I so, so wanted to be, but he didn't want to be himself. He didn't want to be. That was a really complicated conundrum for a 22-year old person.
 {: .interviewee}
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/JXOnhzoC-i8?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 A: How long were you taking lessons from him?
 {: .interviewer}
 
@@ -258,6 +266,8 @@ We would sit and talk about [Bartok&nbsp;<i class="non-mwm fa fa-external-link-s
 
 But, I think he knew I was a nervous kid who was uncertain and he was just trying to be nice. He thought, maybe I guess, I had some potential. I would pester him with millions of questions and he was always very patient about doing his best to answer them. He had trouble concentrating a lot, so you just had  to keep--"Come on back!"--reeling him back in. There was a lot of that. But, he was never really rude about that, at least not with me.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/TgntkGc5iBo?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 I asked him a lot about specific parts, "When you played this line," or, "How did you phrase that?" or "How did you finger it?" He'd generally get really spacey for a minute and I'd bring him back and he'd go, "Oh, right. This is how I did it." There was a whole lot of stuff he didn't remember or didn't think about. There were a lot of things I asked about and he said, "You know, I never thought about that." Or I'd ask him to play something for me and I'd say, "It seems like you're doing *this*. Is that right?" He'd say, "Yeah, I guess that's right."
 {: .interviewee }
@@ -300,6 +310,8 @@ So we became fast friends, but we were both starving musicians at that point. We
 
 Michael couldn't really do that. It's weird. He had all the understanding to do that, all the brain power to do that and more, but somehow it didn't connect with him. I don't know, it was kind of odd, especially since he ended up studying with Pat Martino.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/6KvOkNdZMsU?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Right about the time he died, he started being able to play like Pat. He started being able to play that way, kind of with his own style. He was really interested, when he died, he was trying to go in some new directions. He was playing a lot more electric guitar and playing sort of his own version of that way was really neat. It's a shame that he didn't get to see that through because it could have been really cool, what he was coming up with in that way.
 {: .interviewee }
@@ -354,6 +366,8 @@ M: Absolutely. That was a really interesting experience. Really, my whole life t
 
 So, that was my point of view when I went in to study with him. That was all there was to the bass. It was to just play in that style and try to do it well. Maybe there were other things you could do, but you, at the very least, had to be able to understand this very deep and rich world that he had created before you could move on. So I just worked really hard at copying him and what he did and, as you said, I would play through his pieces often with his help and with his pointers and there were just certain things I just couldn't get.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/wDQlSSOXU6A?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 He was never critical about it. He didn't want me to play like him, which is kind of nice. I guess I should have listened to that more from him. I was just trying to get it right, really. There's some things I couldn't get and those were the wrong things in the music until I finally realized that those "mistakes" I was making were not actually real mistakes. That was me! I was never going to be able to play like him because I wasn't him.
 {: .interviewee }
@@ -449,6 +463,8 @@ So, moving in that direction, and that didn't go over well in New York, that was
 
 So we both were kind of in this place where we wanted to experiment with music that was--I guess we didn't feel obligated to do that. We could go there if we wanted to, but we didn't feel like we had to. A lot of other people were that way, too. Some of our heroes: [Terry Riley&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Terry_Riley), still alive, still making amazing music, still a huge hero, was doing that. [Steve Reich&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Steve_Reich) also, who was in Terry's band actually, one of Terry's first bands making amazing music and just a huge hero to us.
 {: .interviewee}
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/r4AysS-WN0A?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 That was something that was kind of happening and we were interested in pulling that into the mix, too. Basically as much as we could get into the mix! That's what we wanted to do, all these different kinds of sounds. Little by little, these things just gelled out of all these different approaches. And our own abilities and limitations and just wanted to enjoy it, really. Just wanted to have fun at the same time.
 {: .interviewee}
