@@ -20,6 +20,8 @@ Below is a 1-hour interview with Michael Manring conducted on Monday, December 7
 
 **[Don't know who Michael Manring is? Check out his entry at Wikipedia!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://en.wikipedia.org/wiki/Michael_Manring)**
 
+I've been listening to Michael's music since the late 1990s. He is an unbelievable musician and incredibly creative. I never thought I would see him perform live, but I had the opportunity at NAMM 2013 to see and barely hear him amidst the chaotic din of  "shredders." Two years later, I'm sitting on his couch in his living room having a conversation. What an experience!
+
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
