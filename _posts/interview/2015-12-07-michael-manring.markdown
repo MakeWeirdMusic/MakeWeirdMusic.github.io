@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Michael Interview"
-date:   2015-12-07 19:14:46
+date:   2015-12-17 19:14:46
 artist: michael-manring
 author: anthony-garone
 image: michael-manring
@@ -33,7 +33,7 @@ Or, [download an mp3](http://audio.makeweirdmusic.com/interview/michael-manring/
 Here's a video of the interview:
 
 <div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NJhPqaXZ30g?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2naRtBfRFMo?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 There were some issues with the audio that were my fault entirely. Sigh. Thanks to [Bob Mendelsohn&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://damprabbit.com) for his help filming this!
