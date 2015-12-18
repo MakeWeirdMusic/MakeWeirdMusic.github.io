@@ -11,7 +11,7 @@ oneliner: Bass virtuoso and new age music pioneer known for his work with Michae
 seo_description: Michael Manring has advanced bass playing with his virtuosity, creativity, and extraterrestrial hyperbass.
 seo_keywords: Michael Hedges, Jaco Pastorius
 front_page: yes
-draft: yes
+draft: no
 ---
 
 ## Some Context
