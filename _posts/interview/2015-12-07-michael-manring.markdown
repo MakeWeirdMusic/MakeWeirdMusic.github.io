@@ -9,7 +9,7 @@ category: interview
 permalink: /interview/michael-manring/
 oneliner: Bass virtuoso and new age music pioneer known for his work with Michael Hedges.
 seo_description: Michael Manring has advanced bass playing with his virtuosity, creativity, and extraterrestrial hyperbass.
-seo_keywords: Michael Hedges, Jaco Pastorius
+seo_keywords: Michael Hedges, Jaco Pastorius, fretless bass, hyperbass, zon guitars, joe zon, bass virtuoso
 front_page: yes
 draft: no
 ---
@@ -43,7 +43,7 @@ There were some issues with the audio that were my fault entirely. Sigh. Thanks 
 Anthony: Hi, this is Anthony from MakeWeirdMusic.com and today we are here with Michael Manring. Michael, part of the purpose of the site is to introduce musicians and music enthusiasts to new kinds of music and new musicians. I thought it would be cool if you could just introduce yourself. Tell us a little about your musical history and what got you to where you are today.
 {: .interviewer}
 
-Michael: First of all, thank you so much for doing this, for helping those of us who make weird music, to get it out there and connect with the folks who are interested in this kind of stuff because it's not for everybody. <span class="important">It can be a challenge for people to cut through all the other information that's out there.</span> People who have really big budgets to spend to get to promote what they do, so we really appreicate homegrown support for guys like us. I know you've talked with a lot of my friends. We're kind of a team in that way.
+Michael: First of all, thank you so much for doing this, for helping those of us who make weird music, to get it out there and connect with the folks who are interested in this kind of stuff because it's not for everybody. <span class="important">It can be a challenge for people to cut through all the other information that's out there.</span> People who have really big budgets to spend to get to promote what they do, so we really appreciate homegrown support for guys like us. I know you've talked with a lot of my friends. We're kind of a team in that way.
 {: .interviewee }
 
 But, yeah, my name is Michael Manring and I fell in love with the bass guitar when I was ten years old and it just got a hold of me. There's something about it that just really spoke to me and has never let go. I wanted to be a rock star when I was a kid. I thought that would be really fun just because that's all I knew you did with a bass guitar. But as I got older and learned a little bit about the music business, I really didn't think I fit into professional musician-kind-of-personality.
