@@ -16,7 +16,14 @@ Thank you to all the people around the world who've purchased shirts.
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">These black MWM shirts are beautiful! Let me know if you wanna buy one! <a href="https://t.co/zRcCdlOGei">pic.twitter.com/zRcCdlOGei</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/663422572953001984">November 8, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-We've got just a few shirts left for $20 apiece (plus shipping)! They're beautiful and wonderful and cool! Use the email link below and let me know if you want one (please include your size and shipping address).
+Here's what's left for purchase all unisex/men's [black Next Level 3600 shirts](http://www.nextlevelapparel.com/prod-24-1-28-2/.htm):
+
+- 1 small
+- 1 medium
+- 2 large
+- 2 extra large
+
+We've got just a few shirts left for $25 total for US-based customers, $32 total for international. They're beautiful and wonderful and cool! Use the email link below and let me know if you want one (please include your size and shipping address).
 
 <script type="text/javascript" language="javascript">
 <!--
