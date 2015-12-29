@@ -11,6 +11,7 @@ oneliner: Eyeballs, top hats, and the weirdest performance art you've never hear
 seo_description: The Residents have been making weird music since the 1960s and continue to terrify listeners to this day.
 seo_keywords: residents, band, weird, avant garde, art rock
 front_page: yes
+has_video: yes
 techniques:
  - experimentation
  - identity

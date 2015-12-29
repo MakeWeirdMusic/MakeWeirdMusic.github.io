@@ -13,6 +13,7 @@ oneliner: Learn how Jan Zehrfeld 'crassifies' music through Panzerballett.
 seo_description: Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.
 seo_keywords: panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser
 front_page: yes
+has_video: yes
 draft: no
 techniques:
   - virtuosity

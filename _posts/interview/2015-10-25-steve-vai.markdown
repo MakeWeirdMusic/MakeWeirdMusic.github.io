@@ -13,6 +13,7 @@ seo_keywords: Steve Vai, Frank Zappa, Joe Satriani
 front_page: yes
 sponsors: Software++, Mad Hatter Guitar Products, and Carl King Creative
 draft: no
+has_video: yes
 techniques:
   - virtuosity
   - composition

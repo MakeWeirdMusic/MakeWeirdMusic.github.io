@@ -13,6 +13,7 @@ seo_keywords: "Bill Bruford, Allan Holdsworth, Dave Stewart, Jeff Berlin, Brufor
 facebook_post_url: https://www.facebook.com/MakeWeirdMusic/posts/754055434707182
 google_post_url: https://plus.google.com/+Makeweirdmusic/posts/jDruN8RAj6m
 front_page: yes
+has_video: yes
 techniques:
   - key modulations
   - time signatures

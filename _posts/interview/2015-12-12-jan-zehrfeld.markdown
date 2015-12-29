@@ -13,6 +13,7 @@ seo_description: Panzerballett is the best jazz-metal band in the world. Jan Zeh
 seo_keywords: panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser
 front_page: no
 draft: no
+has_video: yes
 techniques:
   - virtuosity
   - composition

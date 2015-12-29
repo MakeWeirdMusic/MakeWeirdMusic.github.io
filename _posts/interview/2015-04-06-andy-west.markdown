@@ -13,6 +13,7 @@ seo_keywords: Dixie Dregs, Steve Morse, John French, Henry Kaiser, Joaquin Lieva
 facebook_post_url:
 google_post_url:
 front_page: yes
+has_video: yes
 techniques:
   - time signatures
   - composition

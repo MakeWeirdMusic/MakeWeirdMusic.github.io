@@ -11,6 +11,7 @@ oneliner: A total nut in every sense of the word (except a literal 'nut').
 seo_description: Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.
 seo_keywords: mannerisms magnified, dale turner, brian wilson, jeff buckley, beach boys, elliott smith, chris cornell, iron maiden, music production, songwriting, musicians institute
 front_page: yes
+has_video: yes
 techniques:
   - virtuosity
   - composition

@@ -11,6 +11,7 @@ oneliner: Dr. Joe is professor emeritus of music at Boise State University. He's
 seo_description: Dr. Joe is professor emeritus of music at Boise State University. He's also a prog rocker.
 seo_keywords: the path, medieval music, early music, gentle giant, king crimson, luter, young jane
 front_page: no
+has_video: yes
 techniques:
 - instrumentation
 - multiple genres

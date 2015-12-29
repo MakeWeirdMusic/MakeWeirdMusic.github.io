@@ -11,6 +11,7 @@ oneliner: Long live the king of weird music!
 seo_description: Frank Zappa is the poster child for weird music in the 20th century. From rock to psychedelic to chamber orchestra, he had it all.
 seo_keywords: Zappa Plays Zappa, Frank Zappa, Steve Vai, Tommy Mars, Complexity, Orchestration, Virtuosity, Humor
 front_page: yes
+has_video: yes
 techniques:
   - virtuosity
   - composition

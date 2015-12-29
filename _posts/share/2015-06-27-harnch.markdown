@@ -13,6 +13,7 @@ seo_keywords: Anthony Garone, guitar instrumental, Pat Metheny, Gentle Giant, Ki
 facebook_post_url:
 google_post_url:
 front_page: yes
+has_video: yes
 techniques:
   - time signatures
   - composition

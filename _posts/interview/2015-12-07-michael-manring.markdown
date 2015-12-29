@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Michael Interview"
+title:  "Michael Manring Interview"
 date:   2015-12-17 19:14:46
 artist: michael-manring
 author: anthony-garone
@@ -11,6 +11,7 @@ oneliner: Bass virtuoso and new age music pioneer known for his work with Michae
 seo_description: Michael Manring has advanced bass playing with his virtuosity, creativity, and extraterrestrial hyperbass.
 seo_keywords: Michael Hedges, Jaco Pastorius, fretless bass, hyperbass, zon guitars, joe zon, bass virtuoso
 front_page: yes
+has_video: yes
 draft: no
 ---
 
