@@ -37,7 +37,7 @@ I've put together an instructional video that illustrates everything I'm talking
 
 [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com) is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It's super-duper awesome. Check it out!
 
-Here is the score and tablature for the *Experience* introduction.
+Here is the score and tablature for the *Experience* introduction. **The time signatures are arbitrarily crazy** only because it seems to be how the intro was played. Most of the song is in 9/4 and 4/4 beyond the intro.
 
 <iframe src="https://www.soundslice.com/scores/39032/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
 
