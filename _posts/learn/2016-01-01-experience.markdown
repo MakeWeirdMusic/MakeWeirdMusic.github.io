@@ -31,7 +31,9 @@ I started learning the piece on piano and thought, "I wonder if this is playable
 
 I've put together an instructional video that illustrates everything I'm talking about. I play it slowly, then half-speed, then at tempo.
 
-**VIDEO COMING SOON**
+**FINAL VIDEO COMING SOON, VERY ROUGH DRAFT BELOW**
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="https://www.facebook.com/MakeWeirdMusic/videos/851730681606323/"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/MakeWeirdMusic/videos/851730681606323/"><a href="https://www.facebook.com/MakeWeirdMusic/videos/851730681606323/">Gentle Giant - &quot;Experience&quot; Intro</a><p>Very, very early rough draft of my solo guitar arrangement of the &quot;Experience&quot; intro by Gentle Giant. I&#039;m still learning and figuring this out, but was too excited not to share. :)</p>Posted by <a href="https://www.facebook.com/MakeWeirdMusic/">Make Weird Music</a> on Wednesday, December 30, 2015</blockquote></div></div>
 
 ## Sheet Music
 
