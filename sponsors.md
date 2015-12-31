@@ -51,3 +51,4 @@ These are other individuals who have provided support to MWM either via money or
 - [Robbie Seahag Mangano](http://www.facebook.com/robbieseahag)
 - [Jeries Alfreih](http://www.youtube.com/jeriesalfreih)
 - John Landy
+- [Lucas Lee](http://www.lucasleemusic.com)
