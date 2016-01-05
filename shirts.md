@@ -20,8 +20,7 @@ Here's what's left for purchase all unisex/men's [black Next Level 3600 shirts](
 
 - 1 small
 - 1 medium
-- 2 large
-- 2 extra large
+- 1 extra large
 
 We've got just a few shirts left for $25 total for US-based customers, $32 total for international. They're beautiful and wonderful and cool! Use the email link below and let me know if you want one (please include your size and shipping address).
 
