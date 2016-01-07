@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Favrio Guitars ATG7
+date:   2016-01-12 19:14:46
+artist: favrio-guitars
+author: anthony-garone
+image: atg7
+category: gear
+permalink: /gear/favrio-atg7/
+oneliner: A 7-string guitar I had custom built by Favrio Guitars in Turkey.
+seo_description: "Favrio Guitars is a company based in Bodrum, Turkey."
+seo_keywords: "luthier"
+draft: yes
+front_page: yes
+---
+
+## Who's Behind Favrio Guitars?
+
+asdf
+
+## What is the ATG7?
+
+asdf

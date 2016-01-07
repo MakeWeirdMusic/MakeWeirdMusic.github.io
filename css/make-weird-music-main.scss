@@ -267,6 +267,14 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   background-color: #d56f0a;
 }
 
+.menu .gear {
+  background-color: #B31C9D;
+}
+
+.menu .gear:hover {
+  background-color: #891579;
+}
+
 .menu .image-wrap {
   @include flexbox();
   margin-right: 2%;
@@ -308,7 +316,10 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
 
 .menu a .learn h2 span,
 .menu a .learn .summary,
-.menu a .learn .sponsor {
+.menu a .learn .sponsor,
+.menu a .gear h2 span,
+.menu a .gear .summary,
+.menu a .gear .sponsor {
   color: #92e7a7;
 }
 
@@ -425,6 +436,10 @@ img.bg-dark {
 
 .layout-learn .content, .index-learn-row {
   background-color: #024707;
+}
+
+.layout-gear .content, .index-gear-row {
+  background-color: #65105A;
 }
 
 .layout-page .content {
