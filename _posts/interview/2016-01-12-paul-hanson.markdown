@@ -7,9 +7,9 @@ author: anthony-garone
 image: paul-hanson
 category: interview
 permalink: /interview/paul-hanson/
-oneliner:
-seo_description:
-seo_keywords:
+oneliner: A pioneer in the world of electric bassoon playing.
+seo_description: Paul Hanson, former bassoonist for Bela Fleck and the Flecktones, talks to us about his formation and career.
+seo_keywords: bela fleck, flecktones, paul mccandless, oon, ariane cap, davka
 front_page: yes
 draft: no
 has_video: yes
