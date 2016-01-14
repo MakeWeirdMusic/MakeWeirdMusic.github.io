@@ -11,7 +11,7 @@ oneliner:
 seo_description:
 seo_keywords:
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 ---
 
