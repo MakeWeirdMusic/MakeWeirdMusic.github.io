@@ -27,19 +27,15 @@ This interview was conducted on Sunday, December 6 at 11AM in Paul's home.
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-AUDIO COMING SOON
+<p><audio src="http://audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson-interview-mwm-20151206.mp3" controls preload="none" /></p>
 
-<!--<p><audio src="http://audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson-interview-mwm-20151206.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson-interview-mwm-20151206.mp3).-->
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson-interview-mwm-20151206.mp3).
 
 ## Interview video
 
 Here's a video of the interview:
 
-<!--<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8M-ov1cL_i0?rel=0" frameborder="0" allowfullscreen></iframe></div>-->
-
-VIDEO COMING SOON
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8M-ov1cL_i0?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview transcript
 
