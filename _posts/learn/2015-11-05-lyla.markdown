@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lyla by Avishai Cohen
-date:   2015-11-05 19:14:46
+date:   2016-01-24 19:14:46
 artist: avishai-cohen
 author: anthony-garone
 image: avishai-cohen-2015
@@ -25,7 +25,7 @@ I was immediately attracted to this song when I first heard it a few years ago a
 
 I've put together an instructional video that illustrates everything in the charts below. Watch that if, like me, you don't like reading.
 
-**VIDEO COMING SOON**
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/rrwgOFl2y9k" frameborder="0" allowfullscreen></iframe></div>
 
 ## Sheet Music
 
