@@ -23,7 +23,7 @@ I was immediately attracted to this song when I first heard it a few years ago a
 
 ## Instructional Video
 
-I've put together an instructional video that illustrates everything in the charts below. Watch that if, like me, you don't like reading.
+I've put together an instructional video that illustrates everything in the charts below.
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/rrwgOFl2y9k" frameborder="0" allowfullscreen></iframe></div>
 
@@ -31,7 +31,7 @@ I've put together an instructional video that illustrates everything in the char
 
 [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com) is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It's super-duper awesome. Check it out!
 
-Here is the score for performing *Lyla* on guitar.
+Here is the score for performing *Lyla* on guitar. It includes corrections by Forbes Henderson, which came after I recorded the video above.
 
 <iframe src="https://www.soundslice.com/scores/36180/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
 
