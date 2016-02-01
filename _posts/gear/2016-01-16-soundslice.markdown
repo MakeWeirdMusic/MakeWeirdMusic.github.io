@@ -16,17 +16,25 @@ draft: yes
 has_video: yes
 ---
 
+## Soundslice
+
+Soundslice is an incredible tool for musicians that brings sheet music to life on the web. It lets you put your sheet music into a web page without any PDFs, Flash players, browser plugins, special MIDI stuff, etc. Here's an example of Soundslice in action:
+
+<iframe src="https://www.soundslice.com/scores/39032/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
+
+As you can see (and hear!), it plays anything you throw at it giving you plenty of options, like a piano viewer, live guitar fretboard, notation synchronized with tablature synchronized with audio, and it lets you upload multiple audio and video tracks to accompany the sheet music. Within the site is the capability to create and sell collections of music lessons where you keep 70% of the revenue from each sale. It's frikkin' awesome!
+
+**[Still don't get what Soundslice does? Check out their site!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com)**
+
 ## Some Context
 
-Below is our interview with [Adrian Holovaty&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.holovaty.com), guitarist, educator, and software developer.
+Below is my interview with [Adrian Holovaty&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.holovaty.com), guitarist, educator, and software developer.
 
 In May 2013, a friend told me about [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com). I checked it out and was blown away. My first thought was: "Finally, someone has built something I've been too lazy to do myself!!" I was stunned to see that it was built by the guy who'd started the [Python&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Python_(programming_language))-based [Django web framework&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Django_(web_framework)). My full-time work is in web-based software development, so I already knew about Adrian peripherally. To find him behind Soundslice was exciting because it was nice to see another programmer/musician.
 
 We started exchanged lengthy emails about Soundslice (really, I mean *lengthy*) regarding features, bugs, and ideas for the future of the product. We've been in touch since then (I can't believe it's over 2.5 years!) and finally met in person in Chicago in October 2015, just weeks before he moved to Amsterdam with his entire family.
 
 At the end of 2015, I thought it would be cool to feature tools and gear to help people make weird music and Soundslice seemed like a great first choice. I absolutely love the product and want to get as many musicians using it as possible. I strongly believe it is the most important music product on the Internet.
-
-**[Don't know what Soundslice is? Check it out!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com)**
 
 So, I reached out to Adrian and asked if he'd be interested in doing an interview. He kindly obliged and we made it work despite the significant difference in time zones between Phoenix and Amsterdam.
 

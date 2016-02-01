@@ -41,8 +41,6 @@ Here is the score and tablature for the *Experience* introduction. **The time si
 
 <iframe src="https://www.soundslice.com/scores/39032/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
 
-(NOTE: The Soundslice embed seems to be having trouble playing all the notes in the second measure. I've reached out to their support team for a fix.)
-
 ## Other Performances
 
 Here is the original band playing the song live (skip to 4:20 in the video), which is a bit different from the original studio release. I personally prefer the studio version for several reasons.
