@@ -6,8 +6,8 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Feb 2016 23:08:09 -0700</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 23:08:09 -0700</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2016 23:29:32 -0700</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 23:29:32 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -165,7 +165,7 @@
       </item>
     
       <item>
-        <title>Adrian Holovaty Interview</title>
+        <title>Soundslice Interview</title>
         <description>&lt;h2 id=&quot;soundslice&quot;&gt;Soundslice&lt;/h2&gt;
 
 &lt;p&gt;Soundslice is an incredible tool for musicians that brings sheet music to life on the web. It lets you put your sheet music into a web page without any PDFs, Flash players, browser plugins, special MIDI stuff, etc. Here’s an example of Soundslice in action:&lt;/p&gt;
@@ -178,7 +178,7 @@
 
 &lt;h2 id=&quot;some-context&quot;&gt;Some Context&lt;/h2&gt;
 
-&lt;p&gt;Below is my interview with &lt;a href=&quot;http://www.holovaty.com&quot;&gt;Adrian Holovaty &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, guitarist, educator, and software developer.&lt;/p&gt;
+&lt;p&gt;Below is my interview with &lt;a href=&quot;http://www.holovaty.com&quot;&gt;Adrian Holovaty &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, co-creator of Soundslice, gypsy jazz guitarist, educator, and one of the world’s leading web software developers.&lt;/p&gt;
 
 &lt;p&gt;In May 2013, a friend told me about &lt;a href=&quot;http://soundslice.com&quot;&gt;Soundslice &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. I checked it out and was blown away. My first thought was: “Finally, someone has built something I’ve been too lazy to do myself!!” I was stunned to see that it was built by the guy who’d started the &lt;a href=&quot;https://en.wikipedia.org/wiki/Python_(programming_language)&quot;&gt;Python &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;-based &lt;a href=&quot;https://en.wikipedia.org/wiki/Django_(web_framework)&quot;&gt;Django web framework &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. My full-time work is in web-based software development, so I already knew about Adrian peripherally. To find him behind Soundslice was exciting because it was nice to see another programmer/musician.&lt;/p&gt;
 

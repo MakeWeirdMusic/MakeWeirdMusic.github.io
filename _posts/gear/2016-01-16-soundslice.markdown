@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adrian Holovaty Interview"
+title:  "Soundslice Interview"
 date:   2016-01-18 19:14:46
 artist: soundslice
 member: adrian-holovaty
@@ -28,7 +28,7 @@ As you can see (and hear!), it plays anything you throw at it giving you plenty 
 
 ## Some Context
 
-Below is my interview with [Adrian Holovaty&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.holovaty.com), guitarist, educator, and software developer.
+Below is my interview with [Adrian Holovaty&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.holovaty.com), co-creator of Soundslice, gypsy jazz guitarist, educator, and one of the world's leading web software developers.
 
 In May 2013, a friend told me about [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com). I checked it out and was blown away. My first thought was: "Finally, someone has built something I've been too lazy to do myself!!" I was stunned to see that it was built by the guy who'd started the [Python&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Python_(programming_language))-based [Django web framework&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Django_(web_framework)). My full-time work is in web-based software development, so I already knew about Adrian peripherally. To find him behind Soundslice was exciting because it was nice to see another programmer/musician.
 
