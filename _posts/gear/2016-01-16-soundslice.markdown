@@ -10,9 +10,9 @@ category: gear
 permalink: /gear/soundslice
 oneliner: Soundslice is a game-changer for sheet music on the web.
 seo_description: Interview with Adrian Holovaty, co-founder of Soundslice.com.
-seo_keywords: open source, sheet music, html5, tablature, guitar
+seo_keywords: open source, sheet music, html5, tablature, guitar, innovation, keybord, piano, living sheet music, javascript
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 ---
 
@@ -52,7 +52,7 @@ Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbs
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8M-ov1cL_i0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/ucgcR3-8BVs?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview transcript
 
@@ -129,7 +129,7 @@ AH: There are three parts of the product/business. One is that you can buy--it's
 The premise there is: it's like what I want when I learn a tune. I don't want just the transcription, I want it synced up with the real recording so I can actually hear it. So, what you get when you buy these things is <span class="important">lifetime access to transcriptions or music lessons that are all written out synced with audio</span>, and in some cases video, of the teacher showing you stuff. So, that's the first part of the business.
 {: .interviewee }
 
-The second part is we have a product for music teachers called [Soundslice for Teachers&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/teachers/) which lets them <span class="important">create these interactive pieces of sheet music and then share them with students</span>. That's for a monthly fee, $20/month. TODO: NOTIFICATION.
+The second part is we have a product for music teachers called [Soundslice for Teachers&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/teachers/) which lets them <span class="important">create these interactive pieces of sheet music and then share them with students</span>. That's for a monthly fee, $20/month.
 {: .interviewee }
 
 And the third part is [licensing to other companies&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/licensing/), which is actually the biggest part of the business, but it's the part that our users don't really know or care about because it doesn't really affect them.
@@ -189,7 +189,7 @@ AH: Well, I started from basically *zero* and I have learned *a lot*, so the ans
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/345o3Wu95Qo?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-So, a lot of those techniques are clearly outdated, but some of them still sort of make sense. Like, there's a thing called "casting off," where you consider the music that you need to print and then you consider the amount of space you have and you align it so it's nice and even on the printed page. So, <span class="important">we do something like that, but digitally.,/span> There are other bits where the classic human, by-hand engraving is sort of replicated in software.
+So, a lot of those techniques are clearly outdated, but some of them still sort of make sense. Like, there's a thing called "casting off," where you consider the music that you need to print and then you consider the amount of space you have and you align it so it's nice and even on the printed page. So, <span class="important">we do something like that, but digitally.</span> There are other bits where the classic human, by-hand engraving is sort of replicated in software.
 {: .interviewee }
 
 AG: That sounds like a tremendous amount of work.
