@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Soundslice"
-date:   2016-01-18 19:14:46
+date:   2016-02-01 19:14:46
 artist: soundslice
 member: adrian-holovaty
 author: anthony-garone

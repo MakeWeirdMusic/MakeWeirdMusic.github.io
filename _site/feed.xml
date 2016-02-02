@@ -6,166 +6,12 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Feb 2016 23:29:32 -0700</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 23:29:32 -0700</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2016 23:32:14 -0700</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 23:32:14 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Discover Barbara Hannigan</title>
-        <description>
-</description>
-        <pubDate>Mon, 25 Jan 2016 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/barbara-hannigan/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/barbara-hannigan/</guid>
-        
-        
-        <category>discover</category>
-        
-      </item>
-    
-      <item>
-        <title>Lyla by Avishai Cohen</title>
-        <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
-
-&lt;p&gt;This post explores a solo guitar arrangement I did of a beautiful song called &lt;em&gt;Lyla&lt;/em&gt; by &lt;a href=&quot;/discover/avishai-cohen&quot;&gt;Avishai Cohen&lt;/a&gt;. The original recording features &lt;a href=&quot;https://en.wikipedia.org/wiki/Rhodes_piano&quot;&gt;Fender Rhodes keyboard &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, drums, &lt;a href=&quot;https://en.wikipedia.org/wiki/Double_bass&quot;&gt;upright bass &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, flute, and trumpet. I’m a sucker for moody songs played on the Rhodes (see also &lt;a href=&quot;/discover/gentle-giant&quot;&gt;Gentle Giant&lt;/a&gt;’s incredibly beautiful song, &lt;a href=&quot;https://itunes.apple.com/us/album/the-power-and-the-glory/id731975200&quot;&gt;&lt;em&gt;Aspirations&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;) and this song certainly fits that description.&lt;/p&gt;
-
-&lt;p&gt;I was immediately attracted to this song when I first heard it a few years ago and it’s never quite left my short-term musical memory banks. At some point, I realized the sheet music for the song was available in Avishai’s online store, so I bought it and saw that it could probably be arranged into a nice solo guitar piece. It took over a year of sporadic effort to turn it into what we’ll cover in this post.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/discover/avishai-cohen&quot;&gt;Check out our Discover post about Avishai Cohen!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;instructional-video&quot;&gt;Instructional Video&lt;/h2&gt;
-
-&lt;p&gt;I’ve put together an instructional video that illustrates everything in the charts below.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rrwgOFl2y9k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;sheet-music&quot;&gt;Sheet Music&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://soundslice.com&quot;&gt;Soundslice &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It’s super-duper awesome. Check it out!&lt;/p&gt;
-
-&lt;p&gt;Here is the score for performing &lt;em&gt;Lyla&lt;/em&gt; on guitar. It includes corrections by Forbes Henderson, which came after I recorded the video above.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.soundslice.com/scores/36180/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and MusicXML files:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/lyla/lyla.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/lyla/lyla.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;structure&quot;&gt;Structure&lt;/h2&gt;
-
-&lt;p&gt;There are two main parts to this arrangement (the original recording has 3 or 4 parts). There’s the opening section that’s fairly straightforward consisting of chord triads. I’ll call that ‘Part A’.&lt;/p&gt;
-
-&lt;p&gt;The second part, ‘Part B,’ is the part with the beautiful harmonic minor melody.&lt;/p&gt;
-
-&lt;h2 id=&quot;harmonic-minor&quot;&gt;Harmonic Minor&lt;/h2&gt;
-
-&lt;p&gt;If you’re unfamiliar with the harmonic minor scale, &lt;a href=&quot;https://en.wikipedia.org/wiki/Minor_scale#Harmonic_minor_scale&quot;&gt;Wikipedia has a nice entry about it &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. It’s the scale that’s most often used to play Middle Eastern-sounding music. It’s a natural minor scale with a raised 7th note. Avishai plays with the scale in the Part B melody, but if you think of it as staying within B harmonic minor, you’ll be all right.&lt;/p&gt;
-
-&lt;p&gt;Here’s a C major scale: C D E F G A B C&lt;/p&gt;
-
-&lt;p&gt;Here’s a C natural minor scale: C D &lt;strong&gt;Eb&lt;/strong&gt; F G &lt;strong&gt;Ab&lt;/strong&gt; &lt;strong&gt;Bb&lt;/strong&gt; C&lt;/p&gt;
-
-&lt;p&gt;Here’s a C harmonic minor scale: C D Eb F G Ab &lt;strong&gt;B&lt;/strong&gt; C&lt;/p&gt;
-
-&lt;p&gt;Notice the 3rd, 6th, and 7th change between major and natural minor. Then notice that the 7th changes between the natural minor and the harmonic minor. Alternatively, the 3rd and 6th are the only notes that differ between a major and harmonic minor scale.&lt;/p&gt;
-
-&lt;p&gt;Irrelevant conceptual question: Can you guess what a C harmonic major scale looks like based on the above information?&lt;/p&gt;
-
-&lt;h2 id=&quot;performing-and-hands&quot;&gt;Performing and Hands&lt;/h2&gt;
-
-&lt;p&gt;You’ll notice that left-hand fingerings are quite a stretch at times. Maintaining consistently solid notes is a huge challenge, as is playing the piece with continuity between measures. Part B relies on a series of minor 2nd intervals since it’s based in harmonic minor.&lt;/p&gt;
-
-&lt;p&gt;Part A has its own challenges, though. That stretch in measure 17 is a doozy to play smooth. Same with measure 18 and 19. Further beware of transitioning out of those little fills around the open high E string and effortlessly landing on that Bb major triad. Tough stuff!&lt;/p&gt;
-
-&lt;p&gt;There are a couple of &lt;a href=&quot;https://en.wikipedia.org/wiki/Grace_note&quot;&gt;grace notes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; in the score. Those are the little notes with lines through them. They’re basically “notes of no rhythmic value.” In other words, play them as fast as you can before playing the following note.&lt;/p&gt;
-
-&lt;p&gt;You’ll also note some notes with “4:3” within brackets. This is a particular &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuplet&quot;&gt;tuplet &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; called a quadruplet. That means that 4 beats will replace 3 beats. In the case of this song, two quadruplet quarter notes are equal duration to a non-quadruplet dotted quarter note. Clear as mud, right?&lt;/p&gt;
-
-&lt;p&gt;While this piece can be played with a pick, I recommend playing with fingers instead. It’s a little more sensible and this is a sensitive piece of music that can use the finesse and softness of fingers. I’m a self-avowed picking nerd and I can’t imagine wanting to play this piece with a pick. But, to each his/her own.&lt;/p&gt;
-
-&lt;p&gt;With the melody in Part B beginning on the 3rd beat of each measure, you’ll want to lead with the fingers that play the melody. I’ve indicated left hand fingerings with the little numbers near the note heads in the upper stave.&lt;/p&gt;
-
-&lt;h2 id=&quot;time-signature&quot;&gt;Time Signature&lt;/h2&gt;
-
-&lt;p&gt;The song is in &lt;a href=&quot;https://en.wikipedia.org/wiki/Triple_metre&quot;&gt;the 3/4 time signature &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which is normally pretty straightforward. What makes this song difficult from a time perspective is where the accents live in Part B. The melody begins on the 3 and the rhythm support is on 1 and 2. Traditional 3/4 songs usually have the melody begin on beat 1, but this song’s melody lives almost entirely within beat 3. Pretty interesting.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Jan 2016 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/learn/lyla/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/lyla/</guid>
-        
-        
-        <category>learn</category>
-        
-      </item>
-    
-      <item>
-        <title>Experience by Gentle Giant</title>
-        <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
-
-&lt;p&gt;This post contains a transcription I did of the intro to an incredible song called &lt;em&gt;Experience&lt;/em&gt; by &lt;a href=&quot;/discover/gentle-giant&quot;&gt;Gentle Giant&lt;/a&gt;. This haunting bit of music has remained very close to my heart for many years. It is so unique and identifiable! The musical performance of the entire song is as stunning as the composition itself.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/experience/id731938339?i=731938359&quot;&gt;Purchase the song on iTunes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B002SXSQ2Q&quot;&gt;Or, purchase the album on Amazon &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I tried learning the song a few years ago and was completely confounded. I simply could not figure out how it all worked! Thankfully, there was a generous effort by &lt;a href=&quot;http://richgoodhart.com/&quot;&gt;Rich Goodhart &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; with &lt;a href=&quot;http://www.blazemonger.com/GG/Sheet_music&quot;&gt;a handwritten transcription &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. It was difficult to believe the transcription was correct when I first looked it over because the sheet music looked too “straightforward.” Sure enough, it was right! The way the ostinato plays around with triplet rhythms… It’s inexplicably cool!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/interview/kerry-minnear&quot;&gt;Check out our interview with the songwriter, Kerry Minnear!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I started learning the piece on piano and thought, “I wonder if this is playable on the guitar.” It sure was difficult coming up with something that made sense on the guitar, but I think I figured something playable out. There are some finger acrobatics on the left hand, but it stays relatively in the 7th, 3rd, and 1st positions. Pay particular attention to the left hand fingerings (those are the little numbers aligned with the notes on the upper staff).&lt;/p&gt;
-
-&lt;h2 id=&quot;instructional-video&quot;&gt;Instructional Video&lt;/h2&gt;
-
-&lt;p&gt;I’ve put together an instructional video that illustrates everything I’m talking about. I play it slowly, then half-speed, then at tempo.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MzQMhJhY1RY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;sheet-music&quot;&gt;Sheet Music&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://soundslice.com&quot;&gt;Soundslice &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It’s super-duper awesome. Check it out!&lt;/p&gt;
-
-&lt;p&gt;Here is the score and tablature for the &lt;em&gt;Experience&lt;/em&gt; introduction. &lt;strong&gt;The time signatures are arbitrarily crazy&lt;/strong&gt; only because it seems to be how the intro was played. Most of the song is in 9/4 and 4/4 beyond the intro.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.soundslice.com/scores/39032/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;other-performances&quot;&gt;Other Performances&lt;/h2&gt;
-
-&lt;p&gt;Here is the original band playing the song live (skip to 4:20 in the video), which is a bit different from the original studio release. I personally prefer the studio version for several reasons.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;
-&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/r46aOKsFm5U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Here’s a great performance on the piano. It doesn’t capture the vocal melody, but that’s okay. It’s still fun to listen to and watch!&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;
-&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/n3Lmc-5oj-k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;downloads&quot;&gt;Downloads&lt;/h3&gt;
-
-&lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and MusicXML files:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.pdf&quot;&gt;PDF (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 24 Jan 2016 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/learn/experience/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/experience/</guid>
-        
-        
-        <category>learn</category>
-        
-      </item>
-    
-      <item>
-        <title>Soundslice Interview</title>
+        <title>Soundslice</title>
         <description>&lt;h2 id=&quot;soundslice&quot;&gt;Soundslice&lt;/h2&gt;
 
 &lt;p&gt;Soundslice is an incredible tool for musicians that brings sheet music to life on the web. It lets you put your sheet music into a web page without any PDFs, Flash players, browser plugins, special MIDI stuff, etc. Here’s an example of Soundslice in action:&lt;/p&gt;
@@ -416,12 +262,166 @@
 
 &lt;p class=&quot;interviewee&quot;&gt;AH: Thank you thank you! See you online!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 18 Jan 2016 12:14:46 -0700</pubDate>
+        <pubDate>Mon, 01 Feb 2016 12:14:46 -0700</pubDate>
         <link>http://www.makeweirdmusic.com/gear/soundslice</link>
         <guid isPermaLink="true">http://www.makeweirdmusic.com/gear/soundslice</guid>
         
         
         <category>gear</category>
+        
+      </item>
+    
+      <item>
+        <title>Discover Barbara Hannigan</title>
+        <description>
+</description>
+        <pubDate>Mon, 25 Jan 2016 12:14:46 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/discover/barbara-hannigan/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/barbara-hannigan/</guid>
+        
+        
+        <category>discover</category>
+        
+      </item>
+    
+      <item>
+        <title>Lyla by Avishai Cohen</title>
+        <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
+
+&lt;p&gt;This post explores a solo guitar arrangement I did of a beautiful song called &lt;em&gt;Lyla&lt;/em&gt; by &lt;a href=&quot;/discover/avishai-cohen&quot;&gt;Avishai Cohen&lt;/a&gt;. The original recording features &lt;a href=&quot;https://en.wikipedia.org/wiki/Rhodes_piano&quot;&gt;Fender Rhodes keyboard &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, drums, &lt;a href=&quot;https://en.wikipedia.org/wiki/Double_bass&quot;&gt;upright bass &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, flute, and trumpet. I’m a sucker for moody songs played on the Rhodes (see also &lt;a href=&quot;/discover/gentle-giant&quot;&gt;Gentle Giant&lt;/a&gt;’s incredibly beautiful song, &lt;a href=&quot;https://itunes.apple.com/us/album/the-power-and-the-glory/id731975200&quot;&gt;&lt;em&gt;Aspirations&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;) and this song certainly fits that description.&lt;/p&gt;
+
+&lt;p&gt;I was immediately attracted to this song when I first heard it a few years ago and it’s never quite left my short-term musical memory banks. At some point, I realized the sheet music for the song was available in Avishai’s online store, so I bought it and saw that it could probably be arranged into a nice solo guitar piece. It took over a year of sporadic effort to turn it into what we’ll cover in this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/discover/avishai-cohen&quot;&gt;Check out our Discover post about Avishai Cohen!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;instructional-video&quot;&gt;Instructional Video&lt;/h2&gt;
+
+&lt;p&gt;I’ve put together an instructional video that illustrates everything in the charts below.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rrwgOFl2y9k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;sheet-music&quot;&gt;Sheet Music&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://soundslice.com&quot;&gt;Soundslice &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It’s super-duper awesome. Check it out!&lt;/p&gt;
+
+&lt;p&gt;Here is the score for performing &lt;em&gt;Lyla&lt;/em&gt; on guitar. It includes corrections by Forbes Henderson, which came after I recorded the video above.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.soundslice.com/scores/36180/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and MusicXML files:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/lyla/lyla.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/lyla/lyla.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;structure&quot;&gt;Structure&lt;/h2&gt;
+
+&lt;p&gt;There are two main parts to this arrangement (the original recording has 3 or 4 parts). There’s the opening section that’s fairly straightforward consisting of chord triads. I’ll call that ‘Part A’.&lt;/p&gt;
+
+&lt;p&gt;The second part, ‘Part B,’ is the part with the beautiful harmonic minor melody.&lt;/p&gt;
+
+&lt;h2 id=&quot;harmonic-minor&quot;&gt;Harmonic Minor&lt;/h2&gt;
+
+&lt;p&gt;If you’re unfamiliar with the harmonic minor scale, &lt;a href=&quot;https://en.wikipedia.org/wiki/Minor_scale#Harmonic_minor_scale&quot;&gt;Wikipedia has a nice entry about it &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. It’s the scale that’s most often used to play Middle Eastern-sounding music. It’s a natural minor scale with a raised 7th note. Avishai plays with the scale in the Part B melody, but if you think of it as staying within B harmonic minor, you’ll be all right.&lt;/p&gt;
+
+&lt;p&gt;Here’s a C major scale: C D E F G A B C&lt;/p&gt;
+
+&lt;p&gt;Here’s a C natural minor scale: C D &lt;strong&gt;Eb&lt;/strong&gt; F G &lt;strong&gt;Ab&lt;/strong&gt; &lt;strong&gt;Bb&lt;/strong&gt; C&lt;/p&gt;
+
+&lt;p&gt;Here’s a C harmonic minor scale: C D Eb F G Ab &lt;strong&gt;B&lt;/strong&gt; C&lt;/p&gt;
+
+&lt;p&gt;Notice the 3rd, 6th, and 7th change between major and natural minor. Then notice that the 7th changes between the natural minor and the harmonic minor. Alternatively, the 3rd and 6th are the only notes that differ between a major and harmonic minor scale.&lt;/p&gt;
+
+&lt;p&gt;Irrelevant conceptual question: Can you guess what a C harmonic major scale looks like based on the above information?&lt;/p&gt;
+
+&lt;h2 id=&quot;performing-and-hands&quot;&gt;Performing and Hands&lt;/h2&gt;
+
+&lt;p&gt;You’ll notice that left-hand fingerings are quite a stretch at times. Maintaining consistently solid notes is a huge challenge, as is playing the piece with continuity between measures. Part B relies on a series of minor 2nd intervals since it’s based in harmonic minor.&lt;/p&gt;
+
+&lt;p&gt;Part A has its own challenges, though. That stretch in measure 17 is a doozy to play smooth. Same with measure 18 and 19. Further beware of transitioning out of those little fills around the open high E string and effortlessly landing on that Bb major triad. Tough stuff!&lt;/p&gt;
+
+&lt;p&gt;There are a couple of &lt;a href=&quot;https://en.wikipedia.org/wiki/Grace_note&quot;&gt;grace notes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; in the score. Those are the little notes with lines through them. They’re basically “notes of no rhythmic value.” In other words, play them as fast as you can before playing the following note.&lt;/p&gt;
+
+&lt;p&gt;You’ll also note some notes with “4:3” within brackets. This is a particular &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuplet&quot;&gt;tuplet &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; called a quadruplet. That means that 4 beats will replace 3 beats. In the case of this song, two quadruplet quarter notes are equal duration to a non-quadruplet dotted quarter note. Clear as mud, right?&lt;/p&gt;
+
+&lt;p&gt;While this piece can be played with a pick, I recommend playing with fingers instead. It’s a little more sensible and this is a sensitive piece of music that can use the finesse and softness of fingers. I’m a self-avowed picking nerd and I can’t imagine wanting to play this piece with a pick. But, to each his/her own.&lt;/p&gt;
+
+&lt;p&gt;With the melody in Part B beginning on the 3rd beat of each measure, you’ll want to lead with the fingers that play the melody. I’ve indicated left hand fingerings with the little numbers near the note heads in the upper stave.&lt;/p&gt;
+
+&lt;h2 id=&quot;time-signature&quot;&gt;Time Signature&lt;/h2&gt;
+
+&lt;p&gt;The song is in &lt;a href=&quot;https://en.wikipedia.org/wiki/Triple_metre&quot;&gt;the 3/4 time signature &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which is normally pretty straightforward. What makes this song difficult from a time perspective is where the accents live in Part B. The melody begins on the 3 and the rhythm support is on 1 and 2. Traditional 3/4 songs usually have the melody begin on beat 1, but this song’s melody lives almost entirely within beat 3. Pretty interesting.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Jan 2016 12:14:46 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/learn/lyla/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/lyla/</guid>
+        
+        
+        <category>learn</category>
+        
+      </item>
+    
+      <item>
+        <title>Experience by Gentle Giant</title>
+        <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
+
+&lt;p&gt;This post contains a transcription I did of the intro to an incredible song called &lt;em&gt;Experience&lt;/em&gt; by &lt;a href=&quot;/discover/gentle-giant&quot;&gt;Gentle Giant&lt;/a&gt;. This haunting bit of music has remained very close to my heart for many years. It is so unique and identifiable! The musical performance of the entire song is as stunning as the composition itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/experience/id731938339?i=731938359&quot;&gt;Purchase the song on iTunes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B002SXSQ2Q&quot;&gt;Or, purchase the album on Amazon &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I tried learning the song a few years ago and was completely confounded. I simply could not figure out how it all worked! Thankfully, there was a generous effort by &lt;a href=&quot;http://richgoodhart.com/&quot;&gt;Rich Goodhart &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; with &lt;a href=&quot;http://www.blazemonger.com/GG/Sheet_music&quot;&gt;a handwritten transcription &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. It was difficult to believe the transcription was correct when I first looked it over because the sheet music looked too “straightforward.” Sure enough, it was right! The way the ostinato plays around with triplet rhythms… It’s inexplicably cool!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/interview/kerry-minnear&quot;&gt;Check out our interview with the songwriter, Kerry Minnear!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I started learning the piece on piano and thought, “I wonder if this is playable on the guitar.” It sure was difficult coming up with something that made sense on the guitar, but I think I figured something playable out. There are some finger acrobatics on the left hand, but it stays relatively in the 7th, 3rd, and 1st positions. Pay particular attention to the left hand fingerings (those are the little numbers aligned with the notes on the upper staff).&lt;/p&gt;
+
+&lt;h2 id=&quot;instructional-video&quot;&gt;Instructional Video&lt;/h2&gt;
+
+&lt;p&gt;I’ve put together an instructional video that illustrates everything I’m talking about. I play it slowly, then half-speed, then at tempo.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MzQMhJhY1RY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;sheet-music&quot;&gt;Sheet Music&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://soundslice.com&quot;&gt;Soundslice &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It’s super-duper awesome. Check it out!&lt;/p&gt;
+
+&lt;p&gt;Here is the score and tablature for the &lt;em&gt;Experience&lt;/em&gt; introduction. &lt;strong&gt;The time signatures are arbitrarily crazy&lt;/strong&gt; only because it seems to be how the intro was played. Most of the song is in 9/4 and 4/4 beyond the intro.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.soundslice.com/scores/39032/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;other-performances&quot;&gt;Other Performances&lt;/h2&gt;
+
+&lt;p&gt;Here is the original band playing the song live (skip to 4:20 in the video), which is a bit different from the original studio release. I personally prefer the studio version for several reasons.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/r46aOKsFm5U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Here’s a great performance on the piano. It doesn’t capture the vocal melody, but that’s okay. It’s still fun to listen to and watch!&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/n3Lmc-5oj-k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;downloads&quot;&gt;Downloads&lt;/h3&gt;
+
+&lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and MusicXML files:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.pdf&quot;&gt;PDF (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 24 Jan 2016 12:14:46 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/learn/experience/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/experience/</guid>
+        
+        
+        <category>learn</category>
         
       </item>
     
