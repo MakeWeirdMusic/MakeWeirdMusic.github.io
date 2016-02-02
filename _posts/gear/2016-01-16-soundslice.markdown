@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Soundslice Interview"
+title:  "Soundslice"
 date:   2016-01-18 19:14:46
 artist: soundslice
 member: adrian-holovaty
