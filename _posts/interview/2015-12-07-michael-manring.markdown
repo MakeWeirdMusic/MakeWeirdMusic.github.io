@@ -218,7 +218,7 @@ M: Yep! That's right!
 A: You were there?
 {: .interviewer}
 
-M: I was there. Yep! I couldn't afford to go to a lot of the cool stuff that was going on. But I was around a lot of it. And there was an amazing art scene as well. [Keith Haring&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Keith_Haring). You'd see Keith Haring paintings that would just appear overnight.
+M: I was there. Yep! I couldn't afford to go to a lot of the cool stuff that was going on. But I was around a lot of it. And there was an amazing art scene as well. [Keith Haring&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Keith_Haring). [NOTE: See [Keith Haring artwork here on Artsy&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.artsy.net/artist/keith-haring).] You'd see Keith Haring paintings that would just appear overnight.
 {: .interviewee}
 
 A: The [Banksy&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Banksy) of that time, I suppose?
