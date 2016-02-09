@@ -18,7 +18,7 @@ has_video: yes
 
 ## Some Context
 
-Below is ***Part 1*** our interview with the incredible Jeff Berlin. [***Part 2*** is also available for listening/viewing.](/interview/jeff-berlin/part-2)
+Below is ***Part 1*** our interview with the incredible Jeff Berlin. ***Part 2*** is coming soon!
 
 **[Don't know who Jeff Berlin is? Check out his wikipedia page!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jeff_Berlin)**
 
@@ -469,4 +469,4 @@ You're not egotistical to say, "Well, no, I can tell you how I feel in my though
 
 ## End of Part 1
 
-[Move on to Part 2](/interview/jeff-berlin/part-2)!
+Stay tuned for part 2!!
