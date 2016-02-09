@@ -6,12 +6,11 @@ artist: jeff-berlin
 author: anthony-garone
 image: jeff-berlin
 category: interview
-permalink: /interview/jeff-berlin/
-redirect_from: /interview/jeff-berlin/part-1/
+permalink: /interview/jeff-berlin/part-2/
 oneliner: Thoughts on music education and personal transformation.
 seo_description: Jeff Berlin talks to us about his new thoughts on music education and his personal transformation.
 seo_keywords: bruford, bill bruford, gradually going tornado, one of a kind, scott henderson, dennis chambers, victor wooten, steve bailey, berklee, electric bass, music education
-front_page: yes
+front_page: no
 draft: yes
 has_video: yes
 ---
