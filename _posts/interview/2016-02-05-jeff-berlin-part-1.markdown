@@ -42,13 +42,9 @@ Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](ht
 
 ## Interview video
 
-VIDEO COMING SOON
-
-<!--
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8M-ov1cL_i0?rel=0" frameborder="0" allowfullscreen></iframe></div>
--->
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/_suLx937mKU?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview transcript
 
@@ -78,6 +74,8 @@ A: How did you get started with the instrument? I know you were playing violin a
 J: All Jewish children in the 50s that exhibit--let's say a natural propensity for music--inevitably are guided by their equally and possibly more strict Jewish parents to pick up a violin or a piano. It's hard to find a Jewish trombone player in the world. I think that [Nathan Milstein&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Nathan_Milstein) and [Isaac Stern&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Isaac_Stern) and [Itzak Perlman&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Itzhak_Perlman) will sort of relate to the Jewish-ness of the classical instrument (violin) that we were encouraged to play if we exhibited music.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/0d4XtOrs7xc" frameborder="0" allowfullscreen></iframe></div>
+
 And I do acknowledge this: certain people may be sports-motivated. [Tiger Woods&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Tiger_Woods) exhibited a genius for golf as a child. He actually appeared on [Johnny Carson&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Johnny_Carson)'s show [as an unknown kid&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.youtube.com/watch?v=_wHkA_983_s) who had genius in that. <span class="important">I wouldn't say I had genius, but I did have a natural musical propensity.</span> I sang Italian songs before I could speak English. You know, *speak*.
 {: .interviewee }
 
@@ -95,6 +93,8 @@ A: And then how did you get on to the bass?
 J: Oh, well that's right. When the [Beatles&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Beatles) came to America, I saw the very first performance. I saw it on the [Ed Sullivan show&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show). There was a kid in our neighborhood, he came out and said, "The Beatles are here." I'd never heard of them. He said, "They're playing tonight." I said, "Who are these guys? What is this?" And I watched them and wasn't impressed.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/JC0MEF6d1eU" frameborder="0" allowfullscreen></iframe></div>
+
 I was 11 years old, I imagine, or 12. I can't recall. And, you know, "What's this?" It wasn't [Tchaikovsky&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky). I wasn't moved. Ironically, I would say, not terribly long later, I was not only smitten, bitten, and knocked on my backside by these guys, but <span class="important">when I listened to the records, I knew I *had* to do this.</span> It was inevitable that music had to figure into my life, not in the symphonic manner, which was probably the career that I may have been guided toward, but by picking up an instrument.
 {: .interviewee }
 
@@ -105,6 +105,8 @@ I quickly did learn the bass, probably in ways that people didn't really wish fo
 {: .interviewee }
 
 I played the [Crossroads&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Cross_Road_Blues) solo I guess when I was 16 or 15 or something, and would play [Cream&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Cream_(band)) solos, Beatles melodies... <span class="important">I wasn't driven toward the rhythm or the bottom of the bass, but rather toward the top.</span> And I suppose it went hand in hand with the violin training that I had done, which is the violin is intrinsically a melodic instrument, so I put that in and didn't quit understand. "[Jamerson&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/James_Jamerson)? Yeah, it's a nice bass line, but listen to--" you know... "[I'm the son of the preacher man&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Son_of_a_Preacher_Man)." I think that was Jerry Cogbill--Jerome? [Sings and scats] [NOTE: it's [Tommy Cogbill&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Tommy_Cogbill)]
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/0vR9d--Zk-U" frameborder="0" allowfullscreen></iframe></div>
 
 Now I'm excited as all get out by these bass players. Back then, I wasn't interested.
 {: .interviewee }
@@ -128,6 +130,8 @@ But it's really about having this opportunity. I wanted to just make a statement
 Okay, enough of that. So, this influenced me. Going a long way around the barn to answer your question. I got into Jack, learned about virtuosic stuff, went to [Berklee&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Berklee_College_of_Music) when, at the time, I felt that Berklee was entirely a school focused *only* on musical content. In the era that I went, we had ear training, bass lessons, harmony classes, arranging, composing, line-writing. [Herb Pomeroy&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Herb_Pomeroy) line-writing, which people still state is the greatest original melodic musical writing class ever. <span class="important">And the school at that moment was only interested in educating in musical content with no other distractions.</span> I learned from that and it actually put me on the path of music education that I'm on today and put me on the path of understanding music from an academic point of view.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/lYBDRBnpF5I" frameborder="0" allowfullscreen></iframe></div>
+
 ### Building a career
 
 Again, a long way around the barn, I got out of school, I went to New York, I became a successful studio bass player and I'd go to the union, pick up my union checks for beer commercials and pantyhose commercials that I'd played bass on and all kinds of stuff, and--while you smile--the [Brecker Brothers&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Brecker_Brothers) were sitting next to me playing the horns on those same pantyhose commercials. [Steve Gadd&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Steve_Gadd) was playing drums on them as well. So, [Bobby Rosengarden&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bobby_Rosengarden)--you know, the [Dick Cavett&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/The_Dick_Cavett_Show) drummer. It was a slew of the crew of the greatest New York musicians. And I was in that mix because I could read music and I was considered an over-player being a young hyper kid. Psychologically, probably way out of balance at that juncture. And yet, I could play and read and do my job.
@@ -144,6 +148,8 @@ So, my pedigree was good, my thing was growing, and then [Ray Gomez&nbsp;<i clas
 <span class="important">Bill opened *everything* up for me.</span> He is, or was because he's retired now--I would call him a guy that had the intelligence and the spiritual wherewithall to utilize every element of his playing in an original manner. He was arguably one of the more average technical drummers around, kinda quirky and [scat drumming], you know--that thing. And yet, there was an infectiousness in it *and* he was utterly original in that. So, a lot of guys who, let's say had more physical technique, weren't as identifiable in their style approach as Bill Bruford was. And *that* was a very big lesson for me. That proceeded.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/uim0FMZvADk" frameborder="0" allowfullscreen></iframe></div>
+
 [Allan Holdsworth&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Allan_Holdsworth) was in the group. Later I played with Allan, went to Los Angeles, and, you know, things ensued. [Van Halen&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Van_Halen)--[Eddie Van Halen&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Eddie_Van_Halen) and I became friends at that time. I was invited to play in the band, an invitation which I turned down, but I think they wouldn't have had me anyway. I don't think [David Lee Roth&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/David_Lee_Roth) felt I was of an attitude to have in that band, but nonetheless, Eddie did make me that offer and I did consider it.
 {: .interviewee }
 
@@ -152,6 +158,8 @@ For reasons I *won't* go into, I didn't accept it, except to say I would love to
 
 He is one of the great and unique talents that I've ever heard on guitar. And *always* felt that somebody like myself, a Billy Sheehan, someone of a more adventuresome nature, might make even Van Halen sound greater, although I do admire what his son has done and I am quite a fan of Michael Anthony having felt that he was, even still, the perfect bass player for Van Halen. No doubt about it. So, there you go, and now I'm 63.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/2mnipvcmVdE" frameborder="0" allowfullscreen></iframe></div>
 
 ### Teaching Methods
 
@@ -187,6 +195,8 @@ If I tell you, personally, that whatever you play is great, has meaning, and you
 
 So, I began to object and in a rather mean-spirited way, <span class="important">I began to attack and covertly and overtly slander people and it was all based on a psychological instability.</span> I wasn't wrong, and to this day I don't feel that I was wrong or I am wrong about anything that I ever felt about education and about learning. I feel a generation... I feel two generations have been let down by the well-intended and kind advice from people that meant no harm and meant no collusion that "we're gonna fake these guys out and get their money."
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/rzpfeIDxBs4" frameborder="0" allowfullscreen></iframe></div>
 
 ### "Self-taught"
 
@@ -225,6 +235,8 @@ Gershwin learned how to write and compose in a [tenement apartment&nbsp;<i class
 Jaco Pastorius is a self-taught bass player. I mention him because everybody knows Jaco. Jaco learned how to arrange and compose physically and academically in a bus and in hotel rooms. A guy sat him down and said, "This is how we do it." What was his name? Bret? Brent? Charles Brent, who passed away, I understand. So, when I got the idea that everybody learned music this way, and again there are no exceptions that I can think of--maybe one guy in Istanbul and another guy in Rotterdam--do you follow? The trained guys, they all learned the same way.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/nRFbfBGgpbw" frameborder="0" allowfullscreen></iframe></div>
+
 Suddenly I noticed that bass players aren't being trained that way at all. In fact, a new paradigm was being invented and new approaches that I can now tell you my story and say things like, "Here's an idea that worked for me. It may not work for you, but it worked for me." And I thought about that principle and thought to myself, "That's interesting," because in my case, I guarantee you Anthony or anyone that's listening, <span class="important">whatever worked for me, I'm *guaranteeing* you, is going to work for you.</span> And that, to me--and I'm *guaranteeing* this. It's not just a statement. Because I made that statement publicly and could fulfill that declaration, it occurred to me that music and education was compromised, that a feel-good endeavor--am I talking too long by the way?
 {: .interviewee }
 
@@ -248,6 +260,8 @@ I'll share what I think and hopefully, without wishing to cause harm--I don't wa
 
 You play, you grow in that, you listen to early Clapton, which I have, and he wasn't the guitar player that he subsequently became. [Jimi Hendrix&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jimi_Hendrix) apprenticed with [Little Richard&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Little_Richard) and the [Isley Brothers&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/The_Isley_Brothers) playing [50s rock and roll scat]. He had his thing, it was still coming out, but since music is deviated from what I consider the true message, which is: musicians, if you want to get better, it's not entirely easy, but *so what?* It's fun! My bass is never far from me. I pick it up and I practice and I play and the endeavor to do something that I don't know so that I can eventually become better seems a positive thing to me.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/4Jw6oOXuq10" frameborder="0" allowfullscreen></iframe></div>
 
 ### Music is hard work
 
@@ -284,6 +298,8 @@ What hasn't changed is perhaps I'm finding another way to relate a thought to pe
 I just think that in the specific end of things, I could quote several guys and offer thoughts where I feel that the message is misleading people. <span class="important">The problem with me is political.</span> If I do this, I'm not so sure, especially with the harm that I've caused before, that it would be taken that way. So as a part of my penance, for the most part, I can only offer my thoughts and keep it as neutral and show love and respect for different people who teach differently than I do.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/wQON9fHPJsk" frameborder="0" allowfullscreen></iframe></div>
+
 ### Love what you learn
 
 A: Do you believe that if people were taught as historically people have been taught music, the music scene, the music industry would be wildly different? Do you think that pop music of today would be produced if a requirement was that formal training be introduced to all musicians, like there's some sort of threshold in order to be able to release music or something?
@@ -318,6 +334,8 @@ J: People refer to music as a language. It's a very popular tenet of function, b
 We learn reading and writing and giving book reports, which is us standing up in front and, "I read the book [*A Tale of Two Cities*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities)," and we're working on our speech and enunciation and use of words and it's all an academic endeavor and we all went into academic use and learning and practice of language since we're 1st grade or kindergarten up until 12th grade and then there's English literature and higher forms of it in college and universities. What musicians have not done that I can see is recognize that <span class="important">if music is a language, why aren't they *learning* it as one?</span>
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/OZgpiMrsC5U" frameborder="0" allowfullscreen></iframe></div>
+
 ### Clichés of belief
 
 Musicians sometimes have built in to their belief systems clichés. The clichés are the things that bass players feel, "Keep the bottom," "Gotta play a groove," "The groove is the most important thing, more than notes," or something of this nature, when ironically, <span class="important">if you don't play the right notes, there's nothing to groove on.</span> So, the concept is a backward concept. A groove is a *result* of first using the right notes the right ways--according to the feel of the song--and hence, in the comfort of doing that, a groove ensues. A groove is a result, it's not the principal thing.
@@ -337,6 +355,8 @@ And I say, "Look at a tightrope walker." You've got [John... what's his name&nbs
 
 <span class="important">Musicians are always going forward without stopping or going backwards one or two steps to see what they know to see what they don't know.</span> And if they did what I said, or people like me, they would change their entire sphere of playing. I could, me personally, if I were king of the music world, <span class="important">I could change everybody's playing in 3 to 6 months. Easily!</span> If they did what I said. No democracy, you know what I mean? I'm good. I could hear you and say, "Okay, Anthony, here's what you're going to practice today and in that way I'll make you better." So, that's sort of a benefit to me. I'm sharing these thoughts. I hope it doesn't seem too hard or too mean-spirited.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/uEk5rZkBxFo" frameborder="0" allowfullscreen></iframe></div>
 
 A: I'm curious. Personally, this resonates a lot with me and it's part of the motivation behind the website itself. I see this every day in my work as a professional in the IT industry. The barrier to entry for software development is much lower than it ever has been and I know that I'm young, I'm 34, and I'm sure that there are people that have computer science degrees from 1980-some or 1990-some saying, "Oh, look at this whippersnapper. He thinks he can appreciate the barrier to entry," but what I'm seeing as I manage software developers is completely improvised skills that were built alone with no formal instruction and I hire them and we have to train them in order to get them to do the work.
 {: .interviewer }
@@ -365,6 +385,8 @@ J: "My wife. You kiddin' me? My wife." I'm trying to think of "my wife" jokes. O
 A: [Henny Youngman&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Henny_Youngman) one-liners.
 {: .interviewer }
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/ZGtlxHgKUA0" frameborder="0" allowfullscreen></iframe></div>
+
 ### Messages and cultish behaviors
 
 J: So, the thing is <span class="important">I just believe there is a lost society today in musicians in that they 1. are trusting the wrong messages, 2. I feel that often they have a cult attitude.</span> The cult attitude is that if their hero or someone that they admire or location or center or being or something presents information, if they trust it, they never question it and woe to you if you criticize or question that person or institution. Woe to you because people will attack.
@@ -381,6 +403,8 @@ And I say this for the most part, not individually. I notice a lot of guys that 
 
 If it's wrong, ignore my words because I'm not saying it for evil intentions. I'm saying it to enlighten people that trust a system of learning that might not be producing what it says it should as a general system. If I'm wrong, well, I got this wisdom, 10,000 grads from this and 9,000 are in successful bands. "Berlin's out of his mind!" I'll accept that. "Thank you for checking out my statement and finding it wrong." But I don't think you will, and that's my point.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/4Xphugh8RHM" frameborder="0" allowfullscreen></iframe></div>
 
 ### Rock "Education"
 
@@ -408,6 +432,8 @@ J: Well, I'll change that. If the Buddha walks to me, I'll ask and interview him
 It isn't an 8-month tenureship at a library. You can do it in a week. Look at interviews. Look at what guys said. I just feel that rock has become *such* a business and *such* a money-maker and as long as people are willing to spend the money, why stop? I'm simply saying, "Go for the fun of it. Be a little on the alert if you feel this may help you to acquire a career because if it does, there has to be a precedent."
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/9z6g7vBXboA" frameborder="0" allowfullscreen></iframe></div>
+
 Rock has been around since the late 1970s when somebody decided to transcribe Eddie Van Halen and [Frank Zappa](/discover/frank-zappa) solos. I think Steve Vai did a whole book on that. Ironically, <span class="important">these transcriptions never *really* helped anybody to learn how to read nor play the guitar</span>, in my opinion. One guy, two guys... It shows the genius of Steve Vai for having the ability to write it out. It doesn't mean that a student or somebody buying it actually extracted any real benefit from it. What would have been the benefit was to put on the headphones and get into the grit and dirt and meat of listening and imitating to those Frank solos as all self-taught musicians do to improve.
 {: .interviewee }
 
@@ -422,6 +448,8 @@ You've taken spinach and you've so concised it, so condensed it, so purified it 
 
 People in business aren't happy with me, and I don't blame them, but maybe we could replace it in two ways. 1. Maybe the people in business offer more content. Stop letting students run the show. What do they know about it? Teachers in schools and other places saying, "So what do you want to study?" I understand the philosophy in that, but students are picking their own classes and saying, "I don't want to study this, I want to study that." What?! They don't do that in medical school or in the DeVry school of truck driving-lessons driving license. It's like, "This is how it is DONE!" When people learn this way, they seem to get better.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/4Xphugh8RHM" frameborder="0" allowfullscreen></iframe></div>
 
 A: Two questions come to mind. The first is: Do you believe musicians have a responsibility to their listeners or the audience? As they produce new musicians, somebody picks up--and I heard Steve Vai on the radio and said, "I want to play like that." That happens all the time. You with the Beatles. And then secondly: Do you believe that had you not been educated the way you were, it would have even been possible for you to have the career that you have, to play the kinds of music that you've been on? I know that's a really big hypothetical question, but there have to be some self-taught people without that education who are very great players, but what you are doing is so sophisticated, I'm wondering if you believe that level of sophistication could be achieved without the education.
 {: .interviewer }
@@ -441,6 +469,8 @@ J: No. They don't have a responsibility because it's an artform and an artform i
 And the same thing occurred to me. People, who I feel are erroneously (some of them, not all of them) say, "Well, I have a guitar, but I'm not interested in really learning. I'll do a couple of tunes and sit at home and just strum away." And that's fair! My suggestion is that if they just put in a few more months, they could get way beyond that and I'm curious if they went and bought a guitar or a bass or drums, wouldn't they wish to put in the time, which is not 6 hours a day--I'll put in 6 hours a day because it's my career, people are expecting something from me or people like me, so *I* have a responsibility.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/mIdPO3PXX0s" frameborder="0" allowfullscreen></iframe></div>
+
 ### Communication and entertainment
 
 But, if a guy's just playing and wants to do his thing, his responsibility might be more to his own investigation. And when he starts to play, I guess the responsibility is not to play in a poor manner so that people sitting in a bar might have a modicum of entertainment because <span class="important">I do believe in the entertainment element. We need to be entertained. I watch television, I go to the movies, I go to music shows. Music is an entertainment.</span> Communication and music--you know everybody communicates.
@@ -457,6 +487,8 @@ So, *all* they have left is emotion. <span class="important">It's the only eleme
 
 If there was a law that said, "Jeff, what would you do: play only or study only?" I'd play only and I'd tell everybody to do the same. Don't study a lick, don't play a note, just pick up your guitar an play. If there was a law! But since there isn't such a law, I'll give advice on how to get better. Hopefully it's acceptable.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/vSKDK9eNxQU" frameborder="0" allowfullscreen></iframe></div>
 
 ### Making weird music
 
@@ -485,6 +517,8 @@ People have said something that is utterly wrong and I'll quote it now: "I don't
 
 These guys *always* point to these guys and say, "Well, *he* didn't go to school." And in that sort of effort, like I say, I think people were sometimes (not all) seeming to work hard to find a loophole when I used to have these debates, which I'll never have again. I would make points on Facebook and make a statement about music education and they would come back with every loophole you could imagine. It was amazing to me that I felt <span class="important">people were working harder to *not* see the logic of learning well rather than putting in the time to learn music.</span>
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/4MOVvDJxBSU" frameborder="0" allowfullscreen></iframe></div>
 
 This gave me an inkling as to this corner of our community of players: people that are within their right to distance themselves for their own reasons from learning. Okay, so be it. The message, I guess, in this--the final element of this--is that <span class="important">I wouldn't seek the "weird" until I sought the obvious.</span> If by having the obvious, it's almost like before I start to build up a really strange construction of a home with weird slats and lats and roof, I'm gonna lay a real firm slab of cement first so everything doesn't come crumbling down.
 {: .interviewee }
