@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jeff Berlin Interview"
+title:  "Jeff Berlin Interview, Part 1"
 date:   2016-02-05 19:14:46
 artist: jeff-berlin
 author: anthony-garone
