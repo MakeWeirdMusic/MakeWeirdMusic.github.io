@@ -12,7 +12,7 @@ oneliner: Thoughts on music education and personal transformation.
 seo_description: Jeff Berlin talks to us about his new thoughts on music education and his personal transformation.
 seo_keywords: bruford, bill bruford, gradually going tornado, one of a kind, scott henderson, dennis chambers, victor wooten, steve bailey, berklee, electric bass, music education
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 ---
 
