@@ -9,7 +9,7 @@ category: interview
 permalink: /interview/jeff-berlin/
 redirect_from: /interview/jeff-berlin/part-1/
 oneliner: Thoughts on music education and personal transformation.
-seo_description: Jeff Berlin talks to us about his new thoughts on music education and his personal transformation.
+seo_description: Jeff Berlin talks to us about his career and new thoughts on music education.
 seo_keywords: bruford, bill bruford, gradually going tornado, one of a kind, scott henderson, dennis chambers, victor wooten, steve bailey, berklee, electric bass, music education
 front_page: yes
 draft: no
@@ -18,7 +18,7 @@ has_video: yes
 
 ## Some Context
 
-Below is ***Part 1*** our interview with the incredible Jeff Berlin. ***Part 2*** is coming soon!
+Below is ***Part 1*** our interview with the incredible Jeff Berlin. Already done with Part 1? [Check out ***Part 2***, where we get super-deep!](/interview/jeff-berlin/part-2)
 
 **[Don't know who Jeff Berlin is? Check out his wikipedia page!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jeff_Berlin)**
 
@@ -30,15 +30,11 @@ This interview was conducted on Friday, February 5, 2016 at 2PM AZ.
 
 ## Interview Audio (Podcast)
 
-AUDIO COMING SOON.
-
-<!--
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="httJ://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205.mp3" controls preload="none" /></p>
+<p><audio src="http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part1.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](httJ://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205.mp3).
--->
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part1.mp3).
 
 ## Interview video
 
@@ -537,4 +533,4 @@ You're not egotistical to say, "Well, no, I can tell you how I feel in my though
 
 ## End of Part 1
 
-Stay tuned for part 2!!
+[Check out ***Part 2***, where we get super-deep!](/interview/jeff-berlin/part-2)

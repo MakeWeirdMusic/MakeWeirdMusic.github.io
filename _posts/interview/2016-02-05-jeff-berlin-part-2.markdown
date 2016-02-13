@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Jeff Berlin Interview"
+title:  "Jeff Berlin Interview, Part 2"
 date:   2016-02-05 19:14:46
 artist: jeff-berlin
 author: anthony-garone
 image: jeff-berlin
 category: interview
 permalink: /interview/jeff-berlin/part-2/
-oneliner: Thoughts on music education and personal transformation.
-seo_description: Jeff Berlin talks to us about his new thoughts on music education and his personal transformation.
+oneliner: Thoughts on his incredibly deep personal transformation.
+seo_description: Jeff Berlin talks to us about his deep personal transformation and dark night of the soul.
 seo_keywords: bruford, bill bruford, gradually going tornado, one of a kind, scott henderson, dennis chambers, victor wooten, steve bailey, berklee, electric bass, music education
 front_page: no
-draft: yes
+draft: no
 has_video: yes
 ---
 
@@ -25,25 +25,17 @@ This interview was conducted on Friday, February 5, 2016 at 2PM AZ.
 
 ## Interview Audio (Podcast)
 
-AUDIO COMING SOON.
-
-<!--
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="httJ://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205.mp3" controls preload="none" /></p>
+<p><audio src="http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](httJ://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205.mp3).
--->
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3).
 
 ## Interview video
 
-VIDEO COMING SOON
-
-<!--
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8M-ov1cL_i0?rel=0" frameborder="0" allowfullscreen></iframe></div>
--->
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/jWeTqBNnA6g?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview transcript
 
@@ -53,7 +45,7 @@ Anthony: I remember I used to follow you on Facebook and then I stopped and then
 Now, just recently, you do a public apology to [Victor Wooten](https://en.wikipedia.org/wiki/Victor_Wooten) and [Steve Bailey](https://en.wikipedia.org/wiki/Steve_Bailey), you're talking about huge personal transformation and growth. Was it primarily your ego getting out of control and then you had a self-realization event? What led to what you've been going through and how were you operating at the time before that and how are you operating now?
 {: .interviewer }
 
-Jeff: Thanks for asking that because for me, this is more important than maybe music is right now. I grew up in a dysfunctional family. I know a lot of us have. The way that I ended up was hurt, ungrounded, out of balance, and the ego compensated. I'm doing this in a nutshell. All my life, since I was 18 years old, I felt something was wrong with me. I started, actually earlier than that, it was 18 that I went to therapy. Things were not right.
+Jeff: Thanks for asking that because for me, <span class="important">this is more important than maybe music is right now.</span> I grew up in a dysfunctional family. I know a lot of us have. The way that I ended up was hurt, ungrounded, out of balance, and the ego compensated. I'm doing this in a nutshell. All my life, since I was 18 years old, I felt something was wrong with me. I started, actually earlier than that, it was 18 that I went to therapy. Things were not right.
 {: .interviewee }
 
 I noticed people seemed to be content, seemed to be grounded. You know, everyone has their problems, but <span class="important">I could not get a grip or a handle on how people kindly and calmly get through life.</span> And I've been in and out of therapy, my own voluntary seeking of it, since I was 18 years old. I'm 63 now.
