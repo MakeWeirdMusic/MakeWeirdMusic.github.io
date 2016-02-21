@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "TEST POST"
+date:   2015-02-05 19:14:46
+artist: jeff-berlin
+author: anthony-garone
+category: link
+oneliner: "Blah blah blah"
+front_page: yes
+draft: no
+icon: fa-github-square
+link: http://www.example.com
+---
