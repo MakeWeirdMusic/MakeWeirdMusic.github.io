@@ -12,6 +12,7 @@ seo_description: "Lyla is a beautiful song and title track from his 2003 release
 seo_keywords: "Avishai Cohen, jazz, solo guitar, Lyla"
 draft: no
 front_page: yes
+has_video: yes
 ---
 ## What are we learning?
 

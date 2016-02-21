@@ -12,6 +12,7 @@ seo_description: "Experience is the first Gentle Giant song I heard that I absol
 seo_keywords: "gentle giant, kerry minnear, gary green, derek shulman, ray shulman, phil shulman"
 draft: no
 front_page: yes
+has_video: yes
 ---
 ## What are we learning?
 

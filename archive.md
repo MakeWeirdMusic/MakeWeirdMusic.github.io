@@ -12,6 +12,8 @@ The following table contains a listing of all the posts on the site.
 
 Posts marked with <i class="fa fa-youtube-play"></i> contain a video we produced to support the content.
 
+Filter by: <a href="/archive/discover">Discover</a> &middot; <a href="/archive/learn">Learn</a> &middot; <a href="/archive/gear">Gear</a> &middot; <a href="/archive/share">Share</a> &middot; <a href="/archive/link">Links</a>.
+
 <table id="artist-table">
 {% for post in site.posts %}
   {% if post.draft == true %}

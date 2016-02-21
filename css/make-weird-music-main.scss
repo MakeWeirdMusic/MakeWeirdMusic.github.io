@@ -133,7 +133,7 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
     border-bottom: 1px solid #ccc;
   }
 
-  .menu .story .image-wrap {
+  .menu .story .image-wrap, .menu .story .icon-wrap {
     width: 50%;
     margin-right: 5%;
   }
@@ -278,15 +278,27 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
 
 .menu .link {
   background-color: #222222;
+  align-items: center;
 }
 
 .menu .link:hover {
   background-color: #000000;
 }
 
-.menu .image-wrap {
+.menu .image-wrap, .menu .icon-wrap {
   @include flexbox();
-  margin-right: 2%;
+}
+
+.menu .icon-wrap p {
+  padding: 0;
+  line-height: 0;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #666;
+}
+
+.menu .image-wrap {
   background-color: rgba(255,255,255,0.4);
 
   img {
@@ -336,19 +348,6 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
 .menu a .share .summary,
 .menu a .share .sponsor {
   color: #ffef8a;
-}
-
-.menu a .link {
-  padding: 15px;
-  i.link-icon,
-  div.link-content {
-    margin: auto 0;
-  }
-  i.link-icon {
-    height: 100%;
-    width: 80px;
-    font-size: 70px;
-  }
 }
 
 .page {
@@ -448,6 +447,10 @@ img.bg-dark {
   font-size: 0.85em;
 }
 
+.index-link-row {
+  background-color: #222;
+}
+
 .layout-discover .content, .index-discover-row {
   background-color: #400;
 }
@@ -541,6 +544,17 @@ img.bg-dark {
   }
 }
 
+@media (min-width: 1601px) {
+  .menu .icon-wrap p {
+    font-size: 900%;
+  }
+
+  .menu .link.story {
+    font-size: 1.2em;
+  }
+
+}
+
 @media (max-width: 1600px) and (min-width: 1100px) {
   .menu a .oneliner {
     font-size: 0.8em;
@@ -564,6 +578,14 @@ img.bg-dark {
 
   .menu .story {
     font-size: 1.5em;
+  }
+
+  .menu .link.story {
+    font-size: 1.1em;
+  }
+
+  .menu .icon-wrap p {
+    font-size: 600%;
   }
 
   .menu a h2 {
@@ -623,6 +645,10 @@ img.bg-dark {
     font-size: 0.75em;
   }
 
+  .menu .icon-wrap p {
+    font-size: 500%;
+  }
+
   .page {
     padding: 4%;
   }
@@ -664,6 +690,10 @@ img.bg-dark {
 
   li {
     list-style-position: inside;
+  }
+
+  .menu .icon-wrap p {
+    font-size: 500%;
   }
 
 }
@@ -771,7 +801,11 @@ img.bg-dark {
     padding-bottom: 5%;
   }
 
-  .menu .image-wrap {
+  .menu .icon-wrap p {
+    padding-top: 5%;
+  }
+
+  .menu .image-wrap, .menu .icon-wrap {
     margin-left: auto;
     margin-right: auto;
   }

@@ -12,11 +12,11 @@ seo_keywords: anthony garone, weird, unique, unknown, weird music, prog, progres
 {% if post.front_page == false or post.draft == true %}
   {% continue %}
 {% endif %}
-<a href="{{ post.url }}">
+<a href="{% if post.category == "link" %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">
   <article class="{{ post.category }} story">
-    <div class="image-wrap">
+    {% if post.category == "link" %}<div class="icon-wrap"><p><i class="non-mwm fa {{ post.icon }}"></i></p></div>{% else %}<div class="image-wrap">
       <img src="{{ site.data.artists.mwm.art_prod }}{{ post.artist }}/{{ post.image }}.svg" />
-    </div>
+    </div>{% endif %}
 
     <div class="story-text">
       <h2><span>{{ post.category }}: </span>{% if post.category == "interview" and post.member %}{{ post.member }}{% elsif post.category == "interview" or post.category == "discover" %}{{ site.data.artists[post.artist].name }}{% else %}{{ post.title }}{% endif %}</h2>
