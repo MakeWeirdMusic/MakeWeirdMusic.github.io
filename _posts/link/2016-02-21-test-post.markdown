@@ -7,7 +7,7 @@ author: anthony-garone
 category: link
 oneliner: "Blah blah blah"
 front_page: yes
-draft: no
+draft: yes
 icon: fa-github-square
 link: http://www.example.com
 ---
