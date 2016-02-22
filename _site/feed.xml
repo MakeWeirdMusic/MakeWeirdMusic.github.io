@@ -6,9 +6,58 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Feb 2016 12:15:14 -0700</pubDate>
-    <lastBuildDate>Sun, 21 Feb 2016 12:15:14 -0700</lastBuildDate>
+    <pubDate>Sun, 21 Feb 2016 22:09:40 -0700</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2016 22:09:40 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Failure to Fracture</title>
+        <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
+
+&lt;p&gt;For the past 15 years or so, I’ve been intensely studying a piece of music called &lt;em&gt;Fracture&lt;/em&gt; by &lt;a href=&quot;/discover/king-crimson&quot;&gt;King Crimson&lt;/a&gt; and have developed a unique type of expertise: the expertise of failure. &lt;em&gt;Fracture&lt;/em&gt; is, without a doubt, the most difficult piece of music I’ve ever tried playing. Through study, practice, blogging, and YouTube videos, I have failed more visibly and effortfully than most anyone else on the internet attempting to play this song. This video series is an attempt to share what I’ve learned through my failures to save others the time and energy as they attempt to learn and play the piece.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/fracture/id978457922?i=978458012&quot;&gt;Purchase King Crimson’s &lt;em&gt;Fracture&lt;/em&gt; on iTunes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx&quot;&gt;Or, purchase the album on Robert Fripp’s website &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;More specifically, I will only be focusing on the &lt;em&gt;moto perpetuo&lt;/em&gt; section, which starts at about 2:50 in the original recording and lasts (endures!) for about 4 minutes. “Moto perpetuo” is an Italian term meaning “perpetual motion.” It applies here because this section of &lt;em&gt;Fracture&lt;/em&gt; is a barrage of 16th notes (or “semiquavers” as Robert Fripp, the British composer and performer of the song, might say).&lt;/p&gt;
+
+&lt;p&gt;People all over the world have contacted me about playing this song. They’ve kindly sharing videos of their own, offered their time via Skype to talk to me, etc. It’s been such a fun and humbling experience and I’ve met people from every continent! There is quite a community of Fripp-following guitarists and I’ve been overjoyed to meet so many of them!&lt;/p&gt;
+
+&lt;h2 id=&quot;episode-0-introduction&quot;&gt;Episode 0: Introduction&lt;/h2&gt;
+
+&lt;p&gt;I’ve put together an introductory video for this series. Further episodes will be linked and embedded as I make them.&lt;/p&gt;
+
+&lt;p&gt;VIDEO COMING SOON!&lt;/p&gt;
+
+&lt;!--
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MzQMhJhY1RY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+--&gt;
+
+&lt;h2 id=&quot;sheet-music&quot;&gt;Sheet Music&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/gear/soundslice&quot;&gt;Soundslice&lt;/a&gt; is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It’s super-duper awesome and is hosting the sheet music you see here.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.soundslice.com/scores/40913/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;downloads&quot;&gt;Downloads&lt;/h3&gt;
+
+&lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and MusicXML files:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.pdf&quot;&gt;PDF (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 21 Feb 2016 12:14:46 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/learn/fracture/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/fracture/</guid>
+        
+        
+        <category>learn</category>
+        
+      </item>
     
       <item>
         <title>Jeff Berlin Interview, Part 2</title>
@@ -1055,19 +1104,6 @@
         
         
         <category>learn</category>
-        
-      </item>
-    
-      <item>
-        <title>Knower &quot;Hanging On&quot;</title>
-        <description>
-</description>
-        <pubDate>Wed, 13 Jan 2016 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/link/2016/01/13/knower-hanging-on.html</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/link/2016/01/13/knower-hanging-on.html</guid>
-        
-        
-        <category>link</category>
         
       </item>
     
