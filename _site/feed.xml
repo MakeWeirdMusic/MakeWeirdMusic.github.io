@@ -6,23 +6,25 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Feb 2016 22:30:10 -0700</pubDate>
-    <lastBuildDate>Sun, 21 Feb 2016 22:30:10 -0700</lastBuildDate>
+    <pubDate>Sun, 21 Feb 2016 22:50:30 -0700</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2016 22:50:30 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Failure to Fracture</title>
         <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
 
-&lt;p&gt;For the past 15 years or so, I’ve been intensely studying a piece of music called &lt;em&gt;Fracture&lt;/em&gt; by &lt;a href=&quot;/discover/king-crimson&quot;&gt;King Crimson&lt;/a&gt; and have developed a unique type of expertise: the expertise of failure. &lt;em&gt;Fracture&lt;/em&gt; is, without a doubt, the most difficult piece of music I’ve ever tried playing. Through study, practice, blogging, and YouTube videos, I have failed more visibly and effortfully than most anyone else on the internet attempting to play this song. This video series is an attempt to share what I’ve learned through my failures to save others the time and energy as they attempt to learn and play the piece.&lt;/p&gt;
+&lt;p&gt;For the past 15 years or so, I’ve been intensely studying a piece of music called &lt;em&gt;Fracture&lt;/em&gt; by &lt;a href=&quot;/discover/king-crimson&quot;&gt;King Crimson&lt;/a&gt; and have developed a unique type of expertise: the expertise of failure. &lt;em&gt;Fracture&lt;/em&gt; is, without a doubt, &lt;span class=&quot;important&quot;&gt;the most difficult piece of music I’ve ever tried playing&lt;/span&gt;. Through study, practice, blogging, and YouTube videos, I have failed more visibly and effortfully than most anyone else on the internet attempting to play this song. This video series is an attempt to share what I’ve learned through my failures to save others the time and energy as they attempt to learn and play the piece.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/fracture/id978457922?i=978458012&quot;&gt;Purchase King Crimson’s &lt;em&gt;Fracture&lt;/em&gt; on iTunes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx&quot;&gt;Or, purchase the album on Robert Fripp’s website &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;More specifically, I will only be focusing on the &lt;em&gt;moto perpetuo&lt;/em&gt; section, which starts at about 2:50 in the original recording and lasts (endures!) for about 4 minutes. “Moto perpetuo” is an Italian term meaning “perpetual motion.” It applies here because this section of &lt;em&gt;Fracture&lt;/em&gt; is a barrage of 16th notes (or “semiquavers” as Robert Fripp, the British composer and performer of the song, might say).&lt;/p&gt;
+&lt;p&gt;More specifically, &lt;span class=&quot;important&quot;&gt;I will only be focusing on the &lt;em&gt;moto perpetuo&lt;/em&gt; section&lt;/span&gt;, which starts at about 2:50 in the original recording and lasts (endures!) for about 4 minutes. “Moto perpetuo” is an Italian term meaning “perpetual motion.” It applies here because this section of &lt;em&gt;Fracture&lt;/em&gt; is a barrage of 16th notes (or “semiquavers” as Robert Fripp, the British composer and performer of the song, might say).&lt;/p&gt;
 
 &lt;p&gt;People all over the world have contacted me about playing this song. They’ve kindly sharing videos of their own, offered their time via Skype to talk to me, etc. It’s been such a fun and humbling experience and I’ve met people from every continent! There is quite a community of Fripp-following guitarists and I’ve been overjoyed to meet so many of them!&lt;/p&gt;
+
+&lt;p&gt;Also, please note that &lt;span class=&quot;important&quot;&gt;I am not teaching anyone how to play &lt;em&gt;Fracture&lt;/em&gt;&lt;/span&gt;, but rather showing you all the ways I’ve discovered that will prevent or inhibit progress.&lt;/p&gt;
 
 &lt;h2 id=&quot;episode-0-introduction&quot;&gt;Episode 0: Introduction&lt;/h2&gt;
 
@@ -45,9 +47,9 @@
 &lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and MusicXML files:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.pdf&quot;&gt;PDF (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.pdf&quot;&gt;PDF (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 21 Feb 2016 12:14:46 -0700</pubDate>
@@ -993,8 +995,8 @@
 &lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and MusicXML files:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/lyla/lyla.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/lyla/lyla.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/lyla/lyla.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/lyla/lyla.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;structure&quot;&gt;Structure&lt;/h2&gt;
@@ -1093,9 +1095,9 @@
 &lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and MusicXML files:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.pdf&quot;&gt;PDF (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/experience/experience-intro.mscz&quot;&gt;MuseScore (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.pdf&quot;&gt;PDF (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 24 Jan 2016 12:14:46 -0700</pubDate>

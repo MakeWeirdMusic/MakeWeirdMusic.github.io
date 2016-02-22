@@ -60,6 +60,6 @@ Here's a great performance on the piano. It doesn't capture the vocal melody, bu
 
 In case you're interested, here are the [MuseScore&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://musescore.org) and MusicXML files:
 
-- [MuseScore (.mscz)&nbsp;<i class="fa fa-download"></i>]({{ site.data.artists.mwm.assets_prod }}learn/experience/experience-intro.mscz)
-- [MusicXML (.xml)&nbsp;<i class="fa fa-download"></i>]({{ site.data.artists.mwm.assets_prod }}learn/experience/experience-intro.xml)
-- [PDF (.mscz)&nbsp;<i class="fa fa-download"></i>]({{ site.data.artists.mwm.assets_prod }}learn/experience/experience-intro.pdf)
+- [MuseScore (.mscz)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/experience/experience-intro.mscz)
+- [MusicXML (.xml)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.xml)
+- [PDF (.mscz)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.pdf)
