@@ -17,7 +17,7 @@
             {% elsif page.category == "interview" or page.category == "discover" %}{{ artist.name }}
             {% else %}{{ page.title }}{% endif %}</h1>
         {% if page.author %}<p class="author">By {{ author.name }}</p>{% endif %}
-        <img src="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />
+        {% if jekyll.environment == "production" %}<img src="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />{% else %}<img src="{{ site.data.artists.mwm.art_dev }}{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />{% endif %}
         <p class="oneliner">{{ page.oneliner }}</p>
         <div class="social">
           <p class="social-intro">Find {{ artist.name }} on:</p>

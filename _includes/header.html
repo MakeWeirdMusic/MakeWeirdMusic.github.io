@@ -1,5 +1,5 @@
 <header>
-  <a href="/"><img src="{{ site.data.artists.mwm.art_prod }}mwm/mwm-rectangular-clean-light.svg" id="profile" /></a>
+  {% if jekyll.environment == "production" %}<a href="/"><img src="{{ site.data.artists.mwm.art_prod }}mwm/mwm-rectangular-clean-light.svg" id="profile" /></a>{% else %}<a href="/"><img src="{{ site.data.artists.mwm.art_dev }}mwm/mwm-rectangular-clean-light.svg" id="profile" /></a>{% endif %}
   <a href="/">Home</a> &middot;
   <a href="/archive">Archives</a> &middot;
   <a href="/support">Support</a>

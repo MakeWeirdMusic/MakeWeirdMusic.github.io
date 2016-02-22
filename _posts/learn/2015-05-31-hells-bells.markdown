@@ -36,15 +36,15 @@ I've put together an instructional video that illustrates everything in the char
 
 The time signatures in this song are ridiculous. It took me a long time to figure the signatures out, then it took me even longer to believe they were correct!
 
-![A section: 19/8 = 7/8 + 7/8 + 5/8]({{ site.data.artists.mwm.art_prod }}/bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-A-1067x600.png)
+![A section: 19/8 = 7/8 + 7/8 + 5/8]({% if jekyll.environment == "production" %}{{ site.data.artists.mwm.art_prod }}/bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-A-1067x600.png){% else %}{{ site.data.artists.mwm.art_dev }}/bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-A-1067x600.png){% endif %}
 
 What this means is each phrase is 19 beats (eighth notes/quavers) composed of a bar of 7, a bar of 7, and a bar of 5.
 
-![B section: 19/8 = 4/8 + 4/8 + 4/8 + 4/8 + 3/8]({{ site.data.artists.mwm.art_prod }}bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-B-1067x600.png)
+![B section: 19/8 = 4/8 + 4/8 + 4/8 + 4/8 + 3/8]({% if jekyll.environment == "production" %}{{ site.data.artists.mwm.art_prod }}bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-B-1067x600.png){% else %}{{ site.data.artists.mwm.art_dev }}bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-B-1067x600.png){% endif %}
 
 This section starts with the Gb chord (fingers in the section below) and ends with the Am7.
 
-![C section: 19/8 ¿ 11.3/9 ≥ 17/3 ? (It's a joke)]({{ site.data.artists.mwm.art_prod }}bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-C-1067x600.png)
+![C section: 19/8 ¿ 11.3/9 ≥ 17/3 ? (It's a joke)]({% if jekyll.environment == "production" %}{{ site.data.artists.mwm.art_prod }}bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-C-1067x600.png){% else %}{{ site.data.artists.mwm.art_dev }}bill-bruford/hells-bells/hells-bells-slide-time-signatures-section-C-1067x600.png){% endif %}
 
 <strong>Just kidding on that last one&#8230;</strong>
 
