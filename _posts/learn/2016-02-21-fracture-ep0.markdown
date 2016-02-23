@@ -7,10 +7,10 @@ author: anthony-garone
 image: fracture/failure-fracture
 category: learn
 permalink: /learn/fracture/
-oneliner: Learn from my years and years of expert failures.
+oneliner: Learn from my years and years of epic failure to play King Crimson's "Fracture."
 seo_description: Fracture is the hardest piece of music I've ever tried to learn.
 seo_keywords: king crimson, robert fripp, virtuoso, moto perpetuo
-draft: yes
+draft: no
 front_page: yes
 has_video: yes
 ---
@@ -32,11 +32,7 @@ Also, please note that <span class="important">I am not teaching anyone how to p
 
 I've put together an introductory video for this series. Further episodes will be linked and embedded as I make them.
 
-VIDEO COMING SOON!
-
-<!--
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/MzQMhJhY1RY" frameborder="0" allowfullscreen></iframe></div>
--->
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x5LPldcjeH0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Sheet Music
 
