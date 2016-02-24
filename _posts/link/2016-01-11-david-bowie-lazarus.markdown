@@ -9,5 +9,5 @@ oneliner: RIP David Bowie. Here is "Lazarus," the most recent (and self-propheti
 front_page: yes
 draft: no
 icon: fa-youtube-square
-link: http://buff.ly/1RGxcYv
+permalink: http://buff.ly/1RGxcYv
 ---

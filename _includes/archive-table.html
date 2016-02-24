@@ -5,7 +5,7 @@ Posts marked with <i class="fa fa-youtube-play"></i> contain a video we produced
   {% if post.draft == true %}
     {% continue %}
   {% endif %}
-  {% if post.category == include.param %}
+  {% if post.category == include.param or include.param == "all" %}
   <tr class="index-{{ post.category }}-row">
     <td><a href="{{ post.permalink }}">{% if post.has_video %}<i class="fa fa-youtube-play"></i>&nbsp;{% endif %}<span class="index-{{ post.category }}">{{ post.category | capitalize }}: </span>{{ post.title }}</a></td>
     <td>{{ post.date | date: '%B %Y' }}</td>

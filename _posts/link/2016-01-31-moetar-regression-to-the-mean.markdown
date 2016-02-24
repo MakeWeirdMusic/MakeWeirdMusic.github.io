@@ -9,5 +9,5 @@ oneliner: "Check these guys out! Awesome!"
 front_page: yes
 draft: no
 icon: fa-youtube-square
-link: https://youtu.be/7Td0kSVXoI0
+permalink: https://youtu.be/7Td0kSVXoI0
 ---

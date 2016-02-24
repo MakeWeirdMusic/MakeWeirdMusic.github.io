@@ -9,5 +9,5 @@ oneliner: "If you dig Henry Cow, you'll dig this. Very cool track, awesome video
 front_page: yes
 draft: no
 icon: fa-youtube-square
-link: https://youtu.be/m4kzVy5SXW4
+permalink: https://youtu.be/m4kzVy5SXW4
 ---

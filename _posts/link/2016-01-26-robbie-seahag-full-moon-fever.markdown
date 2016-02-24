@@ -9,5 +9,5 @@ oneliner: Do yourself a favor and buy this CD. Robbie is a great player, a great
 front_page: yes
 draft: no
 icon: fa-music
-link: http://treb-c-moon.wix.com/fullmoonfever
+permalink: http://treb-c-moon.wix.com/fullmoonfever
 ---

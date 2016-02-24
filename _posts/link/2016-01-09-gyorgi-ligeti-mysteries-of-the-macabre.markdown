@@ -9,5 +9,5 @@ oneliner: Unbelievable performance from Barbara Hannigan in this VERY weird cont
 front_page: yes
 draft: no
 icon: fa-youtube-square
-link: https://www.youtube.com/watch?v=vmCmrZfybPQ
+permalink: https://www.youtube.com/watch?v=vmCmrZfybPQ
 ---

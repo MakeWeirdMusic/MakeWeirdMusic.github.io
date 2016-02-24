@@ -9,5 +9,5 @@ oneliner: I'm almost speechless. Legitimately weird music.
 front_page: yes
 draft: no
 icon: fa-youtube-square
-link: https://www.youtube.com/watch?v=nGpTZXL94DA
+permalink: https://www.youtube.com/watch?v=nGpTZXL94DA
 ---

@@ -9,5 +9,5 @@ oneliner: GREAT weird music from Adrian on an old Beatles classic.
 front_page: yes
 draft: no
 icon: fa-youtube-square
-link: http://youtu.be/NAb9V08zcBE
+permalink: http://youtu.be/NAb9V08zcBE
 ---

@@ -9,5 +9,5 @@ oneliner: Wild compositions for player piano.
 front_page: yes
 draft: no
 icon: fa-youtube-square
-link: https://www.youtube.com/watch?v=LFz2lCEkjFk
+permalink: https://www.youtube.com/watch?v=LFz2lCEkjFk
 ---

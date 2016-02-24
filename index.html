@@ -12,7 +12,7 @@ seo_keywords: anthony garone, weird, unique, unknown, weird music, prog, progres
 {% if post.front_page == false or post.draft == true %}
   {% continue %}
 {% endif %}
-<a href="{% if post.category == "link" %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">
+<a href="{{ post.permalink }}">
   <article class="{{ post.category }} story">
     {% if post.category == "link" %}<div class="icon-wrap"><p><i class="non-mwm fa {{ post.icon }}"></i></p></div>
     {% elsif post.category != "link" and jekyll.environment == "production" %}<div class="image-wrap">
