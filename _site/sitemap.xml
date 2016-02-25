@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.makeweirdmusic.com/gear/favrio-atg7/</loc>
+    <lastmod>2016-03-02T12:14:46-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.makeweirdmusic.com/learn/fracture/stress</loc>
+    <lastmod>2016-02-28T12:14:46-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.makeweirdmusic.com/learn/fracture/</loc>
     <lastmod>2016-02-21T12:14:46-07:00</lastmod>
   </url>
@@ -50,10 +58,6 @@
   </url>
   <url>
     <loc>http://www.makeweirdmusic.com/interview/paul-hanson/</loc>
-    <lastmod>2016-01-12T12:14:46-07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://www.makeweirdmusic.com/gear/favrio-atg7/</loc>
     <lastmod>2016-01-12T12:14:46-07:00</lastmod>
   </url>
   <url>
