@@ -33,7 +33,11 @@ When I look back at videos of myself playing *Fracture* as far back as 2006, I s
 
 Here is the video to accompany this episode of *Failure to Fracture*.
 
+VIDEO COMING SOON
+
+<!--
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x5LPldcjeH0" frameborder="0" allowfullscreen></iframe></div>
+-->
 
 ## Self-Taught Unknown Unknowns
 

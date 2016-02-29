@@ -6,8 +6,8 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Feb 2016 10:02:26 -0700</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 10:02:26 -0700</lastBuildDate>
+    <pubDate>Mon, 29 Feb 2016 16:13:30 -0700</pubDate>
+    <lastBuildDate>Mon, 29 Feb 2016 16:13:30 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -57,7 +57,11 @@
 
 &lt;p&gt;Here is the video to accompany this episode of &lt;em&gt;Failure to Fracture&lt;/em&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x5LPldcjeH0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;VIDEO COMING SOON&lt;/p&gt;
+
+&lt;!--
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x5LPldcjeH0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+--&gt;
 
 &lt;h2 id=&quot;self-taught-unknown-unknowns&quot;&gt;Self-Taught Unknown Unknowns&lt;/h2&gt;
 
@@ -112,7 +116,25 @@
     
       <item>
         <title>Failure to Fracture</title>
-        <description>&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;episode-0-introduction&quot;&gt;Episode 0: Introduction&lt;/h2&gt;
+
+&lt;p&gt;I’ve put together an introductory video for this series. Further episodes will be linked and embedded as I make them.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x5LPldcjeH0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;more-episodes&quot;&gt;More Episodes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/learn/fracture/stress&quot;&gt;Episode 1: Stress and Tension&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sheet-music&quot;&gt;Sheet Music&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/gear/soundslice&quot;&gt;Soundslice&lt;/a&gt; is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It’s super-duper awesome and is hosting the sheet music you see here.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.soundslice.com/scores/40913/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;what-are-we-learning&quot;&gt;What are we learning?&lt;/h2&gt;
 
 &lt;p&gt;For the past 15 years or so, I’ve been intensely studying a piece of music called &lt;em&gt;Fracture&lt;/em&gt; by &lt;a href=&quot;/discover/king-crimson&quot;&gt;King Crimson&lt;/a&gt; and have developed a unique type of expertise: the expertise of failure. &lt;em&gt;Fracture&lt;/em&gt; is, without a doubt, &lt;span class=&quot;important&quot;&gt;the most difficult piece of music I’ve ever tried playing&lt;/span&gt;. Through study, practice, blogging, and YouTube videos, I have failed more visibly and effortfully than most anyone else on the internet attempting to play this song. This video series is an attempt to share what I’ve learned through my failures to save others the time and energy as they attempt to learn and play the piece.&lt;/p&gt;
 
@@ -126,18 +148,6 @@
 
 &lt;p&gt;Also, please note that &lt;span class=&quot;important&quot;&gt;I am not teaching anyone how to play &lt;em&gt;Fracture&lt;/em&gt;&lt;/span&gt;, but rather showing you all the ways I’ve discovered that will prevent or inhibit progress.&lt;/p&gt;
 
-&lt;h2 id=&quot;episode-0-introduction&quot;&gt;Episode 0: Introduction&lt;/h2&gt;
-
-&lt;p&gt;I’ve put together an introductory video for this series. Further episodes will be linked and embedded as I make them.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x5LPldcjeH0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;sheet-music&quot;&gt;Sheet Music&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;/gear/soundslice&quot;&gt;Soundslice&lt;/a&gt; is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It’s super-duper awesome and is hosting the sheet music you see here.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.soundslice.com/scores/40913/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
 &lt;h3 id=&quot;downloads&quot;&gt;Downloads&lt;/h3&gt;
 
 &lt;p&gt;In case you’re interested, here are the &lt;a href=&quot;http://musescore.org&quot;&gt;MuseScore &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and MusicXML files:&lt;/p&gt;
@@ -147,6 +157,14 @@
   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.xml&quot;&gt;MusicXML (.xml) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.pdf&quot;&gt;PDF (.mscz) &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;other-videos&quot;&gt;Other Videos&lt;/h2&gt;
+
+&lt;p&gt;In case you’re interested, check out these other videos I did of myself playing &lt;em&gt;Fracture&lt;/em&gt; and &lt;em&gt;FraKctured&lt;/em&gt; since attending the Guitar Circle intro course:&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EoWx3sUMQEo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_wmbfrPx6EY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 21 Feb 2016 12:14:46 -0700</pubDate>
         <link>http://www.makeweirdmusic.com/learn/fracture/</link>

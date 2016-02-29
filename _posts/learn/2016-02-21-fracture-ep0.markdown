@@ -15,6 +15,22 @@ draft: no
 front_page: yes
 has_video: yes
 ---
+## Episode 0: Introduction
+
+I've put together an introductory video for this series. Further episodes will be linked and embedded as I make them.
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x5LPldcjeH0" frameborder="0" allowfullscreen></iframe></div>
+
+## More Episodes
+
+- [Episode 1: Stress and Tension](/learn/fracture/stress)
+
+## Sheet Music
+
+[Soundslice](/gear/soundslice) is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It's super-duper awesome and is hosting the sheet music you see here.
+
+<iframe src="https://www.soundslice.com/scores/40913/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
+
 ## What are we learning?
 
 For the past 15 years or so, I've been intensely studying a piece of music called *Fracture* by [King Crimson](/discover/king-crimson) and have developed a unique type of expertise: the expertise of failure. *Fracture* is, without a doubt, <span class="important">the most difficult piece of music I've ever tried playing</span>. Through study, practice, blogging, and YouTube videos, I have failed more visibly and effortfully than most anyone else on the internet attempting to play this song. This video series is an attempt to share what I've learned through my failures to save others the time and energy as they attempt to learn and play the piece.
@@ -29,18 +45,6 @@ People all over the world have contacted me about playing this song. They've kin
 
 Also, please note that <span class="important">I am not teaching anyone how to play *Fracture*</span>, but rather showing you all the ways I've discovered that will prevent or inhibit progress.
 
-## Episode 0: Introduction
-
-I've put together an introductory video for this series. Further episodes will be linked and embedded as I make them.
-
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x5LPldcjeH0" frameborder="0" allowfullscreen></iframe></div>
-
-## Sheet Music
-
-[Soundslice](/gear/soundslice) is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It's super-duper awesome and is hosting the sheet music you see here.
-
-<iframe src="https://www.soundslice.com/scores/40913/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
-
 ### Downloads
 
 In case you're interested, here are the [MuseScore&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://musescore.org) and MusicXML files:
@@ -48,3 +52,11 @@ In case you're interested, here are the [MuseScore&nbsp;<i class="non-mwm fa fa-
 - [MuseScore (.mscz)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.mscz)
 - [MusicXML (.xml)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.xml)
 - [PDF (.mscz)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.pdf)
+
+## Other Videos
+
+In case you're interested, check out these other videos I did of myself playing *Fracture* and *FraKctured* since attending the Guitar Circle intro course:
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/EoWx3sUMQEo?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/_wmbfrPx6EY?rel=0" frameborder="0" allowfullscreen></iframe></div>
