@@ -19,7 +19,7 @@ has_video: yes
 
 ## Episode 1: Stress and Body Tension
 
-One of my favorite quotes is [this beauty](https://en.wikipedia.org/wiki/There_are_known_knowns) from [Donald Rumsfeld](https://en.wikipedia.org/wiki/Donald_Rumsfeld):
+One of my favorite quotes is [this beauty&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/There_are_known_knowns) from [Donald Rumsfeld&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Donald_Rumsfeld):
 
 > Reports that say that something hasn't happened are always interesting to me, because as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns – the ones we don't know we don't know.
 
@@ -39,7 +39,7 @@ Here is the video to accompany this episode of *Failure to Fracture*.
 
 I started learning Fracture at the ripe young age of 18 or so--somewhere around the year 2000. My father had said to me, "Learn *Fracture* and *then* I'll talk to you." He was trying to challenge me with impossible songs and I was doing my best to teach myself to play. My aim was to shred, not to play an instrument with ease nor to understand any of the musical concepts behind what I was playing. As a teenager, I wanted to play fast and loud.
 
-Fifteen years later at an introductory [Guitar Circle course](https://en.wikipedia.org/wiki/Guitar_Craft) in Mexico, [Robert Fripp](https://en.wikipedia.org/wiki/Robert_Fripp) said to me (and 7 other introductory students), "Please raise your hand if you taught yourself how to play guitar."
+Fifteen years later at an introductory [Guitar Circle course&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Guitar_Craft) in Mexico, [Robert Fripp&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Robert_Fripp) said to me (and 7 other introductory students), "Please raise your hand if you taught yourself how to play guitar."
 
 I raised my hand as did a few others.
 
@@ -47,11 +47,11 @@ Fripp's response was, "What you're effectively telling me is, 'Someone who knew 
 
 [NOTE: For more intelligent discourse on this subject, check out [the interview we did with Jeff Berlin](/interview/jeff-berlin). He has incredible insights about music education and being self-taught.]
 
-The first few days of the Guitar Circle course focused on something called the [Alexander Technique](https://en.wikipedia.org/wiki/Alexander_technique) [AT] led primarily by two AT teachers with support from Robert and his "guitar buddies" (experienced co-instructors). I hated Alexander Technique. We spent a bunch of time talking about how to sit, how to stand, how to breathe, how to position your head on your neck... A few of us intro students were irritated and felt like it wasn't a good use of our time.
+The first few days of the Guitar Circle course focused on something called the [Alexander Technique&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Alexander_technique) [AT] led primarily by two AT teachers with support from Robert and his "guitar buddies" (experienced co-instructors). I hated Alexander Technique. We spent a bunch of time talking about how to sit, how to stand, how to breathe, how to position your head on your neck... A few of us intro students were irritated and felt like it wasn't a good use of our time.
 
-And every morning, we spent 45 minutes with Robert [doing *nothing*](https://www.dgmlive.com/diaries.htm?diarist=3&entry=4424). Literally. We sat in a room staring in silence doing nothing. It was surreal and, frankly, bizarre. I went from never thinking I'd meet Robert to sitting in a room with him staring at a wall at 7:45AM in a small town outside Mexico City.
+And every morning, we spent 45 minutes with Robert [doing *nothing*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.dgmlive.com/diaries.htm?diarist=3&entry=4424). Literally. We sat in a room staring in silence doing nothing. It was surreal and, frankly, bizarre. I went from never thinking I'd meet Robert to sitting in a room with him staring at a wall at 7:45AM in a small town outside Mexico City.
 
-We barely seemed to do anything on the guitar until the third or fourth day. That's when my back started *killing* me with constant pain and burning. [Sandra Bain Cushman](http://sandrabaincushman.com/) said this pain was due to my body undoing all of the poor habits I'd developed over so many years of misuse of my body. Suddenly, I felt awakened to a new me!
+We barely seemed to do anything on the guitar until the third or fourth day. That's when my back started *killing* me with constant pain and burning. [Sandra Bain Cushman&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://sandrabaincushman.com/) said this pain was due to my body undoing all of the poor habits I'd developed over so many years of misuse of my body. Suddenly, I felt awakened to a new me!
 
 ## Change is good!
 
@@ -59,7 +59,7 @@ The practice of doing nothing started making sense. As Robert said, "You can't a
 
 When I picked up the guitar, I could feel my body fighting new, good use techniques with old, poor use techniques. From the way I sat, the way I positioned my skull on my neck, the way I automatically tensed up playing the guitar... It was incredible.
 
-Over the next several months, I worked very hard at sitting regularly and doing nothing, paying close attention to where stress appears in my body during everyday moments, while at work, while walking, while playing guitar, and more. The more I loosened up, the more I was able to navigate the picking for *Fracture*. One night in August 2015, it happened! I immediately started filming myself and sent it to my friend, Yehuda Kotton, [an Israeli guitarist from the band Ahvak](https://www.youtube.com/watch?v=uiX_ewhngbA) who'd also been working on learning *Fracture*.
+Over the next several months, I worked very hard at sitting regularly and doing nothing, paying close attention to where stress appears in my body during everyday moments, while at work, while walking, while playing guitar, and more. The more I loosened up, the more I was able to navigate the picking for *Fracture*. One night in August 2015, it happened! I immediately started filming myself and sent it to my friend, Yehuda Kotton, [an Israeli guitarist from the band Ahvak&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.youtube.com/watch?v=uiX_ewhngbA) who'd also been working on learning *Fracture*.
 
 Through the Alexander Technique and the practice of doing nothing, I have learned so much about myself and my habits. There is so much I didn't know I didn't know and I still discover new things about stress and tension in my body as I pick up the guitar and start playing.
 
@@ -67,7 +67,7 @@ Through the Alexander Technique and the practice of doing nothing, I have learne
 
 Every time I play *Fracture*, I discover new areas where I'm stressing myself out. Most recently, the stress is appearing in my right forearm near my elbow and in my right shoulder.
 
-A guitar instructor named [Glenn Winter-Smith](https://www.reverbnation.com/glennwintersmith) emailed me after [Episode 0](/learn/fracture) telling me he could notice that I wasn't loosened up. Admittedly, the practice performance in that video was the 50th take over the course of 3 nights and I was stressed and tired from playing and filming myself, but more importantly was the fact that an experienced instructor noticed my stress despite a year of concerted effort in relaxation.
+A guitar instructor named [Glenn Winter-Smith&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.reverbnation.com/glennwintersmith) emailed me after [Episode 0](/learn/fracture) telling me he could notice that I wasn't loosened up. Admittedly, the practice performance in that video was the 50th take over the course of 3 nights and I was stressed and tired from playing and filming myself, but more importantly was the fact that an experienced instructor noticed my stress despite a year of concerted effort in relaxation.
 
 Specifically, he wrote:
 
