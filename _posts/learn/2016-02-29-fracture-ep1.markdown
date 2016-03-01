@@ -1,21 +1,23 @@
 ---
 layout: post
 title: Failure to Fracture, Episode 1
-date: 2016-02-28 19:14:46
+date: 2016-02-29 19:14:46
 artist: king-crimson
 author: anthony-garone
 image: fracture/failure-fracture
 category: learn
 permalink: /learn/fracture/stress
 redirect_from: /learn/fracture/1
-oneliner: Learn from my years and years of epic failure to play King Crimson's "Fracture."
+oneliner: Learn how stress and tension have prevented me from playing King Crimson's "Fracture."
 seo_description: Fracture is the hardest piece of music I've ever tried to learn. This episode focuses on stress and tension in the body.
 seo_keywords: king crimson, robert fripp, virtuoso, moto perpetuo
-draft: yes
+draft: no
 front_page: no
 has_video: yes
 ---
-*Failure to Fracture* is a video series I've put together about all the things that have stood in the way of my successfully playing the song *Fracture* by [King Crimson](/discover/king-crimson) despite years and years of study, practice, writing, and making videos.
+[*Failure to Fracture*](/learn/fracture) is a video series I've put together about all the things that have stood in the way of my successfully playing the song *Fracture* by [King Crimson](/discover/king-crimson) despite years and years of study, practice, writing, and making videos.
+
+[Check the episode index for more content!](/learn/fracture)
 
 ## Episode 1: Stress and Body Tension
 
@@ -33,11 +35,7 @@ When I look back at videos of myself playing *Fracture* as far back as 2006, I s
 
 Here is the video to accompany this episode of *Failure to Fracture*.
 
-VIDEO COMING SOON
-
-<!--
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x5LPldcjeH0" frameborder="0" allowfullscreen></iframe></div>
--->
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/o4f1POCrKXE" frameborder="0" allowfullscreen></iframe></div>
 
 ## Self-Taught Unknown Unknowns
 
