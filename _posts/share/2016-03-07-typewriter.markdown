@@ -27,6 +27,14 @@ For anyone wondering, that is a 6-string guitar with a banjo body called the [Ba
 
 It took about 4 weeks to notate, learn, practice, record, and film the whole thing over many evenings from 9PM til about 1AM. All told, I'm guessing I spent about 60 hours on it all.
 
+## Download the mp3!
+
+Here's an mp3 of the song (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
+
+<p><audio src="http://audio.makeweirdmusic.com/share/typewriter/makeweirdmusic-typewriter.mp3" controls preload="none" /></p>
+
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/share/typewriter/makeweirdmusic-typewriter.mp3).
+
 ## Original Recording
 
 **[Purchase Panzerballett's *Breaking Brain* on iTunes&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/breaking-brain/id1043463853)**

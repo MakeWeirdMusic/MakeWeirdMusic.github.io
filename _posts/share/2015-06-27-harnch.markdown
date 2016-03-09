@@ -20,7 +20,7 @@ techniques:
 ---
 ## What is a "Harnch"?
 
-*Harnch* is the name of a guitar instrumental jazz fusion song by me, Anthony Garone, owner and proprietor of this very website. The performance being shared in this post is an acoustic guitar quartet arrangement I performed in Robert Fripp's [New Standard Tuning](https://en.wikipedia.org/wiki/New_standard_tuning) [NST].
+*Harnch* is the name of a guitar instrumental jazz fusion song by me, Anthony Garone, owner and proprietor of this very website. The performance being shared in this post is an acoustic guitar quartet arrangement I performed in Robert Fripp's [New Standard Tuning&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/New_standard_tuning) [NST].
 
 The song gets its name from the crazy section at the end with all the time signatures. It's the only non-swear word I could think of while recording it that adequately expressed how difficult it was to perform and record.
 
@@ -34,6 +34,14 @@ Here's a video with some "fun fact" overlays, including all the time signature c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hKxuR7x4JrE?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
+## Download the mp3!
+
+Here's an mp3 of the song (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
+
+<p><audio src="http://audio.makeweirdmusic.com/share/harnch/makeweirdmusic-harnch.mp3" controls preload="none" /></p>
+
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/share/harnch/makeweirdmusic-harnch.mp3).
+
 ## Original Recording
 
 The original song was performed a bit faster in standard tuning on electric guitars. I played all the instruments except for the piano, which was sequenced.
@@ -46,7 +54,7 @@ The original song was performed a bit faster in standard tuning on electric guit
 
 If you're interested in the sheet music for this song, I have it for guitar quintet in normal standard tuning (what Fripp calls "original standard tuning") and for guitar quartet in Fripp's "New Standard Tuning" (CGDAEg, low to high).
 
-- [Standard Tuning](https://github.com/MakeWeirdMusic/assets/tree/master/share/harnch/ost)
-- [New Standard Tuning](https://github.com/MakeWeirdMusic/assets/tree/master/share/harnch/nst) with [MIDI](https://github.com/MakeWeirdMusic/assets/tree/master/share/harnch/ost/midi) (includes [MuseScore](http://musescore.org) file)
+- [Standard Tuning&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://github.com/MakeWeirdMusic/assets/tree/master/share/harnch/ost)
+- [New Standard Tuning&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://github.com/MakeWeirdMusic/assets/tree/master/share/harnch/nst) with [MIDI&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://github.com/MakeWeirdMusic/assets/tree/master/share/harnch/ost/midi) (includes [MuseScore&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://musescore.org) file)
 
-Watch out for the coda! [Here's some additional context on my old website](http://blog.garone.org/guitar/harnch-for-five-guitars).
+Watch out for the coda! [Here's some additional context on my old website&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://blog.garone.org/guitar/harnch-for-five-guitars).
