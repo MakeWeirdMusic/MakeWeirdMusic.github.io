@@ -1,6 +1,6 @@
 ---
 layout: post
-title: J.S. Bach
+title: Prog Cover of BWV 1060R by J.S. Bach
 date: 2016-03-10 19:14:46
 artist: anthony-garone
 author: anthony-garone
