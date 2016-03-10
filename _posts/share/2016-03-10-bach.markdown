@@ -1,0 +1,44 @@
+---
+layout: post
+title: J.S. Bach
+date: 2016-03-10 19:14:46
+artist: anthony-garone
+author: anthony-garone
+image: anthony-garone
+category: share
+permalink: /share/bach
+redirect_from: /share/bwv-1060r-mov-1
+oneliner: My cover of J.S. Bach's concerto for violin and oboe
+seo_description: Bach shred-fest in progressive rock regalia.
+seo_keywords: panzerballett, dixie dregs, sebastian lanser, andy west, adam strand, crimsontone amps, math rock, bach rock
+draft: no
+front_page: yes
+has_video: yes
+---
+In December 2013, I released a math-rock/progressive cover version of one of my favorite Bach compositions, [Concert for Violin and Oboe Mov. 1, Allegro (BWV 1060R)&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach#Concerto_in_C_minor.2C_BWV_1060). It's a total shred-fest.
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/OUDXsoV6-ak" frameborder="0" allowfullscreen></iframe></div>
+
+**[Purchase this song on iTunes](https://itunes.apple.com/us/album/concerto-for-violin-oboe-in/id767515367)**
+
+This performance features:
+
+- [Sebastian Lanser&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://sebastianlanser.com) of [Panzerballett](/discover/panzerballett) on drums
+- [Andy West](/interview/andy-west) of the [Dixie Dregs&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dixie_Dregs) on bass
+- Adam Strand (an organist I met at my church) on keyboards
+- Bryce Bickham of [Crimsontone Amplifiers&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://crimsontone.com), who [re-amped&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Re-amp) all my guitar parts through his awesome handmade amps
+
+Sebastian's drum parts are jaw-dropping. Andy's bass parts are so fun. Adam's arrangement contributions brought new life to my too-technical work.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Artwork for my 2013 <a href="https://twitter.com/hashtag/bach?src=hash">#bach</a> shredfest. Thought it&#39;d be funny to draw myself as Bach. <a href="https://t.co/F1QXIJX7u3">pic.twitter.com/F1QXIJX7u3</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/708064442823479296">March 10, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## How and Why
+
+This is a piece of music I've loved for many years and always knew I wanted to record my own version. I put my stamp on it by messing around with the rhythm of the main motif, which is in 11/8. It took about 10 months to complete the arrangement.
+
+It's incredibly complex and difficult to perform, well beyond anything I'd previously recorded. There were several parts I couldn't easily perform as originally written, so I translated those parts into different time signatures and added notes to make them playable. Some parts require some pretty tricky finger-tapping on both hands. It's more like playing a keyboard on a fretboard than finger-tapping like Eddie Van Halen.
+
+I entered all the notes into Logic Pro and used its tablature features to determine the best way to play (and memorize) the various parts. Then I recorded all the parts direct into Logic and sent them to Bryce to re-amp through his beautiful Crimsontone Amps.
+
+Sebastian, Andy, and Adam each told me that this was one of the hardest songs they'd ever performed. I guess that's some sort of stamp of honor. Heh.
