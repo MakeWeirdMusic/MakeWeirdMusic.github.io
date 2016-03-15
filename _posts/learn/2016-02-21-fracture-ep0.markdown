@@ -17,13 +17,9 @@ has_video: yes
 ---
 ## Episode 0: Introduction
 
-I've put together an introductory video for this series. Further episodes will be linked and embedded as I make them.
-
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x5LPldcjeH0" frameborder="0" allowfullscreen></iframe></div>
 
-## More Episodes
-
-- [Episode 1: Stress and Tension](/learn/fracture/stress)
+{% include fracture-episodes.html %}
 
 ## Sheet Music
 

@@ -15,10 +15,6 @@ draft: no
 front_page: no
 has_video: yes
 ---
-[*Failure to Fracture*](/learn/fracture) is a video series I've put together about all the things that have stood in the way of my successfully playing the song *Fracture* by [King Crimson](/discover/king-crimson) despite years and years of study, practice, writing, and making videos.
-
-[Check the episode index for more content!](/learn/fracture)
-
 ## Episode 1: Stress and Body Tension
 
 One of my favorite quotes is [this beauty&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/There_are_known_knowns) from [Donald Rumsfeld&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Donald_Rumsfeld):
@@ -36,6 +32,8 @@ When I look back at videos of myself playing *Fracture* as far back as 2006, I s
 Here is the video to accompany this episode of *Failure to Fracture*.
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/o4f1POCrKXE" frameborder="0" allowfullscreen></iframe></div>
+
+{% include fracture-episodes.html %}
 
 ## Self-Taught Unknown Unknowns
 

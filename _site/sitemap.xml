@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.makeweirdmusic.com/learn/fracture/picks</loc>
+    <lastmod>2016-03-12T12:14:46-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.makeweirdmusic.com/http:/benlevingroup.bandcamp.com</loc>
+    <lastmod>2016-03-11T05:14:46-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.makeweirdmusic.com/share/bach</loc>
     <lastmod>2016-03-10T12:14:46-07:00</lastmod>
   </url>
@@ -149,11 +157,11 @@
     <lastmod>2015-05-31T12:14:46-07:00</lastmod>
   </url>
   <url>
-    <loc>http://www.makeweirdmusic.com/discover/dale-turner/</loc>
+    <loc>http://www.makeweirdmusic.com/interview/dale-turner/</loc>
     <lastmod>2015-05-25T12:14:46-07:00</lastmod>
   </url>
   <url>
-    <loc>http://www.makeweirdmusic.com/interview/dale-turner/</loc>
+    <loc>http://www.makeweirdmusic.com/discover/dale-turner/</loc>
     <lastmod>2015-05-25T12:14:46-07:00</lastmod>
   </url>
   <url>

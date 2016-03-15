@@ -1,0 +1,13 @@
+---
+layout: post
+title: Ben Levin Mind-Melting
+date:   2016-03-11 12:14:46
+artist: ben-levin
+author: anthony-garone
+category: link
+oneliner: I've been listening to this album for a couple days now. Wild, amazing stuff from the Bent Knee guitarist.
+front_page: yes
+draft: no
+icon: fa-music
+permalink: http://benlevingroup.bandcamp.com
+---
