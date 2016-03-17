@@ -5,6 +5,8 @@ category: page
 artist: mwm
 image: mwm-social-square
 permalink: /archive/learn/
+redirect_from:
+  - /learn/
 seo_description:
 seo_keywords:
 ---

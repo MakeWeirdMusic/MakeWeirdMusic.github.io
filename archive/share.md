@@ -5,6 +5,8 @@ category: page
 artist: mwm
 image: mwm-social-square
 permalink: /archive/share/
+redirect_from:
+  - /share/
 seo_description:
 seo_keywords:
 ---

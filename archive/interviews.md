@@ -5,7 +5,9 @@ category: page
 artist: mwm
 image: mwm-social-square
 permalink: /archive/interview/
-redirect_from: /archive/interviews/
+redirect_from:
+  - /archive/interviews/
+  - /interviews/
 seo_description:
 seo_keywords:
 ---

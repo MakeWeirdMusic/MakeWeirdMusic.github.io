@@ -5,6 +5,8 @@ category: page
 artist: mwm
 image: mwm-social-square
 permalink: /archive/gear/
+redirect_from:
+  - /gear/
 seo_description:
 seo_keywords:
 ---
