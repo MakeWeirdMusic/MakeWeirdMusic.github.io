@@ -5,7 +5,7 @@ date:   2015-11-11 19:14:46
 artist: panzerballett
 member: Jan Zehrfeld
 author: anthony-garone
-image: panzerballett
+image: jan-zehrfeld
 category: interview
 permalink: /interview/jan-zehrfeld/
 redirect_from: /interview/jan-zehrfeld/part-1/

@@ -5,7 +5,7 @@ date:   2015-11-27 19:14:46
 artist: panzerballett
 member: Part 3, Jan Zehrfeld
 author: anthony-garone
-image: panzerballett
+image: jan-zehrfeld
 category: interview
 permalink: /interview/jan-zehrfeld/part-3/
 oneliner: Part 3 (of 4) deep into the wrecking ball method.

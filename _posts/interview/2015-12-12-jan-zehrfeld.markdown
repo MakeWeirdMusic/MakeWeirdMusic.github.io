@@ -5,7 +5,7 @@ date:   2015-12-12 19:14:46
 artist: panzerballett
 member: Part 4, Jan Zehrfeld
 author: anthony-garone
-image: panzerballett
+image: jan-zehrfeld
 category: interview
 permalink: /interview/jan-zehrfeld/part-4/
 oneliner: The final part of our epic multi-part interview.

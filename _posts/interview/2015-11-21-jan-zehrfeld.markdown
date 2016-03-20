@@ -5,7 +5,7 @@ date:   2015-11-21 19:14:46
 artist: panzerballett
 member: Part 2, Jan Zehrfeld
 author: anthony-garone
-image: panzerballett
+image: jan-zehrfeld
 category: interview
 permalink: /interview/jan-zehrfeld/part-2/
 oneliner: Part 2 (of 4) where Jan continues to blow my mind.
