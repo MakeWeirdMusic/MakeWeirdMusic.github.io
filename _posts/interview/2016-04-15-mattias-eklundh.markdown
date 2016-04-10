@@ -6,7 +6,7 @@ artist: mattias-eklundh
 author: anthony-garone
 image: mattias-eklundh
 category: interview
-permalink: /interview/mattias-eklundh
+permalink: /interview/mattias-eklundh/
 oneliner: The Swedish genius behind Freak Kitchen and Freak Guitar
 seo_description: Mattias IA Eklundh talks about life in Sweden and having nothing to do but play music.
 seo_keywords: steve vai, favored nations, freak kitchen, freak guitar, mattias ia eklundh, swedish guitar
