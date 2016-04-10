@@ -13,6 +13,11 @@ seo_keywords: steve vai, favored nations, freak kitchen, freak guitar, mattias i
 front_page: yes
 draft: yes
 has_video: yes
+redirect_from:
+  - /interview/matthias-eklundh
+  - /interview/mattias-eklund
+  - /interview/matthias-eklund
+  - /interview/mattias-ia-eklundh
 ---
 
 ## Some Context
