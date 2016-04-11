@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mattias Eklundh Interview
-date:  2016-04-15 19:14:46
+date:  2016-04-10 19:14:46
 artist: mattias-eklundh
 author: anthony-garone
 image: mattias-eklundh
