@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Panzerballett Typewriter Contest Entry
-date: 2016-03-07 19:14:46
+date: 2016-03-10 19:14:46
 artist: panzerballett
 author: anthony-garone
 image: panzerballett
