@@ -70,6 +70,12 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   margin-bottom: 0;
 }
 
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 .menu .story {
   background-color: #111;
 }
