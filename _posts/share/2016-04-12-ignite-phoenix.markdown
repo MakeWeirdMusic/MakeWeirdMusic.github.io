@@ -20,6 +20,8 @@ It was a huge honor to present Make Weird Music to 850 people at [Ignite Phoenix
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/YKqre-waCI8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
+**Special thanks to Raoul Encinas for telling me about Ignite and inviting me to submit, and to Todd Weinstein, who coached me through the whole process."
+
 In the weeks leading up to Ignite, I didn't think too much about the reality of speaking in front of so many people. I also didn't realize how personal my little speech would be and how vulnerable I would feel delivering it. Like a song idea in its infancy, I let no one hear me rehearse and only two people had seen the script I wrote: my assigned speaking coach and my awesome friend, [Will Mejia&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://elevatingideas.com), who designed the slides (and the MWM logo). Not even my wife really knew what I was cooking up.
 
 ### Nerves
