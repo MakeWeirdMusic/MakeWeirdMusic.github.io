@@ -20,6 +20,10 @@ redirect_from:
   - /interview/mattias-ia-eklundh
 ---
 
+## SPECIAL THANKS
+
+Extra special thanks to the very kind, patient, and gracious Julie Cord of [Blue Mouth Promotion](http://bluemouthpromo.com/) for connecting me and Mattias. She is a promoter for several great artists, including Mattias and Panzerballett. Check out BMP and follow them on social media to keep up with great artists!!
+
 ## Some Context
 
 Below is our interview with the hilarious Swede, Mattias IA Eklundh.
