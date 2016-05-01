@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mattias Eklundh Interview
-date:  2016-04-10 19:14:46
+date:  2016-04-30 19:14:46
 artist: mattias-eklundh
 author: anthony-garone
 image: mattias-eklundh
@@ -9,9 +9,9 @@ category: interview
 permalink: /interview/mattias-eklundh/
 oneliner: The Swedish genius behind Freak Kitchen and Freak Guitar
 seo_description: Mattias IA Eklundh talks about life in Sweden and having nothing to do but play music.
-seo_keywords: steve vai, favored nations, freak kitchen, freak guitar, mattias ia eklundh, swedish guitar
+seo_keywords: steve vai, favored nations, freak kitchen, freak guitar, mattias ia eklundh, swedish guitar, panzerballett
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 redirect_from:
   - /interview/matthias-eklundh
@@ -28,8 +28,6 @@ Below is our interview with the hilarious Swede, Mattias IA Eklundh.
 
 This interview was conducted on Friday, February 12, 2016 at 5AM AZ.
 
-VIDEO AND AUDIO COMING SOON!
-
 <!--
 ## Interview Audio (Podcast)
 
@@ -38,13 +36,15 @@ Here's audio of the interview (NOTE: hitting the "play" button requires a hefty 
 <p><audio src="http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3" controls preload="none" /></p>
 
 Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3).
+-->
 
 ## Interview video
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/jWeTqBNnA6g?rel=0" frameborder="0" allowfullscreen></iframe></div>
--->
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Y0N3UY6VAS4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+PODCAST AUDIO COMING SOON!
 
 ## Interview transcript
 
@@ -145,7 +145,7 @@ M: Yes, Hindi. Very much. Well the Swedish pronunciation is "ehk-lund" but in In
 "Don't you know what ek-lahnd means in Hindi? Ek means 'one,' and lahnd is one 'penis.' So 'one-penis'."
 {: .interviewee }
 
-And it's really stupid because, and I've said this many times, usually when you play an instrument and you're gifted and you play that instrument, you are called that instrument. You are Mandolin Srinivas or Kanjira Silvaganesh, or Bass Guitar Bob. But my name is "Guitar One-Dick" or "Guitar One Penis," which is not bad. I mean, it could be [Kerry King&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kerry_King), you know. So, Guitar One Penis! Yes, yes.
+And it's really stupid because, and I've said this many times, usually when you play an instrument and you're gifted and you play that instrument, you are called that instrument. You are Mandolin Srinivas or Kanjeera Selvaganesh, or Bass Guitar Bob. But my name is "Guitar One-Dick" or "Guitar One Penis," which is not bad. I mean, it could be [Kerry King&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kerry_King), you know. So, Guitar One Penis! Yes, yes.
 {: .interviewee }
 
 A: [laughing] I don't know if it's because it's super early for me or because that story is legitimately that funny.
