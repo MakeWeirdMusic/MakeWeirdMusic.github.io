@@ -18,7 +18,7 @@ has_video: yes
 
 ## SPECIAL THANKS
 
-Special thanks to [Andy Alt](http://andyalt.com) for connecting me and Ben. Andy is the mastermind behind the amazing guitar pickup, [A Little Thunder](http://www.alittlethunder.com).
+Special thanks to [Andy Alt&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://andyalt.com) for connecting me and Ben. Andy is the mastermind behind the amazing guitar pickup, [A Little Thunder&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.alittlethunder.com).
 
 ## Some Context
 
@@ -54,7 +54,7 @@ Anthony: This is Anthony from MakeWeirdMusic.com and I am here with Ben Levin. U
 Ben: No, "LE-vin" is good. Thanks.
 {: .interviewee }
 
-A: All right, cool. Ben Levin from Bent Knee. Ben, I have been listening to your music in Bent Knee and your solo music. It's pretty incredible stuff.
+A: All right, cool. Ben Levin from [Bent Knee](http://bentkneemusic.com). Ben, I have been listening to your music in Bent Knee and your solo music. It's pretty incredible stuff.
 {: .interviewer }
 
 B: Thanks!
@@ -66,10 +66,10 @@ A: I was wondering if you could introduce yourself. Tell us a little about yours
 B: Okay. Hello, I am Ben Levin. I'm a musician. I make a lot of concept albums and really over-the-top music, but it's always about little human things. I like telling stories with music and I like playing guitar. My favorite thing with music is making albums and writing then recording music. I think that's the thing that is the most enjoyable aspect of life so far (outside of the love with humans thing, that's pretty good too).
 {: .interviewee }
 
-Let's see... I am based in Boston and here I perform in a number of groups, mostly with the same people in those groups, but in different configurations. My pals who play in those groups and I have this collective called the Secret Dog Brigade in which you find Bent Knee, Ben Levin Group, Justice Cow, Mr. Gowan's Meat Farm, That One-Eyed Kid, my solo stuff, and then Courtney (the singer from Bent Knee)'s solo stuff. And everyone else's solo stuff as it comes up.
+Let's see... I am based in Boston and here I perform in a number of groups, mostly with the same people in those groups, but in different configurations. My pals who play in those groups and I have this collective called the [Secret Dog Brigade](http://www.secretdogbrigade.com) in which you find Bent Knee, [Ben Levin Group](http://benlevingroup.com), [Justice Cow](http://www.secretdogbrigade.com/justice-cow/), [Mr. Gavin's Meat Farm](http://www.secretdogbrigade.com/mr-gavins-meat-farm/), [That One Eyed Kid](http://www.secretdogbrigade.com/that-one-eyed-kid/), my solo stuff, and then [Courtney Swain](http://www.courtneyswain.com) (the singer from Bent Knee)'s solo stuff. And everyone else's solo stuff as it comes up.
 {: .interviewee }
 
-I play in all those bands even though they're mostly comprised of the same 8 or so people. It keeps me pretty busy and I teach music lessons on Skype. I have a YouTube channel and I make instructional videos as well as music videos. Private videos are just stupid running around and screaming. I've got about a dozen of those.
+I play in all those bands even though they're mostly comprised of the same 8 or so people. It keeps me pretty busy and I teach music lessons on Skype. I have [a YouTube channel](https://www.youtube.com/c/benlevin) and I make instructional videos as well as music videos. Private videos are just stupid running around and screaming. I've got about a dozen of those.
 {: .interviewee }
 
 A: Are those creatively done or are they more improvisational?
@@ -77,6 +77,8 @@ A: Are those creatively done or are they more improvisational?
 
 B: Oh, that's a good question. Well, they're usually outtakes that I enjoy that I keep from when I'm trying to do something serious. Before I start filming an instructional video, when you're making an instructional video or anything that you're going to put on YouTube, I have no idea who I'm actually talking to and there's so many ways to interpret a person, so I think one of the safest ways to be inclusive when you're making a video is to be happy just because, as long as you're genuinely having fun, people can see that and at least they understand that you're not resentful of the moment that you're trying to bring them into. It's more fun to be in it.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/7gwyVnft0OY" frameborder="0" allowfullscreen></iframe></div>
 
 So, before I start recording, I'll often be like HA-BLEE-DOO-LA-HOOGLAH-HEYGLUH-HOGLAH-HUNGAH! Or I'll scream profanity or I'll make up funny little phrases that are usually not too offensive, but it's hard to think of one. They just kind of come. So, that gets caught on camera and then sometimes I think it's funny.
 {: .interviewee }
@@ -105,12 +107,14 @@ Then I've got Ben Levin Group, which is music that I write, but ultimately I giv
 And then Bent Knee is the ultimately democratic musical experience where everybody is equally involved in the music and the band is very familial in that way. There's no leader. So, that's the advantage of many bands with the same people.
 {: .interviewer }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/9s7XwPw4Ie4" frameborder="0" allowfullscreen></iframe></div>
+
 BAD EDIT.
 
 A: That's great. How did you guys initially get together?
 {: .interviewer }
 
-B: We mostly met at Berklee College of Music. I'm in this band, That One-Eyed Kid, with someone I went to high school with. His name is Josh Friedman and he literally has one eye and that's why the band's called that. You'll see him in a lot of my videos playing with me. I've been playing with him for a long time and then it made sense that when I went to college in Boston, I went to Berklee and he went to BU, and so we continued playing together and he's been in Ben Levin Group since its second year. It formed in 2007 and he's been in it since 2008 and we were in bands throughout high school.
+B: We mostly met at [Berklee College of Music](http://berklee.edu). I'm in this band, That One-Eyed Kid, with someone I went to high school with. His name is Josh Friedman and he literally has one eye and that's why the band's called that. You'll see him in a lot of my videos playing with me. I've been playing with him for a long time and then it made sense that when I went to college in Boston, I went to Berklee and he went to BU, and so we continued playing together and he's been in Ben Levin Group since its second year. It formed in 2007 and he's been in it since 2008 and we were in bands throughout high school.
 {: .interviewee }
 
 Everyone else I met through Berklee, pretty much. We all kind of started in Ben Levin Group to some capacity, like the violinist from Bent Knee, Chris and I met through Ben Levin Group. Courtney saw us at a Ben Levin Group show and then we started collaborating Bent Knee from that. Josh, the one-eyed kid guy, he's in Ben Levin Group. Gavin, the drummer in Bent Knee, in Ben Levin Group. Just a lot of people. Everyone had something to do with the Ben Levin Group.
@@ -125,7 +129,7 @@ I think it's a maturity thing where you're able to, at a certain age or a certai
 But then collaborating in college is only slightly easier. But then when you graduate from music school, a few years after you graduate, people start getting pretty good at music and pretty good at life, too. They start figuring out who they are for real and then you can start saying, "Hey, I have an idea for this, but this person always has great ideas and they might be better than mine and I actually want to hear them." That's why it took me so long to enter a fully collaborative project like Bent Knee and it's why Ben Levin Group was the first thing that happened because you've got a lot of hunger to make albums, but you don't necessarily trust that everyone's going to do a great job unless you tell them what to do.
 {: .interviewee }
 
-A: Right. I just interviewed Jeff Berlin a few weeks ago and he was talking a lot about music education and schools like Berklee. You ended up being a very creative person. Do you feel that your music education or the experience you had at Berklee ended up forming that or just educating it or opening/expanding horizons? All of the above? How did that experience help you as a musician?
+A: Right. [I just interviewed Jeff Berlin](/interview/jeff-berlin) a few weeks ago and he was talking a lot about music education and schools like Berklee. You ended up being a very creative person. Do you feel that your music education or the experience you had at Berklee ended up forming that or just educating it or opening/expanding horizons? All of the above? How did that experience help you as a musician?
 {: .interviewer }
 
 B: It helped me to be more creative and find my own voice because what happened was at Berklee, it's sort of like an all-you-can-eat buffet of every kind of musical style, but there's not enough time to really get 100% amazing authentic experience out of any one of them. So, unlike other music schools, where I think you can be completely focused on classical or jazz or one thing like that, and then become a true expert at that one field, I think Berklee's advantage is it gives people a chance to try everything and get pretty good at everything. There are people who get great at one thing there, too, but I think generally speaking, it's a lot more of an experimental school to go to.
@@ -133,6 +137,8 @@ B: It helped me to be more creative and find my own voice because what happened 
 
 You try things out a lot. What that does is, because you're surrounded by musicians and because you can try any kind of music you want at any time any semester, you get burned out on--well, not burned out, but you go through the process of trying and forming opinions about directions very quickly. So, I think it might have taken me maybe twice as long to discover that I even cared about bluegrass if I hadn't gone to a place that provides bluegrass and metal because I wouldn't have gotten my metal kick properly fed. I really wanted to learn some metal, that was there. I wanted to learn some jazz, that was there. I wanted to learn some bluegrass and that was there. I wanted to learn Middle Eastern music and that was there.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/KBZRhlrPnTQ" frameborder="0" allowfullscreen></iframe></div>
 
 And so this whole phase of just figuring out what I like and trying things was accelerated that way and I don't think it ever truly ends, but what happens is I think when you're in music school you make music that's about learning music. So, I'm interested in this style and I want to make music in this style and so you try it. People do this all the time. It's like, "Oh, I really like Michael Jackson, I want to make pop like he does." So, you try to make a bluegrass song and, "What if I try to mix bluegrass with jazz?" Everyone does that! Mix this and mix that and mix this and mix that.
 {: .interviewee }
@@ -379,6 +385,8 @@ It's really influenced by the Nick Cave album, *Push the Sky Away*. He's got alb
 
 I have an album called *Freak Machine* and that was the first time I did that kind of thing. The whole thing is sung by Courtney, the girl from Bent Knee who sings. She sings, "My heart says no but my cock says yes" in the first song and she says it with all her might. My mom was like, "Can't you say, 'My heart says no but my *thing* says yes?'" That was the only time I think it ever came up that way, but they immediately, once they heard the finished thing, they understood why.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/5t0ex229Pkk" frameborder="0" allowfullscreen></iframe></div>
 
 I think they love music too and they love books and they're in the science and medicine field, so they're not making music, but they love all that stuff and they understand that's what part of music's for. I don't get crap from them, but this one music video I made for *Freak Machine*, in the climax, my pal who stars in it shits out a rainbow and he gets smothered with a pillow that's a monkey's head. There's a bunch of orgy stuff. There's tons of blood. It's really gruesome. It's appropriately gruesome.
 {: .interviewee }
