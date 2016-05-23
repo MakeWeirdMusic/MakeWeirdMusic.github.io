@@ -9,9 +9,9 @@ category: interview
 permalink: /interview/ben-levin/
 oneliner: Guitarist, rapper, artist, programmer, creative genius from Bent Knee.
 seo_description: Ben Levin is the guitarist from Bent Knee. He is nice and fun. He has an interesting take on things.
-seo_keywords: steve vai
+seo_keywords: steve vai, bent knee, kendrick lamar, that one eyed kid, courtney swain, berklee, prog, rock
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 
 ---
@@ -48,7 +48,7 @@ Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbs
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Y0N3UY6VAS4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/QDKqyIamUJ0?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 PODCAST AUDIO COMING SOON!
 
