@@ -47,8 +47,6 @@ Weeks after some inquiries, I was able to get an interview set up, but Homer was
 
 **[Don't know who The Residents are? Check out our intro video and article!](/discover/the-residents)**
 
-This interview was conducted on Monday, April 11, 2016 at 9PM AZ.
-
 <!--
 ## Interview Audio (Podcast)
 
