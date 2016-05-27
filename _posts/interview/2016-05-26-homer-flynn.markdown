@@ -12,7 +12,7 @@ oneliner: Take a deeper look inside the top-hat-wearing eyeballs.
 seo_description: Homer Flynn is the manager and visual designer for The Residents.
 seo_keywords: weird, snakefinger, molly savage, fred frith, nolan cook, jay clem, hardy fox, john kennedy,
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 
 ---
@@ -27,7 +27,7 @@ Special thanks to Caustic Casey, [purveyor of Hellish Foods&nbsp;<i class="non-m
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/QDKqyIamUJ0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rj1dezLkIfI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 PODCAST AUDIO COMING SOON!
 
