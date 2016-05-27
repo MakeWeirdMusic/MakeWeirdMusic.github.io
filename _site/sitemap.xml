@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.makeweirdmusic.com/interview/homer-flynn/</loc>
+    <lastmod>2016-05-18T12:14:46-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.makeweirdmusic.com/interview/ben-levin/</loc>
     <lastmod>2016-05-18T12:14:46-07:00</lastmod>
   </url>
@@ -193,11 +197,11 @@
     <lastmod>2015-03-28T12:14:46-07:00</lastmod>
   </url>
   <url>
-    <loc>http://www.makeweirdmusic.com/discover/carl-king/</loc>
+    <loc>http://www.makeweirdmusic.com/interview/carl-king/</loc>
     <lastmod>2015-02-17T12:14:46-07:00</lastmod>
   </url>
   <url>
-    <loc>http://www.makeweirdmusic.com/interview/carl-king/</loc>
+    <loc>http://www.makeweirdmusic.com/discover/carl-king/</loc>
     <lastmod>2015-02-17T12:14:46-07:00</lastmod>
   </url>
   <url>
