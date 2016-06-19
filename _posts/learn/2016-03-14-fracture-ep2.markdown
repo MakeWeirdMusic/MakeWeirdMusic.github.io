@@ -29,7 +29,11 @@ More importantly, he made a recommendation that, for some reason, took me years 
 
 Here is the video to accompany this episode of *Failure to Fracture*.
 
+<!--
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/o4f1POCrKXE" frameborder="0" allowfullscreen></iframe></div>
+-->
+
+VIDEO COMING SOON!
 
 {% include fracture-episodes.html %}
 
