@@ -6,12 +6,12 @@ artist: robbie-seahag
 author: anthony-garone
 image: robbie-seahag
 category: learn
-permalink: /learn/33-in-buffalo
+permalink: /learn/33-in-buffalo/
 oneliner: How the mighty Seahag wrote and performed his epic song 33 in Buffalo.
 seo_description: Learn how to play my favorite Robbie Seahag song.
 seo_keywords: full moon fever
 draft: no
-front_page: no
+front_page: yes
 has_video: yes
 ---
 ## Some Context
