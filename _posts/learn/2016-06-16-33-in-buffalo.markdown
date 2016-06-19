@@ -26,7 +26,7 @@ After I posted the [Steve Vai interview](/interview/steve-vai), MWM started gett
 
 ## Soundslice Notation and Tablature
 
-Living sheet music brought to you by [Soundslice](http://soundslice.com). Wanna know more? Check out our interview with Soundslice co-creator, [Adrian Holovaty](/gear/soundslice)
+Living sheet music brought to you by [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com). Wanna know more? Check out [our interview with Soundslice co-creator, Adrian Holovaty](/gear/soundslice)
 
 <iframe src="https://www.soundslice.com/scores/46301/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
 
@@ -38,7 +38,7 @@ Ant: This is Anthony with Make Weird Music and I'm here with Robbie Seahag Manga
 Robbie: Hi.
 {: .interviewee }
 
-A: And, Robbie, why don't you tell us about what you're going to show us from your album, [*Full Moon Fever*](http://treb-c-moon.wix.com/fullmoonfever).
+A: And, Robbie, why don't you tell us about what you're going to show us from your album, [*Full Moon Fever*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://treb-c-moon.wix.com/fullmoonfever).
 {: .interviewer }
 
 R: Okay. As you've requested to see about *33 in Buffalo*... The number 33 actually has to do with the time signature of that whole riff. So it's 10 notes, then another 10, then another 10, and then 3. So we got 33.
@@ -65,14 +65,16 @@ R: I play all day at home. Not all day, but there's a guitar in a stand and the 
 A: Oh, that's cool.
 {: .interviewer }
 
-R: And also, it has a lot to do with the [Close Encounters theme](close encounters theme disco). It's also influenced by a Jaco Pastorius song.
+R: And also, it has a lot to do with the [Close Encounters theme&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind#Soundtrack). It's also influenced by a [Jaco Pastorius&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jaco_Pastorius) song.
 {: .interviewee }
 
 A: Oh, which one?
 {: .interviewer }
 
-R: It's off his first solo record. It's the one with the harmonics. I can't remember the name.
+R: It's off [his first solo record&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jaco_Pastorius_(album)). It's the one with the harmonics. I can't remember the name.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/v_kv_UjIM7Y?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 A: It's a girl's name, right?
 {: .interviewer }
