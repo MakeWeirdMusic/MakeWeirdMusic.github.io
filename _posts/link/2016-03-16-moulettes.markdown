@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: external
 title: New Singles from Moulettes
 date:   2016-03-16 12:14:46
 artist: moulettes
@@ -9,5 +9,6 @@ oneliner: Listen for free to new music from the fantastic UK folk band. Great st
 front_page: yes
 draft: no
 icon: fa-music
-permalink: http://www.folkradio.co.uk/2016/03/premiere-moulettes-preternatural/
+permalink: /link/moulettes-preternatural-singles/
+external_url: http://www.folkradio.co.uk/2016/03/premiere-moulettes-preternatural/
 ---

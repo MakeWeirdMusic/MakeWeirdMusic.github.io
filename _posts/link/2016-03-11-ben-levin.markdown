@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: external
 title: Ben Levin Mind-Melting
 date:   2016-03-11 12:14:46
 artist: ben-levin
@@ -9,5 +9,6 @@ oneliner: I've been listening to this album for a couple days now. Wild, amazing
 front_page: yes
 draft: no
 icon: fa-music
-permalink: http://benlevingroup.bandcamp.com
+permalink: /link/ben-levin-group/
+external_url: http://benlevingroup.bandcamp.com
 ---

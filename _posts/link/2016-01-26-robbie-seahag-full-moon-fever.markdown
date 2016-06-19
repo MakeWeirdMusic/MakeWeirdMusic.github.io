@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: external
 title:  Robbie Seahag "Full Moon Fever"
 date:   2016-01-31 19:14:46
 artist: robbie-seahag
@@ -9,5 +9,6 @@ oneliner: Do yourself a favor and buy this CD. Robbie is a great player, a great
 front_page: yes
 draft: no
 icon: fa-music
-permalink: http://treb-c-moon.wix.com/fullmoonfever
+permalink: /link/robbie-seahag-full-moon-fever/
+external_url: http://treb-c-moon.wix.com/fullmoonfever
 ---
