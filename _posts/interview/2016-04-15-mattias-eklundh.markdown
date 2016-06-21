@@ -32,15 +32,13 @@ Below is our interview with the hilarious Swede, Mattias IA Eklundh.
 
 This interview was conducted on Friday, February 12, 2016 at 5AM AZ.
 
-<!--
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3" controls preload="none" /></p>
+<p><audio src="http://audio.makeweirdmusic.com/interview/mattias-eklundh.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3).
--->
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/mattias-eklundh/mattias-eklundh.mp3).
 
 ## Interview video
 

@@ -30,6 +30,14 @@ Living sheet music brought to you by [Soundslice&nbsp;<i class="non-mwm fa fa-ex
 
 <iframe src="https://www.soundslice.com/scores/46301/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
 
+## Interview Audio (Podcast)
+
+Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
+
+<p><audio src="http://audio.makeweirdmusic.com/learn/33-in-buffalo/33-in-buffalo.mp3" controls preload="none" /></p>
+
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/learn/33-in-buffalo/33-in-buffalo.mp3).
+
 ## Video Transcript
 
 Ant: This is Anthony with Make Weird Music and I'm here with Robbie Seahag Mangano.
