@@ -180,6 +180,8 @@ T: Um, I was sort of like up and down the coast of Florida. I think the most nor
 A: How long were you in Florida?
 {: .interviewer }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/H_gNrf6-5uA?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 T: About 5 years. Yeah. I took a gig with this band [Rare Silk&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Rare_Silk). They were like the weird [Manhattan Transfer&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/The_Manhattan_Transfer). They got a Grammy nomination, and they were really a creative band. I toured with them with [Rick Ferbrache](sp?) (????)- bass player and [Olbin Burgos&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.umdrums.com/2015/08/16/olbin-burgos/), who played drums for the [Miami Sound Machine&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://thesoundmachine.net) for a long time
 and this amazing producer from Miami - [Lester Mendez&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://lestermendez.flavors.me/) (https://en.wikipedia.org/wiki/Lester_Mendez), keyboard player. We were their band, and we toured for about a year, then we all quit [laughs].
 {: .interviewee }
@@ -235,6 +237,8 @@ T: Yeah.
 A: So what about your own composition and obviously, like [Loopestra]  (http://www.cdbaby.com/cd/teddykumpel) you have going on now... Your own music?
 {: .interviewer }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/PDnftXsCwsQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 T: Yeah, it's my own music. Composition-wise, started composing, and I would say when I was in high school I was writing instrumental rock tunes. Then in Miami, I started writing a lot more, branching out, writing lyrics, and putting together little productions of things on a 4-track recorder, trying to figure out how to do that. Then I had a band in the early 90s called [Nome Sane?&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.cdbaby.com/cd/nomesane) with [Tony Scherr&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://tonyscherr.com/), who's the bass player for [Bill Frisell&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://billfrisell.com) and [Andy Middleton&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.andymiddleton.com/), who's an amazing sax player, and [Brian Dunne&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.briandunnedrums.com/) who's the drummer for [Hall and Oates&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.hallandoates.com/) now.
 {: .interviewee }
 
@@ -276,6 +280,8 @@ T: Because <span class="important">I know how to craft something into something 
 
 A: Who are some of the weird influences that you've got?
 {: .interviewer }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/4tKq1kc1RKk?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 T: Oh man, well weird influences.. let's see. That's a good question. I listened to a lot of early [Bill Frisell - Rambler&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Rambler_%28Bill_Frisell_album%29). That album where they had 2 brass instruments. He had [Kenny Wheeler&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kenny_Wheeler) on flugelhorn and he had tuba player and he had electric bass and him and the drummer so like... high and low strings and high and low brass and a drummer. I like that.
 {: .interviewee }
@@ -327,6 +333,8 @@ A: Awesome show in New York.
 
 T: Yeah. I love Mark. Mark has done The Loopestra.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Z4l0QmP8cks?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 A: That's right! Yeah, I wanted to ask you about that. So the Loopestra - how did that get started? Did you first with the electronics, and get an idea, or...
 {: .interviewer }
@@ -438,6 +446,8 @@ T: Well... that's an interesting point, because it can get self indulgent if a d
 
 However, if the drummer decides that he's going to be Mr. Pay-attention-to-the-room, look around, see who's holding their ears, every dynamic, super groove oriented, sometimes a little bit spicy, weird for taste, then the ladies will hang. [laughs]
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/0Xzm0ON4iDo?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 A: And your gigs are... I mean I watched one at the Smithtown public library. I was born in Smithtown, so it was like, "oh!".... and my aunt  does a lot of political work there.
 {: .interviewer }
@@ -571,6 +581,8 @@ T: I used to play kazoo or sing some stuff into the looper. I like that. It can 
 A: Yeah. Do you ever, or are you inspired by any particular people doing looping?
 {: .interviewer }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/UXyHf_SpUUI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 T: The most inspiring guy to me is the guy who does this most simplest and the most one-man band, which is [Reggie Watts&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://reggiewatts.com). He is so good. The guy.. just his feel, like how he can make something quarter notes so amazing. I'm a huge fan of him.
 {: .interviewee }
 
@@ -655,6 +667,8 @@ A: That must have been fun.
 T: You know, I grew up listening to her, and I think kind of learned how to sing from her. So for me, it was a really spiritual experience to be with her and sing backgrounds with her and she liked my singing. She was really nice to me about that. But then right after that she went on to do another kind of project that she had a band up in California for, so we lost touch. But, yeah, I really enjoyed playing with her. She's great - really freaky, kind of free-spirit.. yeah. I did a background vocals gig for [Nine Inch Nails&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.nin.com/) once, that was pretty amazing.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/chNPM-rUCwI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 A: In studio, or live?
 {: .interviewer }
 
@@ -684,6 +698,8 @@ T: Yeah, amazing. I did a lot of playing with this guy, [Chris Brown&nbsp;<i cla
 
 A: Great name!
 {: .interviewer }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/2g77t_CnYM8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 T: That band, became [Broken Social Scene&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.brokensocialscene.ca/), so Chris and Kate split off as their own thing, and the rest of the people kind of went on to be involved with Broken Social Scene, which is where Feist came from.
 {: .interviewee }
@@ -743,6 +759,8 @@ T: Brace for it! [laughs]
 {: .interviewee }
 
 A: The word "weird" in Make Weird Music is more about that, like finding your voice, and realizing that you're not someone else, musically - that if you're trying to be somebody else, then you're not being weird. Everyone's weird. Can you tell me your take on "weird" and why we're here? {: .interviewer }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/e1BiSGOOuR4?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 T: [Dave Liebman&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dave_Liebman), you know who that is? Saxophone player? Played with [Miles&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Miles_Davis), really amazing teacher and player. I was lucky enough to sit in on one of his saxophone clinics for Dave, because I drove my friend there, and he said something that blew me away. He said that there's 3 stages... real New York guy, (*in New York accent*,) <span class="important">"3 stages to every musician's career. You've got imitator, everybody starts at imitating - gotta do it. 2nd stage. Stylist. You became yourself within a style of music. Very good for you. 3rd stage. Innovator - nobody gets there. Couple of guys."</span>
 {: .interviewee }
