@@ -1,3 +1,13 @@
+phish:
+  name: Phish
+  website: http://phish.com
+  twitter: http://www.twitter.com/phish
+  facebook: https://www.facebook.com/phish
+  youtube: http://www.youtube.com/user/phish
+  instagram: https://www.instagram.com/phish/
+  itunes: https://itunes.apple.com/us/artist/phish/id153159
+  wikipedia: https://en.wikipedia.org/wiki/Phish
+  spotify: https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz
 teddy-kumpel:
   name: Teddy Kumpel
   website: http://teddyjam.com/teddyjam/Welcome.html
@@ -6,6 +16,7 @@ teddy-kumpel:
   itunes: https://itunes.apple.com/us/artist/teddy-kumpel/id1978543
   facebook: https://www.facebook.com/TeddyKumpel
   bandcamp: http://teddyjam.bandcamp.com
+  spotify: https://open.spotify.com/artist/6gCWxVfFiEBM3qGVT1iIMz
 robbie-seahag:
   name: Robbie Seahag
   website: http://www.robbieseahagmusic.com/
