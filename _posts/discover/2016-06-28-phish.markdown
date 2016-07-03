@@ -9,8 +9,10 @@ category: discover
 permalink: /discover/phish/
 oneliner: Phish is so much more than a jam band. They break the mold in every way.
 seo_description: Learn more about this improvisation-focused rock quartet from Vermont.
-seo_keywords: 
+seo_keywords:
 front_page: yes
+draft: yes
+has_video: no
 ---
 
 ## A LITTLE ABOUT PHISH
