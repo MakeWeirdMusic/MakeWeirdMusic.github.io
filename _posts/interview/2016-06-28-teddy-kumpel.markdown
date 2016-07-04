@@ -248,7 +248,7 @@ T: Nome Sane? [You can find that on iTunes&nbsp;<i class="non-mwm fa fa-external
 A: Oh cool.
 {: .interviewer }
 
-T: It has a question mark at the end. Nome Sane, question mark. We did some touring. We played in Europe. We had a really good time, and I think <span class="important">I learned a lot about being a bandleader from doing that for pretty strong personalities</span>, trying to figure that out. It's good, and then as time went on, people kind of drifted off and we disbanded, and I started writing a lot of pop songs. So I wrote a lot of pop songs with some artists who got signed and I got a publishing deal with EMI.
+T: It has a question mark at the end. Nome Sane, question mark. We did some touring. We played in Europe. We had a really good time, and I think <span class="important">I learned a lot about being a bandleader from doing that for four strong personalities</span>, trying to figure that out. It's good, and then as time went on, people kind of drifted off and we disbanded, and I started writing a lot of pop songs. So I wrote a lot of pop songs with some artists who got signed and I got a publishing deal with EMI.
 {: .interviewee }
 
 A: Oh cool.
@@ -381,7 +381,7 @@ T: I don't even think about it. I just go on stage and sort of go, "Ok, what son
 A: We didn't actually say what the Loopestra was! We didn't talk about it. What IS the Loopestra, and how do you tell people about it?
 {: .interviewer }
 
-T: <span class="important">The Loopestra is a band that has a rotating cast, and rotating guitar parts</span> [laughs] via loopers. So the way it works is, you get a couple of people playing bass and drums. You get a looper, you make a loop. The drummer goes, "Oh, I know what to play with that." He does it, and then the bass player says, "Oh I don't really like that chord. I'm going to play something totally to make it into another chord." Hopefully he'll do that.
+T: <span class="important">The Loopestra is a band that has a rotating cast, and rotating guitar parts</span> [laughs] via loopers. So the way it works is, you get a couple of people playing bass and drums. You get a looper, you make a loop. The drummer goes, "Oh, I know what to play with that." He does it, and then the bass player says, "Oh I don't really like that chord. I'm going to play something totally to wrong make it into another chord." Hopefully he'll do that.
 {: .interviewee }
 
 A: Yeah. I watched one of your gigs. Most of them are on [your Youtube channel](https://www.youtube.com/user/TeddyKumpel). Or many of them... I don't know.
@@ -434,7 +434,7 @@ A: I love that, oh man, that's good... and what about audiences?
 T: Well... that's an interesting point, because it can get self indulgent if a drummer, let's say, decides that he's going to be Mr. Odd-time-weirdo-loud-non-dynamic-guy, the ladies in the audience would not be happy.
 {: .interviewee }
 
-However, if the drummer decides that he's going to be Mr. Pay-attention-to-the-room, look around, see who's holding their ears, every dynamic, super groove oriented, sometimes a little bit spicy, weird for taste, then the ladies will hang. [laughs]
+However, if the drummer decides that he's going to be Mr. Pay-attention-to-the-room, look around, see who's holding their ears, very dynamic, super groove oriented, sometimes a little bit spicy, weird for taste, then the ladies will hang. [laughs]
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/0Xzm0ON4iDo?rel=0" frameborder="0" allowfullscreen></iframe></div>
