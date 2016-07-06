@@ -6,8 +6,8 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jul 2016 21:36:58 -0700</pubDate>
-    <lastBuildDate>Tue, 05 Jul 2016 21:36:58 -0700</lastBuildDate>
+    <pubDate>Tue, 05 Jul 2016 22:45:58 -0700</pubDate>
+    <lastBuildDate>Tue, 05 Jul 2016 22:45:58 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -20,39 +20,23 @@
 
 &lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
 
-&lt;!--
-Here&#39;s a video of the interview:
+&lt;p&gt;Here’s a video of the interview:&lt;/p&gt;
 
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Rj1dezLkIfI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
---&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hZTfDQvzNbw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;VIDEO AND PODCAST AUDIO COMING SOON!&lt;/p&gt;
+&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
 
-&lt;!--
-## Interview Audio (Podcast)
+&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-Here&#39;s audio of the interview (NOTE: hitting the &quot;play&quot; button requires a hefty download of the entire audio file!).
+&lt;p&gt;&lt;audio src=&quot;http://audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;http://audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3&quot; controls preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-Or, [download an mp3&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;](http://audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3).
---&gt;
+&lt;p&gt;Or, &lt;a href=&quot;http://audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;some-context&quot;&gt;Some Context&lt;/h2&gt;
 
 &lt;p&gt;I’d never heard of Teddy Kumpel before Julie recommended I interview him. itu&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://teddyjam.com&quot;&gt;Don’t know who Teddy Kumpel is? Check out his website! &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;!--
-## Interview Audio (Podcast)
-
-Here&#39;s audio of the interview (NOTE: hitting the &quot;play&quot; button requires a hefty download of the entire audio file!).
-
-&lt;p&gt;&lt;audio src=&quot;http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3&quot; controls preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-Or, [download an mp3&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;](http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3).
---&gt;
 
 &lt;h2 id=&quot;interview-transcript&quot;&gt;Interview transcript&lt;/h2&gt;
 
@@ -503,7 +487,7 @@ and this amazing producer from Miami, &lt;a href=&quot;https://en.wikipedia.org/
 
 &lt;p class=&quot;interviewee&quot;&gt;T: Right.&lt;/p&gt;
 
-&lt;p class=&quot;interviewer&quot;&gt;A: Do you feel like that you’ve found yourself musically a long time ago, or is that been fairly recent?&lt;/p&gt;
+&lt;p class=&quot;interviewer&quot;&gt;A: Do you feel like that you found yourself musically a long time ago, or has that been fairly recent?&lt;/p&gt;
 
 &lt;p class=&quot;interviewee&quot;&gt;T: I think by the early 90s, I was fairly well in myself, yeah. I’ve learned how to do that better over the years and &lt;span class=&quot;important&quot;&gt;I think playing with other people and being a side man helps me find my voice within other music, which helps me find my own voice within my music too, you know. So they all kind of go hand in hand.&lt;/span&gt; There’s no real one moment when I said, “Oh yeah, now I’m who I’m supposed to be.”&lt;/p&gt;
 
@@ -511,7 +495,7 @@ and this amazing producer from Miami, &lt;a href=&quot;https://en.wikipedia.org/
 
 &lt;p class=&quot;interviewee&quot;&gt;T: I know people who’ve had that and I’m always like, “Wow.” Sometimes through drugs and I’m like, “Wow, well, I’m glad I didn’t have to do THAT to get there!”&lt;/p&gt;
 
-&lt;p class=&quot;interviewer&quot;&gt;A: Yeah, no kidding. What about relaxation? What makes you emphasize that as your key points?&lt;/p&gt;
+&lt;p class=&quot;interviewer&quot;&gt;A: Yeah, no kidding. What about relaxation? What makes you emphasize that as one of your key points?&lt;/p&gt;
 
 &lt;p class=&quot;interviewee&quot;&gt;T: &lt;span class=&quot;important&quot;&gt;I think when your mind is focused and relaxed, you can let more of yourself through&lt;/span&gt;, you know. You’re not uptight about what’s going to happen, or pre-thinking what’s going to happen, necessarily, even if it’s set music, if it’s something that’s pre-decided or prearranged, you’ve got to be in the moment. You can’t be thinking, “Oh, here it comes! That part… oh geez! [laughs] &lt;em&gt;makes Groan noise&lt;/em&gt;”&lt;/p&gt;
 
@@ -519,11 +503,11 @@ and this amazing producer from Miami, &lt;a href=&quot;https://en.wikipedia.org/
 
 &lt;p class=&quot;interviewee&quot;&gt;T: Brace for it! [laughs]&lt;/p&gt;
 
-&lt;p&gt;A: The word “weird” in Make Weird Music is more about that, like finding your voice and realizing that you’re not someone else, musically - that if you’re trying to be somebody else, then you’re not being weird. Everyone’s weird. Can you tell me your take on “weird” and why we’re here? {: .interviewer }&lt;/p&gt;
+&lt;p class=&quot;interviewer&quot;&gt;A: The word “weird” in Make Weird Music is more about that, like finding your voice and realizing that you’re not someone else, musically - that if you’re trying to be somebody else, then you’re not being weird. Everyone’s weird. Can you tell me your take on “weird” and why we’re here?&lt;/p&gt;
 
 &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/e1BiSGOOuR4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p class=&quot;interviewee&quot;&gt;T: &lt;a href=&quot;https://en.wikipedia.org/wiki/Dave_Liebman&quot;&gt;Dave Liebman &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, you know who that is? Saxophone player? Played with &lt;a href=&quot;https://en.wikipedia.org/wiki/Miles_Davis&quot;&gt;Miles Davis &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, really amazing teacher and player. I was lucky enough to sit in on one of his saxophone clinics for Dave, because I drove my friend there and he said something that blew me away. He said that there’s 3 stages… real New York guy, (&lt;em&gt;in New York accent&lt;/em&gt;,) &lt;span class=&quot;important&quot;&gt;“3 stages to every musician’s career. You’ve got imitator, everybody starts at imitating - gotta do it. 2nd stage. Stylist. You became yourself within a style of music. Very good for you. 3rd stage. Innovator - nobody gets there. Couple of guys.”&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;interviewee&quot;&gt;T: &lt;a href=&quot;https://en.wikipedia.org/wiki/Dave_Liebman&quot;&gt;Dave Liebman &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, you know who that is? Saxophone player? Played with &lt;a href=&quot;https://en.wikipedia.org/wiki/Miles_Davis&quot;&gt;Miles Davis &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, really amazing teacher and player. I was lucky enough to sit in on one of his saxophone clinics for Dave, because I drove my friend there and he said something that blew me away. He said that there’s 3 stages… real New York guy, (&lt;em&gt;in New York accent&lt;/em&gt;,) &lt;span class=&quot;important&quot;&gt;“3 stages to every musician’s career. You’ve got imitator, everybody starts out imitating - gotta do it. 2nd stage. Stylist. You became yourself within a style of music. Very good for you. 3rd stage. Innovator - nobody gets there. Couple of guys.”&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;interviewee&quot;&gt;So like.. wow, that’s brilliant and sort of like encapsulates the whole thing, you know. I’d be happy to be myself within a style of music, whatever that style is. I guess my style is sort of incorporating a lot of styles together, which you’d like to think it makes a new style, but really it’s a bunch of things mixed together. So, it’s up to the critics to decide if it’s a new style or not, I suppose. Did I answer your question? [laughs]&lt;/p&gt;
 
@@ -547,7 +531,7 @@ and this amazing producer from Miami, &lt;a href=&quot;https://en.wikipedia.org/
 
 &lt;p class=&quot;interviewee&quot;&gt;T: Alright! Thanks Conan!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 28 Jun 2016 12:14:46 -0700</pubDate>
+        <pubDate>Tue, 05 Jul 2016 12:14:46 -0700</pubDate>
         <link>http://www.makeweirdmusic.com/interview/teddy-kumpel/</link>
         <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/teddy-kumpel/</guid>
         

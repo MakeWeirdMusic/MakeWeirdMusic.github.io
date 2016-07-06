@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teddy Kumpel Interview
-date:  2016-06-28 19:14:46
+date:  2016-07-05 19:14:46
 artist: teddy-kumpel
 author: anthony-garone
 image: teddy-kumpel
@@ -11,7 +11,7 @@ oneliner: Living on the edge with a different band every gig.
 seo_description: Teddy is Joe Jackson's guitarist and runs the Loopestra.
 seo_keywords: Joe Jackson, Loopestra, Rickie Lee Jones, Blue Mouth Promotions, brooklyn, guitarist, andy timmons
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 
 ---
@@ -24,23 +24,17 @@ Also special thanks to Lucas Lee for doing the transcription of this interview! 
 
 ## Interview video
 
-<!--
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rj1dezLkIfI?rel=0" frameborder="0" allowfullscreen></iframe></div>
--->
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/hZTfDQvzNbw?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-VIDEO AND PODCAST AUDIO COMING SOON!
-
-<!--
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="http://audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3" controls preload="none" /></p>
+<p><audio src="http://audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3).
--->
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3).
 
 ## Some Context
 
@@ -48,18 +42,7 @@ I'd never heard of Teddy Kumpel before Julie recommended I interview him. itu
 
 **[Don't know who Teddy Kumpel is? Check out his website!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://teddyjam.com)**
 
-<!--
-## Interview Audio (Podcast)
-
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3).
--->
-
 ## Interview transcript
-
 
 A: Hi this is Anthony from MakeWeirdMusic.com and I am here with [Teddy Kumpel&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://teddyjam.com), guitarist for [Joe Jackson&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://joejackson.com/) and man of many musical adventures.
 Teddy, can you tell us about yourself, and your formation as a musician?
@@ -721,7 +704,7 @@ A: Absolutely! Yeah. You study technique. You study other people's music, but th
 T: Right.
 {: .interviewee }
 
-A: Do you feel like that you've found yourself musically a long time ago, or is that been fairly recent?
+A: Do you feel like that you found yourself musically a long time ago, or has that been fairly recent?
 {: .interviewer }
 
 T: I think by the early 90s, I was fairly well in myself, yeah. I've learned how to do that better over the years and <span class="important">I think playing with other people and being a side man helps me find my voice within other music, which helps me find my own voice within my music too, you know. So they all kind of go hand in hand.</span> There's no real one moment when I said, "Oh yeah, now I'm who I'm supposed to be."
@@ -733,7 +716,7 @@ A: Yeah.
 T: I know people who've had that and I'm always like, "Wow." Sometimes through drugs and I'm like, "Wow, well, I'm glad I didn't have to do THAT to get there!"
 {: .interviewee }
 
-A: Yeah, no kidding. What about relaxation? What makes you emphasize that as your key points?
+A: Yeah, no kidding. What about relaxation? What makes you emphasize that as one of your key points?
 {: .interviewer }
 
 T: <span class="important">I think when your mind is focused and relaxed, you can let more of yourself through</span>, you know. You're not uptight about what's going to happen, or pre-thinking what's going to happen, necessarily, even if it's set music, if it's something that's pre-decided or prearranged, you've got to be in the moment. You can't be thinking, "Oh, here it comes! That part... oh geez! [laughs] *makes Groan noise*"
@@ -745,11 +728,12 @@ A: "There it went!"
 T: Brace for it! [laughs]
 {: .interviewee }
 
-A: The word "weird" in Make Weird Music is more about that, like finding your voice and realizing that you're not someone else, musically - that if you're trying to be somebody else, then you're not being weird. Everyone's weird. Can you tell me your take on "weird" and why we're here? {: .interviewer }
+A: The word "weird" in Make Weird Music is more about that, like finding your voice and realizing that you're not someone else, musically - that if you're trying to be somebody else, then you're not being weird. Everyone's weird. Can you tell me your take on "weird" and why we're here?
+{: .interviewer }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/e1BiSGOOuR4?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-T: [Dave Liebman&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dave_Liebman), you know who that is? Saxophone player? Played with [Miles Davis&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Miles_Davis), really amazing teacher and player. I was lucky enough to sit in on one of his saxophone clinics for Dave, because I drove my friend there and he said something that blew me away. He said that there's 3 stages... real New York guy, (*in New York accent*,) <span class="important">"3 stages to every musician's career. You've got imitator, everybody starts at imitating - gotta do it. 2nd stage. Stylist. You became yourself within a style of music. Very good for you. 3rd stage. Innovator - nobody gets there. Couple of guys."</span>
+T: [Dave Liebman&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dave_Liebman), you know who that is? Saxophone player? Played with [Miles Davis&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Miles_Davis), really amazing teacher and player. I was lucky enough to sit in on one of his saxophone clinics for Dave, because I drove my friend there and he said something that blew me away. He said that there's 3 stages... real New York guy, (*in New York accent*,) <span class="important">"3 stages to every musician's career. You've got imitator, everybody starts out imitating - gotta do it. 2nd stage. Stylist. You became yourself within a style of music. Very good for you. 3rd stage. Innovator - nobody gets there. Couple of guys."</span>
 {: .interviewee }
 
 So like.. wow, that's brilliant and sort of like encapsulates the whole thing, you know. I'd be happy to be myself within a style of music, whatever that style is. I guess my style is sort of incorporating a lot of styles together, which you'd like to think it makes a new style, but really it's a bunch of things mixed together. So, it's up to the critics to decide if it's a new style or not, I suppose. Did I answer your question? [laughs]
