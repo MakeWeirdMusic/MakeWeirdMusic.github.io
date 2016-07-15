@@ -20,3 +20,6 @@ gems:
 sass:
   style: :compressed
   sass_dir: _sass
+
+paginate: 6
+paginate_path: "/page:num/"

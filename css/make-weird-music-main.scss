@@ -88,6 +88,24 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   background-color: #555;
 }
 
+.menu .paginator {
+  text-align: center;
+}
+
+.menu .paginator a {
+  font-weight: bold;
+}
+
+.menu .paginator p {
+  padding: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu .popular li {
+  margin-bottom: 0;
+}
+
 @media (min-width: 550px) {
   .pane {
     position: absolute;
@@ -193,7 +211,7 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   text-decoration: none;
 }
 
-.info .page-links a:hover {
+.info .page-links a:hover, .menu .paginator a:hover, .menu .popular a:hover {
   border-bottom: 3px solid #d8e0cd;
   border-bottom: 3px solid white;
 }
@@ -702,6 +720,10 @@ img.bg-dark {
     font-size: 500%;
   }
 
+  .menu ul {
+    list-style-type: none;
+  }
+
 }
 
 @media (min-width: 550px) and (max-width: 799px) {
@@ -796,7 +818,7 @@ img.bg-dark {
     display: block;
   }
 
-  .menu a {
+  .menu a, .menu .popular h2 {
     display: block;
     color: #fff;
     text-decoration: none;
