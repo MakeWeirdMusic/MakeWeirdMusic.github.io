@@ -38,9 +38,11 @@ Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](ht
 
 ## Some Context
 
-I'd never heard of Teddy Kumpel before Julie recommended I interview him. itu
+I'd never heard of Teddy Kumpel before Julie recommended I interview him. Once I asked some Facebook friends about him, several chimed in saying they loved what he did. I spent a few hours checking out his incredible and exhaustive YouTube channel featuring his Loopestra, which (as you'll soon find out) is a band with rotating members that perform different arrangements of songs every time Teddy books a gig. It's incredibly creative and I can't even imagine how challenging it must be for Teddy and his compatriots. The only experience I have with this is playing at church, where I never am playing with the same people, but the music isn't typically challenging or terribly diverse.
 
 **[Don't know who Teddy Kumpel is? Check out his website!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://teddyjam.com)**
+
+Once I checked out Teddy and learned more about him, I knew he'd be a great candidate for an MWM interview. Thanks so much to Teddy for letting me spend time with him during a practice day at the beginning of his 2016 tour with Joe Jackson in Scottsdale.
 
 ## Interview transcript
 
