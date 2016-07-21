@@ -20,7 +20,7 @@ has_video: yes
 
 Thanks so much to Julie Cord from [Blue Mouth Promotions&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://bluemouthpromotions.com/) for setting me up with this interview! She and her brother manage a whole bunch of great artists at BMP. Check them out!
 
-Also special thanks to Lucas Lee for doing the transcription of this interview! I love that people want to help with the work of this site. Thank you, Lucas!!
+Also special thanks to [Lucas Lee&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://lucasleemusic.com) for doing the transcription of this interview! I love that people want to help with the work of this site. Thank you, Lucas!!
 
 ## Interview video
 
