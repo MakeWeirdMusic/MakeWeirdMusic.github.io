@@ -12,7 +12,7 @@ oneliner: Our first house concert featuring the incredible Mr. Manring (and Andy
 seo_description: Over 90 minutes of concert footage featuring Michael Manring and Andy West.
 seo_keywords: andy west, dixie dregs, steve morse, joe zawinul, sting, sam cooke, you send me, spirits in the material world, get back, john lennon, beatles, paul mccartney, beethoven, pathetique
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 
 ---
