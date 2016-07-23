@@ -23,6 +23,8 @@ has_video: yes
 
 I'm so excited about this, I don't even know what to say! I'll let this trailer speak for itself. In case you couldn't tell, this concert is available for purchase via YouTube for $20. Michael gets a large share of the revenue and MWM keeps a little so we can keep making this kind of content.
 
+**[Purchase this concert on YouTube.](https://www.youtube.com/watch?v=He96CHvohyk)**
+
 ## SPECIAL THANKS
 
 Thanks so much to Ken Coffman from [Stairway Press&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://stairwaypress.com/) for sponsoring this concert!
