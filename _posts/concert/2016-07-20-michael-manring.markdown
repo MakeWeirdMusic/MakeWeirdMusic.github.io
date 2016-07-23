@@ -23,7 +23,7 @@ has_video: yes
 
 I'm so excited about this, I don't even know what to say! I'll let this trailer speak for itself. In case you couldn't tell, this concert is available for purchase via YouTube for $20. Michael gets a large share of the revenue and MWM keeps a little so we can keep making this kind of content.
 
-**[Purchase this concert on YouTube.](https://www.youtube.com/watch?v=He96CHvohyk)**
+<div class="ad"><strong><a href="https://www.youtube.com/watch?v=He96CHvohyk">Purchase this concert on YouTube.</a></strong></div>
 
 ## SPECIAL THANKS
 
