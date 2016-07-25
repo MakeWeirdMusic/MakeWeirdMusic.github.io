@@ -20,7 +20,7 @@ has_video: yes
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/hZTfDQvzNbw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/s8cqnlbH2jM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
@@ -32,7 +32,7 @@ Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](ht
 
 ## Special Thanks
 
-Special thanks to [Lucas Lee&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://lucasleemusic.com) for doing the transcription of this interview! I love that people want to help with the work of this site. Thank you, Lucas!! [If you'd like to help out with the site, let me know](/support).
+Special thanks to [Lucas Lee&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://lucasleemusic.com) for doing the transcription of this interview! Lucas Lee's studio albums featuring [Pat Mastelotto&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Pat_Mastelotto) ([King Crimson](/discover/king-crimson)) and [Stick Men](https://en.wikipedia.org/wiki/Stick_Men_(prog_band)) with [Tony Levin](https://en.wikipedia.org/wiki/Tony_Levin) and Markus) and [Tobias Ralph&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://tobiasralph.com) (The Crimson ProjeKCt, [Adrian Belew Power Trio](https://en.wikipedia.org/wiki/Adrian_Belew_Power_Trio)) are now both available at CDBaby. I love that people want to help with the work of this site. Thank you, Lucas!! [If you'd like to help out with the site, let me know](/support).
 
 ## Some Context
 
