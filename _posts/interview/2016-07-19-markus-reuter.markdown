@@ -11,7 +11,7 @@ oneliner: Composer, touch guitarist, and ambient musician from Germany
 seo_description: Markus Reuter is a prolific, diverse guitarist, composer, and musician from Berlin, Germany
 seo_keywords:
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 
 ---
@@ -63,6 +63,9 @@ It started, I think, when I was around 9 or 10 years old. Even now at almost 44 
 I think we're at a time now where things start to fuse again. So, there's all the knowledge of rock and the classical, combined with what used to be called punk, the DIY scene and stuff like that--experimental music. I think we're in a post-modern time where experimental music and experiments really do not lead to new results anymore.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe src="https://player.vimeo.com/video/176190677" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/176190677">Susanne Kessel plays: Markus Reuter &quot;His last decade&quot;</a> from <a href="https://vimeo.com/user43222763">Susanne Kessel</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
+
 So <span class="important">what I'm trying to do is fuse, to build a bridge between old knowledge and new technologies--a new knowledge</span>, you could say. But it's really--I could go on talking about it on an abstract level or we can really speak about something specific and I can explain what I mean.
 {: .interviewee }
 
@@ -81,6 +84,8 @@ I think it's the same with a lot of music, especially with looking at the biogra
 A: You talked about vision. You sound more of like an artist using music to manifest that vision than somebody who explicitly chooses music out of a love or adoration for the craft, in a way. Can you talk about how you came to find music to create that reality of your vision?
 {: .interviewer }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/mffn1EfRMy8?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 M: The word "vision" has nothing to do with being visual, you know? It's not something that's represented in the sense of vision and it isn't even represented in the sense of hearing for me. <span class="important">It's really about states of emotions, feelings--and even that doesn't really cover it. It's almost like a sixth sense kind of thing, there is something that I do want to capture.</span> So really, how did I discover that music or sound is the medium? I think the answer is very simple. Sound and vibration is the ultimate medium. It's what the world is made of.
 {: .interviewee }
 
@@ -95,6 +100,8 @@ M: Yeah, I mean... the idea that musical pieces should be structured into sectio
 
 So yes, I have worked with those structures in several projects--things I have produced and also my own projects--and <span class="important">I've come to realize that there's the tendency to edit yourself or to edit the music when you're approaching it like a songwriter because you're asking yourself--because you're telling a story, it means you already know what the story is.</span> That's not my approach to music, that's why my music is so different in its form--I don't know which story you are telling yourself when you're listening to the music I'm making. So I can't be--or I try not to intervene, you know, and kind of cut things down to tell my story--but I want you to be able to hear your story. And that's really where song structures, I think, might work for some people, because you're still making up your own story.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/BEBw4F5HuVI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 <span class="important">But for me, it was just important to kind of let the music speak for itself and for me there's no such thing as too many repetitions.</span> It's really that for me, the music itself--or let's say because I'm basically composing conceptually. So the musical concept tells me what the structure should be, but it's not anything that I'm superimposing as a human being in terms of, "Oh, this means that and this means that," you know? So that's really the reason why.
 {: .interviewee }
@@ -117,6 +124,8 @@ M: So <span class="important">the funny thing is that what I actually said was t
 Just as a human being, we're going through this world as the most advanced pattern-recognition machine that there is ever going to be, probably. So we're walking through this world and we're seeing something. We're hearing something. We're feeling something and we latch onto that and we develop an interest in it. So for me, for example, that was actually the band [King Crimson](/discover/king-crimson), which you know, but it wasn't the music of the bad King Crimson. It was the name. My piano teacher mentioned King Crimson to me and I knew there was something there. I knew there was something behind that name that I needed to follow up on.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/z_dZTUA1qNc?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 Only like 2 years later or so, I discovered the music and it turned out that yes, I was right. So really the pattern recognition--it really extends to, let's just say "between the lines." <span class="important">We're really such amazing beings and we're not aware of it, really.</span> Like the subconscious processes so much and it kind of picks up on vibes, yeah? That's really what I'm very interested in also with my music. Just to kind of feed the subconscious at the same time as the conscious and then I'll try to get the people to get into this state where somehow the gates open, you know, both going inside and going outside.
 {: .interviewee }
 
@@ -134,6 +143,8 @@ M: Anthony, that's a very deep question. It's extremely personal and if you mean
 
 It's really, really simple. I think if we--like all of us, if we look back, there's something that drives us and it's usually something bad, you know? I mean it's like not a lot of people talk about this, because like especially artists and the old model with record companies, you obviously try to keep a distance, so you wouldn't really say these things. But one of my greatest influences is [Mike Oldfield&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Mike_Oldfield) and he has always been very straightforward about what happened in his childhood. He started to ride out real battles when he was six years old or something. Somehow I think that this drive, and this is something that [Freud&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Sigmund_Freud) said we have: the drive to die.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/VpC-JFebpWk?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 <span class="important">So there's this drive to die and somehow, some of us become creators and we are all creators. It's just a continuum. So there's nobody in this world who's not creating but some of us just have this need to do that. I'm just one of them.</span>
 {: .interviewee }
@@ -156,6 +167,8 @@ When I'm talking about music, I'm not necessarily talking about what we consider
 A: Now as I mentioned, this site is for helping people to discover new kinds of music and new artists. You are the first ambient artist--well actually, [Michael Manring](/interview/michael-manring) does ambient as well. But I'd like to ask you specifically about ambient music because you obviously have a lot of deep opinions and thoughts on music and its capabilities. So can you--what turned you onto ambient music and can you describe how ambient music reaches you in a way that's similar to or different to non-ambient music, you know--more standard radio music.
 {: .interviewer }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/aXwoo2Gzl-s?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 M: Well, first of all, I would say that for me, <span class="important">what sounds like ambient music to other people, it's just one particular kind of contemporary music in the sense that it's more concerned with the music than the marketing or the packaging. It's more like classical music than pop music in that sense.</span> The cool thing about ambient music is that it--even though when [Brian Eno&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Brian_Eno) coined the term, the idea was for it to be like a passive listening thing. But with modern--or I'll just say post modern ambient music, it's really music that people actively listen to, you know? You can do anything with that.
 {: .interviewee }
 
@@ -173,6 +186,8 @@ A: What first attracted you to ambient music and did it strike you as appealing 
 
 M: Very much so. I think the first music that I would describe as "ambient music" that I heard was also was by Mike Oldfield from an album called [The Killing Fields&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/The_Killing_Fields_(album)). A soundtrack album and there were just these really short ambient pieces on there. Just maybe a minute or so of really, really weird chords and those fascinated me a lot. It was just this... just the mood to have the sustained sound and you could just kind of zoom in onto the relationships of the notes with each other and it was like a whole world was opening up in just the combination of those static pitches and that's really what was fascinating for me.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Bc4KWsxoBYI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Around the same time, I got into contemporary classical composers of the 20th century, like [Messiaen&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Olivier_Messiaen) and also [David Betford&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/David_Bedford) for example, who is really amazing. Those guys were always doing ambient music but what kind of set it apart and what kind of drew me in I guess was that they were always breaking the boundaries of what people considered to be consonant versus dissonant. <span class="important">And really that's where my interest always was, to teach myself to hear things. To not even fall into this category of saying, "This is dissonant and this is consonant." I'm still kind of in the process of breaking that barrier for myself.</span>
 {: .interviewee }
@@ -204,6 +219,8 @@ A: But I wanted to hear about your side of things and how you found your voice i
 M: OK. <span class="important">So just this concept of your personal voice, I really--I wouldn't use those words, because it's not my voice. It really isn't, because I'd rather consider myself to be like an interface, ok?</span> So the voice is between whatever is there to inspire and the recipient. <span class="important">I'm part of the audience, you know. When I'm playing, I'm listening. That's really actually maybe the wisest thing I can say or you could say to any musician: listen to what you're playing or what you're doing</span>, right? I don't ever question that, but probably it's something that people just don't do.
 {: .interviewee }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/zaF46p-Z8tU?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 So I think that's like <span class="important">if you want to find your own voice, just listen to what you're doing.</span> I guess that's the answer. You know, and it really connects to the question you had earlier, like with looping devices. That's what they do, you know? You play into them and it plays back to you right away, so you're hearing what you did and you have the opportunity to decide for yourself if you, let's say like it, or not like it. Or even if you don't want to use those terms, how you would describe what's happening?
 {: .interviewee }
 
@@ -231,6 +248,8 @@ M: I started around 20 years ago, so...
 A: Yes.
 {: .interviewer }
 
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/AQKv49exnQI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 M: So the answer is "yes" I think. For me, it doesn't really matter. <span class="important">I don't really assume there is an audience. I don't assume that people want to hear what I'm doing. I think that's just wrong.</span> I can get excited about something that I create and then maybe somebody else gets excited about it. But he group of people that is really getting excited about it is either extremely small, which is fine, because you know, it could be one person. It could just be me, that one person. Fine.
 {: .interviewee }
 
@@ -251,6 +270,8 @@ M: There was one point at which Steven said that he would rather have stuff out 
 
 So for example, and here's an interesting story. My friend [Ian Boddy&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Ian_Boddy) that I started working with in 1999, so a long time ago. Whenever we put out an album, we switched the names around so it could be Ian Boddy + Markus Reuter or the other way around. You'd assume that if you have two groups of fans intersecting, you would, I mean, or being added to each other, you would get a bigger audience. But the opposite is true. When Ian releases a solo album, he sells more, you know? And the other way around. It's really interesting how the psychology also plays into the image that people have over certain artists.
 {: .interviewee }
+
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DJdqd4DAy-U?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Also the protectiveness and preciousness about a certain artist. It's interesting how these things go that like at some point, a name becomes the music in a way. It's not about the music anymore. You have to like it. Because people say so, because the media says so, and I don't have a problem with that because it's cool and it helps and I mean I can tour with [Tony Levin&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Tony_Levin), because the [*So*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.m.wikipedia.org/wiki/So_(album)) album with [Peter Gabriel&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Peter_Gabriel_discography) was so successful in the 80s and without all the money they spent on it, I wouldn't be where I am!
 {: .interviewee }
@@ -275,6 +296,8 @@ It's about awareness, with deconstruction you're looking at all the elements--yo
 
 A: I would imagine that there's a good sense of fulfillment for you as a producer, especially when you can bring that out in the art or the artist.
 {: .interviewer }
+
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/GjG5R8FzJYE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 M: Yes, but I have to say, it's really the most frustrating job, you know? Because with some artists, it's just so difficult to get them to really look at what they're doing and to reevaluate what they're doing. Even something like there's a performance that isn't good but it **has** to be that performance because "I have to play the guitar part." It can't be the studio musician, it can't be the guy who can actually play guitar. "It has to be me," and the... again here's a big difference. Usually I encourage them to play the stuff themselves, but <span class="important">if your vision as an artist goes beyond what you're capable of, I would rather collaborate with somebody to find the best realization of that vision rather than trying to do everything myself</span>, you know? There are people capable of doing that. but there are others who are not really capable.
 {: .interviewee }
