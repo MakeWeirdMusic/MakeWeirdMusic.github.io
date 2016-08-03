@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Failure to Fracture, Episode 2
-date: 2016-03-12 19:14:46
+date: 2016-08-02 19:14:46
 artist: king-crimson
 author: anthony-garone
 image: fracture/failure-fracture
@@ -10,12 +10,12 @@ permalink: /learn/fracture/picks
 redirect_from: /learn/fracture/2
 oneliner: The right pick can make all the difference!
 seo_description: Fracture is the hardest piece of music I've ever tried to learn. This episode focuses on guitar picks.
-seo_keywords: king crimson, robert fripp, virtuoso, moto perpetuo
+seo_keywords: king crimson, robert fripp, virtuoso, moto perpetuo, guitar craft, guitar circle, starless and bible black
 draft: no
-front_page: no
+front_page: yes
 has_video: yes
 ---
-## Episode 2: Picking the Right Pick
+## Episode 2: Round (and Sharp) Picks
 
 Ten years ago (almost to the day!), [Robert Fripp paid me a compliment in his online diary](https://www.dgmlive.com/diaries.htm?entry=3463) in response to videos and blog posts I'd written at that time about playing *Fracture*. He said, "Mr. Garone's work on this is honourable, and has my respect." This sentence motivated me for many years to continue pursuing *Fracture*.
 
@@ -29,13 +29,21 @@ More importantly, he made a recommendation that, for some reason, took me years 
 
 Here is the video to accompany this episode of *Failure to Fracture*.
 
-<!--
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/o4f1POCrKXE" frameborder="0" allowfullscreen></iframe></div>
--->
-
-VIDEO COMING SOON!
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/p3vYVtplGi8" frameborder="0" allowfullscreen></iframe></div>
 
 {% include fracture-episodes.html %}
+
+## The Problems with Round Picks
+
+Playing Fracture with a round pick is like slicing a ripe tomato with a butterknife. (What?!) Round picks are great for all sorts of players, but for *Fracture*, it's just not the right tool for the job. Here are my thoughts:
+
+- Round picks are more difficult to get a clear, consistent attack
+- They need to be nearly parallel to the string for every stroke to maximize sound
+- *Fracture*'s incessant string skipping makes clear tone quite difficult with a round pick
+- Round picks can "slide" across strings instead of connecting me with the notes and strings
+- I feel like I'm not in control of my playing with round picks
+
+These are very personal reasons, but watch the video and you'll get a sense of the tonal differences between the round and sharp picks. I play the moto perpetuo with both round and sharp picks, alternating between the two so you can get a sense of how the picks make a difference.
 
 ## Picks, Picks, Picks!
 
