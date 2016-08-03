@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Failure to Fracture, Episode 2
+title: Failure to Fracture, Ep. 2
 date: 2016-08-02 19:14:46
 artist: king-crimson
 author: anthony-garone
