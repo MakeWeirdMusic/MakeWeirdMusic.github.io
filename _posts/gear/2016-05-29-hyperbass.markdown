@@ -21,6 +21,9 @@ When I was a teenager, I saw a video of Michael Manring playing a 3-octave bass 
 
 **[Don't know who Michael Manring is? Check out our interview with him!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](/interview/michael-manring)**
 
+**Check out our [private house concert with Michael featuring Andy West](/concert/michael-manring)!**
+{: .ad }
+
 It was always a fantasy of mine to see him play live, so I flew him out to our house for a house concert (video coming soon!) in April 2016. Not only did I get to see Michael play, but I got to have his wonderful instruments in my home for a few hours! Michael was gracious enough to do an interview about the instrument before the show.
 
 ## Interview video
