@@ -11,7 +11,7 @@ oneliner: An international record label without bounds.
 seo_description: Learn more about New York-based MoonJune Records from its owner, Leonardo Pavkovic.
 seo_keywords: robert wyatt, soft machine, allan holdsworth, alex maguire, elton dean, hugh hopper, markus reuter, stick men, tony levin, pat mastelotto
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 ---
 
@@ -27,7 +27,7 @@ Leonardo was very friendly and fast to respond to my Facebook messages requestin
 
 Here's the video of the interview with Leonardo Pavkovic.
 
-<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/6TIGxcghQzY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/nx_8gLAlFiQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Leonardo's Recommendations
 
