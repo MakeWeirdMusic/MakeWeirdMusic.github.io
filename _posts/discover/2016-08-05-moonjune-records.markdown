@@ -13,6 +13,7 @@ seo_keywords: robert wyatt, soft machine, allan holdsworth, alex maguire, elton 
 front_page: yes
 draft: no
 has_video: yes
+redirect_from: /interview/leonardo-pavkovic
 ---
 
 ## A LITTLE ABOUT MoonJune Records
