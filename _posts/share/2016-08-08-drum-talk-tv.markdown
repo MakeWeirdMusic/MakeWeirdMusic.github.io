@@ -187,3 +187,13 @@ My wife says this happens all the time in the food blogging industry. My wife is
 But hey, great exposure, right? All I know is I'd better be careful setting up and recording a house concert with a famous drummer.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Exposure Bucks” by <a href="https://twitter.com/whiskeyfoxxtrot">@whiskeyfoxxtrot</a> on <a href="https://twitter.com/cottonbureau">@cottonbureau</a>! <a href="https://t.co/nGUrgRrcOL">https://t.co/nGUrgRrcOL</a><br><br>Frustrated dealing with this problem tonight...</p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/762872620723216384">August 9, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Next Day Thoughts
+
+I've had a night to think some more about this issue and have some additional thoughts to share. Dan brings up a point that the major news networks don't properly attribute content, to which I disagree and would also like to note that many of the networks he mentioned (ABC, ESPN, Fox News, etc.) are owned by one or two companies, so they already have a huge content-generating network from which they can pull. Secondly, those networks pay licensing fees and make people sign releases before anything can go on the air. 
+
+To say that Drum Talk TV is "curating" just like a news network does is true in an extremely naive way. These networks have huge infrastructure costs, they pay their content creators (journalists, etc.), and have documentation to demonstrate they either have licenses to air the content or they own the content.
+
+To say "I'm a curator" is a poor excuse for downloading other people's content, inadequately attributing ownership and performance, and linking back to the pool of 80% unoriginal content. It's entirely self-promotional and used for Drum Talk TV's own gain, not the artists'.
+
+
