@@ -17,6 +17,10 @@ draft: no
 front_page: yes
 has_video: no
 ---
+## A Preface
+
+Make Weird Music promises never to repurpose other people's content and to always link directly to third party content. We are proud of the huge amount of original content we provide and promote and believe it's worth marketing and paying for, especially when it's used to promote the amazing artists we present on the site. I promise the site will have as little to do with myself as possible. I also promise to do my best to be level-headed, but I can't promise I won't make a mistake or get heated and passionate.
+
 ## Okay, this is weird!
 
 I'll admit, I never expected to write a piece of content on the site like this, but here we go. First of all, I think everyone can tell from the video content on the site that I'm a pretty laid-back guy and I'm pretty passionate about artists getting recognized first and foremost. I don't assume everyone else is out there for the same reasons, but when it comes to the kinds of artists I like, I think they usually need all the help they can get in the current economy.
