@@ -128,6 +128,10 @@ Dan wrote back shortly and I'm paraphrasing here:
 >
 > Our methods work in and out of the music industry, too.
 
+<div class="facebook-wrapper"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDrumTalkTV%2Fvideos%2F873365606075438%2F&show_text=1&width=560" width="560" height="764" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>
+
+Here's a video where DrumTalkTV.com is watermarked on a video they didn't shoot and no licensing information is present.
+
 My response:
 
 > Thanks for your prompt response. I appreciate it and I get your perspective. You are making the most of the way the Facebook algorithm works today, which is understandable, but I cannot agree ethically to your argument. I am not a confrontational person and I don't like going in this direction, and I can't convince myself to do otherwise.
@@ -147,6 +151,10 @@ My response:
 > Lastly, do you mind if I publicly post this exchange so I can solicit the thoughts of my following across all my channels? I'd love to get their thoughts.
 >
 > Anthony
+
+<div class="facebook-wrapper"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDrumTalkTV%2Fvideos%2F1093114114100585%2F&show_text=1&width=560" width="560" height="482" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>
+
+Here's an example of a video with someone else's watermark and no links to the content provider or the performers, no attribution to the submitter, and any "likes" that come in feed Drum Talk TV's growth, not Row-Loff's. (Note the poor quality due to downloading content that was not original.)
 
 And I followed up with:
 

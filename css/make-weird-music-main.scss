@@ -464,6 +464,23 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   height: 100%;
 }
 
+.facebook-wrapper {
+  position: relative;
+  padding-bottom: 100%;
+  padding-top: 25px;
+  height: 0;
+  margin-bottom: 1em;
+  background-color: white;
+}
+
+.facebook-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 .important {
   background-color: black;
   padding: 0.35em;
