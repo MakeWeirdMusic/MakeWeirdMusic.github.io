@@ -196,4 +196,6 @@ To say that Drum Talk TV is "curating" just like a news network does is true in 
 
 To say "I'm a curator" is a poor excuse for downloading other people's content, inadequately attributing ownership and performance, and linking back to the pool of 80% unoriginal content. It's entirely self-promotional and used for Drum Talk TV's own gain, not the artists'.
 
+When people post things, there's this "share" button on every social networking site that lets you share across multiple networks. Dan's justification for not using it is that Facebook's algorithm will limit the reach of "his" content to his audience and that's exactly the point. Facebook knows how the game works, they know how attributions should work, and they charge people to get more reach. It's how they make money and it's the game we all need to play. Dan's method of not paying merely exploits a shady loophole in the Facebook algorithm and makes him look like a much bigger success than he should.
 
+Lastly, in an unregulated economy, there needs to be someone holding the broader market accountable. Free market economists say things like, "The market will work this out." If I'm part of the market and no one else is calling out companies like Drum Talk TV for exploiting the work of others in this fashion, then I need to be part of the solution.
