@@ -6,10 +6,13 @@ author: anthony-garone
 artist: drum-talk-tv
 image: drum-talk-tv
 category: share
-permalink: /share/repurposing-content
+permalink: /share/drum-talk-tv/
+redirect_from:
+  - /share/repurposing-content/
+  - /share/using-content-without-attribution/
 oneliner: My email exchange with Drum Talk TV
 seo_description: I want your thoughts on content attribution.
-seo_keywords: plagiarism, stealing content, credit, social media on steroids
+seo_keywords: plagiarism, stealing content, credit, social media on steroids, repurposing content, content attribution, music industry, DrumTalkTV, dan shinder, lori shube
 draft: no
 front_page: yes
 has_video: no
