@@ -8,8 +8,8 @@ image: morgan-agren
 category: interview
 permalink: /interview/morgan-agren/
 oneliner: Composer, drummer, and Zappa alum from Sweden.
-seo_description:
-seo_keywords:
+seo_description: Morgan Ågren is one of the most innovative drummers on the planet. We talk to him about his upbringing, work with his musical partner Mats Öberg, his musical foundation, and who he's currently working with. Some great, hilarious Frank Zappa stories in here as well.
+seo_keywords: frank zappa, mats oberg, mats/morgan, mats morgan band, sol niger within, fredrik thordendal, meshuggah, flesh quartet, fleshquartet, buddy rich, gigpig, morgan agren's conundrum, carl king
 front_page: yes
 draft: no
 has_video: yes
