@@ -11,7 +11,7 @@ oneliner: Composer, drummer, and Zappa alum from Sweden.
 seo_description:
 seo_keywords:
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 
 ---
@@ -20,7 +20,7 @@ has_video: yes
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/s8cqnlbH2jM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8CkgGTcmJG4?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
