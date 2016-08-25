@@ -22,6 +22,8 @@ This interview took place on the phone, so we didn't do any video recording. I a
 
 I think Terry is a genius. He's invented all sorts of cymbals, drums, hardware, and electronics. He's an incredible virtuosic drummer. He paints. He knows architecture and psychology. He's toured all over the world. He's a true artist. As I sat there watching him perform, I felt like I was watching Picasso paint a picture in front of my eyes and ears.
 
+Thank you to Billy James at [Glass Onyon PR&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://glassonyonpr.com) for coordinating the interview.
+
 Special thanks to Jack Rosenkrantz for his transcription of this interview. I am extremely grateful to Jack and his support of the site.
 
 **[Don't know who Terry Bozzio is? Check out his website!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.terrybozzio.com)**
