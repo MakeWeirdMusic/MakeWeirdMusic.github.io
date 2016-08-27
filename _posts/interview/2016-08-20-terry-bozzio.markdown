@@ -28,6 +28,8 @@ Special thanks to Jack Rosenkrantz for his transcription of this interview. I am
 
 **[Don't know who Terry Bozzio is? Check out his website!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.terrybozzio.com)**
 
+Be sure to check out our interviews with other Zappa alumni: [Steve Vai](/interview/steve-vai), [Mike Keneally](/interview/mike-keneally), and [Morgan Agren](/interview/morgan-agren).
+
 ## Interview video
 
 Here's a video containing the audio and pull quotes from this interview:
