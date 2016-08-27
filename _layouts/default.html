@@ -48,6 +48,10 @@
           <h2>Want More Content?</h2>
           <p>There's tons more content <a href="/archive">in the archives</a>!</p>
           {% if page.previous != "nil" and page.previous.draft == false and page.previous.category != "link" %}<p>Check our previous post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>{% endif %}
+          <p>Be sure to follow Make Weird Music on <a href="{{ mwm.facebook }}"><i class="fa fa-facebook-square"></i> Facebook</a>,
+          <a href="{{ mwm.twitter }}"><i class="fa fa-twitter-square"></i> Twitter</a>,
+          <a href="{{ mwm.youtube }}"><i class="fa fa-youtube-square"></i> YouTube</a>,
+          <a href="{{ mwm.instagram }}"><i class="fa fa-instagram"></i> Instagram</a>.</p>
           {% include mailchimp.html %}
         </div>{% endif %}
       </section>
