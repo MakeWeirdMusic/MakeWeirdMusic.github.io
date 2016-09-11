@@ -1,13 +1,18 @@
 ---
 layout: post
 title: Mad Hatter Guitar Products
-date:   2016-08-28 19:14:46
+date:   2016-09-10 19:14:46
 artist: mad-hatter
 author: anthony-garone
 image: mad-hatter
 category: gear
 permalink: /gear/mad-hatter
-oneliner: "Hear what your guitar is missing."
+redirect_from:
+  - /interview/ed-heisler
+  - /interview/mad-hatter
+  - /interview/mad-hatter-guitar-products
+  - /gear/mad-hatter-guitar-products
+oneliner: Hear what your guitar is missing via an interview with Ed Heisler.
 seo_description: Mad Hatter Guitar Products will make a huge difference in the capabilities of your guitar or bass.
 seo_keywords: guitar electronics, solderless, tone shaping, terminator system, dual value pot, dual value potentiometer
 front_page: yes
