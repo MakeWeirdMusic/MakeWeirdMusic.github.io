@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ostrich Von Nipple
-date:  2016-08-20 00:00:00
+date:  2016-09-18 00:00:00
 artist: ostrich-von-nipple
 author: anthony-garone
 image: ostrich-von-nipple
