@@ -11,9 +11,9 @@ oneliner: Mystery upon mystery upon mixed up, twisted mystery.
 seo_description: Ostrich Von Nipple hails from another land with another way of thinking about another kind of music.
 seo_keywords:
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
-
+sponsors: Psychofon Records
 ---
 
 Ostrich Von Nipple is an avant garde musician on the very excellent European record label, [Psychofon Records&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://psychofonrecords.com). Not much is known about OVN except he (I'm assuming OVN is a "he") has been releasing very weird music for a few years now. If you're a fan of [The Residents](/discover/the-residents), you'll definitely dig OVN.
@@ -28,7 +28,7 @@ The packaging work is very unique and beautifully made. The music is really weir
 
 Here's an interview with Ostrich Von Nipple, Stephen Albert, and Andreas Mathews:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/mMONfhKgwQU?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/jCAk_S5ojaQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
@@ -258,7 +258,7 @@ Now I have the privilege of direct contact with the artists on the label, which 
 AG: Are there any difficulties in dealing with secretive artists like OVN over here, who's enjoying a beverage?
 {: .interviewer }
 
-SA: Not at all. In fact, it's really fun. I think you could see that. It keeps things interesting. It keeps you on your toes. In my line of work, there's a lot of dry, boring editing and emailing to do and search engine optimization and media crap. It's great because I can have one on one time with these guys and learn more about their craft and what they do while I work.
+SA: Not at all. In fact, it's really fun. I think you could see that. It keeps things interesting. It keeps you on your toes. In my line of work, there's a lot of dry, boring editing and emailing to do and search engine optimization and social media crap. It's great because I can have one on one time with these guys and learn more about their craft and what they do while I work.
 {: .interviewee }
 
 <span class="important">Really, their identities are not important. At what point does the face matter? What you're looking at right now is Ostrich Von Nipple. There is no other person under that mask.</span> I think if you take off the mask, it's just a black void that goes on to infinity. If you want to know who he is, just look no further than his music. Listen to the words and get the emotional intent from the compositions. For me, I'm really really into the music.
@@ -306,6 +306,8 @@ AG: All right guys. Thank you so much for your time. I really appreciate it. How
 
 SA: Well, you can easily go to [PsychofonRecords.com&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://psychofonrecords.com) and we have a fully-working web shop up there. It has everything you would possibly be interested in buying. I strongly suggest buying *everything*. Just grab it all indiscriminately. Don't look at the price. Don't look at the shipping. Don't even look at the pictures or the words. Just click the "Add to Cart" button and go for it.
 {: .interviewee }
+
+<div class="ad"><strong>Use discount code OVNMWM10 for a 10% discount on your purchase. Good through March 1, 2017!</strong></div>
 
 AG: Andy, thank you so much. Ostrich, this interview is *actually* over, so thank you for your time.
 {: .interviewer }
