@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Steve Ball
-date:  2016-10-02 00:00:00
+date:  2016-10-16 00:00:00
 artist: steve-ball
 author: anthony-garone
 image: steve-ball
@@ -11,7 +11,7 @@ oneliner: More than 30 years of Fripp, Guitar Craft, and inspired collaborations
 seo_description: Steve Ball has spend decades working with Robert Fripp on Guitar Craft and various groups.
 seo_keywords: robert fripp, guitar craft, guitar circle, king crimson
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 ---
 
@@ -27,15 +27,15 @@ He's been in several bands, like Electric Gauchos, C3, Los Gauchos Alemanes, Lea
 
 Here's a video of our interview with Steve Ball:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/jCAk_S5ojaQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/-b7MeucH4Xk?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="http://audio.makeweirdmusic.com/discover/ostrich-von-nipple/ostrich-von-nipple.mp3" controls preload="none" /></p>
+<p><audio src="http://audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/discover/ostrich-von-nipple/ostrich-von-nipple.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3).
 
 ## Thank You
 
