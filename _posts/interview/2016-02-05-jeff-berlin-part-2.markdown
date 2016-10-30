@@ -27,9 +27,9 @@ This interview was conducted on Friday, February 5, 2016 at 2PM AZ.
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3" controls preload="none" /></p>
+<p><audio src="{{ site.s3_url }}/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part2.mp3).
 
 ## Interview video
 

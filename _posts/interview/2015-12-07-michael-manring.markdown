@@ -30,9 +30,9 @@ I've been listening to Michael's music since the late 1990s. He is an unbelievab
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="http://audio.makeweirdmusic.com/interview/michael-manring/michael-manring-interview-mwm-20151207.mp3" controls preload="none" /></p>
+<p><audio src="{{ site.s3_url }}/interview/michael-manring/michael-manring-interview-mwm-20151207.mp3" controls preload="none" /></p>
 
-Or, [download an mp3](http://audio.makeweirdmusic.com/interview/michael-manring/michael-manring-interview-mwm-20151207.mp3).
+Or, [download an mp3]({{ site.s3_url }}/interview/michael-manring/michael-manring-interview-mwm-20151207.mp3).
 
 ## Interview video
 

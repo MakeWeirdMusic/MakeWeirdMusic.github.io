@@ -47,9 +47,9 @@ The interview was conducted on Monday, January 18, 2016 at 5AM Arizona time via 
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="http://audio.makeweirdmusic.com/gear/soundslice/adrian-holovaty-interview-mwm-20160116.mp3" controls preload="none" /></p>
+<p><audio src="{{ site.s3_url }}/gear/soundslice/adrian-holovaty-interview-mwm-20160116.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/gear/soundslice/adrian-holovaty-interview-mwm-20160116).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/gear/soundslice/adrian-holovaty-interview-mwm-20160116).
 
 ## Interview video
 

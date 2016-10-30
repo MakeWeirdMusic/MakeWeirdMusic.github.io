@@ -40,9 +40,9 @@ Here's a video containing the audio and pull quotes from this interview:
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="http://audio.makeweirdmusic.com/interview/terry-bozzio/terry-bozzio.mp3" controls preload="none" /></p>
+<p><audio src="{{ site.s3_url }}/interview/terry-bozzio/terry-bozzio.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/interview/terry-bozzio/terry-bozzio.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/terry-bozzio/terry-bozzio.mp3).
 
 ## Interview Transcript
 

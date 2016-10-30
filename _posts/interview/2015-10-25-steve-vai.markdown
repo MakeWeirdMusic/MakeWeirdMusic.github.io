@@ -34,9 +34,9 @@ Below is a 1-hour interview with Steve Vai conducted on September 12, 2015 at 12
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="http://audio.makeweirdmusic.com/interview/steve-vai/vai-interview-mwm-20150912.mp3" controls preload="none" /></p>
+<p><audio src="{{ site.s3_url }}/interview/steve-vai/vai-interview-mwm-20150912.mp3" controls preload="none" /></p>
 
-Or, [download an mp3](http://audio.makeweirdmusic.com/interview/steve-vai/vai-interview-mwm-20150912.mp3).
+Or, [download an mp3]({{ site.s3_url }}/interview/steve-vai/vai-interview-mwm-20150912.mp3).
 
 ## Interview video
 

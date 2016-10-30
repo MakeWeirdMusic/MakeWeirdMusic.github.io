@@ -38,9 +38,9 @@ Here's a video with some "fun fact" overlays, including all the time signature c
 
 Here's an mp3 of the song (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="http://audio.makeweirdmusic.com/share/harnch/makeweirdmusic-harnch.mp3" controls preload="none" /></p>
+<p><audio src="{{ site.s3_url }}/share/harnch/makeweirdmusic-harnch.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://audio.makeweirdmusic.com/share/harnch/makeweirdmusic-harnch.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/share/harnch/makeweirdmusic-harnch.mp3).
 
 ## Original Recording
 
