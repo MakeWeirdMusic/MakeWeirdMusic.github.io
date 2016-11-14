@@ -11,7 +11,7 @@ oneliner: A devastating force on the electric bass guitar.
 seo_description: Julie Slick will crush you with her skills on the bass and songwriting.
 seo_keywords: adrian belew, power trio, tony levin, robbie seahag, echotest, crimson projekct, terroir, paper cat, eric slick, steve ball, start making sense, stop making sense, markus reuter
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 ---
 
@@ -23,7 +23,7 @@ Julie Slick is scary talented. Like, every video I've seen of her kinda frighten
 
 Here's a video of our interview with Julie Slick:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/-b7MeucH4Xk?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/6tMVejtevKY?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
