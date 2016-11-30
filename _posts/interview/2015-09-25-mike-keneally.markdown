@@ -26,7 +26,7 @@ techniques:
 
 ## Some Context
 
-Below is an epic, huge, deep 90-minute interview with Mike Keneally conducted on September 9, 2015 at 3PM. It was filmed/engineered by [Carl King](/interview/carl-king). The story behind the interview is kinda funny, so I'll share it [in a later section](#story)...
+Below is an epic, huge, deep 90-minute interview with Mike Keneally conducted on September 9, 2015 at 3PM. It was filmed/engineered by [Carl King](/discover/carl-king). The story behind the interview is kinda funny, so I'll share it [in a later section](#story)...
 
 **[Don't know who Mike Keneally is? Check out our Discover post about Mike!](/discover/mike-keneally)**
 

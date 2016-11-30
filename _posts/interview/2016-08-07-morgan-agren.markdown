@@ -34,7 +34,7 @@ Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{
 
 When I was a teenager, I bought a copy of [Zappa's Universe&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Zappa%27s_Universe) on VHS in my obsession to buy everything I could with an appearance from [Steve Vai](/interview/steve-vai). I was astounded at the incredible drumming on the video. I saw Morgan's name credited as the drummer and talked to my super-musical friend Todd in Chicago via America Online about him. He told me about Morgan's involvement with a blind Swedish keyboard player named Mats Oberg and their duo band Mats/Morgan.
 
-Since the late 1990s, I've loosely followed Morgan's career and became more aware when my friend [Carl King](/interview/carl-king) made a documentary about Morgan called [Morgan Agren's Conundrum&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://shop.carlkingdom.com/products/conundrum_dvd).
+Since the late 1990s, I've loosely followed Morgan's career and became more aware when [Carl King](/discover/carl-king) made a documentary about Morgan called [Morgan Agren's Conundrum&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://shop.carlkingdom.com/products/conundrum_dvd).
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/akOFZb4GpCY?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
@@ -213,7 +213,7 @@ A: Radio Da da. The first song on that album is unbelievable. I just love it. I 
 M: Oh wow. I did a reissue on that album, so can you tell me...
 {: .interviewee }
 
-A: I think that's what I have. I supported the [Carl King](/interview/carl-king) [documentary&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.imdb.com/title/tt3231730/). Carl and I have been friends for many years.
+A: I think that's what I have. I supported the [Carl King](/discover/carl-king) [documentary&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.imdb.com/title/tt3231730/). Carl and I have been friends for many years.
 {: .interviewer }
 
 M: Oh yeah! What's the first song on there? Is it *Här kommer Bodd*?
