@@ -1,0 +1,14 @@
+---
+layout: external
+title: X-JAMM at NAMM 2017
+date:   2016-12-01 12:14:46
+artist: mwm
+author: anthony-garone
+category: link
+oneliner: We are sponsoring Blue Mouth Promo's event, X-JAMM at NAMM 2017 in Anaheim featuring Mike Keneally, Teddy Kumpel, Tony MacAlpine, and many others! Come join us!!
+front_page: yes
+draft: no
+icon: fa-calendar
+permalink: /link/x-jamm-2017/
+external_url: https://www.facebook.com/events/1865967933637088/
+---
