@@ -8,7 +8,7 @@ image: moulettes
 category: discover
 permalink: /discover/moulettes/
 oneliner: The explosive progressive folk/pop band from Brighton.
-seo_description: The Moulettes knock your socks off with their power folk vocals and instrumentation.
+seo_description: The Moulettes will knock your socks off with their power folk vocals and instrumentation.
 seo_keywords: ruth skipper, hannah miller, oliver austin, ollie austin, afrothunder, raevennan husbandes, jim mortimore, gentle giant, three friends, malcolm mortimore
 front_page: yes
 draft: no
@@ -21,16 +21,11 @@ It took several months to coordinate, but our schedules finally aligned and we g
 
 **[Check out Moulette's website!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.moulettes.co.uk)**
 
-## Video and Audio coming soon!
-
-Stay tuned...
-
-<!--
 ## Interview video
 
 Here's a video of our interview with Ollie Austin and Hannah Miller of Moulettes:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/6tMVejtevKY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/tx0rhXKXiOg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
