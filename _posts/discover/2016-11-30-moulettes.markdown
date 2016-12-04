@@ -27,6 +27,8 @@ Here's a video of our interview with Ollie Austin and Hannah Miller of Moulettes
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/tx0rhXKXiOg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
+Also check out [Alan Miller guitars&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://alanmillerguitars.co.uk). Alan is Hannah's father and makes incredible instruments!
+
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
