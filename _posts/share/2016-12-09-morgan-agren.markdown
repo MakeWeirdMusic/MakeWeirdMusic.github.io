@@ -6,11 +6,15 @@ artist: morgan-agren
 author: anthony-garone
 image: morgan-agren
 category: share
-permalink: /share/morgan-agren-morgchestra
+permalink: /share/morgan-agren/morgchestra
+redirect_from:
+ - /share/morgan-agren/35th-anniversary
+ - /share/morgan-agren-morgchestra
+ - /share/morgan-agren-35th-anniversary
 oneliner: Morgan tells us about his two new CDs.
 seo_description: Morgan Ågren tells us about the Morgchestra and the Mats/Morgan 35th Anniversary.
 seo_keywords: frank zappa, steve vai, mats/morgan, mats oberg, umea, sweden, conundrum
-draft: yes
+draft: no
 front_page: yes
 has_video: yes
 ---
@@ -26,7 +30,7 @@ In August 2016, we did [a lengthy interview with Morgan Ågren](/interview/morga
 
 Special thanks to Morgan for chatting with us again.
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/ld3rgnNdfoY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/irRvqSiasPI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Transcription
 
