@@ -32,6 +32,14 @@ Special thanks to Morgan for chatting with us again.
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/irRvqSiasPI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
+## Interview Audio (Podcast)
+
+Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
+
+<p><audio src="{{ site.s3_url }}/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3" controls preload="none" /></p>
+
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3).
+
 ## Transcription
 
 AG: Hi, this is Anthony with MakeWeirdMusic.com and I have with me today, all the way from Sweden, Morgan Ågren. Morgan, thank you so much for joining. I really appreciate it.
