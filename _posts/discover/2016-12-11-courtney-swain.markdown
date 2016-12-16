@@ -11,7 +11,7 @@ oneliner: Bent Knee's singer/keyboardist is a force of nature.
 seo_description: Courtney Swain is the singer of the band Bent Knee, a progressive band out of the Boston area.
 seo_keywords: ben levin, chris baum, gavin wallace-ainsworth, jessica kion, vince welch, progressive rock, prog rock
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 ---
 
@@ -19,12 +19,11 @@ Courtney Swain is the singer from the up-and-coming experimental/prog rock band,
 
 **[Check out Courtney's website!&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.courtneyswain.com)**
 
-<!--
 ## Interview video
 
 Here's a video of our interview with Courtney Swain of Bent Knee:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/tx0rhXKXiOg?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/R7oCz8oFhZQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
@@ -185,8 +184,6 @@ AG: Fans.
 CS: Yeah yeah! They sort of treat us as such, too. When we put something out, they're like, "Oh shit! New Bent Knee!" It's really exciting that that's happening. Yeah, so that's sort of how it feels on this end.
 {: .interviewee }
 
-EDIT
-
 AG: So tell me a little about how growing up in Japan has influenced your songwriting and your musicianship and what that brought to your Berklee experience.
 {: .interviewer }
 
@@ -287,11 +284,7 @@ Myself and the two videographers are wearing these heavy coats and just walking 
 <span class="important">I could not get my mom to rehearse to save my life. She was just not there, but when we put her in the environment and we said, "Go, do your thing."</span> She was just there and it was such an amazing experience to see your parent really being a person and an artist as opposed to being a parent. To get to collaborate on that artist to artist level was a really extremely rewarding experience for me.
 {: .interviewee }
 
-AG: That's awesome.
-
-EDIT
-
-AG: One final question: About that switch you just mentioned, the intensity switch, you're such an intense live performer, when you're singing, there's nothing else in the world happening. Have you always been that way or is that something that Bent Knee has brought out of you in terms of singing and performing?
+AG: That's awesome. One final question: About that switch you just mentioned, the intensity switch, you're such an intense live performer, when you're singing, there's nothing else in the world happening. Have you always been that way or is that something that Bent Knee has brought out of you in terms of singing and performing?
 {: .interviewer }
 
 CS: Yeah, I think--I don't know. I guess for me, I haven't really found a different way to perform. I really am a performer. I think that's the thing that I do the best and the thing that I really love doing. Bent Knee material is becoming less cathartic. It's not as brutal. I don't think anything else will ever be quite as brutal as *Shiny Eyed Babies*, save for some tragedy that I hope won't happen.
