@@ -27,4 +27,10 @@ Here it is! Mike is playing his one-of-a-kind Black Devil semi-hollow SG copy. I
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/ld3rgnNdfoY?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
+## Transcription
+
+Special thanks to Yvan Cluet, a young guitarist in France studying engineering in Lyon. He's really interested in beautiful and weird music. He writes some of his own music and looks to MWM to expand his knowledge. Super cool! Thanks, Yvan!!
+
+<iframe src="https://www.soundslice.com/scores/61509/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
+
 **Special thanks to Jack Rosenkrantz for helping me so much this weekend.**
