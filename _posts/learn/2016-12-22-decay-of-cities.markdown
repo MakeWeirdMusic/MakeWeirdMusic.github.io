@@ -24,7 +24,7 @@ has_video: yes
 
 Living sheet music brought to you by [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://soundslice.com). Wanna know more? Check out [our interview with Soundslice co-creator, Adrian Holovaty](/gear/soundslice)
 
-<iframe src="https://www.soundslice.com/scores/61509/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
+<iframe src="https://www.soundslice.com/scores/61172/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
 
 Thanks to [Gabriel Lucas Riccio&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://thegabrielconstruct.com) for his help with this transcription.
 
