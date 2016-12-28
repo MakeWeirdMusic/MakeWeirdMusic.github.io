@@ -6,9 +6,548 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Dec 2016 11:04:57 -0700</pubDate>
-    <lastBuildDate>Fri, 23 Dec 2016 11:04:57 -0700</lastBuildDate>
+    <pubDate>Tue, 27 Dec 2016 23:02:28 -0700</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2016 23:02:28 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Mike Keneally Talks To Andy West</title>
+        <description>&lt;h2 id=&quot;some-context&quot;&gt;Some Context&lt;/h2&gt;
+
+&lt;p&gt;This conversation took place in my dining room on Sunday, November 13, 2016. It was the day after Mike and Andy performed a concert in that same dining room. I just thought it’d be cool if the two of them sat down and talked to each other on film since they’re old friends who hadn’t played together in years. It was a cool conversation!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/interview/mike-keneally&quot;&gt;Check out our interview with Mike Keneally! &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/interview/andy-west&quot;&gt;And our interview with Andy West! &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
+
+&lt;p&gt;Here’s a video containing the audio and pull quotes from this interview:&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mMONfhKgwQU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
+
+&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;thank-you&quot;&gt;Thank You&lt;/h2&gt;
+
+&lt;p&gt;Thanks so much to Julie Cord, co-owner of &lt;a href=&quot;http://bluemouthpromotions.com&quot;&gt;Blue Mouth Promotions&lt;/a&gt;. BMP is hosting the &lt;a href=&quot;/link/x-jamm-2017&quot;&gt;2017 NAMM X-JAMM&lt;/a&gt;, featuring a slew of great artists performing for 6 hours the Saturday of NAMM in Anaheim. Julie works with Mike in all sorts of ways and BMP is a great company worth supporting. Check them out.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;Andy West: So Mike, I was listening to the radio on the way over here, and um, it was kind of a, uh…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Mike Keneally: They played a bunch of my stuff, didn’t they? [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] Yeah, exactly! It was fascinating, but there was a lot of this doom and gloom scenario about science and this kind of stuff, but you know, overlaid with this sense of hope.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right, in terms of how technology can actually help us instead of hurt us. So, my question is: as someone who’s been a lifelong musician and in the business for so long, how do you… not a business question, but how do you see music evolving? Because it’s really struck me recently as I kind of continue to sort of look backwards and forwards at the same time, particularly with YouTube, you know, you can go see the videos of &lt;a href=&quot;https://en.wikipedia.org/wiki/Thelonius_Monk&quot;&gt;Monk&lt;/a&gt; and all the classic guys that are just extreme, right?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Right. [Chuckles]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And then, here we are now. So, do you ever think about or do you have any sense of kind of an evolutionary sort of thing?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: I don’t have a shape or a pattern in my head. I do think about it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It’s fascinating to think about. But, I don’t know. I mean, you framed that by starting by talking about technology, and I recognize definite luddite tendencies in myself, you know, when I compare things that are happening now compared to… I mean, &lt;span class=&quot;important&quot;&gt;I tend to idealize the early seventies as a period where musicianship was really fresh&lt;/span&gt;. The influences were still new enough so that the way they were being processed and recontextualized was really fresh feeling, and audio technology was just at a point in history in the early seventies that it produced a sound that seems amazingly good to me and a lot of other people. &lt;span class=&quot;important&quot;&gt;I think there’s a reason why a lot of people intrinsically are so affectionate for the music of that era, and obviously a lot of it has a lot to do with what people were playing, but a lot of it also has to do with the way it sounded.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Just this really full and warm–and it’s very clichéd to use the word ‘warm’ when describing analog sound and analog technology, but most clichés have more than a grain of truth to them. I think that as digital recording technology started to take hold in the eighties, that it caused some kind of mass hypnosis, and many musicians with great ears that have been proven to have great ears got seduced and hypnotized a little bit by the clarity of digital. And &lt;span class=&quot;important&quot;&gt;you listen to that stuff now and it’s almost unconscionable what was done to music&lt;/span&gt;. [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And that was accompanied by people starting to ratchet up compression in order to make things louder. So obviously everybody recognizes that the earliest digital recordings, especially in pop music in the eighties, a lot of it sounded really strange. So I think a lot has been done to compensate for that since then. And newer digital recordings are warmer, but they do arguably feel less human than the stuff that we were in love with and &lt;span class=&quot;important&quot;&gt;I think that that humanity is lost now&lt;/span&gt;. I say all that being super grateful for the flexibility of digital recording and the availability of the tools. All that is fantastic.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: But, as with so many things, it’s hard not to mourn what’s been lost, you know?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Well I wonder if people are looking for that through various forms of live performance and things where people actually can attend. There’s kind of a renaissance of certain sort of jazz styles that are not like a rebirth of an old thing, but kind of an approach I guess.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: OK.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: I don’t know if you’ve heard somebody like [???DJ Eyer] or something like that where it’s just kind of piano jazz but not really a standard jazz form.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: OK. Sure. Oh yeah, sure.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: So let’s hope that that’s kind of mediating that other kind of influence.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Well, yeah. I mean, definitely it’s out there. As with anything, there’s going to be an equal and opposite reaction.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Which is why you’re going to see a huge rise in progressive activism over the next few years. But I love that format that you’re describing. My friend &lt;a href=&quot;https://en.wikipedia.org/wiki/Matt_Mitchell_(pianist)&quot;&gt;Matt Mitchell&lt;/a&gt;, who’s a keyboardist and composes for small jazz groups, sounds nominally like jazz but it heads in directions that are unpredictable, and you can feel the acquired knowledge and the exposure to all kinds of culture and music over the last many decades. It gets soaked into it. People will hear the word ‘jazz,’ and they think it’s going to sound like &lt;em&gt;this&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: But it’s all over.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: “It must swing.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It’s all over the place.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: You know, I’m hearing a lot of things with more straight time and interesting rhythmic kind of things with these sort of harmonic overlays or whatever.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: I love that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: I mean, that’s fantastic.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah, that’s kind of cool. The other thing I’ve noticed, and maybe you can comment on this is…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: I don’t mean to make you ask all the questions, but I’m enjoying this process.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Ok cool. We’ve all…you know, people who have…I don’t want to say ‘studied music’, but sort of watched the evolution of players and musicianship over time. So in that time period when you were talking about, to actually discover a great musician was something that happened almost by serendipity or through some kind of filtered process of editorializing. I remember the first time I ever heard of &lt;a href=&quot;https://en.wikipedia.org/wiki/Mahivishnu_Orchestra&quot;&gt;Mahavishnu Orchestra&lt;/a&gt;, for example, was in &lt;a href=&quot;https://en.wikipedia.org/wiki/Creem&quot;&gt;Creem Magazine&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It’s amazing that that’s where you went, because that’s…when you said that I precisely went to the first time I saw Mahavishnu Orchestra.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah, but now it’s YouTube, right? As a bass player, &lt;span class=&quot;important&quot;&gt;I’ve sort of had to come to grips with the fact that I could go on YouTube and find a hundred people that are just monstrous players that have technique and abilities that you just couldn’t find thirty years ago. It just didn’t exist.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Uh-huh.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And now it does. So there’s some some cause for that effect.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: But &lt;span class=&quot;important&quot;&gt;I’m wondering if it’s kind of like there’s a lot of noise out there, and there’s this very high level of musicianship along with the noise.&lt;/span&gt; So it requires a filtering mechanism of say, “This is something that I can actually connect with, or not.” And the only way that I’ve found to do it is through my own trial and error, literally just going through and listening to stuff. And maybe that’s part of the evolutionary process that needs to develop here or something, which is some way to sort of… I don’t know if ‘editorialize’ is the right word.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Well, you can only rely on your instincts, and you’ve only got a limited amount of time in a day. It’s so much stuff to process and filter, that you kind of have to. Everyone does it. You go by first instincts when you get a link that someone has forwarded to you, and it’s one of 30 links that you’ve been momentarily intrigued by that day. And you don’t have time to watch them all. You have to, and that’s informed by all kinds of prejudices and things that you have to decide. “Am I going to listen to this thing that probably sounds like something I’ve heard before, or am I going to go this direction that might be more challenging?”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;And knowing you, I’m sure you probably tend to go for the more challenging things if you have a limited amount of time. But, if you have the time, you might say, “I just want a cross-section of what’s going on.” Or there’s a million reasons why you might be tempted to click on a link and see what’s going on. &lt;span class=&quot;important&quot;&gt;And there’s so much that I don’t see. I made peace with that many many years ago.&lt;/span&gt; And if someone hands me a disc on the road or something, I accept it graciously always and with gratitude. “Thank you for sharing this work with me.” And, you know, but &lt;span class=&quot;important&quot;&gt;there’s probably a little part of me that’s like apologizing in advance saying, “There’s a good chance I won’t hear this.”&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: You know, I don’t say that out loud ‘cause I don’t want to, I don’t want to corrupt the moment, or…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And you may!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Or negatively influence anything. I might very well listen to it. But I know that at the end of every tour I end up with a stack of stuff and not the time to listen to all of it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: OK, so actually, this leads to a story that Anthony can edit out if he wants. But it’s how I met him. Did I tell you this?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: OK. Um? Tell me again.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: OK. So Anthony and I worked at the same company down here in the Phoenix area. And he came to my office one day kind of cold and said, “Excuse me, but are you Andy West the bass player?” Which happens maybe eight or ten times in my entire thirty year computer career.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Really?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. [Laughs] Not very often, but you know, interestingly more in the last ten years.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: That makes sense to me. &lt;span class=&quot;important&quot;&gt;It takes time for this stuff to soak through the water supply.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: But the point is he came in, and he said, “Oh, well, that’s great. You know I’m a musician, blah blah blah.” And he gave me a CD.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: OK.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And he said, &lt;a href=&quot;http://ahab.garone.net&quot;&gt;“This is a CD I made with my dad.”&lt;/a&gt; And I said something to the effect of, &lt;span class=&quot;important&quot;&gt;“Ah that’s great. Yeah, I’ll definitely listen to it. By the way, I hate almost everything.”&lt;/span&gt; [Laughs] You know, or something to this effect.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: [Laughs] That’s great.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: “You know, don’t take it personal, but I’ll definitely listen to it.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And I listened to this album, and it was…I had probably a year earlier reread &lt;a href=&quot;https://en.wikipedia.org/wiki/Moby_Dick&quot;&gt;&lt;em&gt;Moby Dick&lt;/em&gt;&lt;/a&gt; again. It’s kind of like one of these books that I go back to every now and again. And it turns out that this album was conceptualizing the story of &lt;em&gt;Moby Dick&lt;/em&gt;. [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Mmm hmm.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Written by his dad, and Anthony played all the parts, and produced it, and all this stuff.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Too cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And this was like one of the… I’m looking for an adjective here. I can’t find an adjective to describe how I felt about this music.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Wow.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: It was really interesting. Of course I love the story. And the lyrics and the melodies were very unusual, and it turns out his dad was you know, proudly unschooled. [Laughs] Like he would say, “Don’t ever try and teach me how to read music” or something, you know, “because I’m afraid it will corrupt me.” You know, kind of a weird attitude but…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: &lt;span class=&quot;important&quot;&gt;He had a voice, and he wanted to preserve it.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah! So it was like he was in the Amazon living in the forest and did not want to come out. [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: He liked it there.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: So it was just a very interesting story because this album, it’s not like something I would coldly recommend to anybody because it’s very eclectic and weird. So I was like, “God, what do I do with this? &lt;span class=&quot;important&quot;&gt;I love this, but I’m not going to tell everyone like ‘go listen to this album’ because they’ll think I’m nuts.&lt;/span&gt;” [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: I’ve run into that and I’ve become involved in projects specifically because I thought that the music was was so amazing and how could the world not love this, you know?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Mmm hmm.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Sometimes I get a little clouded about that just because I think something is so amazing. I don’t know if I ever feel frightened that people will question my own sanity by recommending something. [Laughs] But then I know, yeah, &lt;span class=&quot;important&quot;&gt;you don’t just tell anybody that they should go check out &lt;a href=&quot;https://en.wikipedia.org/wiki/Trout_Mask_Replica&quot;&gt;&lt;em&gt;Trout Mask Replica&lt;/em&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah, right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: You gotta read the room. [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah, well Trout Mask… Ok, so just to jump haphazardly to another topic, you know when we first met, and you mentioned this &lt;a href=&quot;https://en.wikipedia.org/wiki/Crazy_Backwards_Alphabet&quot;&gt;&lt;em&gt;Crazy Backwards Alphabet&lt;/em&gt;&lt;/a&gt;…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Album.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right. That I did with &lt;a href=&quot;https://en.wikipedia.org/wiki/Henry_Kaiser&quot;&gt;Henry Kaiser&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: That’s a really good album. &lt;span class=&quot;important&quot;&gt;That album was a real complete statement. And I like that record a lot.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. It’s a pretty neat thing. Now, because of course &lt;span class=&quot;important&quot;&gt;on the internet, you’ll see all kinds of people say things, just really horrible things, about this stuff.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Oh, yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Like, “What were they thinking?” You know, this kind of thing. &lt;span class=&quot;important&quot;&gt;But we were thinking all kinds of things and just sort of playing.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: [Laughs] That’s a good answer!&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] But it was fascinating to me because of course &lt;a href=&quot;/discover/captain-beefheart&quot;&gt;&lt;em&gt;Beefheart&lt;/em&gt;&lt;/a&gt; was not part of my past.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: OK.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: I was sort of into the &lt;a href=&quot;https://en.wikipedia.org/wiki/Allman_Brothers&quot;&gt;Allman Brothers&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Led_Zeppelin&quot;&gt;Led Zeppelin&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Cream_(band)&quot;&gt;Cream&lt;/a&gt;, you know, that whole thing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Right on.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Mothers_of_Invention&quot;&gt;The Mothers&lt;/a&gt; too, for sure. But not, like, beyond The Mothers.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It didn’t go far… yeah, yeah. Exactly.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. So Henry had me playing all these Captain Beefheart songs that I had never heard. And also the approach to the songs was so different because &lt;span class=&quot;important&quot;&gt;it was not grounded in the kind of musical education that I had, which was very precise and harmonically, cohesive, and all this kind of stuff. So, it was very eye opening to me…&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It’s ’cause they’re tone paintings.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: In a different kind of way.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. So that was pretty cool, and…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Well, what I enjoyed hearing you play that kind of stuff, not just the Beefheart stuff, but the sort of Beefheart-influenced, uh, “Henry stuff” and whatnot, is how perfectly matched your approach and tone was for that kind of music. Like, I listened to &lt;a href=&quot;https://en.wikipedia.org/wiki/Rockette_Morton&quot;&gt;Rockette Morton&lt;/a&gt;, his bass playing on Trout Mask, and I see a taste of lineage…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: A parallel universe! [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yeah, well just that. I see a link between your style and his style.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Well that’s interesting.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And it’s something to do with the attack on the strings and the musicality of it and the solidity of the sound and all this stuff. When I heard you in the seventies with &lt;a href=&quot;https://en.wikipedia.org/wiki/Dixie_Dregs&quot;&gt;The Dregs&lt;/a&gt;, it was all about precision.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And The Magic Band, the Beefheart stuff, is about discipline, because they had to practice those songs a million times to get all these disparate events to line up in any kind of way. &lt;span class=&quot;important&quot;&gt;But it’s not about precision in the accepted sense.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: But in a way it is ‘cause you gotta drill that stuff endlessly.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It’s crazy.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Well ok, so in line with the original evolutionary sort of commentary, do you hear anything that is, I mean… What could you comment on besides yourself–which we can go to another topic on; I want to talk about &lt;a href=&quot;http://keneally.com/scambot&quot;&gt;Scambot&lt;/a&gt; before you leave. But, do you hear any trends? Or is it just kind of like isolated, “Wow, this is a really interesting approach that these folks are doing or this guy is doing?” I mean, do you hear any kind of overall trending?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: I’m so out of touch. I mean, &lt;span class=&quot;important&quot;&gt;I regret the fact that I don’t make the time to listen to everything that crosses my path.&lt;/span&gt; I would find it im…I clearly do find it impossible to do so, but there’s so much that passes me by.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: But I wouldn’t presume to indicate my awareness of a trend.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Well, ok, so…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: But I hear good things a lot. Something will come out, and it might be years after it’s current, but I hear relatively new music. Like, &lt;a href=&quot;https://en.wikipedia.org/wiki/Scott_Thunes&quot;&gt;Scott Thunes&lt;/a&gt; gave me a recording of the band &lt;a href=&quot;https://en.wikipedia.org/wiki/Field_Music&quot;&gt;Field Music&lt;/a&gt; like eight years ago or something. And I really enjoyed it. And then I sort of didn’t think about them anymore. And then &lt;a href=&quot;https://en.wikipedia.org/wiki/Marco_Minnemann&quot;&gt;Marco Minnemann&lt;/a&gt; became obsessed with the band Field Music, and then started playing it on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Joe_Satriani&quot;&gt;Satriani&lt;/a&gt; bus.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I realized I was aware of them. I had even heard their music years ago, and I went, “Yeah, that’s really good.” But then when I heard it a couple years ago again, I was reminded it’s actually really brilliant. It’s exciting. It’s beautifully constructed pop music, that, you know, in its field, it definitely deserves to stand alongside &lt;a href=&quot;https://en.wikipedia.org/wiki/XTC&quot;&gt;XTC&lt;/a&gt; and the best of &lt;a href=&quot;https://en.wikipedia.org/wiki/Todd_Rundgren&quot;&gt;Rundgren&lt;/a&gt;, and all that stuff. And &lt;span class=&quot;important&quot;&gt;I love super well-constructed, non-predictable pop music very much.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: &lt;span class=&quot;important&quot;&gt;I love a chord progression that is just beautiful. You don’t see where it’s going, but when it arrives, you realize, “Oh, that was the perfect solution nailed.”&lt;/span&gt; That stuff is so much fun for me. And Field Music has that in spades. So that’s reasonably new music that’s brilliant, and always my response when I hear something great unexpectedly is to be, you know, a little shocked. [Laughs] And then to be super super grateful to be reminded that I can be a curmudgeon as much as I want. But I can never really have the whole picture of everything that’s happening, and there’s always great stuff going on.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Well maybe it’s part of this evolutionary thing I keep harping on. The fact that there is a lot, but you have to discover it. Maybe it becomes more of a–it’s like a localized thing, you know? If you go back to the reason music is important to people, or why people love music, there’s an emotional thing there. There’s a human connection kind of thing that’s going on, or there should be. Right?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Ideally.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: &lt;span class=&quot;important&quot;&gt;I guess there are people that have never experienced a profound feeling from listening to music, but that would be very sad to me. You know?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Oh, it would be. And &lt;span class=&quot;important&quot;&gt;it’s only occasionally that something hits me that makes me need to go on the old social network platforms and share it.&lt;/span&gt; But when I saw &lt;a href=&quot;https://en.wikipedia.org/wiki/Kendrick_Lamar&quot;&gt;Kendrick Lamar&lt;/a&gt; at the Grammys earlier this year… Did you see that performance?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: No.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: &lt;span class=&quot;important&quot;&gt;Maybe the single greatest musical performance I’ve ever seen on television.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Oh my God, ok.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And so I saw this and had to spread the word. It’s like, if you think nothing’s going on, wait ‘til you hear this.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It’s amazing. Not just the content of the words, which is powerful and huge, but also the actual content of the performance, and the band playing which was… They’re just like deadly great. And the musical conception, which is really evolved, and it’s endemic of now, what’s happening in the the sort of intersection between hip hop and DJ culture and jazz and spoken word and activism and all the stuff that’s coming together in an insanely powerful way. And which, you know, will continue to do so. That’s just like, I…I…Kendrick Lamar at the Grammys. That’s all I can say.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. I’m going to have to go look at that. That’s awesome. Here in Phoenix there’s a–I mean, I’ve looked, and &lt;span class=&quot;important&quot;&gt;there’s kind of a dearth of opportunity for people to hear live music.&lt;/span&gt; You know, it’s really spare. There’s a local club here that is set up as a non-profit called &lt;a href=&quot;http://WHAT.COM&quot;&gt;The Nash&lt;/a&gt;, which is about jazz. But it’s purely jazz. Do you know what I mean? They’re not going to be doing other stuff.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: OK.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Which I think is kind of unfortunate ‘cause I think that there’s room for other stuff. And kind of like a pure music venue where people don’t need to go to buy drinks or, you know, the stupid thing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: That’s why Anthony’s going to open the MWM Club.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah! Exactly.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: He’s not in the room. OK, we can, we can divulge all of his clients now. [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] Yeah right. It’s uh, it’s going to be right here in the living room. Of course his wife has got something to say about that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: No, it’s cool though. But you know, I think in New York or Boston there seems to be more of–maybe it’s just the concentration of cities. LA, you know, has the &lt;a href=&quot;https://en.wikipedia.org/wiki/Baked_Potato&quot;&gt;Baked Potato&lt;/a&gt;. I guess the other side of that is really that now you go to the issue of musicians and artists creating and how do they support themselves? And then that opportunities become–well, you have to be very creative about this, and &lt;span class=&quot;important&quot;&gt;if live performance is the only thing that’s gonna really do it, that’s an issue. But yet, we still do.&lt;/span&gt; I mean, people still create stuff no matter what. They’re driven to it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Maybe that’s really the filter. You know, &lt;span class=&quot;important&quot;&gt;the filter is, “What are your motivations? What are your reasons?” And if they’re strong enough in the pursuit of expression, it’ll happen.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: You find a way.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yep. If that was a question, you just answered it. [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] I guess so. I’m just sort of musing on it, you know, because…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Well, it’s good to think about, and it’s definitely good to check yourself every once in a while. Does your drive remain strong? Check your motives. And just keep putting one foot in front of the other.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And you know, people who…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: That’s why I keep asking us that. [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] I have to put in a plug here for pragmatism too because I know a lot of musicians, and myself included, who have sort of taken a path of providing for themselves and their family through other means, having a day job, whatever. &lt;span class=&quot;important&quot;&gt;And back in the day, that used to be a real sort of sign of failure or something.&lt;/span&gt; You know, not necessarily a sign of failure, but it was not a sign of success. Right?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And now I feel like it’s great if people can figure out how to make it work. There’s a lot of ways to do this, but again it kind of goes back to your motivation. And then sometimes they can kind of merge into a commercial successful thing, and sometimes not.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Well, it’s your motivation and also your specific intent. And, if your desire is simply to make music and not necessarily be out on the road for months at a time…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: …then all of a sudden it becomes very practical and real smart to find a way to fund those activities.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: You know I definitely have. I got involved with the &lt;a href=&quot;https://en.wikipedia.org/wiki/School_of_Rock&quot;&gt;School of Rock&lt;/a&gt; in 2007 and that was my attempt for a year at doing precisely that, holding down a day job. And it just became un-unworkable because by the end of that year, &lt;a href=&quot;https://en.wikipedia.org/wiki/Dethklok&quot;&gt;Dethklok&lt;/a&gt; was touring, and then suddenly there was an impasse that couldn’t be breached.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: There’s certainly no stigma attached to it now, and I think it’s obviously laudable and quite necessary in a lot of cases.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Well you know, it’s, it’s another means, although um, you know, people who have a family and a job, and want to do music…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: …it’s really, you know, it can be a lot.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Well it is. I absolutely admire anyone who has the psychic space to encompass all of that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. So, what else is on your mind? [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Oh man. I’m just grappling with my schedule all the time, which is challenging, so I’m a little self-centered.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Right now. So as soon as you said that all, I saw was stuff I have to do. You know, and that’s not at the expense… I don’t want this to be a political conversation so, obviously the, the election is on my mind, as it is on everyone’s. And, just going to have to see what happens there.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: But, I’m feeling good. I just did a lot of live playing. I was out touring with &lt;a href=&quot;https://en.wikipedia.org/wiki/Beer_for_Dolphins&quot;&gt;&lt;em&gt;Beer for Dolphins&lt;/em&gt;&lt;/a&gt; with &lt;a href=&quot;https://en.wikipedia.org/wiki/Bryan_Beller&quot;&gt;Bryan Beller&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Joe_Travers&quot;&gt;Joe Travers&lt;/a&gt;, and then we wound up on election night at The Baked Potato.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: With &lt;a href=&quot;https://en.wikipedia.org/wiki/Rick_Musallum&quot;&gt;Rick Musallum&lt;/a&gt; joining us.  We were a trio up until that last show, and then we were a quartet which I saw as sort of crossing the threshold in Beer for Dolphins activity next year.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Oh really? Awesome!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: I want it to be a quartet with Rick whenever it’s possible. But then, it goes into finances.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Touring just now on the east coast and in the South and in the Midwest was so much more feasible with three players than it would have been with four.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Even in terms of van space and just all kinds of logistics. And I’m looking at the really scant amount of money that I maybe made on the tour.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] Oh man. I know.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: But then I had–I say that only because it’s fresh and on my mind. It’s an answer to your question. So, in December I’m out on the road with Satriani, for the month in South America. And that covers my expenditure that I just put out on my tour.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: So that’s the balance of my career anyway. You know, &lt;span class=&quot;important&quot;&gt;I’m lucky enough to have these mainstream touring gigs.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: With people that you like.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: With people that I like, and actually really enjoy playing with. And it’s like, &lt;span class=&quot;important&quot;&gt;playing Satriani music is so different from playing my own. I gain so much from it.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It’s the way he approaches these concise song forms and how he, with very small gestures melodically, just paints this complete picture that everyone responds to.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah! Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And that’s really thought-provoking for me because I’m always searching for that thing way out there, you know?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And then &lt;span class=&quot;important&quot;&gt;Joe finds something right here next to you, and when you hear it, you realize, “Well that’s the perfect thing for that moment.”&lt;/span&gt; And then you watch people’s response to it in the audience, and it’s fascinating to me. What would be endless recombinations of musical information and what you can do. It’s so much fun.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] I know. When I listen–so of course I have all of the Satriani stuff, and I’ve seen you guys play with him many times. Well several times at least, and I also have a similar reaction in the sense that I’m in the audience so I’m kind of experiencing the music, but I’m also experiencing the audience and kind of fascinated by the whole thing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Mmm-hmm.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Well, it’s like: what is it that these people are really responding to? They’re responding to something that’s not something that I would normally conceive of, nor would I normally expect them to respond to what I’m hearing in the way that they are.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Mmm-hmm.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: So it’s, it’s really cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yeah!&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: You know?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yeah. Well, &lt;span class=&quot;important&quot;&gt;the basic themes are generally quite simple so people grasp that immediately take it in. The treatment is endlessly varied.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It’s like there are subtleties of articulation when he approaches the same melody in different parts of the song.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: He’s really attuned to the emotional arc of a piece of music which a lot of anti-guitar hero people might be surprised to even consider because they think it’s just about fireworks.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And of course the fireworks are a huge part of it, and that’s one of the things that keeps the audience kind of catalyzed and into it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: It’s just these sounds and occasionally flagrant displays of technique because it’s exciting. &lt;span class=&quot;important&quot;&gt;People respond viscerally to somebody who’s really good doing something really well.&lt;/span&gt; [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] If they happen to show up, they will.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yeah, exactly. Exactly.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And, and that’s the other thing about Joe. Because of the way he conceives things melodically, he puts out music that people embrace. And so, he still has a major label deal after all these years, and still is able to do touring at a nice level of comfort.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And believe me, &lt;span class=&quot;important&quot;&gt;as a musician who is very reliant on well-paying jobs in order to feed my addiction of making my own music, I’m so grateful.&lt;/span&gt; You know?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: …That that there is something like the Satriani gig where we get to tour nicely and play for a lot of people playing instrumental music that’s not the most immediately conventional thing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And that he gives me, and Beller, and Marco a place to be ourselves within this framework. It’s not a completely orchestrated thing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah I definitely notice that. And you feel that. And I think that’s super smart and appropriate. And you guys have something to add. [Laughs] Obviously.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And Joe enjoys it. &lt;span class=&quot;important&quot;&gt;Joe enjoys the fact that we’re adding that and the audience enjoys the fact that Joe is enjoying it, and that we’re doing whatever we’re doing.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: The chemistry in the Satriani band right now is really cool, and kudos to Joe for wanting it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And accepting it so much.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: I agree. Oh, You want to wrap it? [Laughs] Okay.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: You got any requested topics, Mr. G?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;Anthony Garone: No, I think this is great.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Can we talk about the first three &lt;a href=&quot;https://en.wikipedia.org/wiki/Chicago_(band)&quot;&gt;Chicago&lt;/a&gt; albums? Were you into them?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs] You know, I think I was, but I think I was &lt;strong&gt;then&lt;/strong&gt;. [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: OK, when’s the last time you heard that stuff?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Then.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Yeah? Check it out. Actually, I really like &lt;a href=&quot;https://en.wikipedia.org/wiki/Chicago_V&quot;&gt;&lt;em&gt;Chicago V&lt;/em&gt;&lt;/a&gt;. The first five…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: They’re playing here.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Some version of Chicago?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah, some version of them is playing here. I mean, I’m sure they’re playing those songs and probably better than they did then.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: I don’t know. I’m a real &lt;a href=&quot;https://en.wikipedia.org/wiki/Terry_Kath&quot;&gt;Terry Kath&lt;/a&gt; enthusiast.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Oh, ok. All right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And I’m also a real &lt;a href=&quot;https://en.wikipedia.org/wiki/Danny_Seraphine&quot;&gt;Danny Seraphine&lt;/a&gt; enthusiast, the drummer.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: So there was, there’s a chemistry on the way those players sounded together on, for me, the first five records especially.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: I saw them play at &lt;a href=&quot;http://URL&quot;&gt;The Atlanta Pop Festival&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Oh, well that’s cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: And they were great. And you know, horns seem to be making a comeback. [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Well, I was just thinking about popular music that stretches the conventions and they popped into my head.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. Nice.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Those records–just to wax nostalgic for second about a time when &lt;a href=&quot;https://en.wikipedia.org/wiki/Columbia_Records&quot;&gt;Columbia Records&lt;/a&gt; would fund the first three Chicago albums, which were double albums with all sorts of weird musical experimentation.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: With, you know, a million different genres and then just doing whatever they wanted. The fourth album was a live album that was four disks. [Laughs] You know, the four record set…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: [Laughs]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: …with about eighteen pounds of posters in it. You know, they could do whatever wanted.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah, right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: And &lt;span class=&quot;important&quot;&gt;the marketplace was supporting that.&lt;/span&gt; And, I don’t know, I wouldn’t argue with anybody who doesn’t dig Chicago, but I have a real–obviously sentimental, but also I think somewhat logical–affection for them and that early Chicago stuff.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: Cool. Well, it’s at least added to my YouTube list.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: There ya go! Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: I’ll check it out.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: [Laughs] Well, ok. We good?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: Thank you. Make weird music! [Everyone laughs.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AW: All right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;MK: See ya.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Dec 2016 17:00:00 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</guid>
+        
+        
+        <category>interview</category>
+        
+      </item>
     
       <item>
         <title>The Decay of Cities by Henry Cow</title>
@@ -1109,39 +1648,6 @@ I guess one thing to plug, we are coming back to Canada…&lt;/p&gt;
         
         
         <category>discover</category>
-        
-      </item>
-    
-      <item>
-        <title>Mental Medication</title>
-        <description>&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KberQOJf3x8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;IMPORTANT NOTE: When I say, “F#5,” what I really mean is “F#sus4.” Same for all the other “5” chords. I recorded the video pretty late and flipped my 4ths and 5ths. Didn’t realize it until the next day. Oh well.&lt;/p&gt;
-
-&lt;h2 id=&quot;soundslice-notation-and-tablature&quot;&gt;Soundslice Notation and Tablature&lt;/h2&gt;
-
-&lt;p&gt;Living sheet music brought to you by &lt;a href=&quot;http://soundslice.com&quot;&gt;Soundslice &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Wanna know more? Check out &lt;a href=&quot;/gear/soundslice&quot;&gt;our interview with Soundslice co-creator, Adrian Holovaty&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.soundslice.com/scores/39845/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Mental Medication&lt;/em&gt; is one of my favorite songs from the incredible progressive rock album, U.K. It’s a self-titled album and features incredible virtuosity by &lt;a href=&quot;https://en.wikipedia.org/wiki/Allan_Holdsworth&quot;&gt;Allan Holdsworth&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Bill_Bruford&quot;&gt;Bill Bruford&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Wetton&quot;&gt;John Wetton&lt;/a&gt;, and &lt;a href=&quot;https://en.wikipedia.org/wiki/Eddie_Jobson&quot;&gt;Eddie Jobson&lt;/a&gt;. It’s a musical adventure and is so beautiful.&lt;/p&gt;
-
-&lt;p&gt;Check out this other really cool video with a transcription of one of the crazier parts of the song:&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ByLT9JQTMtI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Let me know if you try playing it yourself!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Oct 2016 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/learn/mental-medication</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/mental-medication</guid>
-        
-        
-        <category>learn</category>
         
       </item>
     
