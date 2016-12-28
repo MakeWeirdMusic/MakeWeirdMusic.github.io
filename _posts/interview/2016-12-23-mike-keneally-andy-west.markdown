@@ -25,6 +25,7 @@ This conversation took place in my dining room on Sunday, November 13, 2016. It 
 
 **[And our interview with Andy West!&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](/interview/andy-west)**
 
+<!--
 ## Interview video
 
 Here's a video containing the audio and pull quotes from this interview:
@@ -38,6 +39,7 @@ Here's audio of the interview (NOTE: hitting the "play" button requires a hefty 
 <p><audio src="{{ site.s3_url }}/interview/mike-keneally-andy-west.mp3" controls preload="none" /></p>
 
 Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/mike-keneally-andy-west.mp3).
+-->
 
 ## Thank You
 
