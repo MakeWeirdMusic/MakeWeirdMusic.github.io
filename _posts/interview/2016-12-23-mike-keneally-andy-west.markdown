@@ -43,7 +43,7 @@ Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{
 
 ## Thank You
 
-Thanks so much to Julie Cord, co-owner of [Blue Mouth Promotions](http://bluemouthpromotions.com). BMP is hosting the [2017 NAMM X-JAMM](/link/x-jamm-2017), featuring a slew of great artists performing for 6 hours the Saturday of NAMM in Anaheim. Julie works with Mike in all sorts of ways and BMP is a great company worth supporting. Check them out.
+Thanks so much to Julie Cord, co-founder of [Blue Mouth Promotions](http://bluemouthpromotions.com). BMP is hosting the [2017 NAMM X-JAMM](/link/x-jamm-2017), featuring a slew of great artists performing for 6 hours the Saturday of NAMM in Anaheim. Julie works with Mike in all sorts of ways and BMP is a great company worth supporting. Check them out.
 
 ## Interview Transcript
 
@@ -362,7 +362,7 @@ AW: Right.
 MK: It’s crazy.
 {: .interviewee }
 
-AW: Well ok, so in line with the original evolutionary sort of commentary, do you hear anything that is, I mean... What could you comment on besides yourself--which we can go to another topic on; I want to talk about [Scambot](http://keneally.com/scambot) before you leave. But, do you hear any trends? Or is it just kind of like isolated, “Wow, this is a really interesting approach that these folks are doing or this guy is doing?” I mean, do you hear any kind of overall trending?
+AW: Well ok, so in line with the original evolutionary sort of commentary, do you hear anything that is, I mean... What could you comment on besides yourself--which we can go to another topic on; I want to talk about [Scambot](http://www.keneally.com/music/discography-mike-keneally/scambot1/) before you leave. But, do you hear any trends? Or is it just kind of like isolated, “Wow, this is a really interesting approach that these folks are doing or this guy is doing?” I mean, do you hear any kind of overall trending?
 {: .interviewer }
 
 MK: I’m so out of touch. I mean, <span class="important">I regret the fact that I don’t make the time to listen to everything that crosses my path.</span> I would find it im...I clearly do find it impossible to do so, but there’s so much that passes me by.
@@ -419,7 +419,7 @@ AW: Right.
 MK: It’s amazing. Not just the content of the words, which is powerful and huge, but also the actual content of the performance, and the band playing which was... They’re just like deadly great. And the musical conception, which is really evolved, and it’s endemic of now, what’s happening in the the sort of intersection between hip hop and DJ culture and jazz and spoken word and activism and all the stuff that’s coming together in an insanely powerful way. And which, you know, will continue to do so. That’s just like, I...I...Kendrick Lamar at the Grammys. That’s all I can say.
 {: .interviewee }
 
-AW: Yeah. I’m going to have to go look at that. That’s awesome. Here in Phoenix there’s a--I mean, I’ve looked, and <span class="important">there’s kind of a dearth of opportunity for people to hear live music.</span> You know, it’s really spare. There’s a local club here that is set up as a non-profit called [The Nash](http://WHAT.COM), which is about jazz. But it’s purely jazz. Do you know what I mean? They’re not going to be doing other stuff.
+AW: Yeah. I’m going to have to go look at that. That’s awesome. Here in Phoenix there’s a--I mean, I’ve looked, and <span class="important">there’s kind of a dearth of opportunity for people to hear live music.</span> You know, it’s really spare. There’s a local club here that is set up as a non-profit called [The Nash](http://www.thenash.org), which is about jazz. But it’s purely jazz. Do you know what I mean? They’re not going to be doing other stuff.
 {: .interviewer }
 
 MK: OK.
@@ -443,7 +443,7 @@ AW: [Laughs] Yeah right. It’s uh, it’s going to be right here in the living 
 MK: [Laughs]
 {: .interviewee }
 
-AW: No, it’s cool though. But you know, I think in New York or Boston there seems to be more of--maybe it’s just the concentration of cities. LA, you know, has the [Baked Potato](https://en.wikipedia.org/wiki/Baked_Potato). I guess the other side of that is really that now you go to the issue of musicians and artists creating and how do they support themselves? And then that opportunities become--well, you have to be very creative about this, and <span class="important">if live performance is the only thing that’s gonna really do it, that’s an issue. But yet, we still do.</span> I mean, people still create stuff no matter what. They’re driven to it.
+AW: No, it’s cool though. But you know, I think in New York or Boston there seems to be more of--maybe it’s just the concentration of cities. LA, you know, has the [Baked Potato](https://en.wikipedia.org/wiki/The_Baked_Potato). I guess the other side of that is really that now you go to the issue of musicians and artists creating and how do they support themselves? And then that opportunities become--well, you have to be very creative about this, and <span class="important">if live performance is the only thing that’s gonna really do it, that’s an issue. But yet, we still do.</span> I mean, people still create stuff no matter what. They’re driven to it.
 {: .interviewer }
 
 MK: Yeah.
@@ -530,13 +530,13 @@ MK: Right now. So as soon as you said that all, I saw was stuff I have to do. Yo
 AW: Yeah.
 {: .interviewer }
 
-MK: But, I’m feeling good. I just did a lot of live playing. I was out touring with [*Beer for Dolphins*](https://en.wikipedia.org/wiki/Beer_for_Dolphins) with [Bryan Beller](https://en.wikipedia.org/wiki/Bryan_Beller) and [Joe Travers](https://en.wikipedia.org/wiki/Joe_Travers), and then we wound up on election night at The Baked Potato.
+MK: But, I’m feeling good. I just did a lot of live playing. I was out touring with *Beer for Dolphins* with [Bryan Beller](https://en.wikipedia.org/wiki/Bryan_Beller) and [Joe Travers](http://wiki.killuglyradio.com/wiki/Joe_Travers), and then we wound up on election night at The Baked Potato.
 {: .interviewee }
 
 AW: Right.
 {: .interviewer }
 
-MK: With [Rick Musallum](https://en.wikipedia.org/wiki/Rick_Musallum) joining us.  We were a trio up until that last show, and then we were a quartet which I saw as sort of crossing the threshold in Beer for Dolphins activity next year.
+MK: With [Rick Musallum](http://rickmusallam.com) joining us.  We were a trio up until that last show, and then we were a quartet which I saw as sort of crossing the threshold in Beer for Dolphins activity next year.
 {: .interviewee }
 
 AW: Oh really? Awesome!
@@ -737,7 +737,7 @@ AW: Yeah yeah.
 MK: So there was, there’s a chemistry on the way those players sounded together on, for me, the first five records especially.
 {: .interviewee }
 
-AW: I saw them play at [The Atlanta Pop Festival](http://URL).
+AW: I saw them play at [The Atlanta Pop Festival](https://en.m.wikipedia.org/wiki/Atlanta_International_Pop_Festival_(1970)).
 {: .interviewer }
 
 MK: Oh, well that’s cool.

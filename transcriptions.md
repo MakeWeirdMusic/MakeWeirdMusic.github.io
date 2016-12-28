@@ -21,15 +21,17 @@ Secondly, these interview transcriptions provide us with the pull quotes we use 
 
 ## Stuff to Know
 
-Transcription is difficult and time-consuming. Every minute of audio generally takes most people 2-3 minutes of work. Since a lot of our interviews are 30-60 minutes, transcribing an interview can easily take 1-3 hours of painstaking work. In fact, don't worry if you can't finish the task because it can be quite a commitment. Anything helps!
+**Transcription is difficult and time-consuming.** Every minute of audio generally takes most people 2-3 minutes of work. Since a lot of our interviews are 30-60 minutes, transcribing an interview can easily take 1-3 hours of painstaking work. In fact, don't worry if you can't finish the task because it can be quite a commitment. Anything helps!
 
 Furthermore, we are often discussing esoteric subjects with obscure names. Don't worry if you don't understand what the people in the audio are talking about. Just leave a note to make it obvious that we need to look into it while in the editing process.
 
 ## Technical Details
 
-* Don't capture every single detail of the conversation. We don't need "um," "you know," "mm-hmm," "and... and..." or any repetitive stutters. Use your knowledge of the English language and make the text pleasant to read. Here's an example: `Well I wonder, you know, I, I...it kind of...I wonder if people are looking for that...I hope maybe, I don’t know...through various forms of live performance and things, you know, where people actually can attend.` That should be: `Well, I wonder if people are looking for that through various forms of live performance where people can actually attend.`
-* We generally use Quicktime Player 7 or VLC to set the audio playback speed to 50% while typing the words in a text editor.
+* **Don't capture every single detail of the conversation. Capture English sentences.** We don't need "um," "you know," "mm-hmm," "and... and..." or any repetitive stutters. Use your knowledge of the English language and make the text pleasant to read. Here's an example: `Well I wonder, you know, I, I...it kind of...I wonder if people are looking for that...I hope maybe, I don’t know...through various forms of live performance and things, you know, where people actually can attend.` That should be: `Well, I wonder if people are looking for that through various forms of live performance where people can actually attend.`
+* **There are lots of free/easy-to-get audio tools to aid in transcription work.** We generally use Quicktime Player 7 or VLC to set the audio playback speed to 50% while typing the words in a text editor.
 * Transcription documents should generally be provided in a Google Doc.
-* Don't hyperlink anything directly. Use this format: `[text to link](http://example.com/link/to/reference)`. *There is no space between the bracket and parenthesis.* Here is an example: `One of the great artists and a teacher mentor of mine is [Efrain Toro](https://en.wikipedia.org/wiki/Efrain_Toro).`
+* **MWM uses the [Markdown language](https://en.wikipedia.org/wiki/Markdown) for all text.**
+* **Don't hyperlink anything directly in your text document.** Instead, use this format: `[text to link](http://example.com/link/to/reference)`. *There is no space between the bracket and parenthesis.* Here is an example: `One of the great artists and a teacher mentor of mine is [Efrain Toro](https://en.wikipedia.org/wiki/Efrain_Toro).`
+* **MWM is open source.** If you're familiar with GitHub, go to [our site repo](https://github.com/MakeWeirdMusic/makeweirdmusic.github.io) and you can do a pull request after we chat if you're comfortable with that sort of thing.
 
-Check out [the Julie Slick interview](/discover/julie-slick) for a fantastic transcription job by Casey Williams.
+Check out [the Julie Slick interview](/discover/julie-slick) for a fantastic transcription job by our friend, Casey Williams.
