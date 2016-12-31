@@ -10,9 +10,9 @@ permalink: /interview/mike-keneally-andy-west
 redirect_from: /interview/andy-west-mike-keneally
 oneliner: Long-time friends Mike Keneally and Andy West chat about music.
 seo_description: Mike Keneally (Frank Zappa, Steve Vai) and Andy West (Dixie Dregs) sit down to chat about music.
-seo_keywords:
+seo_keywords: beer for dolphins, joe satriani, chicago, captain beefheart, trout mask replica, henry kaiser
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 
 ---
@@ -21,16 +21,15 @@ has_video: yes
 
 This conversation took place in my dining room on Sunday, November 13, 2016. It was the day after Mike and Andy performed a concert in that same dining room. I just thought it'd be cool if the two of them sat down and talked to each other on film since they're old friends who hadn't played together in years. It was a cool conversation!
 
-**[Check out our interview with Mike Keneally!&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](/interview/mike-keneally)**
+**[Check out our interview with Mike Keneally!](/interview/mike-keneally)**
 
-**[And our interview with Andy West!&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](/interview/andy-west)**
+**[And our interview with Andy West!](/interview/andy-west)**
 
-<!--
 ## Interview video
 
 Here's a video containing the audio and pull quotes from this interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/mMONfhKgwQU?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/omJhldQT-JQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
@@ -39,11 +38,10 @@ Here's audio of the interview (NOTE: hitting the "play" button requires a hefty 
 <p><audio src="{{ site.s3_url }}/interview/mike-keneally-andy-west.mp3" controls preload="none" /></p>
 
 Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/mike-keneally-andy-west.mp3).
--->
 
 ## Thank You
 
-Thanks so much to Julie Cord, co-founder of [Blue Mouth Promotions](http://bluemouthpromotions.com). BMP is hosting the [2017 NAMM X-JAMM](/link/x-jamm-2017), featuring a slew of great artists performing for 6 hours the Saturday of NAMM in Anaheim. Julie works with Mike in all sorts of ways and BMP is a great company worth supporting. Check them out.
+Thanks so much to Julie Cord, co-founder of [Blue Mouth Promotions&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://bluemouthpromotions.com). BMP is hosting the [2017 NAMM X-JAMM](/link/x-jamm-2017), featuring a slew of great artists performing for 6 hours the Saturday of NAMM in Anaheim. Julie works with Mike in all sorts of ways and BMP is a great company worth supporting. Check them out.
 
 ## Interview Transcript
 
@@ -59,7 +57,7 @@ AW: [Laughs] Yeah, exactly! It was fascinating, but there was a lot of this doom
 MK: Yeah.
 {: .interviewee }
 
-AW: Right, in terms of how technology can actually help us instead of hurt us. So, my question is: as someone who’s been a lifelong musician and in the business for so long, how do you... not a business question, but how do you see music evolving? Because it’s really struck me recently as I kind of continue to sort of look backwards and forwards at the same time, particularly with YouTube, you know, you can go see the videos of [Monk](https://en.wikipedia.org/wiki/Thelonius_Monk) and all the classic guys that are just extreme, right?
+AW: Right, in terms of how technology can actually help us instead of hurt us. So, my question is: as someone who’s been a lifelong musician and in the business for so long, how do you... not a business question, but how do you see music evolving? Because it’s really struck me recently as I kind of continue to sort of look backwards and forwards at the same time, particularly with YouTube, you know, you can go see the videos of [Monk&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Thelonius_Monk) and all the classic guys that are just extreme, right?
 {: .interviewer }
 
 MK: Right. [Chuckles]
@@ -101,7 +99,7 @@ AW: Well I wonder if people are looking for that through various forms of live p
 MK: OK.
 {: .interviewee }
 
-AW: I don’t know if you’ve heard somebody like [???DJ Eyer] or something like that where it's just kind of piano jazz but not really a standard jazz form.
+AW: I don’t know if you’ve heard somebody like [Vijay Iyer&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Vijay_Iyer) or something like that where it's just kind of piano jazz but not really a standard jazz form.
 {: .interviewer }
 
 MK: OK. Sure. Oh yeah, sure.
@@ -116,7 +114,7 @@ MK: Well, yeah. I mean, definitely it’s out there. As with anything, there’s
 AW: Yeah.
 {: .interviewer }
 
-MK: Which is why you’re going to see a huge rise in progressive activism over the next few years. But I love that format that you’re describing. My friend [Matt Mitchell](https://en.wikipedia.org/wiki/Matt_Mitchell_(pianist)), who’s a keyboardist and composes for small jazz groups, sounds nominally like jazz but it heads in directions that are unpredictable, and you can feel the acquired knowledge and the exposure to all kinds of culture and music over the last many decades. It gets soaked into it. People will hear the word ‘jazz,’ and they think it’s going to sound like *this*.
+MK: Which is why you’re going to see a huge rise in progressive activism over the next few years. But I love that format that you’re describing. My friend [Matt Mitchell&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Matt_Mitchell_(pianist)), who’s a keyboardist and composes for small jazz groups, sounds nominally like jazz but it heads in directions that are unpredictable, and you can feel the acquired knowledge and the exposure to all kinds of culture and music over the last many decades. It gets soaked into it. People will hear the word ‘jazz,’ and they think it’s going to sound like *this*.
 {: .interviewee }
 
 AW: Right.
@@ -149,7 +147,7 @@ AW: Yeah, that’s kind of cool. The other thing I’ve noticed, and maybe you c
 MK: I don’t mean to make you ask all the questions, but I’m enjoying this process.
 {: .interviewee }
 
-AW: Ok cool. We’ve all...you know, people who have...I don’t want to say ‘studied music’, but sort of watched the evolution of players and musicianship over time. So in that time period when you were talking about, to actually discover a great musician was something that happened almost by serendipity or through some kind of filtered process of editorializing. I remember the first time I ever heard of [Mahavishnu Orchestra](https://en.wikipedia.org/wiki/Mahivishnu_Orchestra), for example, was in [Creem Magazine](https://en.wikipedia.org/wiki/Creem).
+AW: Ok cool. We’ve all...you know, people who have...I don’t want to say ‘studied music’, but sort of watched the evolution of players and musicianship over time. So in that time period when you were talking about, to actually discover a great musician was something that happened almost by serendipity or through some kind of filtered process of editorializing. I remember the first time I ever heard of [Mahavishnu Orchestra&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Mahivishnu_Orchestra), for example, was in [Creem Magazine&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Creem).
 {: .interviewer }
 
 MK: It’s amazing that that’s where you went, because that’s...when you said that I precisely went to the first time I saw Mahavishnu Orchestra.
@@ -212,7 +210,7 @@ AW: But the point is he came in, and he said, “Oh, well, that’s great. You k
 MK: OK.
 {: .interviewee }
 
-AW: And he said, [“This is a CD I made with my dad.”](http://ahab.garone.net) And I said something to the effect of, <span class="important">“Ah that’s great. Yeah, I’ll definitely listen to it. By the way, I hate almost everything.”</span> [Laughs] You know, or something to this effect.
+AW: And he said, [“This is a CD I made with my dad.”&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://ahab.garone.net) And I said something to the effect of, <span class="important">“Ah that’s great. Yeah, I’ll definitely listen to it. By the way, I hate almost everything.”</span> [Laughs] You know, or something to this effect.
 {: .interviewer }
 
 MK: [Laughs] That’s great.
@@ -224,7 +222,7 @@ AW: "You know, don’t take it personal, but I’ll definitely listen to it."
 MK: [Laughs]
 {: .interviewee }
 
-AW: And I listened to this album, and it was...I had probably a year earlier reread [*Moby Dick*](https://en.wikipedia.org/wiki/Moby_Dick) again. It’s kind of like one of these books that I go back to every now and again. And it turns out that this album was conceptualizing the story of *Moby Dick*. [Laughs]
+AW: And I listened to this album, and it was...I had probably a year earlier reread [*Moby Dick*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Moby_Dick) again. It’s kind of like one of these books that I go back to every now and again. And it turns out that this album was conceptualizing the story of *Moby Dick*. [Laughs]
 {: .interviewer }
 
 MK: Mmm hmm.
@@ -263,7 +261,7 @@ MK: I’ve run into that and I’ve become involved in projects specifically bec
 AW: Mmm hmm.
 {: .interviewer }
 
-MK: Sometimes I get a little clouded about that just because I think something is so amazing. I don’t know if I ever feel frightened that people will question my own sanity by recommending something. [Laughs] But then I know, yeah, <span class="important">you don’t just tell anybody that they should go check out [*Trout Mask Replica*](https://en.wikipedia.org/wiki/Trout_Mask_Replica).</span>
+MK: Sometimes I get a little clouded about that just because I think something is so amazing. I don’t know if I ever feel frightened that people will question my own sanity by recommending something. [Laughs] But then I know, yeah, <span class="important">you don’t just tell anybody that they should go check out [*Trout Mask Replica*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Trout_Mask_Replica).</span>
 {: .interviewee }
 
 AW: Yeah, right.
@@ -272,13 +270,13 @@ AW: Yeah, right.
 MK: You gotta read the room. [Laughs]
 {: .interviewee }
 
-AW: Yeah, well Trout Mask... Ok, so just to jump haphazardly to another topic, you know when we first met, and you mentioned this [*Crazy Backwards Alphabet*](https://en.wikipedia.org/wiki/Crazy_Backwards_Alphabet)...
+AW: Yeah, well Trout Mask... Ok, so just to jump haphazardly to another topic, you know when we first met, and you mentioned this [*Crazy Backwards Alphabet*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Crazy_Backwards_Alphabet)...
 {: .interviewer }
 
 MK: Album.
 {: .interviewee }
 
-AW: Right. That I did with [Henry Kaiser](https://en.wikipedia.org/wiki/Henry_Kaiser).
+AW: Right. That I did with [Henry Kaiser&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Henry_Kaiser).
 {: .interviewer }
 
 MK: That’s a really good album. <span class="important">That album was a real complete statement. And I like that record a lot.</span>
@@ -302,13 +300,13 @@ AW: [Laughs] But it was fascinating to me because of course [*Beefheart*](/disco
 MK: OK.
 {: .interviewee }
 
-AW: I was sort of into the [Allman Brothers](https://en.wikipedia.org/wiki/Allman_Brothers), [Led Zeppelin](https://en.wikipedia.org/wiki/Led_Zeppelin), [Cream](https://en.wikipedia.org/wiki/Cream_(band)), you know, that whole thing.
+AW: I was sort of into the [Allman Brothers&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Allman_Brothers), [Led Zeppelin&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Led_Zeppelin), [Cream&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Cream_(band)), you know, that whole thing.
 {: .interviewer }
 
 MK: Right on.
 {: .interviewee }
 
-AW: And [The Mothers](https://en.wikipedia.org/wiki/The_Mothers_of_Invention) too, for sure. But not, like, beyond The Mothers.
+AW: And [The Mothers&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/The_Mothers_of_Invention) too, for sure. But not, like, beyond The Mothers.
 {: .interviewer }
 
 MK: It didn’t go far... yeah, yeah. Exactly.
@@ -329,7 +327,7 @@ MK: In a different kind of way.
 AW: Yeah. So that was pretty cool, and...
 {: .interviewer }
 
-MK: Well, what I enjoyed hearing you play that kind of stuff, not just the Beefheart stuff, but the sort of Beefheart-influenced, uh, "Henry stuff" and whatnot, is how perfectly matched your approach and tone was for that kind of music. Like, I listened to [Rockette Morton](https://en.wikipedia.org/wiki/Rockette_Morton), his bass playing on Trout Mask, and I see a taste of lineage...
+MK: Well, what I enjoyed hearing you play that kind of stuff, not just the Beefheart stuff, but the sort of Beefheart-influenced, uh, "Henry stuff" and whatnot, is how perfectly matched your approach and tone was for that kind of music. Like, I listened to [Rockette Morton&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Rockette_Morton), his bass playing on Trout Mask, and I see a taste of lineage...
 {: .interviewee }
 
 AW: A parallel universe! [Laughs]
@@ -341,7 +339,7 @@ MK: Yeah, well just that. I see a link between your style and his style.
 AW: Well that’s interesting.
 {: .interviewer }
 
-MK: And it’s something to do with the attack on the strings and the musicality of it and the solidity of the sound and all this stuff. When I heard you in the seventies with [The Dregs](https://en.wikipedia.org/wiki/Dixie_Dregs), it was all about precision.
+MK: And it’s something to do with the attack on the strings and the musicality of it and the solidity of the sound and all this stuff. When I heard you in the seventies with [The Dregs&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Dixie_Dregs), it was all about precision.
 {: .interviewee }
 
 AW: Right.
@@ -362,7 +360,7 @@ AW: Right.
 MK: It’s crazy.
 {: .interviewee }
 
-AW: Well ok, so in line with the original evolutionary sort of commentary, do you hear anything that is, I mean... What could you comment on besides yourself--which we can go to another topic on; I want to talk about [Scambot](http://www.keneally.com/music/discography-mike-keneally/scambot1/) before you leave. But, do you hear any trends? Or is it just kind of like isolated, “Wow, this is a really interesting approach that these folks are doing or this guy is doing?” I mean, do you hear any kind of overall trending?
+AW: Well ok, so in line with the original evolutionary sort of commentary, do you hear anything that is, I mean... What could you comment on besides yourself--which we can go to another topic on; I want to talk about [Scambot&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.keneally.com/music/discography-mike-keneally/scambot1/) before you leave. But, do you hear any trends? Or is it just kind of like isolated, “Wow, this is a really interesting approach that these folks are doing or this guy is doing?” I mean, do you hear any kind of overall trending?
 {: .interviewer }
 
 MK: I’m so out of touch. I mean, <span class="important">I regret the fact that I don’t make the time to listen to everything that crosses my path.</span> I would find it im...I clearly do find it impossible to do so, but there’s so much that passes me by.
@@ -377,10 +375,10 @@ MK: But I wouldn’t presume to indicate my awareness of a trend.
 AW: Well, ok, so...
 {: .interviewer }
 
-MK: But I hear good things a lot. Something will come out, and it might be years after it’s current, but I hear relatively new music. Like, [Scott Thunes](https://en.wikipedia.org/wiki/Scott_Thunes) gave me a recording of the band [Field Music](https://en.wikipedia.org/wiki/Field_Music) like eight years ago or something. And I really enjoyed it. And then I sort of didn’t think about them anymore. And then [Marco Minnemann](https://en.wikipedia.org/wiki/Marco_Minnemann) became obsessed with the band Field Music, and then started playing it on the [Satriani](https://en.wikipedia.org/wiki/Joe_Satriani) bus.
+MK: But I hear good things a lot. Something will come out, and it might be years after it’s current, but I hear relatively new music. Like, [Scott Thunes&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Scott_Thunes) gave me a recording of the band [Field Music&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Field_Music) like eight years ago or something. And I really enjoyed it. And then I sort of didn’t think about them anymore. And then [Marco Minnemann&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Marco_Minnemann) became obsessed with the band Field Music, and then started playing it on the [Satriani&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Joe_Satriani) bus.
 {: .interviewee }
 
-I realized I was aware of them. I had even heard their music years ago, and I went, “Yeah, that’s really good.” But then when I heard it a couple years ago again, I was reminded it’s actually really brilliant. It’s exciting. It’s beautifully constructed pop music, that, you know, in its field, it definitely deserves to stand alongside [XTC](https://en.wikipedia.org/wiki/XTC) and the best of [Rundgren](https://en.wikipedia.org/wiki/Todd_Rundgren), and all that stuff. And <span class="important">I love super well-constructed, non-predictable pop music very much.</span>
+I realized I was aware of them. I had even heard their music years ago, and I went, “Yeah, that’s really good.” But then when I heard it a couple years ago again, I was reminded it’s actually really brilliant. It’s exciting. It’s beautifully constructed pop music, that, you know, in its field, it definitely deserves to stand alongside [XTC&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/XTC) and the best of [Rundgren&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Todd_Rundgren), and all that stuff. And <span class="important">I love super well-constructed, non-predictable pop music very much.</span>
 {: .interviewee }
 
 AW: Right.
@@ -398,7 +396,7 @@ MK: Ideally.
 AW: <span class="important">I guess there are people that have never experienced a profound feeling from listening to music, but that would be very sad to me. You know?</span>
 {: .interviewer }
 
-MK: Oh, it would be. And <span class="important">it’s only occasionally that something hits me that makes me need to go on the old social network platforms and share it.</span> But when I saw [Kendrick Lamar](https://en.wikipedia.org/wiki/Kendrick_Lamar) at the Grammys earlier this year... Did you see that performance?
+MK: Oh, it would be. And <span class="important">it’s only occasionally that something hits me that makes me need to go on the old social network platforms and share it.</span> But when I saw [Kendrick Lamar&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Kendrick_Lamar) at the Grammys earlier this year... Did you see that performance?
 {: .interviewee }
 
 AW: No.
@@ -419,7 +417,7 @@ AW: Right.
 MK: It’s amazing. Not just the content of the words, which is powerful and huge, but also the actual content of the performance, and the band playing which was... They’re just like deadly great. And the musical conception, which is really evolved, and it’s endemic of now, what’s happening in the the sort of intersection between hip hop and DJ culture and jazz and spoken word and activism and all the stuff that’s coming together in an insanely powerful way. And which, you know, will continue to do so. That’s just like, I...I...Kendrick Lamar at the Grammys. That’s all I can say.
 {: .interviewee }
 
-AW: Yeah. I’m going to have to go look at that. That’s awesome. Here in Phoenix there’s a--I mean, I’ve looked, and <span class="important">there’s kind of a dearth of opportunity for people to hear live music.</span> You know, it’s really spare. There’s a local club here that is set up as a non-profit called [The Nash](http://www.thenash.org), which is about jazz. But it’s purely jazz. Do you know what I mean? They’re not going to be doing other stuff.
+AW: Yeah. I’m going to have to go look at that. That’s awesome. Here in Phoenix there’s a--I mean, I’ve looked, and <span class="important">there’s kind of a dearth of opportunity for people to hear live music.</span> You know, it’s really spare. There’s a local club here that is set up as a non-profit called [The Nash&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.thenash.org), which is about jazz. But it’s purely jazz. Do you know what I mean? They’re not going to be doing other stuff.
 {: .interviewer }
 
 MK: OK.
@@ -443,7 +441,7 @@ AW: [Laughs] Yeah right. It’s uh, it’s going to be right here in the living 
 MK: [Laughs]
 {: .interviewee }
 
-AW: No, it’s cool though. But you know, I think in New York or Boston there seems to be more of--maybe it’s just the concentration of cities. LA, you know, has the [Baked Potato](https://en.wikipedia.org/wiki/The_Baked_Potato). I guess the other side of that is really that now you go to the issue of musicians and artists creating and how do they support themselves? And then that opportunities become--well, you have to be very creative about this, and <span class="important">if live performance is the only thing that’s gonna really do it, that’s an issue. But yet, we still do.</span> I mean, people still create stuff no matter what. They’re driven to it.
+AW: No, it’s cool though. But you know, I think in New York or Boston there seems to be more of--maybe it’s just the concentration of cities. LA, you know, has the [Baked Potato&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/The_Baked_Potato). I guess the other side of that is really that now you go to the issue of musicians and artists creating and how do they support themselves? And then that opportunities become--well, you have to be very creative about this, and <span class="important">if live performance is the only thing that’s gonna really do it, that’s an issue. But yet, we still do.</span> I mean, people still create stuff no matter what. They’re driven to it.
 {: .interviewer }
 
 MK: Yeah.
@@ -494,7 +492,7 @@ MK: ...then all of a sudden it becomes very practical and real smart to find a w
 AW: Yeah.
 {: .interviewer }
 
-MK: You know I definitely have. I got involved with the [School of Rock](https://en.wikipedia.org/wiki/School_of_Rock) in 2007 and that was my attempt for a year at doing precisely that, holding down a day job. And it just became un-unworkable because by the end of that year, [Dethklok](https://en.wikipedia.org/wiki/Dethklok) was touring, and then suddenly there was an impasse that couldn’t be breached.
+MK: You know I definitely have. I got involved with the [School of Rock&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/School_of_Rock) in 2007 and that was my attempt for a year at doing precisely that, holding down a day job. And it just became un-unworkable because by the end of that year, [Dethklok&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Dethklok) was touring, and then suddenly there was an impasse that couldn’t be breached.
 {: .interviewee }
 
 AW: Right.
@@ -530,13 +528,13 @@ MK: Right now. So as soon as you said that all, I saw was stuff I have to do. Yo
 AW: Yeah.
 {: .interviewer }
 
-MK: But, I’m feeling good. I just did a lot of live playing. I was out touring with *Beer for Dolphins* with [Bryan Beller](https://en.wikipedia.org/wiki/Bryan_Beller) and [Joe Travers](http://wiki.killuglyradio.com/wiki/Joe_Travers), and then we wound up on election night at The Baked Potato.
+MK: But, I’m feeling good. I just did a lot of live playing. I was out touring with *Beer for Dolphins* with [Bryan Beller&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bryan_Beller) and [Joe Travers&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://wiki.killuglyradio.com/wiki/Joe_Travers), and then we wound up on election night at The Baked Potato.
 {: .interviewee }
 
 AW: Right.
 {: .interviewer }
 
-MK: With [Rick Musallum](http://rickmusallam.com) joining us.  We were a trio up until that last show, and then we were a quartet which I saw as sort of crossing the threshold in Beer for Dolphins activity next year.
+MK: With [Rick Musallum&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://rickmusallam.com) joining us.  We were a trio up until that last show, and then we were a quartet which I saw as sort of crossing the threshold in Beer for Dolphins activity next year.
 {: .interviewee }
 
 AW: Oh really? Awesome!
@@ -698,7 +696,7 @@ MK: You got any requested topics, Mr. G?
 Anthony Garone: No, I think this is great.
 {: .interviewer }
 
-MK: Can we talk about the first three [Chicago](https://en.wikipedia.org/wiki/Chicago_(band)) albums? Were you into them?
+MK: Can we talk about the first three [Chicago&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Chicago_(band)) albums? Were you into them?
 {: .interviewee }
 
 AW: [Laughs] You know, I think I was, but I think I was **then**. [Laughs]
@@ -710,7 +708,7 @@ MK: OK, when’s the last time you heard that stuff?
 AW: Then.
 {: .interviewer }
 
-MK: Yeah? Check it out. Actually, I really like [*Chicago V*](https://en.wikipedia.org/wiki/Chicago_V). The first five...
+MK: Yeah? Check it out. Actually, I really like [*Chicago V*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Chicago_V). The first five...
 {: .interviewee }
 
 AW: They’re playing here.
@@ -722,13 +720,13 @@ MK: Some version of Chicago?
 AW: Yeah, some version of them is playing here. I mean, I’m sure they’re playing those songs and probably better than they did then.
 {: .interviewer }
 
-MK: I don’t know. I’m a real [Terry Kath](https://en.wikipedia.org/wiki/Terry_Kath) enthusiast.
+MK: I don’t know. I’m a real [Terry Kath&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Terry_Kath) enthusiast.
 {: .interviewee }
 
 AW: Oh, ok. All right.
 {: .interviewer }
 
-MK: And I’m also a real [Danny Seraphine](https://en.wikipedia.org/wiki/Danny_Seraphine) enthusiast, the drummer.
+MK: And I’m also a real [Danny Seraphine&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Danny_Seraphine) enthusiast, the drummer.
 {: .interviewee }
 
 AW: Yeah yeah.
@@ -737,7 +735,7 @@ AW: Yeah yeah.
 MK: So there was, there’s a chemistry on the way those players sounded together on, for me, the first five records especially.
 {: .interviewee }
 
-AW: I saw them play at [The Atlanta Pop Festival](https://en.m.wikipedia.org/wiki/Atlanta_International_Pop_Festival_(1970)).
+AW: I saw them play at [The Atlanta Pop Festival&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.m.wikipedia.org/wiki/Atlanta_International_Pop_Festival_(1970)).
 {: .interviewer }
 
 MK: Oh, well that’s cool.
@@ -752,7 +750,7 @@ MK: Well, I was just thinking about popular music that stretches the conventions
 AW: Yeah. Nice.
 {: .interviewer }
 
-MK: Those records--just to wax nostalgic for second about a time when [Columbia Records](https://en.wikipedia.org/wiki/Columbia_Records) would fund the first three Chicago albums, which were double albums with all sorts of weird musical experimentation.
+MK: Those records--just to wax nostalgic for second about a time when [Columbia Records&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Columbia_Records) would fund the first three Chicago albums, which were double albums with all sorts of weird musical experimentation.
 {: .interviewee }
 
 AW: Yeah.
