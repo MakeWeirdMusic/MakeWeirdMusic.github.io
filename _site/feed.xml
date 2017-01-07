@@ -6,9 +6,62 @@
 </description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Dec 2016 23:58:45 -0700</pubDate>
-    <lastBuildDate>Fri, 30 Dec 2016 23:58:45 -0700</lastBuildDate>
+    <pubDate>Fri, 06 Jan 2017 23:15:08 -0700</pubDate>
+    <lastBuildDate>Fri, 06 Jan 2017 23:15:08 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Steve Vai&#39;s EVO &amp; Mad Hatter Terminator Kit</title>
+        <description>&lt;h2 id=&quot;video&quot;&gt;video&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LETPKHwA7AY&quot;&gt;Here’s a video&lt;/a&gt; about the installation of the Mad Hatter SVST-HSH Terminator Kit in EVO:&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LETPKHwA7AY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
+
+&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;preface&quot;&gt;Preface&lt;/h2&gt;
+
+&lt;p&gt;I kinda promised myself I wouldn’t make this a sentimental/nostalgic post, but the content means so much to me that I’d feel inauthentic doing otherwise. &lt;a href=&quot;/interview/steve-vai&quot;&gt;Steve Vai&lt;/a&gt;’s guitar, &lt;a href=&quot;https://en.wikipedia.org/wiki/Evo_(guitar)&quot;&gt;EVO&lt;/a&gt;, can be heard on on some of my favorite music of all time. I was &lt;em&gt;obsessed&lt;/em&gt; with the guitar as a teenager when I found out about the guitar in 1995. Seriously, I carried &lt;a href=&quot;http://ibanezrules.com/catalogs/us/1995/index.htm&quot;&gt;the 1995 Ibanez Guitars catalog&lt;/a&gt; everywhere I went in junior high and drew pictures of EVO in all my art classes (and other classes).&lt;/p&gt;
+
+&lt;p&gt;EVO was all I would talk about with my friends and family at that time. In 1997, my grandmother, parents, and I pooled our money together and bought my Ibanez Jem7vwh, new in box. I’ve had that guitar ever since. That was 20 years ago now!! Sheesh.&lt;/p&gt;
+
+&lt;p&gt;Anyway, you may remember &lt;a href=&quot;/gear/mad-hatter&quot;&gt;my interview with “Electric Ed” Heisler&lt;/a&gt;, owner of &lt;a href=&quot;http://madhatterguitarproducts.com&quot;&gt;Mad Hatter Guitar Products&lt;/a&gt;. I told Steve about Ed’s patent-pending potentiometer designs and what a difference it made in my Jem. Steve immediately said, “Would you install it in EVO?”&lt;/p&gt;
+
+&lt;p&gt;So, um… We did!&lt;/p&gt;
+
+&lt;p&gt;It was a little nerve-wracking leaving the venue with one of the most valuable guitars on the planet. I joked with Ed that I would rather Steve handed us a bag with 1 million dollars cash because cash is replaceable. I think Ed double-checked his homeowner’s insurance after he brought EVO home.&lt;/p&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+
+&lt;p&gt;[You really should just watch the video to see what we did.]&lt;/p&gt;
+
+&lt;p&gt;Before Ed installed the &lt;a href=&quot;https://madhatterguitarproducts.com/collections/terminator-single-volume-kits/products/copy-of-single-volume-single-tone-complete-kit-with-a-5-way-selector-switch-for-humbucker-single-humbucker-svst-hsh&quot;&gt;Mad Hatter Terminator SVST-HSH System&lt;/a&gt;, he took note of the existing wiring configuration. Steve was using a push-pull volume pot configuration with a 331K (.0033 microfarad) ceramic capacitor modification that rolled off some of the low end frequencies when engaged. Also, his tone pot had a &lt;a href=&quot;http://www.guitarelectronics.com/product/TCO033/Orange-Drop-022-Microfarad-Tone-Capacitors-for-Guitar-Bass.html&quot;&gt;Vishay orange drop .022 microfarad tone capacitor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ed customized a &lt;a href=&quot;https://madhatterguitarproducts.com/pages/yin-yang-push-pull-pot-mods&quot;&gt;Mad Hatter Yin Yang 500K push pull volume pot&lt;/a&gt; by placing the ceramic capacitor in parallel with the pot. He installed the Vishay capacitor on the &lt;a href=&quot;https://madhatterguitarproducts.com/products/mad-hatter-universal-cts-dual-value-potentiometer-with-stss-tone-lead&quot;&gt;Mad Hatter Killer Tone dual-value pot&lt;/a&gt; and wired it to 500K. He replaced Steve’s output jack with a new Mad Hatter Switchcraft output jack and replaced the existing 5-way CRL selector switch with the Mad Hatter Terminator 5-way CRL selector switch.&lt;/p&gt;
+
+&lt;p&gt;The Terminator system design is solderless, so Ed connected everything to the appropriate terminals using the Mad Hatter Little Ass Screwdriver and gently tugged on all the wires once installed in the terminals to ensure secure attachment.&lt;/p&gt;
+
+&lt;p&gt;Before restringing the guitar, he used the Little Ass Screwdriver to ensure the pickups and switch configuration were working as expected. Once it passed inspection, we restrung the guitar and demo’d the new hardware. It sounded great to our ears, but only one set of ears truly mattered.&lt;/p&gt;
+
+&lt;p&gt;Ed and I brought the guitar to Steve’s studio about a week later and he loved the upgrade. He said, “It’s like EVO has a bigger set of lungs,” and specifically commented on an increase of clarity in the mid-range frequencies. Thomas Nordegg, Steve’s guitar tech, was also very happy with the tone. Ed and I were both smiling for hours afterward.&lt;/p&gt;
+
+&lt;p&gt;So, this was a huge deal for me because Steve’s music, instruments, and friendship have played a significant part in my life. To play a small part in the history of this incredible instrument is an indescribable honor. And it was awesome to get to hang out so much with Ed, learn even more about his awesome products, and get to know him better on a road trip to LA. He exposed me to some cool weird music I’ll be sharing at some point, too!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jan 2017 12:14:46 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/gear/evo</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/gear/evo</guid>
+        
+        
+        <category>gear</category>
+        
+      </item>
     
       <item>
         <title>Mike Keneally Talks To Andy West</title>
@@ -1527,127 +1580,6 @@ I guess one thing to plug, we are coming back to Canada…&lt;/p&gt;
         
         
         <category>link</category>
-        
-      </item>
-    
-      <item>
-        <title>Steve Ball</title>
-        <description>&lt;p&gt;Steve Ball and I have a lot in common. Like, way more in common than I ever would have suspected. We both have leadership positions in the technology industry, we both have crowded home studios filled with gear and music paraphernalia, we’re both dads to young kids, and we both work on the “fun” stuff from 9PM til 1 or 2 or 3AM.&lt;/p&gt;
-
-&lt;p&gt;The differences between me and Steve become apparent when you investigate our histories and successes. Steve is quite an accomplished performer, artist, and composer. He has musical collaborators all over the world and has an incredible discography. He is one of the founders and leaders of the &lt;a href=&quot;http://seattlecircle.org/&quot;&gt;Seattle Guitar Circle &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;He’s been in several bands, like Electric Gauchos, C3, Los Gauchos Alemanes, League of Crafty Guitarists, and more. Steve’s an incredible, prolific achiever.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.steveball.com&quot;&gt;Check out Steve Ball’s website! &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
-
-&lt;p&gt;Here’s a video of our interview with Steve Ball:&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-b7MeucH4Xk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
-
-&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
-
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;thank-you&quot;&gt;Thank You&lt;/h2&gt;
-
-&lt;p&gt;Special thanks to Rod Knowlan, guitarist for the Vancouver, Canada-based indie rock band, &lt;a href=&quot;http://headmusic.ca&quot;&gt;HEAD &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Rod is also a fan of all manner of music, weird and otherwise. I met Rod right after I met &lt;a href=&quot;/interview/kerry-minnear&quot;&gt;Kerry Minnear&lt;/a&gt; in Montreal. What a special day!&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Hey, this is Anthony with makeweirdmusic.com, and I’m here with &lt;a href=&quot;http://www.steveball.com/&quot;&gt;Steve Ball &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; all the way from Seattle, Washington. Steve, thank you so much for joining us.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;SB: Thanks for having me, Anthony, and great to talk to you again.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Thank you. So I know you’ve got 30 years of musical history and there’s so much to get into, but for the purposes of this interview I think it would be really cool if we could talk through the musical projects with which you’ve been recently associated and are currently involved.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;SB: Awesome! That’s a great lead-in to, as you described, 30 years of interactions and collaborations that I’ve done that really go all the way back to something that your audience may be familiar with and I’m probably going to do some radical product placement during our quick talk tonight.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I was involved in the very early days of something called &lt;a href=&quot;https://en.wikipedia.org/wiki/Guitar_Craft&quot;&gt;Guitar Craft&lt;/a&gt; and these were a couple of the very early musical recordings that came out of Guitar Craft. This one, in fact, I produced by hand at a place called Claymont in West Virginia. This was the very first indie release by the &lt;a href=&quot;http://thelcg.net/&quot;&gt;League of Crafty Guitarists &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, called &lt;em&gt;Get Crafty.&lt;/em&gt;&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ysUzpksFXS4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;It has famously been unavailable on any modern formats but since my early days of plugging in and being a crafty guitarist I’ve done many other projects both with the League from the beginning through multiple eras, all the way through a whole host of spin-off projects that kicked off in the second phase of Guitar Craft in 1991, after the League’s 3-year tour fell apart because Robert [Fripp] and &lt;a href=&quot;https://en.wikipedia.org/wiki/E.G._Records&quot;&gt;E.G. Records &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; fell into a multi-year dispute.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I formed a band in Los Angeles with my friend, Sanford Ponder, and we pulled in some names that might be familiar to your audience, &lt;a href=&quot;https://en.wikipedia.org/wiki/Pat_Mastelotto&quot;&gt;Pat Mastelotto &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Nigel_Gavin&quot;&gt;Nigel Gavin &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and we recorded in 1991 and 1992 a fairly “proggy” album called &lt;a href=&quot;http://rateyourmusic.com/release/album/prometheus_f1/prometheus/&quot;&gt;Prometheus &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Around the same time there was a new band being born out of the first phase of Guitar Craft called the &lt;a href=&quot;https://en.wikipedia.org/wiki/California_Guitar_Trio&quot;&gt;California Guitar Trio &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and I was there at the birth of this as well. This is one of the other spin-off projects that is now going on, I think, its 25th anniversary as Paul (Richards), Bert (Lams) and Hideyo (Moriya) are about to release their new album as the California Guitar Trio. I played with and even on a couple of the early California Guitar Trio albums.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4HqFdQEK6_o&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Eventually I moved to Seattle and put together an independent outfit around 1993 called the &lt;a href=&quot;http://seattlecircle.org/&quot;&gt;Seattle Guitar Circle &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. My primary mission with this project was to develop a completely independent entity so that if other Guitar Craft-related activities happened or business interactions with Robert and Guitar Craft over the years, I wanted to have something that would be independent and available to sustain itself through whatever next-gen changes that Robert and Guitar Craft needed to do. So the Seattle Guitar Circle was, by design, an independent project designed to continue the application and assimilation of what I learned from Guitar Craft in a local context.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I don’t know if you can see, some of the characters here are, to this day, still working and playing together in Seattle. In fact, I was with many of them, almost all of these characters were in a room last night at a Seattle Guitar Circle meeting, including Bob Williams, &lt;a href=&quot;http://seattlecircle.org/guitarschool/about-scgs/who-we-are/&quot;&gt;Jaxie Binder &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;http://curtgolden.homestead.com/&quot;&gt;Curt Golden &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Bill_Rieflin&quot;&gt;Bill Rieflin &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and Dean called in with a conflict as well.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;The Seattle Guitar Circle is going on now 23 years of ongoing interactions in Seattle&lt;/span&gt;, essentially building on the same techniques that we learned from Robert Fripp and in Guitar Craft, involving improvisation, how to play in a group and how to invite music into the present moment in a unique but reliable way.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So there’s a glimpse of some history, mostly based upon artifacts that people no longer buy…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: (laughs)&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;SB: However, as you know, I am still in the bad habit of organizing projects, groups and collaborations designed to bring music into the world on its own terms. So, in fact, as you mentioned, one of my more recent projects just happened about a month ago, it was exactly a month ago that this small set of people started out with 6 invitations for a core team that included &lt;a href=&quot;https://en.wikipedia.org/wiki/Amy_Denio&quot;&gt;Amy Denio &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, who is a local Seattle jazz and new music master, Nigel Gavin, who is also a crafty guitarist from the early days and an amazing guitarist in his own right, from New Zealand, &lt;a href=&quot;http://www.noragermain.com/&quot;&gt;Nora Germain &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, who is a jazz violinist from Los Angeles who is a force of nature and she is plowing ahead in an amazing career already in Los Angeles as a phenomenal jazz violinist, [Paul Richards] from the California Guitar Trio and one of my best Guitar Craft buddies. We’ve been collaborating for 30 years now, &lt;a href=&quot;https://en.wikipedia.org/wiki/Petra_Haden&quot;&gt;Petra Haden &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, who is one of the surprise wild cards. Petra is the daughter of &lt;a href=&quot;https://en.wikipedia.org/wiki/Charlie_Haden&quot;&gt;Charlie Haden &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, one of the jazz world’s premiere and revered bass players and Petra is one of 3 daughters who are part of the &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Haden_Triplets&quot;&gt;Haden Triplets &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Petra has a voice that can melt glass at 100 meters.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vcXo3owlGpY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;This core team was joined by about 20 other guitarists, instrumentalists and celebrities from around the country and we came together for a week of work. The odd and maybe funny instigation was fairly open-ended in that no one really knew what they were getting themselves into but what we did is, in 3 days we essentially assembled a repertoire and did a show, we showed up on a Sunday and we did a show on a Wednesday night at a place called &lt;a href=&quot;http://chapelspace.blogspot.ca/&quot;&gt;The Chapel &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; in Seattle, which is a well-known jazz and new music venue in the &lt;a href=&quot;http://historicseattle.org/project/good-shepherd/&quot;&gt;Good Shepherd Center &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; in Wallingford.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;We wrote and improvised our way through about 90 minutes of music for a show 2 days after we had essentially just met and then we went into one of Seattle’s most famous recording studios, a place called &lt;a href=&quot;https://en.wikipedia.org/wiki/London_Bridge_Studio&quot;&gt;London Bridge &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, where the early &lt;a href=&quot;https://en.wikipedia.org/wiki/Pearl_Jam&quot;&gt;Pearl Jam &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; records were recorded and a whole mess of albums that most of the world knows about. We locked out London Bridge and for 3 days we took this set of world-class musicians we recorded the repertoire we developed in the first 3 days and we improvised for a couple of days with guest producers, who were invited to come in and arrange or invent or discover something with this set of world class musicians in the moment.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So we had &lt;a href=&quot;https://en.wikipedia.org/wiki/Trey_Gunn&quot;&gt;Trey Gunn &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, Bob Williams, &lt;a href=&quot;http://www.carlgermainmusic.com/&quot;&gt;Carl Germain &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and Dean Jensen stand up in front of this group of world-class musicians and they orchestrated something out of nothing. Now we have about 6 hours of music that I’m beginning to sort through so that this tiny orchestral moment’s project will move from a wild hare-brained idea mostly inspired by Nigel and Paul Richards saying they wanted to come to Seattle to do a project. It will likely evolve into 3, maybe 4 CDs, as well as something that no one saw coming, we also had a set of documentary filmmakers who were there at the Wednesday night show and then they were with us for 3 days in London Bridge with cameras everywhere, interviewing everyone involved and asking questions that I mostly worked hard to not listen to the answers. There’s a documentary being made about the entire project.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TFdCzkPMa8s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;The documentary filmmakers last year released a film called &lt;a href=&quot;http://www.imdb.com/title/tt4421654/&quot;&gt;Bezango, Washington &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which is an amazing documentary by Ron Austin and Louise Amandes who decided to document the early days of the Northwest comic and cartoon art community, which includes &lt;a href=&quot;https://en.wikipedia.org/wiki/Matt_Groening&quot;&gt;Matt Groening &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Lynda_Barry&quot;&gt;Lynda Barry &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and a whole slew of amazing cartoon artists from the Northwest.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So they came in and are now sorting through hours and hours of footage from the project and they’re mission is, as far as I understand it, is to tell the story of the project. All of this unfolded over the last month and I will say that, musically, there were unexpected surprises and some amazing improvised compositions that unfolded from these collaborations. Maybe I’ll just shut up and play you a little bit of something I’ve been mixing to give you a sense of maybe what this project was.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Very cool! I think right before you played the show, a couple of names got added to that roster as well. &lt;a href=&quot;https://en.wikipedia.org/wiki/Adrian_Belew_Power_Trio#Julie_Slick&quot;&gt;Julie Slick &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; was added, and was there somebody else?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;SB: Yeah, there were actually 3 or 4 significant late additions, the Friday before the project was going to begin on Sunday, I heard from Amy Denio that she could only make the first half of the project because she had landed a gig in Turkey and she was flying out of the country to go play with her regular band, called &lt;a href=&quot;https://en.wikipedia.org/wiki/Kultur_Shock&quot;&gt;Kultur Shock &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, an amazing, internationally-known band. So Amy was going to disappear and rather than have a gap in this core of 3 men and 3 women, this balanced, chemically combination of players, I decided to call Julie, whom I had collaborated with 2 years ago.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IKFmZrRu7UQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I played on Julie’s record, &lt;a href=&quot;https://julieslick.bandcamp.com/album/terroir&quot;&gt;&lt;em&gt;Terroir&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; with a track called &lt;em&gt;Pi&lt;/em&gt;, which is also amazing music with a ton of collaborations, but I called up Julie , with 2 days notice, invited her to Seattle and she said yes. She showed up on Tuesday to join us with only a day of practice for the Wednesday night show and for 3 days in the studio. Her presence was also, both phenomenal and, looking back, not only did she gel completely with the personalities in the team, but musically she had a massive impact on the repertoire, the sound, the feel and, of course, the energy of all of the music that happened.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;In addition, I also invited a crafty guitarist I’d met and played with in the Orchestra of Crafty Guitarists named &lt;a href=&quot;http://www.patrickgrant.com/&quot;&gt;Patrick Grant &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Patrick is another powerhouse musician who has organized a project called &lt;a href=&quot;http://tiltedaxes.com/tiltedaxes.html&quot;&gt;Tilted Axes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; which is a “Music for Mobile Electric Guitars” project that goes into cities and with small, portable amplifiers, they strap on a guitar and an amp and they wander around cities with sometimes 10 to 20 to 30 electric guitarists playing both composed and improvised music in unlikely locations. When I met Patrick we hit it off so I invited Patrick out to join us. He also showed up on Tuesday afternoon, joined us literally off the plane and into dress rehearsal and played piano and electric guitar. He also radically changed the character, the flavor and the outcome of the music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I’d say there are two other significant additions; one was Aileen Bunch, who is also a long-time Crafty Guitarist and a member of Patrick’s “Tilted Axes” group. She was here for another project that had happened a couple of weeks earlier where a small team of people decided to take a very famous piece of Guitar Craft repertoire called &lt;em&gt;Eye of the Needle&lt;/em&gt;, which has been played for 30 years in all sorts of Guitar Craft environments and there was a set of people who decided to work on a vocal-only version, an a cappella version of this piece. Aileen was here for that, she heard about (our) project and decided to stay. She contributed some amazing keyboard and piano parts and singing as well.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sQ78iTKSFkA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Finally, Nigel Gavin brought his girlfriend Sonia Wilson, who had just come from New York where she was doing merchandise for &lt;a href=&quot;https://en.wikipedia.org/wiki/Suzanne_Vega&quot;&gt;Suzanna Vega &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Sonia turned out to be another wild card who contributed with her voice, her ukulele and her presence an entirely lovable and grounded set of music and collaborations to the entire event that also changed the nature of how and what we did.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So we had this combination that started out with six core people consisting of three men and three women and in the end it was a core team of about five men and five women, also surrounded by the very talented, very experienced and hard-working Seattle Guitar Circle. We had close to twenty additional contributors and Trey Gunn and Dan Moore who all brought their own craft and their own work with years and years of improvisation to the team and the results are all over the map, from &lt;a href=&quot;/discover/frank-zappa&quot;&gt;Zappa&lt;/a&gt;-like experimental to cluster-filled, &lt;a href=&quot;https://en.wikipedia.org/wiki/Glenn_Branca&quot;&gt;Glen Branca&lt;/a&gt;-like unfolding chaos to deeply moving orchestrated knot-work with vocals that appear from nowhere all the way to a piece called &lt;em&gt;Spiritual&lt;/em&gt; which unfolded in the very first day, the very first rehearsal, without conversation, without planning, without any real homework. The entire group essentially went from silence to an unfolding improvisation that turned into this beautiful song that is, coincidentally written by Petra’s brother, &lt;a href=&quot;https://en.wikipedia.org/wiki/Josh_Haden&quot;&gt;Josh Haden &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. So there is an actual thread of a real composition here but the entire arrangement arrived out of the sky.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;My primary mission is to bring groups of people together who can make things together that they would otherwise not do on their own. Obviously there’s a long history of this, if you go back to the early League, to &lt;a href=&quot;http://www.losgauchos.de/&quot;&gt;Los Gauchos Alemanes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Seattle Guitar Circle, &lt;a href=&quot;http://www.electricgauchos.com/&quot;&gt;Electric Gauchos &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt; and this latest project, Tiny Orchestral Moments.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4VbyYMcWB94&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I’d be happy to unveil and share little bits and pieces of some of the corners of these collaborations with you and your audience over the next couple of months, if you’re up for that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Sounds great, where can they go to get more information as it unfolds?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;SB: Eventually there will be a Tiny Orchestral Moments website. Today there is a Facebook group called &lt;a href=&quot;https://www.facebook.com/tinyorchestralmoments/&quot;&gt;Tiny Orchestral Moments &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;, so if you’re on Facebook, the best way to learn a little bit and see some of the videos that have poured off of cell phones and out of the team members of the project so far, you’ll probably get the best updates there in the short term.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;When we release the documentary and the probably 3 CDs that will include songs, complete improvisations that are all over the map in terms of structure and feel and some of the producer’s tracks. Trey, for example, had the team divided into instrumentalists on one side and vocalists on the other side of the room. He then orchestrated a collaboration and counterpoint between vocals and instruments.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;There’s a whole set of experimental producer’s sessions that will probably end up on its own disk as well. For starters, if you’re on Facebook, find the Tiny Orchestral Moments group, there’s a huge amount of photos and some cool videos to check out there. Also, watch Make Weird Music for ongoing updates or you can go to http://www.steveball.com where there’s often more information than should rightly be in one place on all of this stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Excellent, thank you so much, Steve, I look forward to unraveling even more of your musical history over follow-up conversations. Thanks a lot for sharing your time with us.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;SB: Awesome, my pleasure, I also look forward to ongoing conversations, thank you, Anthony.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Thanks, Steve!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 15 Oct 2016 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/steve-ball/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/steve-ball/</guid>
-        
-        
-        <category>discover</category>
         
       </item>
     
