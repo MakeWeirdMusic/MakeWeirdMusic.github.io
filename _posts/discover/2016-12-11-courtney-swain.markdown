@@ -32,7 +32,6 @@ Here's audio of the interview (NOTE: hitting the "play" button requires a hefty 
 <p><audio src="{{ site.s3_url }}/discover/courtney-swain/courtney-swain.mp3" controls preload="none" /></p>
 
 Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/discover/courtney-swain/courtney-swain.mp3).
--->
 
 ## Thank You
 
@@ -306,3 +305,4 @@ CS: I know! I know! You're just such a great listener. That's the problem.
 {: .interviewee }
 
 AG: It's the cross I have to bear I guess. All right, thanks so much Courtney.
+{: .interviewer }
