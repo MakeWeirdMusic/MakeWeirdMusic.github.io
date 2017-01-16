@@ -17,6 +17,10 @@ has_video: yes
 
 Patrick Grant is a composer based in New York City. He founded the musical group, [Tilted Axes&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://tiltedaxes.com), and has worked with with [John Cage&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Cage), Robert Fripp and the Orchestra of Crafty Guitarists, Billy Joel, and Quincy Jones. I met Patrick in Mexico while I attended the Guitar Circle introductory course. He was attending the Ochestra of Crafty Guitarists preparation course.
 
+I love this interview and Patrick offers so much wisdom and insight. Lots of great stuff in here, so make sure you read/listen/watch the whole thing.
+
+Thanks to [Steve Ball](/discover/steve-ball) for pushing me in Patrick's direction!
+
 **[Check out Patrick's website!&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.patrickgrant.com)**
 
 ## Interview video
