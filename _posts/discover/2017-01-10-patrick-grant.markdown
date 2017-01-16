@@ -11,7 +11,7 @@ oneliner: New York-based composer and founder of Tilted Axes
 seo_description: Patrick Grant is a composer based in New York City and founder of Tilted Axes.
 seo_keywords: robert fripp, king crimson, philip glass, steve reich, john cage
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 ---
 
@@ -19,21 +19,19 @@ Patrick Grant is a composer based in New York City. He founded the musical group
 
 **[Check out Patrick's website!&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.patrickgrant.com)**
 
-<!--
 ## Interview video
 
 Here's a video of our interview with Patrick Grant:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/R7oCz8oFhZQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/0VBDV0YxGUg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="{{ site.s3_url }}/discover/courtney-swain/courtney-swain.mp3" controls preload="none" /></p>
+<p><audio src="{{ site.s3_url }}/discover/patrick-grant/patrick-grant.mp3" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/discover/courtney-swain/courtney-swain.mp3).
--->
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/discover/patrick-grant/patrick-grant.mp3).
 
 ## Interview Transcript
 
