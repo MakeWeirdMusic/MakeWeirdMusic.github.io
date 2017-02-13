@@ -14,7 +14,12 @@ seo_keywords: weird, snakefinger, molly savage, fred frith, nolan cook, jay clem
 front_page: yes
 draft: no
 has_video: yes
-
+youtube_id: Rj1dezLkIfI
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3
+duration: "45:23" #audio length in min
+length: "87784511" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## SPECIAL THANKS
@@ -27,7 +32,7 @@ Special thanks to Caustic Casey, [purveyor of Hellish Foods&nbsp;<i class="non-m
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rj1dezLkIfI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 PODCAST AUDIO COMING SOON!
 
@@ -35,9 +40,9 @@ PODCAST AUDIO COMING SOON!
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="{{ site.s3_url }}/interview/homer-flynn/homer-flynn.mp3" controls preload="none" /></p>
+<p><audio src="{{ file }}" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/homer-flynn/homer-flynn.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ file }}).
 
 ## Some Context
 

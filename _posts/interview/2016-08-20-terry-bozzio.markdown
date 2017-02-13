@@ -13,7 +13,13 @@ seo_keywords: frank zappa, korn, missing persons, dale bozzio, punky's whips, br
 front_page: yes
 draft: no
 has_video: yes
-
+block: "no" #means is shown in itunes
+youtube_id: mMONfhKgwQU
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/terry-bozzio/terry-bozzio.mp3
+duration: "44:09" #audio length in min
+length: "64078703" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Some Context
@@ -34,15 +40,15 @@ Be sure to check out our interviews with other Zappa alumni: [Steve Vai](/interv
 
 Here's a video containing the audio and pull quotes from this interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/mMONfhKgwQU?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="{{ site.s3_url }}/interview/terry-bozzio/terry-bozzio.mp3" controls preload="none" /></p>
+<p><audio src="{{ file }}" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/terry-bozzio/terry-bozzio.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ file }}).
 
 ## Interview Transcript
 

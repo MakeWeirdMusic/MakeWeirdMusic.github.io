@@ -13,6 +13,12 @@ seo_keywords: steve vai, favored nations, freak kitchen, freak guitar, mattias i
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: Y0N3UY6VAS4
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/ben-levin/ben-levin.mp3
+duration: "59:21" #audio length in min
+length: "140534652" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
 redirect_from:
   - /interview/matthias-eklundh
   - /interview/mattias-eklund
@@ -44,7 +50,7 @@ Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Y0N3UY6VAS4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 PODCAST AUDIO COMING SOON!
 

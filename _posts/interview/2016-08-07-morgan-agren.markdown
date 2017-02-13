@@ -13,22 +13,27 @@ seo_keywords: frank zappa, mats oberg, mats/morgan, mats morgan band, sol niger 
 front_page: yes
 draft: no
 has_video: yes
-
+youtube_id: 8CkgGTcmJG4
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/morgan-agren/morgan-agren.mp3
+duration: "01:14:42" #audio length in min
+length: "108844237" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Interview video
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8CkgGTcmJG4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="{{ site.s3_url }}/interview/morgan-agren/morgan-agren.mp3" controls preload="none" /></p>
+<p><audio src="{{ file }}" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/morgan-agren/morgan-agren.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ file }}).
 
 ## Some Context
 

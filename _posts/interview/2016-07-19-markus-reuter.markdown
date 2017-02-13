@@ -13,22 +13,27 @@ seo_keywords:
 front_page: yes
 draft: no
 has_video: yes
-
+youtube_id: s8cqnlbH2jM
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter.mp3
+duration: "58:45" #audio length in min
+length: "113580607" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Interview video
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/s8cqnlbH2jM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="{{ site.s3_url }}/interview/markus-reuter/markus-reuter.mp3" controls preload="none" /></p>
+<p><audio src="{{ file }}" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/markus-reuter/markus-reuter.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ file }}).
 
 ## Special Thanks
 

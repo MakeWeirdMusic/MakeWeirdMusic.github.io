@@ -13,7 +13,12 @@ seo_keywords: Joe Jackson, Loopestra, Rickie Lee Jones, Blue Mouth Promotions, b
 front_page: yes
 draft: no
 has_video: yes
-
+youtube_id: hZTfDQvzNbw
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3
+duration: "44:53" #audio length in min
+length: "65346019" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## SPECIAL THANKS
@@ -26,15 +31,15 @@ Also special thanks to [Lucas Lee&nbsp;<i class="non-mwm fa fa-external-link-squ
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/hZTfDQvzNbw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="{{ site.s3_url }}/interview/teddy-kumpel/teddy-kumpel.mp3" controls preload="none" /></p>
+<p><audio src="{{ file }}" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/teddy-kumpel/teddy-kumpel.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ file }}).
 
 ## Some Context
 

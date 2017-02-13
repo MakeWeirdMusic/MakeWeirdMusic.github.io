@@ -14,7 +14,12 @@ seo_keywords: beer for dolphins, joe satriani, chicago, captain beefheart, trout
 front_page: yes
 draft: no
 has_video: yes
-
+youtube_id: omJhldQT-JQ
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3
+duration: "33:13" #audio length in min
+length: "64493904" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Some Context
@@ -29,15 +34,15 @@ This conversation took place in my dining room on Sunday, November 13, 2016. It 
 
 Here's a video containing the audio and pull quotes from this interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/omJhldQT-JQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 ## Interview Audio (Podcast)
 
 Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
 
-<p><audio src="{{ site.s3_url }}/interview/mike-keneally-andy-west.mp3" controls preload="none" /></p>
+<p><audio src="{{ file }}" controls preload="none" /></p>
 
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/mike-keneally-andy-west.mp3).
+Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ file }}).
 
 ## Thank You
 
