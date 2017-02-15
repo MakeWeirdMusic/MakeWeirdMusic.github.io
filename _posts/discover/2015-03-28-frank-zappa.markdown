@@ -12,12 +12,8 @@ seo_description: Frank Zappa is the poster child for weird music in the 20th cen
 seo_keywords: Zappa Plays Zappa, Frank Zappa, Steve Vai, Tommy Mars, Complexity, Orchestration, Virtuosity, Humor
 front_page: yes
 has_video: yes
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - time signatures
-  - instrumentation
+youtube_id: MnO91KMP_-w
+block: "yes" #means is shown in itunes
 ---
 ## Who was Frank Zappa?
 
@@ -27,9 +23,7 @@ Frank Zappa was an incredibly prolific man with an enormous skill set and limitl
 
 If you don't know anything about Frank Zappa, here's an intro video I put together. It's the first video I made for the site, so it could use some improvement, but it's something!
 
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MnO91KMP_-w" frameborder="0" allowfullscreen=""></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 ## About his music
 

@@ -14,6 +14,12 @@ front_page: yes
 draft: no
 has_video: yes
 redirect_from: /interview/leonardo-pavkovic
+youtube_id: nx_8gLAlFiQ
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moonjune-records/moonjune-records.mp3
+duration: "15:36" #audio length in min
+length: "30260848" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## A LITTLE ABOUT MoonJune Records
@@ -28,7 +34,11 @@ Leonardo was very friendly and fast to respond to my Facebook messages requestin
 
 Here's the video of the interview with Leonardo Pavkovic.
 
-<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/nx_8gLAlFiQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
+
+## Interview Audio (Podcast)
+
+{% include audio.html podcast=page.file %}
 
 ## Leonardo's Recommendations
 

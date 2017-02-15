@@ -14,9 +14,8 @@ facebook_post_url: https://www.facebook.com/MakeWeirdMusic/posts/754055434707182
 google_post_url: https://plus.google.com/+Makeweirdmusic/posts/jDruN8RAj6m
 front_page: yes
 has_video: yes
-techniques:
-  - key modulations
-  - time signatures
+youtube_id: wNCSTNHejAY
+block: "yes" #means is shown in itunes
 ---
 ## What are we learning?
 
@@ -28,9 +27,7 @@ Let's pick apart the catchy hook from the song *Hell's Bells* off the 1979 relea
 
 I've put together an instructional video that illustrates everything in the charts below. Watch that if, like me, you don't like reading.
 
-<div class="video-wrapper">
-<iframe width="560" height="315" src="http://www.youtube.com/embed/wNCSTNHejAY?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 ## Time Signatures
 

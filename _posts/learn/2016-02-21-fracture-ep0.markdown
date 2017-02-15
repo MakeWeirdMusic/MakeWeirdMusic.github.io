@@ -14,10 +14,12 @@ seo_keywords: king crimson, robert fripp, virtuoso, moto perpetuo
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: x5LPldcjeH0
+block: "yes" #means is shown in itunes
 ---
 ## Episode 0: Introduction
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x5LPldcjeH0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 {% include fracture-episodes.html %}
 

@@ -13,10 +13,7 @@ seo_keywords: Yes, Steve Howe, Chris Squire, Jon Anderson, Rick Wakeman, Robert 
 facebook_post_url:
 google_post_url:
 front_page: no
-techniques:
-  - time signatures
-  - composition
-  - harmony
+block: "yes" #means is shown in itunes
 ---
 ## Who is Bruford?
 

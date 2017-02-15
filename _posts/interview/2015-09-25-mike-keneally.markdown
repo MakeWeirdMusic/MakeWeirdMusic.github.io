@@ -13,15 +13,12 @@ seo_keywords: Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The
 front_page: yes
 has_video: yes
 sponsors: Software++, Mad Hatter Guitar Products, and Carl King Creative
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - multi-instrumentalist
-  - time signatures
-  - instrumentation
-  - surrealism
-  - humor
+youtube_id: essLZ2eFqnc
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally/mike-keneally.mp3
+duration: "01:05:01" #audio length in min
+length: "126679653" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Some Context
@@ -35,19 +32,11 @@ Below is an epic, huge, deep 90-minute interview with Mike Keneally conducted on
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/interview/mike-keneally/keneally-interview-mwm-20150909.mp3" controls preload="none" /></p>
-
-Or, [download an mp3]({{ site.s3_url }}/interview/mike-keneally/keneally-interview-mwm-20150909.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview video
 
-Here's a video of the interview:
-
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/essLZ2eFqnc?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 You may notice some issues with color and editing; that's totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).
 

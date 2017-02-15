@@ -11,4 +11,5 @@ draft: no
 icon: fa-youtube-square
 permalink: /link/brian-kenney-fresno-bobby-salazar/
 external_url: https://www.youtube.com/watch?v=nGpTZXL94DA
+block: "yes" #means is shown in itunes
 ---

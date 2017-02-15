@@ -11,10 +11,7 @@ oneliner: On the rise to international obscurity!
 seo_description: Anthony Garone is an amateur musician based in Mesa, AZ. He also runs this site.
 seo_keywords: guitar,instrumental,amateur,shred,mesa,arizona,steve vai,robert fripp
 front_page: no
-techniques:
-  - time signatures
-  - harmony
-  - instrumentation
+block: "yes" #means is shown in itunes
 ---
 ## Who am I?
 

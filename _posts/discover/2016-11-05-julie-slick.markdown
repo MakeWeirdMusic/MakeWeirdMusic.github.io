@@ -13,6 +13,12 @@ seo_keywords: adrian belew, power trio, tony levin, robbie seahag, echotest, cri
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: 6tMVejtevKY
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/julie-slick/julie-slick.mp3
+duration: "16:45" #audio length in min
+length: "20420666" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 Julie Slick is scary talented. Like, every video I've seen of her kinda frightens me. She has so much energy, capability, and fun playing music, it's intimidating.
@@ -23,15 +29,11 @@ Julie Slick is scary talented. Like, every video I've seen of her kinda frighten
 
 Here's a video of our interview with Julie Slick:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/6tMVejtevKY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/discover/julie-slick/julie-slick.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/discover/julie-slick/julie-slick.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Thank You
 

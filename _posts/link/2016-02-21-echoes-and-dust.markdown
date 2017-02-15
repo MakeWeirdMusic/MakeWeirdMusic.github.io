@@ -11,4 +11,5 @@ draft: no
 icon: fa-external-link-square
 permalink: /link/best-frank-zappa-albums/
 external_url: http://echoesanddust.com/2016/02/echoes-of-the-past-frank-zappa/
+block: "yes" #means is shown in itunes
 ---

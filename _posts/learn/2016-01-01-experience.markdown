@@ -13,6 +13,8 @@ seo_keywords: "gentle giant, kerry minnear, gary green, derek shulman, ray shulm
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: MzQMhJhY1RY
+block: "yes" #means is shown in itunes
 ---
 ## What are we learning?
 
@@ -32,7 +34,7 @@ I started learning the piece on piano and thought, "I wonder if this is playable
 
 I've put together an instructional video that illustrates everything I'm talking about. I play it slowly, then half-speed, then at tempo.
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/MzQMhJhY1RY" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Sheet Music
 

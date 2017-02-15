@@ -13,6 +13,12 @@ seo_keywords: Michael Hedges, Jaco Pastorius, fretless bass, hyperbass, zon guit
 front_page: yes
 has_video: yes
 draft: no
+youtube_id: 2naRtBfRFMo
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/michael-manring/michael-manring.mp3
+duration: "01:07:29" #audio length in min
+length: "64956383" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Some Context
@@ -28,19 +34,11 @@ I've been listening to Michael's music since the late 1990s. He is an unbelievab
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/interview/michael-manring/michael-manring-interview-mwm-20151207.mp3" controls preload="none" /></p>
-
-Or, [download an mp3]({{ site.s3_url }}/interview/michael-manring/michael-manring-interview-mwm-20151207.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview video
 
-Here's a video of the interview:
-
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2naRtBfRFMo?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 There were some issues with the audio that were my fault entirely. Sigh. Thanks to [Bob Mendelsohn&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://damprabbit.com) for his help filming this!
 

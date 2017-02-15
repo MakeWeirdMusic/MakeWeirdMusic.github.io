@@ -12,4 +12,5 @@ seo_description:
 seo_keywords:
 front_page: no
 draft: yes
+block: "yes" #means is shown in itunes
 ---

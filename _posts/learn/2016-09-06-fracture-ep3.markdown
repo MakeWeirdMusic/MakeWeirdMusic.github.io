@@ -14,6 +14,8 @@ seo_keywords: king crimson, robert fripp, virtuoso, moto perpetuo, guitar craft,
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: xukN9mEh6ps
+block: "yes" #means is shown in itunes
 ---
 ## Episode 3: Inefficient Picking
 
@@ -27,7 +29,7 @@ When you're performing a piece that requires you play over 500 notes per minute,
 
 Here is the video to accompany this episode of *Failure to Fracture*.
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/xukN9mEh6ps" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 {% include fracture-episodes.html %}
 

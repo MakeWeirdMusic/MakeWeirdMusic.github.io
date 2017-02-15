@@ -13,6 +13,8 @@ seo_keywords: frank zappa, steve vai, scambot, nonkertompf, sluggo, guitar instr
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: ld3rgnNdfoY
+block: "yes" #means is shown in itunes
 ---
 
 ## House Concert
@@ -25,7 +27,7 @@ And here it is!
 
 Here it is! Mike is playing his one-of-a-kind Black Devil semi-hollow SG copy. It's absolutely gorgeous (I even got to play it last night). There are LEDs in the fret markers above the fretboard that change color based on the pickup configuration. Cool! See if you can spot 'em.
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/ld3rgnNdfoY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Transcription
 

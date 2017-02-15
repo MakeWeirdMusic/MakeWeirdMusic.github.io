@@ -13,6 +13,7 @@ seo_keywords: jam band
 front_page: yes
 draft: no
 has_video: no
+block: "yes" #means is shown in itunes
 ---
 
 ## A LITTLE ABOUT PHISH

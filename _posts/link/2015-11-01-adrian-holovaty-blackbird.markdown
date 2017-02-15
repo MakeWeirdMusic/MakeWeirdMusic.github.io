@@ -11,4 +11,5 @@ draft: no
 icon: fa-youtube-square
 permalink: /link/adrian-holovaty-blackbird/
 external_url: http://youtu.be/NAb9V08zcBE
+block: "yes" #means is shown in itunes
 ---

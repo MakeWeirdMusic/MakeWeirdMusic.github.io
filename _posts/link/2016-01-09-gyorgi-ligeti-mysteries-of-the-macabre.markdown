@@ -11,4 +11,5 @@ draft: no
 icon: fa-youtube-square
 permalink: /link/ligeti-mysteries-of-the-macabre/
 external_url: https://www.youtube.com/watch?v=vmCmrZfybPQ
+block: "yes" #means is shown in itunes
 ---

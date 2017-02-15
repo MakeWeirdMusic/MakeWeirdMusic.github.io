@@ -13,6 +13,12 @@ seo_keywords: robert fripp, king crimson, philip glass, steve reich, john cage
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: 0VBDV0YxGUg
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/patrick-grant/patrick-grant.mp3
+duration: "44:16" #audio length in min
+length: "86411503" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 Patrick Grant is a composer based in New York City. He founded the musical group, [Tilted Axes&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://tiltedaxes.com), and has worked with with [John Cage&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Cage), Robert Fripp and the Orchestra of Crafty Guitarists, Billy Joel, and Quincy Jones. I met Patrick in Mexico while I attended the Guitar Circle introductory course. He was attending the Ochestra of Crafty Guitarists preparation course.
@@ -25,17 +31,11 @@ Thanks to [Steve Ball](/discover/steve-ball) for pushing me in Patrick's directi
 
 ## Interview video
 
-Here's a video of our interview with Patrick Grant:
-
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/0VBDV0YxGUg?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/discover/patrick-grant/patrick-grant.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/discover/patrick-grant/patrick-grant.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview Transcript
 

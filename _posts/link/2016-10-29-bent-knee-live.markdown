@@ -11,4 +11,5 @@ draft: no
 icon: fa-youtube
 permalink: /link/bent-knee-concert/
 external_url: https://www.youtube.com/watch?v=Ws0gHgDd_10
+block: "yes" #means is shown in itunes
 ---

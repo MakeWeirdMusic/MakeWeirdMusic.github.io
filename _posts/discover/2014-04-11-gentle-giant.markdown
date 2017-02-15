@@ -11,11 +11,7 @@ oneliner: Complex medieval blues/rock with a twist of avant garde.
 seo_description: Gentle Giant were an incredibly influential progressive rock group from the 1970s. Probably my favorite band ever.
 seo_keywords: gentle giant, progressive rock, three friends, crazy talent
 front_page: no
-techniques:
- - instrumentation
- - multiple genres
- - harmony
- - time signatures
+block: "yes" #means is shown in itunes
 ---
 ## Who was Gentle Giant?
 

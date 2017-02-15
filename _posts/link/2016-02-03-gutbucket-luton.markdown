@@ -11,4 +11,5 @@ draft: no
 icon: fa-youtube-square
 permalink: /link/gutbucket-luton/
 external_url: https://youtu.be/m4kzVy5SXW4
+block: "yes" #means is shown in itunes
 ---

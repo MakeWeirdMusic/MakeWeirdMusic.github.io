@@ -5,8 +5,8 @@
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Feb 2017 22:15:59 -0700</pubDate>
-    <lastBuildDate>Sun, 12 Feb 2017 22:15:59 -0700</lastBuildDate>
+    <pubDate>Wed, 15 Feb 2017 00:34:59 -0700</pubDate>
+    <lastBuildDate>Wed, 15 Feb 2017 00:34:59 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -21,13 +21,11 @@
 
 &lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
 
-&lt;p&gt;Here’s a video of our interview with Patrick Grant:&lt;/p&gt;
-
 &lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0VBDV0YxGUg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
 
-&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
 &lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/patrick-grant/patrick-grant.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
@@ -244,15 +242,13 @@
 
 &lt;p class=&quot;ad&quot;&gt;&lt;a href=&quot;https://madhatterguitarproducts.com/collections/terminator-single-volume-kits/products/copy-of-single-volume-single-tone-complete-kit-with-a-5-way-selector-switch-for-humbucker-single-humbucker-svst-hsh&quot;&gt;You should buy yourself a Mad Hatter Guitar Products Terminator SVST-HSH Kit &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, the same as what we put into EVO.&lt;/p&gt;
 
-&lt;!--
-## Interview Audio (Podcast)
+&lt;h2 id=&quot;podcast-audio&quot;&gt;Podcast Audio&lt;/h2&gt;
 
-Here&#39;s audio of the interview (NOTE: hitting the &quot;play&quot; button requires a hefty download of the entire audio file!).
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo.mp3&quot; controls preload=&quot;none&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo/EVO-mad-hatter.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-Or, [download an mp3&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;](https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo.mp3).
---&gt;
+&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo/EVO-mad-hatter.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;thanks&quot;&gt;Thanks&lt;/h2&gt;
 
@@ -307,17 +303,15 @@ Or, [download an mp3&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-squa
 
 &lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
 
-&lt;p&gt;Here’s a video containing the audio and pull quotes from this interview:&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/omJhldQT-JQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
 
-&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Or, &lt;a href=&quot;&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;thank-you&quot;&gt;Thank You&lt;/h2&gt;
 
@@ -838,7 +832,7 @@ Or, [download an mp3&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-squa
         <title>The Decay of Cities by Henry Cow</title>
         <description>&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
 
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZvwNC4cmP5E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZvwNC4cmP5E?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;soundslice-notation-and-tablature&quot;&gt;Soundslice Notation and Tablature&lt;/h2&gt;
 
@@ -881,7 +875,7 @@ Or, [download an mp3&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-squa
 
 &lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
 
-&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
 &lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/courtney-swain/courtney-swain.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
@@ -1107,7 +1101,7 @@ Or, [download an mp3&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-squa
 
 &lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
 
-&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
 &lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
@@ -1247,7 +1241,7 @@ Or, [download an mp3&amp;nbsp;&lt;i class=&quot;non-mwm fa fa-external-link-squa
 
 &lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
 
-&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
 &lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moulettes/moulettes.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
@@ -1660,7 +1654,7 @@ I guess one thing to plug, we are coming back to Canada…&lt;/p&gt;
 
 &lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
 
-&lt;p&gt;Here’s audio of the interview (NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
 &lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/julie-slick/julie-slick.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 

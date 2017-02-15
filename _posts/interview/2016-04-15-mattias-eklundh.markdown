@@ -14,9 +14,9 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: Y0N3UY6VAS4
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/ben-levin/ben-levin.mp3
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/matthias-eklundh/matthias-eklundh.mp3
 duration: "59:21" #audio length in min
-length: "140534652" #filesize in byte
+length: "115627874" #filesize in byte
 explicit: "yes" #other option is no
 block: "no" #means is shown in itunes
 redirect_from:
@@ -40,19 +40,11 @@ This interview was conducted on Friday, February 12, 2016 at 5AM AZ.
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/interview/mattias-eklundh.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/mattias-eklundh/mattias-eklundh.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview video
 
-Here's a video of the interview:
-
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe></div>
-
-PODCAST AUDIO COMING SOON!
+{% include video.html vid=page.youtube_id %}
 
 ## Interview transcript
 

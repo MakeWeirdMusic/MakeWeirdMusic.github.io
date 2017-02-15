@@ -11,4 +11,5 @@ draft: no
 icon: fa-youtube-square
 permalink: /link/knower-hanging-on/
 external_url: http://buff.ly/1RGwQBh
+block: "yes" #means is shown in itunes
 ---

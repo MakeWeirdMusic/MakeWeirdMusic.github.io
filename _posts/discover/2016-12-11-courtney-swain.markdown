@@ -13,6 +13,12 @@ seo_keywords: ben levin, chris baum, gavin wallace-ainsworth, jessica kion, vinc
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: R7oCz8oFhZQ
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/courtney-swain/courtney-swain.mp3
+duration: "49:35" #audio length in min
+length: "96052750" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 Courtney Swain is the singer from the up-and-coming experimental/prog rock band, [Bent Knee&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.bentkneemusic.com). You might recall Bent Knee from our interview with their guitarist, [Ben Levin](/interview/ben-levin).
@@ -23,15 +29,11 @@ Courtney Swain is the singer from the up-and-coming experimental/prog rock band,
 
 Here's a video of our interview with Courtney Swain of Bent Knee:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/R7oCz8oFhZQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/discover/courtney-swain/courtney-swain.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/discover/courtney-swain/courtney-swain.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Thank You
 

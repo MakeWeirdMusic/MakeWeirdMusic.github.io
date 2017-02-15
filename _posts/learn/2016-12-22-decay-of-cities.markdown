@@ -14,11 +14,13 @@ seo_keywords: henry cow, henry cowell, rock in opposition, fred frith, tim hodgk
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: ZvwNC4cmP5E
+block: "yes" #means is shown in itunes
 ---
 
 ## Video
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZvwNC4cmP5E" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Soundslice Notation and Tablature
 

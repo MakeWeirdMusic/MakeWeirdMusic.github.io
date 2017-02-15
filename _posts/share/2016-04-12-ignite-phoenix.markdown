@@ -13,6 +13,7 @@ seo_keywords: panzerballett, anthony garone, carl king, creative genius, jeff be
 draft: no
 front_page: yes
 has_video: yes
+block: "yes" #means is shown in itunes
 ---
 ## What an Honor!
 

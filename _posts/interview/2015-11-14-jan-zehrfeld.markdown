@@ -15,14 +15,12 @@ seo_keywords: panzerballett, frank zappa, steve vai, tribal tech, sebastian lans
 front_page: yes
 has_video: yes
 draft: no
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - time signatures
-  - instrumentation
-  - surrealism
-  - humor
+youtube_id: kkNfXg1RRuY
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part1.mp3
+duration: "38:12" #audio length in min
+length: "55259208" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Some Context
@@ -41,21 +39,11 @@ Good thing this is just a personal hobby project or I'd feel like I really faile
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-### Part 1
-
-<p><audio src="{{ site.s3_url }}/interview/panzerballett/jan-zehrfeld-interview-part1-20151022.mp3" controls preload="none" /></p>
-
-Or, [download an mp3]({{ site.s3_url }}/interview/panzerballett/jan-zehrfeld-interview-part1-20151022.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview video
 
-Here's a video of the interview:
-
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kkNfXg1RRuY" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 This is the first videoconference interview I've done with the site. There are some issues that I'm figuring out. This was a great learning experience for me, which probably makes it a less enjoyable viewing and listening experience. Anyone who complains will be justified, but will also be called a "freeloader."
 

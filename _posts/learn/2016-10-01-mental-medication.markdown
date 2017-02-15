@@ -13,11 +13,13 @@ seo_keywords: allan holdsworth, eddie jobson, bill bruford, john wetton
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: KberQOJf3x8
+block: "yes" #means is shown in itunes
 ---
 
 ## Video
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/KberQOJf3x8" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 IMPORTANT NOTE: When I say, "F#5," what I really mean is "F#sus4." Same for all the other "5" chords. I recorded the video pretty late and flipped my 4ths and 5ths. Didn't realize it until the next day. Oh well.
 

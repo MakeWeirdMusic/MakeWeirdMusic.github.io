@@ -18,6 +18,12 @@ seo_keywords: guitar electronics, solderless, tone shaping, terminator system, d
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: 2agooTHb3f8
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/mad-hatter/mad-hatter.mp3
+duration: "52:54" #audio length in min
+length: "77854234" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Mad Hatter Guitar Products
@@ -38,15 +44,11 @@ I invited Ed into my tiny bedroom studio to talk about Mad Hatter, and talk we d
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/2agooTHb3f8?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/gear/mad-hatter/mad-hatter.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/gear/mad-hatter/mad-hatter.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview transcript
 

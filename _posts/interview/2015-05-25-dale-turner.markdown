@@ -12,12 +12,12 @@ seo_description: Dale Turner is a multi-instrumentalist journalist teacher extra
 seo_keywords: mannerisms magnified, dale turner, brian wilson, jeff buckley, beach boys, elliott smith, chris cornell, iron maiden, music production, songwriting, musicians institute
 front_page: yes
 has_video: yes
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - time signatures
-  - instrumentation
+youtube_id: tvt2GFQGb3E
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/dale-turner/dale-turner.mp3
+duration: "01:13:51" #audio length in min
+length: "106480324" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
 ---
 ## Some Context
 
@@ -29,17 +29,11 @@ Without a doubt, the last few minutes of the interview offer such wonderful insi
 
 ## Interview Video
 
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tvt2GFQGb3E" frameborder="0" allowfullscreen=""></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/interview/dale-turner/dale-turner-mwm-interview.mp3" controls preload="none" /></p>
-
-Or, [download an mp3]({{ site.s3_url }}/interview/dale-turner/dale-turner-mwm-interview.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview Transcript
 

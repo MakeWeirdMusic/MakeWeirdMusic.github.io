@@ -11,4 +11,5 @@ draft: no
 icon: fa-youtube-square
 permalink: /link/david-bowie-lazarus/
 external_url: http://buff.ly/1RGxcYv
+block: "yes" #means is shown in itunes
 ---

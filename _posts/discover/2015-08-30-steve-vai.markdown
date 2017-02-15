@@ -11,11 +11,7 @@ oneliner: Stunt guitarist for Frank Zappa with a solo career spanning over 30 ye
 seo_description: Steve Vai is a virtuoso guitarist who has played for Frank Zappa, Whitesnake, Alcatrazz, David Lee Roth, and others.
 seo_keywords: Frank Zappa, Whitesnake, David Lee Roth, Alcatrazz, Joe Satriani
 front_page: no
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - time signatures
+block: "yes" #means is shown in itunes
 ---
 ## Thanks To Our Sponsors!
 

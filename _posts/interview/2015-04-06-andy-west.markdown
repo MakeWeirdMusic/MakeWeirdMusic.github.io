@@ -14,10 +14,12 @@ facebook_post_url:
 google_post_url:
 front_page: yes
 has_video: yes
-techniques:
-  - time signatures
-  - composition
-  - harmony
+youtube_id: meZk10p9dFo
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west/andy-west.mp3
+duration: "01:12:53" #audio length in min
+length: "142273493" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 ## Interview Video
 
@@ -25,9 +27,11 @@ In April 2015, I interviewed [Andy West](/discover/andy-west). We discussed lots
 
 **[Check out our Discover post about Andy!](/discover/andy-west)**
 
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/meZk10p9dFo?rel=0" frameborder="0" allowfullscreen=""></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
+
+## Interview Audio (Podcast)
+
+{% include audio.html podcast=page.file %}
 
 ## Interview Transcription
 AG: Hi this is Anthony from Make Weird Music and I'm here with Andy West from the Dixie Dregs, FWAP, Crazy Backwards Alphabet, all manners of bands…

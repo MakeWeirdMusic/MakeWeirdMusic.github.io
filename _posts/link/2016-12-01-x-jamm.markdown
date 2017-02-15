@@ -11,4 +11,5 @@ draft: no
 icon: fa-calendar
 permalink: /link/x-jamm-2017/
 external_url: https://www.facebook.com/events/1865967933637088/
+block: "yes" #means is shown in itunes
 ---

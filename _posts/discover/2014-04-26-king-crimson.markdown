@@ -11,13 +11,7 @@ oneliner: Some of the founders of progressive rock. And terrified audiences.
 seo_description: What can be said about the Crimson King? They are one of the most influential rock bands of all time.
 seo_keywords: Robert Fripp, Adrian Belew, Bill Bruford, Trey Gunn, progressive rock
 front_page: no
-techniques:
- - time signatures
- - virtuosity
- - multiple genres
- - experimentation
- - identity
- - instrumentation
+block: "yes" #means is shown in itunes
 ---
 ## Who is King Crimson?
 

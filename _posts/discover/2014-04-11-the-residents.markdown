@@ -12,9 +12,8 @@ seo_description: The Residents have been making weird music since the 1960s and 
 seo_keywords: residents, band, weird, avant garde, art rock
 front_page: yes
 has_video: yes
-techniques:
- - experimentation
- - identity
+youtube_id: pJz_ei_Ns20
+block: "yes" #means is shown in itunes
 ---
 ## Who are The Residents?
 
@@ -24,9 +23,7 @@ Actually, no one really knows. But, here's a better answer: The Residents are an
 
 Here is a nice video I made about The Residents.
 
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pJz_ei_Ns20?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 ## A Fantastic Article
 

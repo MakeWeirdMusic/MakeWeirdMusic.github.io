@@ -11,11 +11,7 @@ oneliner: Genre-defying jazz-ish art in the form of music.
 seo_description: Avishai Cohen is a bassist and jazz composer from Israel. He employs several tactics to make his music incredibly beautiful. And weird.
 seo_keywords: avishai cohen, jazz, multiple genres, time signatures, instrumentation
 front_page: no
-techniques:
- - instrumentation
- - multiple genres
- - harmony
- - time signatures
+block: "yes" #means is shown in itunes
 ---
 ## Who is Avishai Cohen?
 

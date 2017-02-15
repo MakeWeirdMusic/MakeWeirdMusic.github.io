@@ -14,9 +14,12 @@ facebook_post_url:
 google_post_url:
 front_page: yes
 has_video: yes
-techniques:
-  - time signatures
-  - composition
+youtube_id: hKxuR7x4JrE
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/harnch/harnch.mp3
+duration: "4:14" #audio length in min
+length: "5938699" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 ## What is a "Harnch"?
 
@@ -30,17 +33,11 @@ The song gets its name from the crazy section at the end with all the time signa
 
 Here's a video with some "fun fact" overlays, including all the time signature changes. Playing this piece in NST offered a new challenge that was accommodated by the tempo decrease from the original performance.
 
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hKxuR7x4JrE?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 ## Download the mp3!
 
-Here's an mp3 of the song (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/share/harnch/makeweirdmusic-harnch.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/share/harnch/makeweirdmusic-harnch.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Original Recording
 

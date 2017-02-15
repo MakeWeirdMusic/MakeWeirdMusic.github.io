@@ -11,4 +11,5 @@ draft: no
 icon: fa-youtube-square
 permalink: /link/conlon-nancarrow-player-piano/
 external_url: https://www.youtube.com/watch?v=LFz2lCEkjFk
+block: "yes" #means is shown in itunes
 ---

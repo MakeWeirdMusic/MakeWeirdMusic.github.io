@@ -11,10 +11,7 @@ oneliner: There are forty people in the world and five of them are hamburgers.
 seo_description: Captain Beefheart was years ahead of his musical time. People will probably talk about his music for years to come.
 seo_keywords: beefheart, zappa, psychedelic rock, don van vliet
 front_page: no
-techniques:
- - time signatures
- - identity
- - instrumentation
+block: "yes" #means is shown in itunes
 ---
 ## Who was Captain Beefheart?
 

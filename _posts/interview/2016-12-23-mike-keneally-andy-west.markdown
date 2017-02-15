@@ -32,17 +32,11 @@ This conversation took place in my dining room on Sunday, November 13, 2016. It 
 
 ## Interview video
 
-Here's a video containing the audio and pull quotes from this interview:
-
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube_id }}?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ file }}" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ file }}).
+{% include audio.html podcast=page.file %}
 
 ## Thank You
 

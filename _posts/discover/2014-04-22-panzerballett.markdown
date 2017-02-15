@@ -11,13 +11,7 @@ oneliner: The best German jazz-metal band in the world!
 seo_description: Panzerballett is the best German jazz-metal band in the whole world! It's also the only one.
 seo_keywords: jazz, metal
 front_page: no
-techniques:
- - time signatures
- - virtuosity
- - multiple genres
- - experimentation
- - identity
- - instrumentation
+block: "yes" #means is shown in itunes
 ---
 ## Who is Panzerballett?
 

@@ -35,14 +35,14 @@
 		<itunes:explicit>yes</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
-				<title>{{ post.title | xml_escape }}</title>
+				<title>{{ post.category | capitalize }}: {{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.seo_description | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author }}</itunes:author>
-				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
+				<itunes:subtitle>{{ post.category | capitalize }}: {{ post.title }} by {{ site.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.seo_description | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.seo_keywords }}</itunes:keywords>

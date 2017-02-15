@@ -13,6 +13,12 @@ seo_keywords: robert fripp, guitar craft, guitar circle, king crimson
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: -b7MeucH4Xk
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3
+duration: "26:21" #audio length in min
+length: "31922796" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 Steve Ball and I have a lot in common. Like, way more in common than I ever would have suspected. We both have leadership positions in the technology industry, we both have crowded home studios filled with gear and music paraphernalia, we're both dads to young kids, and we both work on the "fun" stuff from 9PM til 1 or 2 or 3AM.
@@ -27,15 +33,11 @@ He's been in several bands, like Electric Gauchos, C3, Los Gauchos Alemanes, Lea
 
 Here's a video of our interview with Steve Ball:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/-b7MeucH4Xk?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/discover/steve-ball/steve-ball.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/discover/steve-ball/steve-ball.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Thank You
 

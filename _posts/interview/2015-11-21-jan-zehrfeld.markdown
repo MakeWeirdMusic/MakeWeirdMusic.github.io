@@ -14,14 +14,12 @@ seo_keywords: panzerballett, frank zappa, steve vai, tribal tech, sebastian lans
 front_page: no
 has_video: yes
 draft: no
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - time signatures
-  - instrumentation
-  - surrealism
-  - humor
+youtube_id: OE4mOZ8bX0Y
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part2.mp3
+duration: "25:53" #audio length in min
+length: "25144622" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Some Context
@@ -38,21 +36,11 @@ Also, Jan's camera could only record ~40 minutes at a time, so Part 2 ends abrup
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-### Part 2
-
-<p><audio src="{{ site.s3_url }}/interview/panzerballett/jan-zehrfeld-interview-part2-20151112.mp3" controls preload="none" /></p>
-
-Or, [download an mp3]({{ site.s3_url }}/interview/panzerballett/jan-zehrfeld-interview-part2-20151112.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview video
 
-Here's a video of the interview:
-
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OE4mOZ8bX0Y" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 This second attempt at a videoconference interview went much better, though I still had a couple issues. Parts 3 and 4 will be slightly better.
 

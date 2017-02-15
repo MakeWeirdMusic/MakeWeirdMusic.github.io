@@ -14,10 +14,16 @@ seo_keywords: panzerballett, bluegrass, acoustic, banjo, guitar, prog, metal
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: hKxuR7x4JrE
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/typewriter/typewriter.mp3
+duration: "5:53" #audio length in min
+length: "8038944" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 In November 2015, [Panzerballett](/discover/panzerballett) launched a contest where fans could submit their cover of the song *Typewriter II* off their new album, *Breaking Brain*. Here is my entry for the competition:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/HRdk3HoknWk" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 If you'd like to know more about Jan Zehrfeld (the mad genius behind Panzerballett), you should **[check out our extensive 5-part interview](/interview/jan-zehrfeld)**.
 
@@ -29,11 +35,7 @@ It took about 4 weeks to notate, learn, practice, record, and film the whole thi
 
 ## Download the mp3!
 
-Here's an mp3 of the song (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/share/typewriter/makeweirdmusic-typewriter.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/share/typewriter/makeweirdmusic-typewriter.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Original Recording
 

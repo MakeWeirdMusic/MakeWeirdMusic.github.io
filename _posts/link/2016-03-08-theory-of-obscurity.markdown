@@ -11,4 +11,5 @@ draft: no
 icon: fa-external-link-square
 permalink: /link/theory-of-obscurity/
 external_url: https://vimeo.com/ondemand/theresidents
+block: "yes" #means is shown in itunes
 ---

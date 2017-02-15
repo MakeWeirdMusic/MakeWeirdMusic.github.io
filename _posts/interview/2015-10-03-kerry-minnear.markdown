@@ -13,15 +13,7 @@ seo_description: Kerry Minnear was the keyboardist for Gentle Giant. He tells us
 seo_keywords: Gentle Giant, Ray Shulman, Derek Shulman, John Weathers, Phil Shulman, Gary Green, Experience, Power and the Glory
 front_page: yes
 draft: no
-sponsors:
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - multi-instrumentalist
-  - time signatures
-  - instrumentation
-  - counterpoint
+block: "yes" #means is shown in itunes
 ---
 
 ## A Friendly Disclaimer

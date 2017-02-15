@@ -14,7 +14,7 @@ seo_keywords: andy west, dixie dregs, steve morse, joe zawinul, sting, sam cooke
 front_page: yes
 draft: no
 has_video: yes
-
+block: "yes" #means is shown in itunes
 ---
 
 ## CONCERT TRAILER

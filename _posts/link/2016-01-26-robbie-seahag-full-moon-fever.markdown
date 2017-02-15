@@ -11,4 +11,5 @@ draft: no
 icon: fa-music
 permalink: /link/robbie-seahag-full-moon-fever/
 external_url: http://treb-c-moon.wix.com/fullmoonfever
+block: "yes" #means is shown in itunes
 ---

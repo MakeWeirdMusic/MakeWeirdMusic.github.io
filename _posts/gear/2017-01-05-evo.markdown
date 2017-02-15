@@ -13,26 +13,26 @@ seo_keywords: guitar electronics, solderless, tone shaping, terminator system, d
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: LETPKHwA7AY
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo/EVO-mad-hatter.mp3
+duration: "14:00" #audio length in min
+length: "27232301" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Video
 
 [Here's a video&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/watch?v=LETPKHwA7AY) about the installation of the Mad Hatter SVST-HSH Terminator Kit in EVO:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/LETPKHwA7AY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 [You should buy yourself a Mad Hatter Guitar Products Terminator SVST-HSH Kit&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/collections/terminator-single-volume-kits/products/copy-of-single-volume-single-tone-complete-kit-with-a-5-way-selector-switch-for-humbucker-single-humbucker-svst-hsh), the same as what we put into EVO.
 {: .ad }
 
-<!--
-## Interview Audio (Podcast)
+## Podcast Audio
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/gear/evo.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>]({{ site.s3_url }}/gear/evo.mp3).
--->
+{% include audio.html podcast=page.file %}
 
 ## Thanks
 

@@ -14,6 +14,12 @@ front_page: yes
 draft: no
 has_video: yes
 sponsors: Psychofon Records
+youtube_id: jCAk_S5ojaQ
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/ostrich-von-nipple/ostrich-von-nipple.mp3
+duration: "31:11" #audio length in min
+length: "60483778" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 Ostrich Von Nipple is an avant garde musician on the very excellent European record label, [Psychofon Records&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://psychofonrecords.com). Not much is known about OVN except he (I'm assuming OVN is a "he") has been releasing very weird music for a few years now. If you're a fan of [The Residents](/discover/the-residents), you'll definitely dig OVN.
@@ -28,15 +34,11 @@ The packaging work is very unique and beautifully made. The music is really weir
 
 Here's an interview with Ostrich Von Nipple, Stephen Albert, and Andreas Mathews:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/jCAk_S5ojaQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/discover/ostrich-von-nipple/ostrich-von-nipple.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/discover/ostrich-von-nipple/ostrich-von-nipple.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview Transcript
 

@@ -13,6 +13,8 @@ seo_keywords: full moon fever
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: MK3rnPPAjQM
+block: "yes" #means is shown in itunes
 ---
 ## Some Context
 
@@ -22,7 +24,7 @@ After I posted the [Steve Vai interview](/interview/steve-vai), MWM started gett
 
 ## Video
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/MK3rnPPAjQM" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Soundslice Notation and Tablature
 

@@ -11,12 +11,7 @@ oneliner: World's most talented goofball and world's goofiest most talentball.
 seo_description: Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.
 seo_keywords: Carl King, Musicians Institute
 front_page: no
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - time signatures
-  - instrumentation
+block: "yes" #means is shown in itunes
 ---
 ## Who is Dale Turner?
 

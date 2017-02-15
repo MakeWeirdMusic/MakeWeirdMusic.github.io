@@ -17,6 +17,12 @@ seo_keywords: open source, sheet music, html5, tablature, guitar, innovation, ke
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: ucgcR3-8BVs
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/soundslice/soundslice.mp3
+duration: "43:01" #audio length in min
+length: "73495813" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Soundslice
@@ -45,17 +51,13 @@ The interview was conducted on Monday, January 18, 2016 at 5AM Arizona time via 
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/gear/soundslice/adrian-holovaty-interview-mwm-20160116.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/gear/soundslice/adrian-holovaty-interview-mwm-20160116).
+{% include audio.html podcast=page.file %}
 
 ## Interview video
 
 Here's a video of the interview:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/ucgcR3-8BVs?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview transcript
 

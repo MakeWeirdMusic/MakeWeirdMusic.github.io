@@ -17,6 +17,12 @@ seo_keywords: frank zappa, steve vai, mats/morgan, mats oberg, umea, sweden, con
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: irRvqSiasPI
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3
+duration: "23:37" #audio length in min
+length: "45868748" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## New Releases
@@ -30,15 +36,11 @@ In August 2016, we did [a lengthy interview with Morgan Ågren](/interview/morga
 
 Special thanks to Morgan for chatting with us again.
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/irRvqSiasPI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Transcription
 

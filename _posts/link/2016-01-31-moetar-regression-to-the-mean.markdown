@@ -11,4 +11,5 @@ draft: no
 icon: fa-youtube-square
 permalink: /link/moetar-regression-to-the-mean/
 external_url: https://youtu.be/7Td0kSVXoI0
+block: "yes" #means is shown in itunes
 ---

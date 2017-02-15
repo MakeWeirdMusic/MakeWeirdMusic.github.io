@@ -14,12 +14,22 @@ seo_keywords: panzerballett, dixie dregs, sebastian lanser, andy west, adam stra
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: OUDXsoV6-ak
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/bach/bach-1060r.m4a
+duration: "4:27" #audio length in min
+length: "9397803" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 In December 2013, I released a math-rock/progressive cover version of one of my favorite Bach compositions, [Concert for Violin and Oboe Mov. 1, Allegro (BWV 1060R)&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach#Concerto_in_C_minor.2C_BWV_1060). It's a total shred-fest.
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/OUDXsoV6-ak" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
-**[Purchase this song on iTunes](https://itunes.apple.com/us/album/concerto-for-violin-oboe-in/id767515367)**
+**[If you like it, please purchase this song on iTunes](https://itunes.apple.com/us/album/concerto-for-violin-oboe-in/id767515367)**
+
+## Download the mp3!
+
+{% include audio.html podcast=page.file %}
 
 This performance features:
 

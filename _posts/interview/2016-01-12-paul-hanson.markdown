@@ -13,6 +13,12 @@ seo_keywords: bela fleck, flecktones, paul mccandless, oon, ariane cap, davka
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: 8M-ov1cL_i0
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson.mp3
+duration: "01:08:03" #audio length in min
+length: "65499422" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Some Context
@@ -25,17 +31,11 @@ This interview was conducted on Sunday, December 6 at 11AM in Paul's home.
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/interview/paul-hanson/paul-hanson-interview-mwm-20151206.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/paul-hanson/paul-hanson-interview-mwm-20151206.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview video
 
-Here's a video of the interview:
-
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8M-ov1cL_i0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview transcript
 

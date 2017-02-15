@@ -14,14 +14,12 @@ front_page: yes
 sponsors: Software++, Mad Hatter Guitar Products, and Carl King Creative
 draft: no
 has_video: yes
-techniques:
-  - virtuosity
-  - composition
-  - multiple genres
-  - time signatures
-  - instrumentation
-  - surrealism
-  - humor
+youtube_id: vwTBhKy2A98
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/steve-vai/steve-vai.mp3
+duration: "01:05:01" #audio length in min
+length: "93806887" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Some Context
@@ -32,19 +30,11 @@ Below is a 1-hour interview with Steve Vai conducted on September 12, 2015 at 12
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/interview/steve-vai/vai-interview-mwm-20150912.mp3" controls preload="none" /></p>
-
-Or, [download an mp3]({{ site.s3_url }}/interview/steve-vai/vai-interview-mwm-20150912.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview video
 
-Here's a video of the interview:
-
-<div class="video-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwTBhKy2A98?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html vid=page.youtube_id %}
 
 You may notice some issues with color and editing; that's totally my fault. Carl did the filming and audio editing (the good stuff). I did the rest (the amateur stuff).
 

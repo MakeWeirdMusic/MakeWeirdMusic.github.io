@@ -12,10 +12,7 @@ seo_description: Dr. Joe is professor emeritus of music at Boise State Universit
 seo_keywords: the path, medieval music, early music, gentle giant, king crimson, luter, young jane
 front_page: no
 has_video: yes
-techniques:
-- instrumentation
-- multiple genres
-- time signatures
+block: "yes" #means is shown in itunes
 ---
 Dr. Joe Baldassarre is a professor emeritus at [Boise State University](http://boisestate.edu). He taught medieval and classical music, published music history and theory (and baseball!) author, performed with and led several bands in Boise, Idaho, and released [a few musical works](http://www.cdbaby.com/Artist/JosephBaldassarre) His most recent release, *The Path*, is a mix of progressive rock stylings and early medieval/renaissance music with some [Canterbury-style](http://en.wikipedia.org/wiki/Canterbury_scene) instrumentation and arrangements.
 

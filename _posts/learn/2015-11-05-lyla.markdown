@@ -13,6 +13,8 @@ seo_keywords: "Avishai Cohen, jazz, solo guitar, Lyla"
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: rrwgOFl2y9k
+block: "yes" #means is shown in itunes
 ---
 ## What are we learning?
 
@@ -26,7 +28,7 @@ I was immediately attracted to this song when I first heard it a few years ago a
 
 I've put together an instructional video that illustrates everything in the charts below.
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/rrwgOFl2y9k" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Sheet Music
 

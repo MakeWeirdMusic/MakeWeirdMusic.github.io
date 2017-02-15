@@ -14,6 +14,8 @@ seo_keywords: king crimson, robert fripp, virtuoso, moto perpetuo, guitar craft,
 draft: no
 front_page: yes
 has_video: yes
+youtube_id: p3vYVtplGi8
+block: "yes" #means is shown in itunes
 ---
 ## Episode 2: Round (and Sharp) Picks
 
@@ -29,7 +31,7 @@ More importantly, he made a recommendation that, for some reason, took me years 
 
 Here is the video to accompany this episode of *Failure to Fracture*.
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/p3vYVtplGi8" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 {% include fracture-episodes.html %}
 

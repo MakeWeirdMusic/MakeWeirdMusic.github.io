@@ -13,6 +13,12 @@ seo_keywords: ruth skipper, hannah miller, oliver austin, ollie austin, afrothun
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: tx0rhXKXiOg
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moulettes/moulettes.mp3
+duration: "31:01" #audio length in min
+length: "45008602" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 Moulettes are a progressive folk/alt pop band from Brighton, England. They write great music and are even better live than they are on record. I saw them perform twice in Montreal when I [attended GORGG 2015](/interview/kerry-minnear). One member of the band, Dr. Ruth Skipper, played the electric bassoon (a technique she learned from [Paul Hanson](/interiew/paul-hanson)) and autoharp. Their performance was so powerful, I couldn't believe what I was hearing and seeing.
@@ -25,17 +31,13 @@ It took several months to coordinate, but our schedules finally aligned and we g
 
 Here's a video of our interview with Ollie Austin and Hannah Miller of Moulettes:
 
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/tx0rhXKXiOg?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 Also check out [Alan Miller guitars&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://alanmillerguitars.co.uk). Alan is Hannah's father and makes incredible instruments!
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/discover/moulettes/moulettes.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/discover/moulettes/moulettes.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Thank You
 

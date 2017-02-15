@@ -13,6 +13,12 @@ seo_keywords: michael manring, joe zon, zon guitars, fretless bass, dynamic tuni
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: _9LgUKKCmDs
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/hyperbass/hyperbass.mp3
+duration: "16:53" #audio length in min
+length: "33044260" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Zon Michael Manring Hyperbass
@@ -28,17 +34,11 @@ It was always a fantasy of mine to see him play live, so I flew him out to our h
 
 ## Interview video
 
-Here's a video of the interview:
-
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/_9LgUKKCmDs?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/gear/hyperbass/hyperbass.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/gear/hyperbass/hyperbass.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview transcript
 

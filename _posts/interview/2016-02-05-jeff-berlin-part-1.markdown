@@ -14,6 +14,12 @@ seo_keywords: bruford, bill bruford, gradually going tornado, one of a kind, sco
 front_page: yes
 draft: no
 has_video: yes
+youtube_id: _suLx937mKU
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-part1.mp3
+duration: "01:13:15" #audio length in min
+length: "70554471" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
 ---
 
 ## Some Context
@@ -30,17 +36,11 @@ This interview was conducted on Friday, February 5, 2016 at 2PM AZ.
 
 ## Interview Audio (Podcast)
 
-Here's audio of the interview (NOTE: hitting the "play" button requires a hefty download of the entire audio file!).
-
-<p><audio src="{{ site.s3_url }}/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part1.mp3" controls preload="none" /></p>
-
-Or, [download an mp3&nbsp;<i class="non-mwm fa fa-external-link-square"></i>]({{ site.s3_url }}/interview/jeff-berlin/jeff-berlin-interview-mwm-20160205-part1.mp3).
+{% include audio.html podcast=page.file %}
 
 ## Interview video
 
-Here's a video of the interview:
-
-<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/_suLx937mKU?rel=0" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html vid=page.youtube_id %}
 
 ## Interview transcript
 
