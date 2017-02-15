@@ -6,7 +6,7 @@
 	<channel>
 		<atom:link href="{{ site.url }}/podcast.rss" rel="self" type="application/rss+xml" />
 		<title>{{ site.title }}: {{ site.subtitle }}</title>
-		<description>{{ site.description }}</description>
+		<description>{{ site.description | xml_escape }}</description>
 		<link>{{ site.url }}</link>
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
@@ -19,9 +19,9 @@
 			<url>{{ site.data.artists.mwm.art_prod }}mwm/mwm-promo-brightblue.png</url>
 			<title>{{ site.title }}</title>
 		</image>
-		<itunes:subtitle>{{ site.description }}</itunes:subtitle>
+		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
 		<itunes:author>{{ site.author }}</itunes:author>
-		<itunes:summary>{{ site.description }}</itunes:summary>
+		<itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
 		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
 		<itunes:owner>
 			<itunes:name>{{ site.author }}</itunes:name>
@@ -42,10 +42,10 @@
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author }}</itunes:author>
-				<itunes:subtitle>{{ post.category | capitalize }}: {{ post.title }} by {{ site.title }}</itunes:subtitle>
+				<itunes:subtitle>{{ post.category | capitalize }}: {{ post.title | xml_escape }} by {{ site.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.seo_description | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
-				<itunes:keywords>{{ post.seo_keywords }}</itunes:keywords>
+				<itunes:keywords>{{ post.seo_keywords | xml_escape }}</itunes:keywords>
 				<itunes:image href="{{ site.data.artists.mwm.art_prod }}{{ post.artist }}/{{ post.image }}.png" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>

@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
-		<copyright>2014-2017-02-15 00:34:59 -0700 Make Weird Music</copyright>
-		<pubDate>Wed, 15 Feb 2017 00:34:59 -0700</pubDate>
-		<lastBuildDate>Wed, 15 Feb 2017 00:34:59 -0700</lastBuildDate>
+		<copyright>2014-2017-02-15 00:42:03 -0700 Make Weird Music</copyright>
+		<pubDate>Wed, 15 Feb 2017 00:42:03 -0700</pubDate>
+		<lastBuildDate>Wed, 15 Feb 2017 00:42:03 -0700</lastBuildDate>
 		<image>
 			<link>http://www.makeweirdmusic.com</link>
 			<url>https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -56,7 +56,7 @@
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/evo</guid>
 				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo/EVO-mad-hatter.mp3" length="27232301" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Gear: Steve Vai's EVO & Mad Hatter Terminator Kit by Make Weird Music</itunes:subtitle>
+				<itunes:subtitle>Gear: Steve Vai&#39;s EVO &amp; Mad Hatter Terminator Kit by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Steve Vai&#39;s EVO guitar has never sounded better!</itunes:summary>
 				<itunes:duration>14:00</itunes:duration>
 				<itunes:keywords>guitar electronics, solderless, tone shaping, terminator system, dual value pot, dual value potentiometer, steve vai, evo</itunes:keywords>
@@ -314,7 +314,7 @@
 				<itunes:subtitle>Interview: Terry Bozzio by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Terry Bozzio is an artist on canvas and on the drum kit. We spent 40 minutes talking with the tour de force of creativity and composition.</itunes:summary>
 				<itunes:duration>44:09</itunes:duration>
-				<itunes:keywords>frank zappa, korn, missing persons, dale bozzio, punky's whips, brecker brothers, heavy metal be-bop, patrick o'hearn</itunes:keywords>
+				<itunes:keywords>frank zappa, korn, missing persons, dale bozzio, punky&#39;s whips, brecker brothers, heavy metal be-bop, patrick o&#39;hearn</itunes:keywords>
 				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/terry-bozzio/terry-bozzio.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
@@ -331,7 +331,7 @@
 				<itunes:subtitle>Interview: Morgan Agren by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Morgan Ågren is one of the most innovative drummers on the planet. We talk to him about his upbringing, work with his musical partner Mats Öberg, his musical foundation, and who he&#39;s currently working with. Some great, hilarious Frank Zappa stories in here as well.</itunes:summary>
 				<itunes:duration>01:14:42</itunes:duration>
-				<itunes:keywords>frank zappa, mats oberg, mats/morgan, mats morgan band, sol niger within, fredrik thordendal, meshuggah, flesh quartet, fleshquartet, buddy rich, gigpig, morgan agren's conundrum, carl king</itunes:keywords>
+				<itunes:keywords>frank zappa, mats oberg, mats/morgan, mats morgan band, sol niger within, fredrik thordendal, meshuggah, flesh quartet, fleshquartet, buddy rich, gigpig, morgan agren&#39;s conundrum, carl king</itunes:keywords>
 				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/morgan-agren/morgan-agren.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
@@ -736,7 +736,7 @@
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/gutbucket-luton/</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Gutbucket "LUTON" by Make Weird Music</itunes:subtitle>
+				<itunes:subtitle>Link: Gutbucket &quot;LUTON&quot; by Make Weird Music</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
@@ -770,7 +770,7 @@
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/moetar-regression-to-the-mean/</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Moetar "Regression to the Mean" by Make Weird Music</itunes:subtitle>
+				<itunes:subtitle>Link: Moetar &quot;Regression to the Mean&quot; by Make Weird Music</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
@@ -787,7 +787,7 @@
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/robbie-seahag-full-moon-fever/</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Robbie Seahag "Full Moon Fever" by Make Weird Music</itunes:subtitle>
+				<itunes:subtitle>Link: Robbie Seahag &quot;Full Moon Fever&quot; by Make Weird Music</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
@@ -855,7 +855,7 @@
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/knower-hanging-on/</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Knower "Hanging On" by Make Weird Music</itunes:subtitle>
+				<itunes:subtitle>Link: Knower &quot;Hanging On&quot; by Make Weird Music</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
@@ -889,7 +889,7 @@
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/david-bowie-lazarus/</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: David Bowie "Lazarus" by Make Weird Music</itunes:subtitle>
+				<itunes:subtitle>Link: David Bowie &quot;Lazarus&quot; by Make Weird Music</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
@@ -906,7 +906,7 @@
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/ligeti-mysteries-of-the-macabre/</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Györgi Ligeti "Mysteries of the Macabre" by Make Weird Music</itunes:subtitle>
+				<itunes:subtitle>Link: Györgi Ligeti &quot;Mysteries of the Macabre&quot; by Make Weird Music</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
@@ -974,7 +974,7 @@
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/brian-kenney-fresno-bobby-salazar/</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Brian Kenney Fresno "Bobby Salazar" by Make Weird Music</itunes:subtitle>
+				<itunes:subtitle>Link: Brian Kenney Fresno &quot;Bobby Salazar&quot; by Make Weird Music</itunes:subtitle>
 				<itunes:summary></itunes:summary>
 				<itunes:duration></itunes:duration>
 				<itunes:keywords></itunes:keywords>
@@ -1096,7 +1096,7 @@
 				<itunes:subtitle>Interview: Mike Keneally Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.</itunes:summary>
 				<itunes:duration>01:05:01</itunes:duration>
-				<itunes:keywords>Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The Residents, King Crimson, Henry Cow, Joni Mitchell, Bob Dylan, The Beatles, Alice Cooper, The Rolling Stones, Simon & Garfunkel, Miles Davis, John Coltrane, Scambot, Nonkertompf, Wooden Smoke</itunes:keywords>
+				<itunes:keywords>Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The Residents, King Crimson, Henry Cow, Joni Mitchell, Bob Dylan, The Beatles, Alice Cooper, The Rolling Stones, Simon &amp; Garfunkel, Miles Davis, John Coltrane, Scambot, Nonkertompf, Wooden Smoke</itunes:keywords>
 				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/mike-keneally/mike-keneally.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
@@ -1130,7 +1130,7 @@
 				<itunes:subtitle>Discover: Discover Mike Keneally by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.</itunes:summary>
 				<itunes:duration></itunes:duration>
-				<itunes:keywords>Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The Residents, King Crimson, Henry Cow, Joni Mitchell, Bob Dylan, The Beatles, Alice Cooper, The Rolling Stones, Simon & Garfunkel, Miles Davis, John Coltrane, Scambot, Nonkertompf, Wooden Smoke</itunes:keywords>
+				<itunes:keywords>Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The Residents, King Crimson, Henry Cow, Joni Mitchell, Bob Dylan, The Beatles, Alice Cooper, The Rolling Stones, Simon &amp; Garfunkel, Miles Davis, John Coltrane, Scambot, Nonkertompf, Wooden Smoke</itunes:keywords>
 				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/mike-keneally/mike-keneally-singing.png" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block>yes</itunes:block>
@@ -1195,10 +1195,10 @@
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/hells-bells/</guid>
 				<enclosure url="" length="" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: Hell's Bells by Bruford by Make Weird Music</itunes:subtitle>
+				<itunes:subtitle>Learn: Hell&#39;s Bells by Bruford by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Hell&#39;s Bells is a track off Bruford&#39;s 1979 album, One of a Kind, and uses odd time signatures and key modulations for great listening and playing.</itunes:summary>
 				<itunes:duration></itunes:duration>
-				<itunes:keywords>Bill Bruford, Allan Holdsworth, Dave Stewart, Jeff Berlin, Bruford, One of a Kind, Hell's Bells</itunes:keywords>
+				<itunes:keywords>Bill Bruford, Allan Holdsworth, Dave Stewart, Jeff Berlin, Bruford, One of a Kind, Hell&#39;s Bells</itunes:keywords>
 				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/bill-bruford/bill-bruford-simmons.png" />
 				<itunes:explicit></itunes:explicit>
 				<itunes:block>yes</itunes:block>
