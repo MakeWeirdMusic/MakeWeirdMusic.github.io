@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
-		<copyright>2014-2017-02-15 00:42:03 -0700 Make Weird Music</copyright>
-		<pubDate>Wed, 15 Feb 2017 00:42:03 -0700</pubDate>
-		<lastBuildDate>Wed, 15 Feb 2017 00:42:03 -0700</lastBuildDate>
+		<copyright>2014-2017-02-15 00:49:30 -0700 Make Weird Music</copyright>
+		<pubDate>Wed, 15 Feb 2017 00:49:30 -0700</pubDate>
+		<lastBuildDate>Wed, 15 Feb 2017 00:49:30 -0700</lastBuildDate>
 		<image>
 			<link>http://www.makeweirdmusic.com</link>
 			<url>https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -31,6 +31,7 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 		
+			
 			<item>
 				<title>Discover: Patrick Grant</title>
 				<link>http://www.makeweirdmusic.com/discover/patrick-grant/</link>
@@ -47,7 +48,9 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Gear: Steve Vai&#39;s EVO &amp; Mad Hatter Terminator Kit</title>
 				<link>http://www.makeweirdmusic.com/gear/evo</link>
@@ -64,7 +67,9 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Mike Keneally Talks To Andy West</title>
 				<link>http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</link>
@@ -81,24 +86,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Learn: The Decay of Cities by Henry Cow</title>
-				<link>http://www.makeweirdmusic.com/learn/the-decay-of-cities</link>
-				<pubDate>Thu, 22 Dec 2016 12:14:46 -0700</pubDate>
-				<description>Learn how to play the intro to Henry Cow&#39;s The Decay of Cities.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/the-decay-of-cities</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: The Decay of Cities by Henry Cow by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Learn how to play the intro to Henry Cow&#39;s The Decay of Cities.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>henry cow, henry cowell, rock in opposition, fred frith, tim hodgkinson</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/henry-cow/henry-cow.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Discover: Courtney Swain</title>
 				<link>http://www.makeweirdmusic.com/discover/courtney-swain/</link>
@@ -115,7 +107,9 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Share: New Morgan Ågren Releases</title>
 				<link>http://www.makeweirdmusic.com/share/morgan-agren/morgchestra</link>
@@ -132,24 +126,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Link: X-JAMM at NAMM 2017</title>
-				<link>http://www.makeweirdmusic.com/link/x-jamm-2017/</link>
-				<pubDate>Thu, 01 Dec 2016 05:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/x-jamm-2017/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: X-JAMM at NAMM 2017 by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Discover: Moulettes</title>
 				<link>http://www.makeweirdmusic.com/discover/moulettes/</link>
@@ -166,24 +147,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Share: You Must Be This Tall</title>
-				<link>http://www.makeweirdmusic.com/share/you-must-be-this-tall</link>
-				<pubDate>Sun, 13 Nov 2016 12:14:46 -0700</pubDate>
-				<description>Mike Keneally plays through the song You Must Be This Tall for the first time ever.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/you-must-be-this-tall</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Share: You Must Be This Tall by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Mike Keneally plays through the song You Must Be This Tall for the first time ever.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>frank zappa, steve vai, scambot, nonkertompf, sluggo, guitar instrumental, joe satriani, beer for dolphins</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/mike-keneally/mike-keneally.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Discover: Julie Slick</title>
 				<link>http://www.makeweirdmusic.com/discover/julie-slick/</link>
@@ -200,24 +168,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Link: Free Concert Video from Bent Knee</title>
-				<link>http://www.makeweirdmusic.com/link/bent-knee-concert/</link>
-				<pubDate>Sat, 29 Oct 2016 05:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/bent-knee-concert/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Free Concert Video from Bent Knee by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/bent-knee/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Discover: Steve Ball</title>
 				<link>http://www.makeweirdmusic.com/discover/steve-ball/</link>
@@ -234,24 +189,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Learn: Mental Medication</title>
-				<link>http://www.makeweirdmusic.com/learn/mental-medication</link>
-				<pubDate>Sat, 01 Oct 2016 12:14:46 -0700</pubDate>
-				<description>Learn how to play Mental Medication by U.K.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/mental-medication</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: Mental Medication by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Learn how to play Mental Medication by U.K.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>allan holdsworth, eddie jobson, bill bruford, john wetton</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/uk/allan-holdsworth.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Discover: Ostrich Von Nipple</title>
 				<link>http://www.makeweirdmusic.com/discover/ostrich-von-nipple/</link>
@@ -268,7 +210,9 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Gear: Mad Hatter Guitar Products</title>
 				<link>http://www.makeweirdmusic.com/gear/mad-hatter</link>
@@ -285,24 +229,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Learn: Failure to Fracture, Ep. 3</title>
-				<link>http://www.makeweirdmusic.com/learn/fracture/inefficient-picking</link>
-				<pubDate>Mon, 05 Sep 2016 17:00:00 -0700</pubDate>
-				<description>Fracture is the hardest piece of music I&#39;ve ever tried to learn. This episode focuses on inefficient picking.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/fracture/inefficient-picking</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: Failure to Fracture, Ep. 3 by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Fracture is the hardest piece of music I&#39;ve ever tried to learn. This episode focuses on inefficient picking.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>king crimson, robert fripp, virtuoso, moto perpetuo, guitar craft, guitar circle, starless and bible black, cross-picking</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/king-crimson/fracture/failure-fracture.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Terry Bozzio</title>
 				<link>http://www.makeweirdmusic.com/interview/terry-bozzio/</link>
@@ -319,7 +250,9 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Morgan Agren</title>
 				<link>http://www.makeweirdmusic.com/interview/morgan-agren/</link>
@@ -336,7 +269,9 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Discover: Discover MoonJune Records</title>
 				<link>http://www.makeweirdmusic.com/discover/moonjune-records/</link>
@@ -353,24 +288,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Learn: Failure to Fracture, Ep. 2</title>
-				<link>http://www.makeweirdmusic.com/learn/fracture/picks</link>
-				<pubDate>Tue, 02 Aug 2016 12:14:46 -0700</pubDate>
-				<description>Fracture is the hardest piece of music I&#39;ve ever tried to learn. This episode focuses on guitar picks.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/fracture/picks</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: Failure to Fracture, Ep. 2 by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Fracture is the hardest piece of music I&#39;ve ever tried to learn. This episode focuses on guitar picks.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>king crimson, robert fripp, virtuoso, moto perpetuo, guitar craft, guitar circle, starless and bible black</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/king-crimson/fracture/failure-fracture.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Markus Reuter</title>
 				<link>http://www.makeweirdmusic.com/interview/markus-reuter/</link>
@@ -387,24 +309,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Concert: Michael Manring Concert</title>
-				<link>http://www.makeweirdmusic.com/concert/michael-manring/</link>
-				<pubDate>Tue, 19 Jul 2016 12:14:46 -0700</pubDate>
-				<description>Over 90 minutes of concert footage featuring Michael Manring and Andy West.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/concert/michael-manring/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Concert: Michael Manring Concert by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Over 90 minutes of concert footage featuring Michael Manring and Andy West.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>andy west, dixie dregs, steve morse, joe zawinul, sting, sam cooke, you send me, spirits in the material world, get back, john lennon, beatles, paul mccartney, beethoven, pathetique</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/michael-manring/michael-manring.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Teddy Kumpel Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/teddy-kumpel/</link>
@@ -421,41 +330,13 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Phish</title>
-				<link>http://www.makeweirdmusic.com/discover/phish/</link>
-				<pubDate>Tue, 28 Jun 2016 12:14:46 -0700</pubDate>
-				<description>Learn more about this improvisation-focused rock quartet from Vermont.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/phish/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Phish by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Learn more about this improvisation-focused rock quartet from Vermont.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>jam band</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/phish/phish.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Learn: 33 in Buffalo</title>
-				<link>http://www.makeweirdmusic.com/learn/33-in-buffalo/</link>
-				<pubDate>Thu, 16 Jun 2016 12:14:46 -0700</pubDate>
-				<description>Learn how to play my favorite Robbie Seahag song.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/33-in-buffalo/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: 33 in Buffalo by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Learn how to play my favorite Robbie Seahag song.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>full moon fever</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/robbie-seahag/robbie-seahag.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Gear: Zon Michael Manring Hyperbass</title>
 				<link>http://www.makeweirdmusic.com/gear/hyperbass</link>
@@ -472,7 +353,9 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Homer Flynn Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/homer-flynn/</link>
@@ -489,7 +372,9 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Ben Levin Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/ben-levin/</link>
@@ -506,7 +391,9 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Mattias Eklundh Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/mattias-eklundh/</link>
@@ -523,58 +410,15 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Share: Ignite Phoenix MWM Presentation</title>
-				<link>http://www.makeweirdmusic.com/share/ignite-phoenix</link>
-				<pubDate>Tue, 12 Apr 2016 12:14:46 -0700</pubDate>
-				<description>I presented Make Weird Music at Ignite Phoenix 18 in April 2016.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/ignite-phoenix</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Share: Ignite Phoenix MWM Presentation by Make Weird Music</itunes:subtitle>
-				<itunes:summary>I presented Make Weird Music at Ignite Phoenix 18 in April 2016.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>panzerballett, anthony garone, carl king, creative genius, jeff berlin, mike keneally, steve vai, jan zehrfeld, will mejia</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/anthony-garone/anthony-garone.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Link: New Singles from Moulettes</title>
-				<link>http://www.makeweirdmusic.com/link/moulettes-preternatural-singles/</link>
-				<pubDate>Wed, 16 Mar 2016 05:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/moulettes-preternatural-singles/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: New Singles from Moulettes by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/moulettes/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Link: Ben Levin Mind-Melting</title>
-				<link>http://www.makeweirdmusic.com/link/ben-levin-group/</link>
-				<pubDate>Fri, 11 Mar 2016 05:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/ben-levin-group/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Ben Levin Mind-Melting by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/ben-levin/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Share: Panzerballett Typewriter Contest Entry</title>
 				<link>http://www.makeweirdmusic.com/share/typewriter</link>
@@ -591,24 +435,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Link: Theory of Obscurity</title>
-				<link>http://www.makeweirdmusic.com/link/theory-of-obscurity/</link>
-				<pubDate>Tue, 08 Mar 2016 05:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/theory-of-obscurity/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Theory of Obscurity by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/the-residents/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Share: Prog Cover of BWV 1060R by J.S. Bach</title>
 				<link>http://www.makeweirdmusic.com/share/bach</link>
@@ -625,75 +456,17 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Gear: Favrio Guitars ATG7</title>
-				<link>http://www.makeweirdmusic.com/gear/favrio-atg7/</link>
-				<pubDate>Wed, 02 Mar 2016 12:14:46 -0700</pubDate>
-				<description>Favrio Guitars is a company based in Bodrum, Turkey.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/favrio-atg7/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Gear: Favrio Guitars ATG7 by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Favrio Guitars is a company based in Bodrum, Turkey.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>luthier</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/favrio-guitars/atg7.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block></itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Learn: Failure to Fracture, Ep. 1</title>
-				<link>http://www.makeweirdmusic.com/learn/fracture/stress</link>
-				<pubDate>Mon, 29 Feb 2016 12:14:46 -0700</pubDate>
-				<description>Fracture is the hardest piece of music I&#39;ve ever tried to learn. This episode focuses on stress and tension in the body.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/fracture/stress</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: Failure to Fracture, Ep. 1 by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Fracture is the hardest piece of music I&#39;ve ever tried to learn. This episode focuses on stress and tension in the body.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>king crimson, robert fripp, virtuoso, moto perpetuo</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/king-crimson/fracture/failure-fracture.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Learn: Failure to Fracture, Ep. 0</title>
-				<link>http://www.makeweirdmusic.com/learn/fracture/</link>
-				<pubDate>Sun, 21 Feb 2016 12:14:46 -0700</pubDate>
-				<description>Fracture is the hardest piece of music I&#39;ve ever tried to learn.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/fracture/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: Failure to Fracture, Ep. 0 by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Fracture is the hardest piece of music I&#39;ve ever tried to learn.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>king crimson, robert fripp, virtuoso, moto perpetuo</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/king-crimson/fracture/failure-fracture.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Link: Best Frank Zappa Albums</title>
-				<link>http://www.makeweirdmusic.com/link/best-frank-zappa-albums/</link>
-				<pubDate>Sun, 21 Feb 2016 05:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/best-frank-zappa-albums/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Best Frank Zappa Albums by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/frank-zappa/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Jeff Berlin Interview, Part 2</title>
 				<link>http://www.makeweirdmusic.com/interview/jeff-berlin/part-2/</link>
@@ -710,7 +483,9 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Jeff Berlin Interview, Part 1</title>
 				<link>http://www.makeweirdmusic.com/interview/jeff-berlin/</link>
@@ -727,24 +502,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Link: Gutbucket &quot;LUTON&quot;</title>
-				<link>http://www.makeweirdmusic.com/link/gutbucket-luton/</link>
-				<pubDate>Wed, 03 Feb 2016 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/gutbucket-luton/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Gutbucket &quot;LUTON&quot; by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/gutbucket/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Gear: Soundslice</title>
 				<link>http://www.makeweirdmusic.com/gear/soundslice</link>
@@ -761,109 +523,21 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Link: Moetar &quot;Regression to the Mean&quot;</title>
-				<link>http://www.makeweirdmusic.com/link/moetar-regression-to-the-mean/</link>
-				<pubDate>Sun, 31 Jan 2016 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/moetar-regression-to-the-mean/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Moetar &quot;Regression to the Mean&quot; by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/moetar/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Link: Robbie Seahag &quot;Full Moon Fever&quot;</title>
-				<link>http://www.makeweirdmusic.com/link/robbie-seahag-full-moon-fever/</link>
-				<pubDate>Sun, 31 Jan 2016 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/robbie-seahag-full-moon-fever/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Robbie Seahag &quot;Full Moon Fever&quot; by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/robbie-seahag/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Barbara Hannigan</title>
-				<link>http://www.makeweirdmusic.com/discover/barbara-hannigan/</link>
-				<pubDate>Mon, 25 Jan 2016 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/barbara-hannigan/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Barbara Hannigan by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/barbara-hannigan/barbara-hannigan.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Learn: Experience by Gentle Giant</title>
-				<link>http://www.makeweirdmusic.com/learn/experience/</link>
-				<pubDate>Sun, 24 Jan 2016 12:14:46 -0700</pubDate>
-				<description>Experience is the first Gentle Giant song I heard that I absolutely couldn&#39;t figure out.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/experience/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: Experience by Gentle Giant by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Experience is the first Gentle Giant song I heard that I absolutely couldn&#39;t figure out.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>gentle giant, kerry minnear, gary green, derek shulman, ray shulman, phil shulman</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/gentle-giant/gentle-giant.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Learn: Lyla by Avishai Cohen</title>
-				<link>http://www.makeweirdmusic.com/learn/lyla/</link>
-				<pubDate>Sun, 24 Jan 2016 12:14:46 -0700</pubDate>
-				<description>Lyla is a beautiful song and title track from his 2003 release. Here&#39;s our solo guitar arrangement.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/lyla/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: Lyla by Avishai Cohen by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Lyla is a beautiful song and title track from his 2003 release. Here&#39;s our solo guitar arrangement.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Avishai Cohen, jazz, solo guitar, Lyla</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/avishai-cohen/avishai-cohen-2015.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Link: Knower &quot;Hanging On&quot;</title>
-				<link>http://www.makeweirdmusic.com/link/knower-hanging-on/</link>
-				<pubDate>Wed, 13 Jan 2016 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/knower-hanging-on/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Knower &quot;Hanging On&quot; by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/knower/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Paul Hanson Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/paul-hanson/</link>
@@ -880,58 +554,15 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Link: David Bowie &quot;Lazarus&quot;</title>
-				<link>http://www.makeweirdmusic.com/link/david-bowie-lazarus/</link>
-				<pubDate>Mon, 11 Jan 2016 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/david-bowie-lazarus/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: David Bowie &quot;Lazarus&quot; by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/david-bowie/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Link: Györgi Ligeti &quot;Mysteries of the Macabre&quot;</title>
-				<link>http://www.makeweirdmusic.com/link/ligeti-mysteries-of-the-macabre/</link>
-				<pubDate>Sat, 09 Jan 2016 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/ligeti-mysteries-of-the-macabre/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Györgi Ligeti &quot;Mysteries of the Macabre&quot; by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/barbara-hannigan/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Link: Conlon Nancarrow Player Piano Studies</title>
-				<link>http://www.makeweirdmusic.com/link/conlon-nancarrow-player-piano/</link>
-				<pubDate>Mon, 04 Jan 2016 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/conlon-nancarrow-player-piano/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Conlon Nancarrow Player Piano Studies by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/conlon-nancarrow/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Michael Manring Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/michael-manring/</link>
@@ -948,7 +579,9 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Jan Zehrfeld Interview, Part 4</title>
 				<link>http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-4/</link>
@@ -965,24 +598,11 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Link: Brian Kenney Fresno &quot;Bobby Salazar&quot;</title>
-				<link>http://www.makeweirdmusic.com/link/brian-kenney-fresno-bobby-salazar/</link>
-				<pubDate>Wed, 02 Dec 2015 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/brian-kenney-fresno-bobby-salazar/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Brian Kenney Fresno &quot;Bobby Salazar&quot; by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/brian-kenney-fresno/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Jan Zehrfeld Interview, Part 3</title>
 				<link>http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-3/</link>
@@ -999,7 +619,9 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Jan Zehrfeld Interview, Part 2</title>
 				<link>http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-2/</link>
@@ -1016,7 +638,9 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Jan Zehrfeld Interview, Part 1</title>
 				<link>http://www.makeweirdmusic.com/interview/jan-zehrfeld/</link>
@@ -1033,41 +657,13 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Link: Adrian Holovaty</title>
-				<link>http://www.makeweirdmusic.com/link/adrian-holovaty-blackbird/</link>
-				<pubDate>Sun, 01 Nov 2015 12:14:46 -0700</pubDate>
-				<description></description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/link/adrian-holovaty-blackbird/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Link: Adrian Holovaty by Make Weird Music</itunes:subtitle>
-				<itunes:summary></itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords></itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/adrian-holovaty/.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Interview: Kerry Minnear Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/kerry-minnear/</link>
-				<pubDate>Sun, 04 Oct 2015 12:14:46 -0700</pubDate>
-				<description>Kerry Minnear was the keyboardist for Gentle Giant. He tells us what he&#39;s been up to the last 30 years.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/kerry-minnear/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Interview: Kerry Minnear Interview by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Kerry Minnear was the keyboardist for Gentle Giant. He tells us what he&#39;s been up to the last 30 years.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Gentle Giant, Ray Shulman, Derek Shulman, John Weathers, Phil Shulman, Gary Green, Experience, Power and the Glory</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/gentle-giant/gentle-giant.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Steve Vai Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/steve-vai/</link>
@@ -1084,7 +680,9 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Mike Keneally Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/mike-keneally/</link>
@@ -1101,75 +699,17 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Steve Vai</title>
-				<link>http://www.makeweirdmusic.com/discover/steve-vai/</link>
-				<pubDate>Sun, 13 Sep 2015 12:14:46 -0700</pubDate>
-				<description>Steve Vai is a virtuoso guitarist who has played for Frank Zappa, Whitesnake, Alcatrazz, David Lee Roth, and others.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/steve-vai/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Steve Vai by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Steve Vai is a virtuoso guitarist who has played for Frank Zappa, Whitesnake, Alcatrazz, David Lee Roth, and others.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Frank Zappa, Whitesnake, David Lee Roth, Alcatrazz, Joe Satriani</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/steve-vai/steve-vai.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Mike Keneally</title>
-				<link>http://www.makeweirdmusic.com/discover/mike-keneally/</link>
-				<pubDate>Wed, 09 Sep 2015 12:14:46 -0700</pubDate>
-				<description>Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/mike-keneally/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Mike Keneally by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The Residents, King Crimson, Henry Cow, Joni Mitchell, Bob Dylan, The Beatles, Alice Cooper, The Rolling Stones, Simon &amp; Garfunkel, Miles Davis, John Coltrane, Scambot, Nonkertompf, Wooden Smoke</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/mike-keneally/mike-keneally-singing.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Bruford</title>
-				<link>http://www.makeweirdmusic.com/discover/bill-bruford/</link>
-				<pubDate>Tue, 25 Aug 2015 12:14:46 -0700</pubDate>
-				<description>Bill Bruford is a unique drummer who has worked with Yes, King Crimson, Genesis, and tons of other great artists.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/bill-bruford/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Bruford by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Bill Bruford is a unique drummer who has worked with Yes, King Crimson, Genesis, and tons of other great artists.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Yes, Steve Howe, Chris Squire, Jon Anderson, Rick Wakeman, Robert Fripp, King Crimson, Allan Holdsworth, Jeff Berlin, The Unknown John Clark, Dave Stewart</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/bill-bruford/bill-bruford.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Anthony Garone</title>
-				<link>http://www.makeweirdmusic.com/discover/anthony-garone/</link>
-				<pubDate>Mon, 10 Aug 2015 12:14:46 -0700</pubDate>
-				<description>Anthony Garone is an amateur musician based in Mesa, AZ. He also runs this site.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/anthony-garone/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Anthony Garone by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Anthony Garone is an amateur musician based in Mesa, AZ. He also runs this site.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>guitar,instrumental,amateur,shred,mesa,arizona,steve vai,robert fripp</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/anthony-garone/anthony-garone.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Share: Harnch by Anthony Garone</title>
 				<link>http://www.makeweirdmusic.com/share/harnch/</link>
@@ -1186,24 +726,11 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Learn: Hell&#39;s Bells by Bruford</title>
-				<link>http://www.makeweirdmusic.com/learn/hells-bells/</link>
-				<pubDate>Sun, 31 May 2015 12:14:46 -0700</pubDate>
-				<description>Hell&#39;s Bells is a track off Bruford&#39;s 1979 album, One of a Kind, and uses odd time signatures and key modulations for great listening and playing.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/hells-bells/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Learn: Hell&#39;s Bells by Bruford by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Hell&#39;s Bells is a track off Bruford&#39;s 1979 album, One of a Kind, and uses odd time signatures and key modulations for great listening and playing.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Bill Bruford, Allan Holdsworth, Dave Stewart, Jeff Berlin, Bruford, One of a Kind, Hell&#39;s Bells</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/bill-bruford/bill-bruford-simmons.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Dale Turner Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/dale-turner/</link>
@@ -1220,24 +747,11 @@
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Dale Turner</title>
-				<link>http://www.makeweirdmusic.com/discover/dale-turner/</link>
-				<pubDate>Mon, 25 May 2015 12:14:46 -0700</pubDate>
-				<description>Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/dale-turner/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Dale Turner by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Carl King, Musicians Institute</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/dale-turner/dale-turner.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
+			
 			<item>
 				<title>Interview: Andy West Interview</title>
 				<link>http://www.makeweirdmusic.com/interview/andy-west/</link>
@@ -1254,176 +768,27 @@
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Andy West</title>
-				<link>http://www.makeweirdmusic.com/discover/andy-west/</link>
-				<pubDate>Wed, 01 Apr 2015 12:14:46 -0700</pubDate>
-				<description>Andy West is best known as the bassist for the Dixie Dregs, a band he started with Steve Morse.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/andy-west/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Andy West by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Andy West is best known as the bassist for the Dixie Dregs, a band he started with Steve Morse.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Dixie Dregs, Steve Morse, John French, Henry Kaiser, Joaquin Lievano, Hilary Jones, Geoff Gould, Crazy Backwards Alphabet, Mike Keneally</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/andy-west/andy-west.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Frank Zappa</title>
-				<link>http://www.makeweirdmusic.com/discover/frank-zappa/</link>
-				<pubDate>Sat, 28 Mar 2015 12:14:46 -0700</pubDate>
-				<description>Frank Zappa is the poster child for weird music in the 20th century. From rock to psychedelic to chamber orchestra, he had it all.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/frank-zappa/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Frank Zappa by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Frank Zappa is the poster child for weird music in the 20th century. From rock to psychedelic to chamber orchestra, he had it all.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Zappa Plays Zappa, Frank Zappa, Steve Vai, Tommy Mars, Complexity, Orchestration, Virtuosity, Humor</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/frank-zappa/frank-zappa.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Carl King</title>
-				<link>http://www.makeweirdmusic.com/discover/carl-king/</link>
-				<pubDate>Tue, 17 Feb 2015 12:14:46 -0700</pubDate>
-				<description>Carl King used to make music. Now he makes stuff about music. I think.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/carl-king/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Carl King by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Carl King used to make music. Now he makes stuff about music. I think.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Carl King, Sir Millard Much, Dr. Zoltan Øbelisk, drum programming</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/carl-king/carl-king.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Interview: Joe Baldassarre Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/joe-baldassarre/</link>
-				<pubDate>Sun, 27 Jul 2014 12:14:46 -0700</pubDate>
-				<description>Dr. Joe is professor emeritus of music at Boise State University. He&#39;s also a prog rocker.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/joe-baldassarre/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Interview: Joe Baldassarre Interview by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Dr. Joe is professor emeritus of music at Boise State University. He&#39;s also a prog rocker.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>the path, medieval music, early music, gentle giant, king crimson, luter, young jane</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/joe-baldassarre/joe-baldassarre.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Captain Beefheart</title>
-				<link>http://www.makeweirdmusic.com/discover/captain-beefheart/</link>
-				<pubDate>Wed, 07 May 2014 12:14:46 -0700</pubDate>
-				<description>Captain Beefheart was years ahead of his musical time. People will probably talk about his music for years to come.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/captain-beefheart/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Captain Beefheart by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Captain Beefheart was years ahead of his musical time. People will probably talk about his music for years to come.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>beefheart, zappa, psychedelic rock, don van vliet</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/captain-beefheart/captain-beefheart.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover King Crimson</title>
-				<link>http://www.makeweirdmusic.com/discover/king-crimson/</link>
-				<pubDate>Sat, 26 Apr 2014 12:14:46 -0700</pubDate>
-				<description>What can be said about the Crimson King? They are one of the most influential rock bands of all time.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/king-crimson/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover King Crimson by Make Weird Music</itunes:subtitle>
-				<itunes:summary>What can be said about the Crimson King? They are one of the most influential rock bands of all time.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>Robert Fripp, Adrian Belew, Bill Bruford, Trey Gunn, progressive rock</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/king-crimson/king-crimson.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Panzerballett</title>
-				<link>http://www.makeweirdmusic.com/discover/panzerballett/</link>
-				<pubDate>Tue, 22 Apr 2014 12:14:46 -0700</pubDate>
-				<description>Panzerballett is the best German jazz-metal band in the whole world! It&#39;s also the only one.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/panzerballett/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Panzerballett by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Panzerballett is the best German jazz-metal band in the whole world! It&#39;s also the only one.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>jazz, metal</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/panzerballett/panzerballett.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover The Residents</title>
-				<link>http://www.makeweirdmusic.com/discover/the-residents/</link>
-				<pubDate>Fri, 11 Apr 2014 12:14:46 -0700</pubDate>
-				<description>The Residents have been making weird music since the 1960s and continue to terrify listeners to this day.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/the-residents/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover The Residents by Make Weird Music</itunes:subtitle>
-				<itunes:summary>The Residents have been making weird music since the 1960s and continue to terrify listeners to this day.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>residents, band, weird, avant garde, art rock</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/the-residents/the-residents.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Gentle Giant</title>
-				<link>http://www.makeweirdmusic.com/discover/gentle-giant/</link>
-				<pubDate>Fri, 11 Apr 2014 12:14:46 -0700</pubDate>
-				<description>Gentle Giant were an incredibly influential progressive rock group from the 1970s. Probably my favorite band ever.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/gentle-giant/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Gentle Giant by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Gentle Giant were an incredibly influential progressive rock group from the 1970s. Probably my favorite band ever.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>gentle giant, progressive rock, three friends, crazy talent</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/gentle-giant/gentle-giant.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
-			<item>
-				<title>Discover: Discover Avishai Cohen</title>
-				<link>http://www.makeweirdmusic.com/discover/avishai-cohen/</link>
-				<pubDate>Fri, 11 Apr 2014 12:14:46 -0700</pubDate>
-				<description>Avishai Cohen is a bassist and jazz composer from Israel. He employs several tactics to make his music incredibly beautiful. And weird.</description>
-				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/avishai-cohen/</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Discover: Discover Avishai Cohen by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Avishai Cohen is a bassist and jazz composer from Israel. He employs several tactics to make his music incredibly beautiful. And weird.</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>avishai cohen, jazz, multiple genres, time signatures, instrumentation</itunes:keywords>
-				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/avishai-cohen/avishai-cohen-2015.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>yes</itunes:block>
-			</item>
+			
 		
 	</channel>
 </rss>

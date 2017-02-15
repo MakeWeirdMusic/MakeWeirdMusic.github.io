@@ -34,6 +34,7 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 		{% for post in site.posts %}
+			{% if post.block == "no" %}
 			<item>
 				<title>{{ post.category | capitalize }}: {{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
@@ -50,6 +51,7 @@
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
 			</item>
+			{% endif %}
 		{% endfor %}
 	</channel>
 </rss>

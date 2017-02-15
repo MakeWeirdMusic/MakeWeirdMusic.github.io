@@ -12,13 +12,14 @@ seo_description: "Favrio Guitars is a company based in Bodrum, Turkey."
 seo_keywords: luthier
 draft: yes
 front_page: yes
+block: "yes"
 ---
 
 In January 2014, a friend of mine had shared one of my guitar videos on Facebook. A friend of this friend left a comment like, "I'd love if this guy would try one of my guitars!" His name is Rob Fick and he's a guitar luthier.
 
 Rob and I started chatting online about the guitars he's built and his workshop. Then we started talking about building a custom guitar. I live in Arizona and our mutual friend is from Arizona, so I presumed this guy lived in Arizona. I said, "When can I come check out your shop?" and he wrote, "I'm in Bodrum, Turkey!"
 
-Despite the logistical challenges, we decided to proceed with the custom "Anthony Garone Signature Model" anyway. He told me about some of the woods he had access to, which sounded intriguing: [wenge](https://en.wikipedia.org/wiki/Millettia_laurentii), Stradivari [spruce](https://en.wikipedia.org/wiki/Spruce) from E. Ciresa in Northern Italy, [sapele](https://en.wikipedia.org/wiki/Sapele), 
+Despite the logistical challenges, we decided to proceed with the custom "Anthony Garone Signature Model" anyway. He told me about some of the woods he had access to, which sounded intriguing: [wenge](https://en.wikipedia.org/wiki/Millettia_laurentii), Stradivari [spruce](https://en.wikipedia.org/wiki/Spruce) from E. Ciresa in Northern Italy, [sapele](https://en.wikipedia.org/wiki/Sapele),
 
 ## Who's Behind Favrio Guitars?
 
