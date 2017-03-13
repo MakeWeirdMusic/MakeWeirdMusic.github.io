@@ -19,9 +19,10 @@ block: "yes" #means is shown in itunes
 
 ## Video
 
-Special thanks to Morgan for chatting with us again.
-
 {% include video.html vid=page.youtube_id %}
+
+Be sure to [follow Nick &amp; the Proletarians on Facebook&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://www.facebook.com/proletariansmusic/)!
+{: .ad }
 
 ## Nick Prol &amp; The Proletarians
 
