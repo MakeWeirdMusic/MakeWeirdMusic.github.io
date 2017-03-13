@@ -1,0 +1,38 @@
+---
+layout: post
+title: Another Groan by Nick Prol
+date: 2017-03-11 00:00:00
+artist: nick-prol
+author: anthony-garone
+image: nick-prol
+category: share
+permalink: /share/nick-prol/another-groan
+oneliner: My guest guitar solo on Nick's new record.
+seo_description: Anthony Garone's guitar solo on Nick Prol & the Proletarian's song Another Groan.
+seo_keywords: adrian belew, fred frith, king crimson, ian beabout, prog rock, proletarians
+draft: no
+front_page: yes
+has_video: yes
+youtube_id: 9PSlHJzPyzw
+block: "yes" #means is shown in itunes
+---
+
+## Video
+
+Special thanks to Morgan for chatting with us again.
+
+{% include video.html vid=page.youtube_id %}
+
+## Nick Prol &amp; The Proletarians
+
+Nick Prol is an artist and musician based in Tucson, Arizona. He's a super cool dude and has amassed an incredible roster. He is working on a new album with his band, Nick Prol &amp; The Proletarians. Here's some information.
+
+<div class="video-wrapper"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fproletariansmusic%2Fvideos%2F1256978847712376%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>
+
+The album is being produced by the one and only [Ian Beabout&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://twitter.com/ianbeabout) and features artists like [R. Stevie Moore&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/R._Stevie_Moore), [Rob Crow&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Rob_Crow) ([Pinback&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Pinback)), [Thymme Jones&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Thymme_Jones) ([Cheer-Accident&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Cheer-Accident)), and members of [Sleepytime Gorilla Museum&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Sleepytime_Gorilla_Museum), [Knifeworld&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Knifeworld), [Secret Chiefs 3&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Secret_Chiefs_3), [Thinking Plague&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Thinking_Plague), [Bent Knee&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bent_Knee), and more.
+
+It's a veritable "who's who" of weird music!
+
+I shamelessly begged Nick to let me participate in some way and he offered a guitar solo opportunity. He asked for something like [Adrian Belew&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Adrian_Belew) in [King Crimson](/discover/king-crimson)'s [*Discipline*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Discipline_(King_Crimson_album)) era. I threw in a little [Fred Frith&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Fred_Frith) for good measure and captured the solo you see and hear above.
+
+One thing I'd like to note: I've never let myself "go" like I did with this solo. It's the first time you'll ever see me *move* while playing the guitar. My wife once called me "an impenetrable monolith," which I'd say also describes my guitar playing. It was a lot of fun recording this and I was highly surprised to see the video afterward.
