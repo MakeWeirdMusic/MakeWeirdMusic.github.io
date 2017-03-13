@@ -35,3 +35,9 @@ You should check out Robbie's new album, [*Bumbleweenie*](https://www.bumbleween
 Robbie graciously offered to do some wonderful animation to make this video stand out from the rest. I'm proud to feature this song on the site and to have participated in this recording. Thank you, Robbie!!
 
 Stay tuned for some really fun, funny, and ridiculous content from my day with Robbie. Gonna make your cheeks hurt. I had a headache from laughing so hard.
+
+## Bumbleweenie
+
+Here's a commercial for Robbie's amazing new album, *Bumbleweenie*.
+
+{% include video.html vid="v6kjkAk0jKc" %}
