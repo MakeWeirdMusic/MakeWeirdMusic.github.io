@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
-		<copyright>2014-2017-03-12 23:13:35 -0700 Make Weird Music</copyright>
-		<pubDate>Sun, 12 Mar 2017 23:13:35 -0700</pubDate>
-		<lastBuildDate>Sun, 12 Mar 2017 23:13:35 -0700</lastBuildDate>
+		<copyright>2014-2017-03-19 22:03:58 -0700 Make Weird Music</copyright>
+		<pubDate>Sun, 19 Mar 2017 22:03:58 -0700</pubDate>
+		<lastBuildDate>Sun, 19 Mar 2017 22:03:58 -0700</lastBuildDate>
 		<image>
 			<link>http://www.makeweirdmusic.com</link>
 			<url>https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -30,6 +30,8 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
 		
 			
 		
