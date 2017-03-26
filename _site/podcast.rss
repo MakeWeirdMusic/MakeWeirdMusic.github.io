@@ -8,9 +8,9 @@
 		<language>en</language>
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
-		<copyright>2014-2017-03-19 22:05:45 -0700 Make Weird Music</copyright>
-		<pubDate>Sun, 19 Mar 2017 22:05:45 -0700</pubDate>
-		<lastBuildDate>Sun, 19 Mar 2017 22:05:45 -0700</lastBuildDate>
+		<copyright>2014-2017-03-26 00:17:31 -0700 Make Weird Music</copyright>
+		<pubDate>Sun, 26 Mar 2017 00:17:31 -0700</pubDate>
+		<lastBuildDate>Sun, 26 Mar 2017 00:17:31 -0700</lastBuildDate>
 		<image>
 			<link>http://www.makeweirdmusic.com</link>
 			<url>https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -30,6 +30,25 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
+			<item>
+				<title>Discover: Evil Genius</title>
+				<link>http://www.makeweirdmusic.com/discover/evil-genius/</link>
+				<pubDate>Fri, 24 Mar 2017 17:00:00 -0700</pubDate>
+				<description>Evil Genius is an experimental jazz trio out of LA featuring guitar, drums, and tuba.</description>
+				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/evil-genius/</guid>
+				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/evil-genius/evil-genius.mp3" length="63318596" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Discover: Evil Genius by Make Weird Music</itunes:subtitle>
+				<itunes:summary>Evil Genius is an experimental jazz trio out of LA featuring guitar, drums, and tuba.</itunes:summary>
+				<itunes:duration>32:35</itunes:duration>
+				<itunes:keywords>henry cow</itunes:keywords>
+				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/evil-genius/evil-genius.png" />
+				<itunes:explicit>yes</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+			
 		
 			
 		
