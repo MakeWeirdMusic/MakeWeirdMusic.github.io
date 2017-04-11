@@ -7,7 +7,7 @@ author: anthony-garone
 image: robert-fripp
 category: share
 permalink: /share/erudite-eyes
-redirect_from: /share/morgan-agren/erudite-eyes
+redirect_from: /share/robert-fripp/erudite-eyes
 oneliner: A moody, electronic cover of this cheerful song.
 seo_description: A moody, electronic cover of Erudite Eyes (1968) by Robert Fripp
 seo_keywords: king crimson, robert fripp, giles, cheerful insanity,
