@@ -3,11 +3,11 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://www.makeweirdmusic.com/</link>
-    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Apr 2017 15:47:26 -0700</pubDate>
-    <lastBuildDate>Sun, 30 Apr 2017 15:47:26 -0700</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 30 Apr 2017 16:06:55 -0700</pubDate>
+    <lastBuildDate>Sun, 30 Apr 2017 16:06:55 -0700</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Something She Said by Béla Fleck</title>
@@ -32,8 +32,8 @@
 &lt;p&gt;Outside of that, there are speed bumps everywhere you look in this piece. I couldn’t decide on a definitive fingering, so it’s up to you how you want to play it. Watch the video and see if it helps you. If you decide to try learning it, please reach out and let me know!&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Apr 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/learn/something-she-said</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/something-she-said</guid>
+        <link>http://localhost:4000/learn/something-she-said</link>
+        <guid isPermaLink="true">http://localhost:4000/learn/something-she-said</guid>
         
         
         <category>learn</category>
@@ -64,8 +64,8 @@
 
 </description>
         <pubDate>Mon, 10 Apr 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/erudite-eyes</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/erudite-eyes</guid>
+        <link>http://localhost:4000/share/erudite-eyes</link>
+        <guid isPermaLink="true">http://localhost:4000/share/erudite-eyes</guid>
         
         
         <category>share</category>
@@ -295,8 +295,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;Band: Right on. Thanks.&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Mar 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/evil-genius/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/evil-genius/</guid>
+        <link>http://localhost:4000/discover/evil-genius/</link>
+        <guid isPermaLink="true">http://localhost:4000/discover/evil-genius/</guid>
         
         
         <category>discover</category>
@@ -318,8 +318,8 @@
 &lt;p class=&quot;ad&quot;&gt;You should check out Mike’s newest album, &lt;a href=&quot;https://store.keneally.com/products/copy-of-mike-keneally-you-must-be-this-tall-download-only&quot;&gt;&lt;em&gt;Scambot 2&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Mar 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/aye-aye-monster</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/aye-aye-monster</guid>
+        <link>http://localhost:4000/share/aye-aye-monster</link>
+        <guid isPermaLink="true">http://localhost:4000/share/aye-aye-monster</guid>
         
         
         <category>share</category>
@@ -352,8 +352,8 @@
 
 </description>
         <pubDate>Sat, 11 Mar 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/weasel-shake</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/weasel-shake</guid>
+        <link>http://localhost:4000/share/weasel-shake</link>
+        <guid isPermaLink="true">http://localhost:4000/share/weasel-shake</guid>
         
         
         <category>share</category>
@@ -368,7 +368,7 @@
 
 &lt;p class=&quot;ad&quot;&gt;Be sure to &lt;a href=&quot;https://www.facebook.com/proletariansmusic/&quot;&gt;follow Nick &amp;amp; the Proletarians on Facebook &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h2 id=&quot;nick-prol-amp-the-proletarians&quot;&gt;Nick Prol &amp;amp; The Proletarians&lt;/h2&gt;
+&lt;h2 id=&quot;nick-prol--the-proletarians&quot;&gt;Nick Prol &amp;amp; The Proletarians&lt;/h2&gt;
 
 &lt;p&gt;Nick Prol is an artist and musician based in Tucson, Arizona. He’s a super cool dude and has amassed an incredible roster. He is working on a new album with his band, Nick Prol &amp;amp; The Proletarians. Here’s some information.&lt;/p&gt;
 
@@ -383,8 +383,8 @@
 &lt;p&gt;One thing I’d like to note: I’ve never let myself “go” like I did with this solo. It’s the first time you’ll ever see me &lt;em&gt;move&lt;/em&gt; while playing the guitar. My wife once called me “an impenetrable monolith,” which I’d say also describes my guitar playing. It was a lot of fun recording this and I was highly surprised to see the video afterward.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Mar 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/nick-prol/another-groan</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/nick-prol/another-groan</guid>
+        <link>http://localhost:4000/share/nick-prol/another-groan</link>
+        <guid isPermaLink="true">http://localhost:4000/share/nick-prol/another-groan</guid>
         
         
         <category>share</category>
@@ -465,8 +465,8 @@
 &lt;p&gt;&lt;img src=&quot;https://cdn.rawgit.com/MakeWeirdMusic/assets/master/learn/fracture/fripp-death-pick-2.gif&quot; alt=&quot;gif of Fripp death picking&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Feb 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/learn/fracture/overzealous-precision</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/fracture/overzealous-precision</guid>
+        <link>http://localhost:4000/learn/fracture/overzealous-precision</link>
+        <guid isPermaLink="true">http://localhost:4000/learn/fracture/overzealous-precision</guid>
         
         
         <category>learn</category>
@@ -688,8 +688,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;PG: Thank you!&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jan 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/patrick-grant/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/patrick-grant/</guid>
+        <link>http://localhost:4000/discover/patrick-grant/</link>
+        <guid isPermaLink="true">http://localhost:4000/discover/patrick-grant/</guid>
         
         
         <category>discover</category>
@@ -697,7 +697,7 @@
       </item>
     
       <item>
-        <title>Steve Vai&#39;s EVO &amp; Mad Hatter Terminator Kit</title>
+        <title>Steve Vai's EVO &amp; Mad Hatter Terminator Kit</title>
         <description>&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LETPKHwA7AY&quot;&gt;Here’s a video &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; about the installation of the Mad Hatter SVST-HSH Terminator Kit in EVO:&lt;/p&gt;
@@ -747,8 +747,8 @@
 &lt;p&gt;So, this was a huge deal for me because Steve’s music, instruments, and friendship have played a significant part in my life. To play a small part in the history of this incredible instrument is an indescribable honor. And it was awesome to get to hang out so much with Ed, learn even more about his awesome products, and get to know him better on a road trip to LA. He exposed me to some cool weird music I’ll be sharing at some point, too!&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Jan 2017 12:14:46 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/gear/evo</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/gear/evo</guid>
+        <link>http://localhost:4000/gear/evo</link>
+        <guid isPermaLink="true">http://localhost:4000/gear/evo</guid>
         
         
         <category>gear</category>
@@ -1284,8 +1284,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;MK: See ya.&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Dec 2016 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</guid>
+        <link>http://localhost:4000/interview/mike-keneally-andy-west</link>
+        <guid isPermaLink="true">http://localhost:4000/interview/mike-keneally-andy-west</guid>
         
         
         <category>interview</category>
