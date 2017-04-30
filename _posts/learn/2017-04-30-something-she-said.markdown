@@ -26,6 +26,10 @@ block: "no" #means is shown in itunes
 
 {% include video.html vid=page.youtube_id %}
 
+## Audio-Only (Podcast)
+
+{% include audio.html podcast=page.file %}
+
 ## Soundslice Notation and Tablature
 
 Living sheet music brought to you by [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://soundslice.com). Wanna know more? Check out [our interview with Soundslice co-creator, Adrian Holovaty](/gear/soundslice)
@@ -34,7 +38,7 @@ Living sheet music brought to you by [Soundslice&nbsp;<i class="non-mwm fa fa-ex
 
 ## Context
 
-[Béla Fleck&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bela_Fleck)'s album [*Outbound*](https://en.wikipedia.org/wiki/Outbound_(B%C3%A9la_Fleck_and_the_Flecktones_album)) was released in 2000 with the [Flecktones&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"](https://en.wikipedia.org/wiki/B%C3%A9la_Fleck_and_the_Flecktones). I was 18 when it came out and pre-ordered a double-CD release from Barnes & Noble or Best Buy. *Something She Said* was one of the songs that really stood out to me because of its odd chord changes and textural elements with [Adrian Belew&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Adrian_Belew) on electric guitar, [Shawn Colvin&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Shawn_Colvin) on vocals, and [Paul McCandless&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Paul_McCandless) on [English horn&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/English_horn).
+[Béla Fleck&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bela_Fleck)'s album [*Outbound*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Outbound_(B%C3%A9la_Fleck_and_the_Flecktones_album)) was released in 2000 with the [Flecktones&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/B%C3%A9la_Fleck_and_the_Flecktones). I was 18 when it came out and pre-ordered a double-CD release from Barnes & Noble or Best Buy. *Something She Said* was one of the songs that really stood out to me because of its odd chord changes and textural elements with [Adrian Belew&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Adrian_Belew) on electric guitar, [Shawn Colvin&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Shawn_Colvin) on vocals, and [Paul McCandless&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Paul_McCandless) on [English horn&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/English_horn).
 
 Fast forward 17 years and here we are! I've finally gotten around to figuring out the intro to this song. One reason it took me so long was because trivial efforts to learn it were met with unexpected difficulty. Honestly, I had no idea how hard this piece of music was until this week when I started seriously practicing. My fingertips hurt typing this paragraph just from all the left-hand fortitude required to play it. It seriously tore my callouses apart. Sheesh.
 
