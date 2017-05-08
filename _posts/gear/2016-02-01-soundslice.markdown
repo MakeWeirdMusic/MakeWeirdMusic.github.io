@@ -13,7 +13,7 @@ redirect_from:
   - /interview/adrian-holovaty
 oneliner: Soundslice is a game-changer for sheet music on the web.
 seo_description: Interview with Adrian Holovaty, co-founder of Soundslice.com.
-seo_keywords: open source, sheet music, html5, tablature, guitar, innovation, keybord, piano, living sheet music, javascript
+seo_keywords: open source, sheet music, html5, tablature, guitar, innovation, keyboard, piano, living sheet music, javascript
 front_page: yes
 draft: no
 has_video: yes
