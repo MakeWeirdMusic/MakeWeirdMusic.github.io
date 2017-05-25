@@ -15,7 +15,6 @@ Extra special thanks to our sponsors:
 * [Elevating Ideas&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://elevatingideas.com) by Will Mejia
 * [Software++&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://softwareplusplus.com) by Cory Berg
 * [Mad Hatter Guitar Products&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://madhatterguitarproducts.com) by Ed Heisler
-* [Carl King Creative&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://carlkingdom.com)
 * [meltmedia&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://meltmedia.com)
 
 ## Elevating Ideas
@@ -32,10 +31,6 @@ Ed Heisler is the owner and engineer behind [Mad Hatter Guitar Products&nbsp;<i 
 
 Do yourself a favor and purchase one of his [Mad Hatter Solderless Tone Shaping System Kits&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://madhatterguitarproducts.com/pages/mad-hatter-solderless-tone-shaping-system-kits).
 
-## Carl King Creative
-
-Carl King is a musician, author, and filmmaker based in Los Angeles, California. He is unbelievably talented, super smart, and runs [Carl King Creative&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://carlkingdom.com). He filmed the [Steve Vai interview](/interview/steve-vai) and [Mike Keneally interview](/interview/mike-keneally). His book, *So, You're a Creative Genius... Now What?*, has been hugely influential for me. If you're a creative person, check it out!
-
 ## meltmedia
 
 [meltmedia&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://meltmedia.com) is a creative digital design and software development agency in Tempe, AZ. They provide my livelihood and so, so much support for me and this site. It means so much to work with such talented, friendly people. I am so proud to be a meltmedian!
@@ -44,6 +39,7 @@ Carl King is a musician, author, and filmmaker based in Los Angeles, California.
 
 These are other individuals who have provided support to MWM either via money or content:
 
+- Jack Boyd
 - [Raleigh Kathman&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundcloud.com/giantess-music)
 - [Cameron Piko&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://montresor.bandcamp.com/)
 - Anila Arthanari

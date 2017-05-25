@@ -388,6 +388,9 @@
 <loc>http://localhost:4000/archive/link/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/payment/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/archive/share/</loc>
 </url>
 <url>
