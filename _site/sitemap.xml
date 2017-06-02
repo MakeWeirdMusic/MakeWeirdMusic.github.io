@@ -361,6 +361,10 @@
 <lastmod>2017-05-16T02:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/interview/igudesman-and-joo</loc>
+<lastmod>2017-05-28T02:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/404.html</loc>
 </url>
 <url>
@@ -446,6 +450,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page15/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page16/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/google65c6b1673d025668.html</loc>
