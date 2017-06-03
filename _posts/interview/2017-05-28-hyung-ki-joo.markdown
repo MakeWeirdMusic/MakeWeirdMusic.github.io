@@ -24,9 +24,9 @@ block: "yes" #means is shown in itunes
 
 ## History
 
-Many years ago (probably around 2010), I came across some YouTube videos of an incredible classical music duo called [Igudesman & Joo](https://en.wikipedia.org/wiki/Igudesman_%26_Joo) showing absolute virtuosity and top-notch prowess while incorporating some of the funniest theatrical material I'd ever seen. The clips were from a show called [*A Little Nightmare Music*](http://www.igudesmanandjoo.com/a-little-nightmare-music/) (a play on Mozart's [*Eine Kleine Nachtmusic*](https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik), or A Little Night Music or A Little Serenade). It was one of those nights where you spend 2-3 hours going down the YouTube rabbit hole finding every video you can about someone. Borderline creepy, I know.
+Many years ago (probably around 2010), I came across some YouTube videos of an incredible classical music duo called [Igudesman & Joo&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Igudesman_%26_Joo) showing absolute virtuosity and top-notch prowess while incorporating some of the funniest theatrical material I'd ever seen. The clips were from a show called [*A Little Nightmare Music*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](http://www.igudesmanandjoo.com/a-little-nightmare-music/) (a play on Mozart's [*Eine Kleine Nachtmusic*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik), or A Little Night Music or A Little Serenade). It was one of those nights where you spend 2-3 hours going down the YouTube rabbit hole finding every video you can about someone. Borderline creepy, I know.
 
-You should [buy Igudesman & Joo's first official CD, *You Just Have to Laugh*](https://store.cdbaby.com/cd/igudesmanjoo1).
+You should [buy Igudesman & Joo's first official CD, *You Just Have to Laugh*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://store.cdbaby.com/cd/igudesmanjoo1).
 {: .ad }
 
 They played in my hometown of Mesa, Arizona for the first time in 2013 and then returned in 2014. The concert in 2013 was hilarious because my wife and I sat in the front row and Aleksey Igudesman flirted with her all night from the stage. We did not get to sit so close in 2014, but two of my friends sat in the front row and were chosen as participants in the show. It was hysterical and we all had a blast. I brought them two shirts and they sent me an awesome photo afterward.
@@ -99,7 +99,10 @@ HJ: <span class="important">The mission is a byproduct. "Mission" always sounds 
 It wasn't that we wanted to be radical or rebels, we just felt that there could be more done. And because we were people that were fascinated by comedy, theater, literature, and other types of art forms, we couldn't understand why these things couldn't exist side by side, next to each other.
 {: .interviewee }
 
-We from a very early age just experimented and put on concerts our own way and then about 13 years ago, we sat down and said, "Okay, why don't we actually really do what we've always wanted to do and create this show/concert?" We didn't always live in the same city and we spent a few years apart, I was studying in New York, he was studying in Vienna. Of course we'd see each other almost once every year. Most of the times, we'd end up doing something together. But now that I've moved to Vienna and he lived in Vienna, we're both living in the same city, we said, "Okay, come on, let's do this." And so, *A Little Nightmare Music* by Igudesman & Joo was born.
+We from a very early age just experimented and put on concerts our own way and then about 13 years ago, we sat down and said, "Okay, why don't we actually really do what we've always wanted to do and create this show/concert?"
+{: .interviewee }
+
+We didn't always live in the same city and we spent a few years apart, I was studying in New York, he was studying in Vienna. Of course we'd see each other almost once every year. Most of the times, we'd end up doing something together. But now that I've moved to Vienna and he lived in Vienna, we're both living in the same city, we said, "Okay, come on, let's do this." And so, *A Little Nightmare Music* by Igudesman & Joo was born.
 {: .interviewee }
 
 {% include video.html vid="0jiu0RNizU8" %}
@@ -107,10 +110,10 @@ We from a very early age just experimented and put on concerts our own way and t
 AG: For those who don't know what that is, could you describe it briefly?
 {: .interviewer }
 
-HJ: Well, that's the name of our first show officially as Igudesman & Joo. It's crazy because I've been trying to describe this show for 14 years and now, being put on the spot again, you would have thought by now I'd have some perfect press statement. You know, "It is..." and just have it rehearsed. <span class="important">I think it's impossible to describe because in a way there's nothing like it.</span> On the other hand, you could say that what we do is very retro because if you study the historical documents and you look at how concerts would happen in the times of [Mozart](https://en.wikipedia.org/wiki/Mozart), [Beethoven](https://en.wikipedia.org/wiki/Beethoven), and [Liszt](https://en.wikipedia.org/wiki/Liszt), they were much more open.
+HJ: Well, that's the name of our first show officially as Igudesman & Joo. It's crazy because I've been trying to describe this show for 14 years and now, being put on the spot again, you would have thought by now I'd have some perfect press statement. You know, "It is..." and just have it rehearsed. <span class="important">I think it's impossible to describe because in a way there's nothing like it.</span> On the other hand, you could say that what we do is very retro because if you study the historical documents and you look at how concerts would happen in the times of [Mozart&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Mozart), [Beethoven&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Beethoven), and [Liszt&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Liszt), they were much more open.
 {: .interviewee }
 
-There are very famous documented examples. For example, the world premiere of Beethoven's violin concerto--this is quite a well-known story in the classical world. The violinist who was performing, his name was [Franz Clemen](https://en.wikipedia.org/wiki/Franz_Clement)--in between movements he was performing tricks with his bow, like playing the violin upside-down, undoing the hair [in the bow], doing tricks with his bow--<span class="important">the kind of thing that would be just frowned upon today. It would be just scandalous, but this was authentic. People talk about "authenticity" and the "authentic movement," but *that* was authentic.</span> Also, people stank. They didn't take showers. You know, there's this whole movement, at least in the classical world, about authentic period instruments and playing...
+There are very famous documented examples. For example, the world premiere of Beethoven's violin concerto--this is quite a well-known story in the classical world. The violinist who was performing, his name was [Franz Clemen&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Franz_Clement)--in between movements he was performing tricks with his bow, like playing the violin upside-down, undoing the hair [in the bow], doing tricks with his bow--<span class="important">the kind of thing that would be just frowned upon today. It would be just scandalous, but this was authentic. People talk about "authenticity" and the "authentic movement," but *that* was authentic.</span> Also, people stank. They didn't take showers. You know, there's this whole movement, at least in the classical world, about authentic period instruments and playing...
 {: .interviewee }
 
 AG: Right, romanticizing everything...
@@ -119,7 +122,7 @@ AG: Right, romanticizing everything...
 HJ: Sure, fine, but then don't shave for a month and don't shower and then put on a concert because that's authentic. Another document is Mozart when one of his piano concertos was premiered. People started applauding after 16 measures, which--he was so proud of it that he wrote a letter to his father, that's how we know this. "Papa, papa, you won't believe it, but just now they clapped after 16 measures and we had to stop and start again. What a success!" So he was bathing in this glory that he had to stop for people clapping.
 {: .interviewee }
 
-> NOTE: *[The Rest is Noise](http://www.therestisnoise.com/2005/02/applause_a_rest.html) has the content of Mozart's letter*: Right in the middle of the First Allegro came a Passage that I knew would please, and the entire audience was sent into raptures—there was a big applaudißement;—and as I knew, when I wrote the passage, what good effect it would make, I brought it once more at the end of the movement—and they went again, Da capo. The Andante was well received as well, but the final Allegro pleased especially—because I had heard that here the final Allegros begin like first Allegros, namely with all instruments playing and mostly unisono; therefore, I began the movement with just 2 violins playing softly for 8 bars—then suddenly comes a forte—but the audience had, because of the quiet beginning, shushed each other, as I expected they would, and then came the forte—well, hearing it and clapping was one and the same. I was so delighted, I went right after the Sinfonie to the Palais Royal—bought myself an ice cream, prayed a rosary as I had pledged—and went home.
+> NOTE: *[The Rest is Noise&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](http://www.therestisnoise.com/2005/02/applause_a_rest.html) has the content of Mozart's letter*: Right in the middle of the First Allegro came a Passage that I knew would please, and the entire audience was sent into raptures—there was a big applaudißement;—and as I knew, when I wrote the passage, what good effect it would make, I brought it once more at the end of the movement—and they went again, Da capo. The Andante was well received as well, but the final Allegro pleased especially—because I had heard that here the final Allegros begin like first Allegros, namely with all instruments playing and mostly unisono; therefore, I began the movement with just 2 violins playing softly for 8 bars—then suddenly comes a forte—but the audience had, because of the quiet beginning, shushed each other, as I expected they would, and then came the forte—well, hearing it and clapping was one and the same. I was so delighted, I went right after the Sinfonie to the Palais Royal—bought myself an ice cream, prayed a rosary as I had pledged—and went home.
 
 If today, if that happened, it would be a scandal. It would be like, "Shh! What are you doing?! How dare you clap?! The composer will be pissed off!" If I was the composer of a work, especially one of those where it's, "Bee ahh off pfbfbtbtbt" [atonal], and people were clapping after 16 measures, I'd be like, "Thank you, God!" You know? "Wow! Great! I made it!" You should be fucking happy! Instead of being like, "Ugh, how *dare* you interrupt my work with applause?!"
 {: .interviewee }
@@ -142,22 +145,22 @@ HJ: Of course, Frank Zappa is one of the rare exceptions, but he doesn't quite f
 AG: You're right. It's usually, "I can't hear you! Are you guys having a good time?" Trying to get the audience into it.
 {: .interviewer }
 
-HJ: [Queen](https://en.wikipedia.org/wiki/Queen_(band)) had humor. [Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury) had humor. And there's this kind of stagecraft. Even songs like [*One Vision*](https://en.wikipedia.org/wiki/One_Vision) has words like "fried chicken."
+HJ: [Queen&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Queen_(band)) had humor. [Freddie Mercury&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Freddie_Mercury) had humor. And there's this kind of stagecraft. Even songs like [*One Vision*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/One_Vision) has words like "fried chicken."
 {: .interviewee }
 
-AG: [*Fat-Bottomed Girls*](https://en.wikipedia.org/wiki/Fat_Bottomed_Girls)...
+AG: [*Fat-Bottomed Girls*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Fat_Bottomed_Girls)...
 {: .interviewer }
 
-HJ: Right! Yeah. And there's a sort of humor in the orchestration and the sound. [The Beatles](https://en.wikipedia.org/wiki/Beatles) had humor in the stagecraft, in their introductions, especially [Lennon](https://en.wikipedia.org/wiki/John_Lennon). But also in the songs, you hear it. There's a sense of fun. Not trying to say that things have to be funny, but there's a sense of fun. One of my favorite groups is [10cc](https://en.wikipedia.org/wiki/10cc). I don't know if you've heard of 10cc.
+HJ: Right! Yeah. And there's a sort of humor in the orchestration and the sound. [The Beatles&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Beatles) had humor in the stagecraft, in their introductions, especially [Lennon&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Lennon). But also in the songs, you hear it. There's a sense of fun. Not trying to say that things have to be funny, but there's a sense of fun. One of my favorite groups is [10cc&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/10cc). I don't know if you've heard of 10cc.
 {: .interviewee }
 
 AG: I've heard of them, but I don't know their stuff.
 {: .interviewer }
 
-HJ: Oh, they're fantastic. I love their songs. They have this humoristic element, the fun element. A lot of jazz musicians became ultra-serious. If you look at jazz in the beginning, a lot of these guys have so much humor. [Duke Ellington](https://en.wikipedia.org/wiki/Duke_Ellington), [Errol Garner](https://en.wikipedia.org/wiki/Erroll_Garner), [Ella Fitzgerald](https://en.wikipedia.org/wiki/Ella_Fitzgerald). When they're scatting, there's humor, there's a sense of fun, they're quoting. Then these guys came around with this very ultra-serious movement in jazz.
+HJ: Oh, they're fantastic. I love their songs. They have this humoristic element, the fun element. A lot of jazz musicians became ultra-serious. If you look at jazz in the beginning, a lot of these guys have so much humor. [Duke Ellington&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Duke_Ellington), [Errol Garner&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Erroll_Garner), [Ella Fitzgerald&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Ella_Fitzgerald). When they're scatting, there's humor, there's a sense of fun, they're quoting. Then these guys came around with this very ultra-serious movement in jazz.
 {: .interviewee }
 
-So, I saw this interesting video the other day. It was a lecture that [John Cleese](https://en.wikipedia.org/wiki/John_Cleese) gave on creativity. Of course, John Cleese, the whole [Monty Python](https://en.wikipedia.org/wiki/Monty_Python) gang is a huge influence on Igudesman & Joo, as they are on comedy and many things. John Cleese was giving a very serious talk about creativity.
+So, I saw this interesting video the other day. It was a lecture that [John Cleese&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Cleese) gave on creativity. Of course, John Cleese, the whole [Monty Python&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Monty_Python) gang is a huge influence on Igudesman & Joo, as they are on comedy and many things. John Cleese was giving a very serious talk about creativity.
 {: .interviewee }
 
 {% include video.html vid="h7fyOLe-xn4" %}
@@ -192,10 +195,10 @@ HJ: Okay, you love it, I love it, but I know plenty of people who don't like cho
 <span class="important">Not to be defensive, but I find that those comments actually say a lot about the commenter, because there are some comments that say it's disrespectful or that it's tasteless. I really do not believe we are disrespectful. This is the last thing that we are.</span> I can understand how people might see it that way, but we're not.
 {: .interviewee }
 
-We trained at the [Yehudi Menuhin school](https://en.wikipedia.org/wiki/Yehudi_Menuhin_School), which is like an elite [Harry Potter school](https://en.wikipedia.org/wiki/Hogwarts) for menta--er, musicians. We're very passionate about music. I think that--orchestras, these institutions like the New York Philharmonic or the Chicago Symphony or the London Philharmonic--they wouldn't play with us if they didn't think we were serious musicians. They wouldn't!
+We trained at the [Yehudi Menuhin school&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Yehudi_Menuhin_School), which is like an elite [Harry Potter school&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Hogwarts) for menta--er, musicians. We're very passionate about music. I think that--orchestras, these institutions like the New York Philharmonic or the Chicago Symphony or the London Philharmonic--they wouldn't play with us if they didn't think we were serious musicians. They wouldn't!
 {: .interviewee }
 
-If we were just clowns, they'd be, "Oh yeah, those guys are funny. Let's watch them on YouTube." But they'd never lend us the keys to their Ferrari. I mean, come on. And people like [Joshua Bell](https://en.wikipedia.org/wiki/Joshua_Bell), [Emmanuel Ax](https://en.wikipedia.org/wiki/Emanuel_Ax), [Billy Joel](https://en.wikipedia.org/wiki/Billy_Joel), performing with us. They undestand that we're serious musicians. <span class="important">Always for us, everything that we do, the number one priority is the music. And then numbers two and three are the humor and theatricality. And if people laugh, great.</span> If they don't, well...
+If we were just clowns, they'd be, "Oh yeah, those guys are funny. Let's watch them on YouTube." But they'd never lend us the keys to their Ferrari. I mean, come on. And people like [Joshua Bell&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Joshua_Bell), [Emmanuel Ax&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Emanuel_Ax), [Billy Joel&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Billy_Joel), performing with us. They undestand that we're serious musicians. <span class="important">Always for us, everything that we do, the number one priority is the music. And then numbers two and three are the humor and theatricality. And if people laugh, great.</span> If they don't, well...
 {: .interviewee }
 
 It's not our aim to make people laugh or to do something that's completely out of--let's just do something weird, just for the sake of being weird. That's really not what we do. It's not disrespectful. If you grew up in a very puritan, rigid upbringing, then anything that goes outside of the box is gonna be like, "Whoa! Those radicals! Those punks!"
@@ -203,7 +206,7 @@ It's not our aim to make people laugh or to do something that's completely out o
 
 {% include video.html vid="u04nkEJQPqM" %}
 
-AG: I saw a comment just recently on [your *Chandeliers* piece](http://www.universaledition.com/composers-and-works/Hyung-ki-Joo/Chandeliers/composer/4521/work/15794), which was a beautiful piece, but somebody said, "A serious piece of music from Hyung-ki Joo!" And I thought, "Everything is a serious piece of music." Even the music police sketch, you're playing serious music.
+AG: I saw a comment just recently on [your *Chandeliers* piece&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](http://www.universaledition.com/composers-and-works/Hyung-ki-Joo/Chandeliers/composer/4521/work/15794), which was a beautiful piece, but somebody said, "A serious piece of music from Hyung-ki Joo!" And I thought, "Everything is a serious piece of music." Even the music police sketch, you're playing serious music.
 {: .interviewer }
 
 HJ: That's true. Yes, that's true.
@@ -212,13 +215,13 @@ HJ: That's true. Yes, that's true.
 AG: Really, really difficult, complex music.
 {: .interviewer }
 
-HJ: You see, that comes down to--nothing against that person in particular, but <span class="important">it comes down to our general human inability or need for everything to be in boxes. To put things in categories. And that's why people struggle with things like Frank Zappa and [Nina Simone](https://en.wikipedia.org/wiki/Nina_Simone).</span> "Where are they? What genre?" Who cares?! Do you like it or do you not? Are you moved by them or are you not?
+HJ: You see, that comes down to--nothing against that person in particular, but <span class="important">it comes down to our general human inability or need for everything to be in boxes. To put things in categories. And that's why people struggle with things like Frank Zappa and [Nina Simone&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Nina_Simone).</span> "Where are they? What genre?" Who cares?! Do you like it or do you not? Are you moved by them or are you not?
 {: .interviewee }
 
-If you look at people like [Glenn Gould](https://en.wikipedia.org/wiki/Glenn_Gould) or Leonard Bernstein or Freddie Mercury or [Jacques Brel](https://en.wikipedia.org/wiki/Jacques_Brel). These are guys that are not just singers or just composers, they're bigger. They're more varied. You can't just put them in one slot. It's like, "Oh, Bernstein wrote a musical, oh he wrote a serious symphony, oh he..." Who cares?!
+If you look at people like [Glenn Gould&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Glenn_Gould) or Leonard Bernstein or Freddie Mercury or [Jacques Brel&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Jacques_Brel). These are guys that are not just singers or just composers, they're bigger. They're more varied. You can't just put them in one slot. It's like, "Oh, Bernstein wrote a musical, oh he wrote a serious symphony, oh he..." Who cares?!
 {: .interviewee }
 
-Why can't someone have many different facets? It's like [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen), whenever he tried to do something that was a bit more serious, he was torn apart. Why? It's like, "Oh wait, you're that comedy guy! You're that funny guy with the glasses that goes uh-da-bi-bi-bi-duh... You can't do serious stuff. It doesn't make sense." [Roald Dahl](https://en.wikipedia.org/wiki/Roald_Dahl)! Do you know Roald Dahl?
+Why can't someone have many different facets? It's like [Woody Allen&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Woody_Allen), whenever he tried to do something that was a bit more serious, he was torn apart. Why? It's like, "Oh wait, you're that comedy guy! You're that funny guy with the glasses that goes uh-da-bi-bi-bi-duh... You can't do serious stuff. It doesn't make sense." [Roald Dahl&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Roald_Dahl)! Do you know Roald Dahl?
 {: .interviewee }
 
 AG: Oh I love Roald Dahl. I've read almost everything!
@@ -239,7 +242,7 @@ AG: All the children's stuff when I was a kid, but then when I grew up, I was li
 HJ: But the adult stuff is like, whooooaaa... It's screwed up.
 {: .interviewee }
 
-AG: What's the one about childhood? [NOTE: It's called [*Boy*](https://en.wikipedia.org/wiki/Boy_(book))]
+AG: What's the one about childhood? [NOTE: It's called [*Boy*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Boy_(book))]
 {: .interviewer }
 
 HJ: Yeahhh, isn't that his autobiography?
@@ -248,19 +251,19 @@ HJ: Yeahhh, isn't that his autobiography?
 AG: Yeah, it's brutal, but it's wonderful.
 {: .interviewer }
 
-HJ: A lot of his [*Tales of the Unexpected*](https://en.wikipedia.org/wiki/Tales_of_the_Unexpected_(short_story_collection)) or [*My Uncle Oswald*](https://en.wikipedia.org/wiki/My_Uncle_Oswald), it's weird stuff.
+HJ: A lot of his [*Tales of the Unexpected*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Tales_of_the_Unexpected_(short_story_collection)) or [*My Uncle Oswald*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/My_Uncle_Oswald), it's weird stuff.
 {: .interviewee }
 
-AG: [Shel Silverstein](https://en.wikipedia.org/wiki/Shel_Silverstein), you ever read his stuff?
+AG: [Shel Silverstein&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Shel_Silverstein), you ever read his stuff?
 {: .interviewer }
 
 HJ: No, I don't know him.
 {: .interviewee }
 
-AG: He did [*A Light in the Attic*](https://en.wikipedia.org/wiki/A_Light_in_the_Attic), a lot of these children's poems. But then he has other stuff that's about smoking weed. It's fantastic and not for kids, but even I'm like, "Whoa, who is this guy? Where did he come from?" But he's a human being with interests.
+AG: He did [*A Light in the Attic*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/A_Light_in_the_Attic), a lot of these children's poems. But then he has other stuff that's about smoking weed. It's fantastic and not for kids, but even I'm like, "Whoa, who is this guy? Where did he come from?" But he's a human being with interests.
 {: .interviewer }
 
-HJ: Look at Mozart. He wrote [requiems](https://en.wikipedia.org/wiki/Requiem_(Mozart)), he also wrote [magic flutes](https://en.wikipedia.org/wiki/The_Magic_Flute), and he also wrote songs about [licking someone's ass](https://en.wikipedia.org/wiki/Mozart_and_scatology).
+HJ: Look at Mozart. He wrote [requiems&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Requiem_(Mozart)), he also wrote [magic flutes&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/The_Magic_Flute), and he also wrote songs about [licking someone's ass&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Mozart_and_scatology).
 {: .interviewee }
 
 AG: Which you have a video of.
@@ -283,7 +286,7 @@ AG: That's another channel. The adult channel.
 HJ: That's the Roald Dahl adult channel. Yeah. [Laughter]
 {: .interviewee }
 
-AG: So, can you tell us about your creative process and your inspirations that you haven't mentioned already? I saw you have [a Prokofiev piece](https://www.youtube.com/watch?v=86EoPYNZpbA), [Shostakovich](https://www.youtube.com/watch?v=HP9Q8v2bQaw)... You've done a lot of out-of-the-box stuff and I know you compose and you educate. Can you talk about your influences and your creative process?
+AG: So, can you tell us about your creative process and your inspirations that you haven't mentioned already? I saw you have [a Prokofiev piece&nbsp;<i class="non-mwm fa fa-youtube-square" aria-hidden="true"></i>](https://www.youtube.com/watch?v=86EoPYNZpbA), [Shostakovich&nbsp;<i class="non-mwm fa fa-youtube-square" aria-hidden="true"></i>](https://www.youtube.com/watch?v=HP9Q8v2bQaw)... You've done a lot of out-of-the-box stuff and I know you compose and you educate. Can you talk about your influences and your creative process?
 {: .interviewer }
 
 HJ: Wow, influences. I mean, we're going to be here all night.
@@ -298,7 +301,7 @@ HJ: From the classical world...
 AG: It doesn't matter. Just your influences.
 {: .interviewer }
 
-HJ: My influences? Well, definitely the greats like Beethoven, [Debussy](https://en.wikipedia.org/wiki/Debussy), [Ravel](https://en.wikipedia.org/wiki/Ravel), Mozart, [Rossini](https://en.wikipedia.org/wiki/Rossini). Then some of the early guys like [Gesualdo](https://en.wikipedia.org/wiki/Carlo_Gesualdo). Then from performers, already mentioned Glenn Gould, Bernstein. Then figures like, of course, [Yehudi Menuhin](https://en.wikipedia.org/wiki/Yehudi_Menuhin), [Stéphane Grapelli](https://en.wikipedia.org/wiki/St%C3%A9phane_Grappelli), Jacques Brel.
+HJ: My influences? Well, definitely the greats like Beethoven, [Debussy&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Debussy), [Ravel&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Ravel), Mozart, [Rossini&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Rossini). Then some of the early guys like [Gesualdo&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Carlo_Gesualdo). Then from performers, already mentioned Glenn Gould, Bernstein. Then figures like, of course, [Yehudi Menuhin&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Yehudi_Menuhin), [Stéphane Grapelli&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/St%C3%A9phane_Grappelli), Jacques Brel.
 {: .interviewee }
 
 Very interesting thing about Jacques Brel is I fell in love with a French girl when I was 15 years old, as one does, right? I don't think she knows about it. No, she does know about it.
@@ -313,12 +316,12 @@ HJ: And one day she sent me as a gift, a tape of Jacques Brel's 20 greatest hits
 Years later, I started to listen to other stuff, but I would say there was a gap of about 13 years until I actually saw him perform. He's been dead for a long time, but I actually saw video footage of him. I never even thought to think, "Oh what does he look like? What is he like on stage?" I just loved him. And then one day I was watching TV and there was a documentary about him. <span class="important">I was just mesmerized by this guy because there was an animal. It was like, this guy was not just a singer, he was like an actor animal, something beyond. A real genuine performer.</span>
 {: .interviewee }
 
-I happen to understand French, but even if you don't understand French, there's no way that you can't be compelled by this guy. You see him and it's like, "Augh! He's so in it." Certain performers are like that. There's a lot of jazz musicians that have influenced me, or at least turned me on, people like Errol Garner, [Herbie Hancock](https://en.wikipedia.org/wiki/Herbie_Hancock), [Keith Jarrett](https://en.wikipedia.org/wiki/Keith_Jarrett)... I recently heard a guy called [Brad Mehldau](https://en.wikipedia.org/wiki/Brad_Mehldau).
+I happen to understand French, but even if you don't understand French, there's no way that you can't be compelled by this guy. You see him and it's like, "Augh! He's so in it." Certain performers are like that. There's a lot of jazz musicians that have influenced me, or at least turned me on, people like Errol Garner, [Herbie Hancock&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Herbie_Hancock), [Keith Jarrett&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Keith_Jarrett)... I recently heard a guy called [Brad Mehldau&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Brad_Mehldau).
 {: .interviewee }
 
 {% include video.html vid="cnH27mxW0KM" %}
 
-AG: Oh, I just saw him live with [John Scofield](https://en.wikipedia.org/wiki/John_Scofield) and [Mark Guiliana](https://en.wikipedia.org/wiki/Mark_Guiliana). Unbelievable. He's a genius.
+AG: Oh, I just saw him live with [John Scofield&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Scofield) and [Mark Guiliana&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Mark_Guiliana). Unbelievable. He's a genius.
 {: .interviewer }
 
 HJ: Of course I've known about him for many years. I've heard him here and there. But, actually going live to listen to him. It was just a few months ago.
@@ -330,10 +333,10 @@ AG: At the Blue Note?
 HJ: No, it was in Vienna. The main program was his kind of arrangements, improvisations based on Bach. That was the main course of the program. Very good, very interesting, no question. In fact, I was thinking that every single pianist that studies in Vienna should have been there because it was a masterclass in piano playing. Pedaling, articulation, phrasing, sound, sound quality, production. Everything.
 {: .interviewee }
 
-Even his [Bach](https://en.wikipedia.org/wiki/Bach) was wonderful and he's not a classical player. I was like, "Where is every single student here? They should be just lapping this up." He played two encores, which were like... He went into his thing. He did jazz standards. He played two jazz standards and I shit you not, I was just like a little kid. I was in between that emotional experience of wanting to cry and wanting to laugh. Not really knowing how to react because it was like, "Ohh hahahaha ohhhh hahaha!" Just amazing. And there's been very few experiences like that in my life.
+Even his [Bach&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bach) was wonderful and he's not a classical player. I was like, "Where is every single student here? They should be just lapping this up." He played two encores, which were like... He went into his thing. He did jazz standards. He played two jazz standards and I shit you not, I was just like a little kid. I was in between that emotional experience of wanting to cry and wanting to laugh. Not really knowing how to react because it was like, "Ohh hahahaha ohhhh hahaha!" Just amazing. And there's been very few experiences like that in my life.
 {: .interviewee }
 
-So definitely Brad Mehldau is now on my giants list. There's a guitarist. Actually, *you're* a guitarist. I don't know if you've heard of this guy. His name is [Wolfgang Muthspiel](https://en.wikipedia.org/wiki/Wolfgang_Muthspiel), jazz guitarist. Fantastic. Check him out. Austrian dude. Just recorded a CD with Brad Mehldau. He is definitely a big inspiration. We hung out a lot in New York when I was studying there. He opened up my world to a lot of jazz music that I didn't know about before. Certainly I'm a fan of [Pink Floyd](https://en.wikipedia.org/wiki/Pink_Floyd), also like [Pink](https://en.wikipedia.org/wiki/Pink_(singer)).
+So definitely Brad Mehldau is now on my giants list. There's a guitarist. Actually, *you're* a guitarist. I don't know if you've heard of this guy. His name is [Wolfgang Muthspiel&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Wolfgang_Muthspiel), jazz guitarist. Fantastic. Check him out. Austrian dude. Just recorded a CD with Brad Mehldau. He is definitely a big inspiration. We hung out a lot in New York when I was studying there. He opened up my world to a lot of jazz music that I didn't know about before. Certainly I'm a fan of [Pink Floyd&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Pink_Floyd), also like [Pink&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Pink_(singer)).
 {: .interviewee }
 
 {% include video.html vid="_BKVfbwI3X4" %}
@@ -356,24 +359,24 @@ HJ: Yes. Boom!
 AG: Right. You can't deny it. You don't have to like it, but you can't ignore it.
 {: .interviewer }
 
-HJ: I love a lot of things like we spoke earlier off camera about [King Crimson](/discover/king-crimson). I love those guys. Obviously I'm a huge fan of the Beatles. Probably not a day goes by without some Beatles earworm in my head. I love a lot of [Simon and Garfunkel](https://en.wikipedia.org/wiki/Simon_%26_Garfunkel). I'm open to all kinds of music. I love [Public Enemy](https://en.wikipedia.org/wiki/Public_Enemy_(band)), [Beastie Boys](https://en.wikipedia.org/wiki/Beastie_Boys) I think are fantastic.
+HJ: I love a lot of things like we spoke earlier off camera about [King Crimson](/discover/king-crimson). I love those guys. Obviously I'm a huge fan of the Beatles. Probably not a day goes by without some Beatles earworm in my head. I love a lot of [Simon and Garfunkel&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Simon_%26_Garfunkel). I'm open to all kinds of music. I love [Public Enemy&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Public_Enemy_(band)), [Beastie Boys&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Beastie_Boys) I think are fantastic.
 {: .interviewee }
 
-It's not the music I listen to every day, but when I listen to them, it's also like, "Shut up, pay attention. These are not some dudes in a garage. They're onto something." It's fantastically crafted music. They have fun. There's a sense of fun and creativity in there. They're not just out there to make a hit. They're there to make music, they're there to make weird music. A lot of [Radiohead](https://en.wikipedia.org/wiki/Radiohead).
+It's not the music I listen to every day, but when I listen to them, it's also like, "Shut up, pay attention. These are not some dudes in a garage. They're onto something." It's fantastically crafted music. They have fun. There's a sense of fun and creativity in there. They're not just out there to make a hit. They're there to make music, they're there to make weird music. A lot of [Radiohead&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Radiohead).
 {: .interviewee }
 
 {% include video.html vid="F_4fiMIxO2E" %}
 
-AG: Have you heard [Brad Mehldau's Radiohead stuff](https://en.wikipedia.org/wiki/Day_Is_Done_(album))?
+AG: Have you heard [Brad Mehldau's Radiohead stuff&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Day_Is_Done_(album))?
 {: .interviewer }
 
-HJ: Yes, of course. Ooh! There's something I discovered quite recently, [Postmodern Jukebox](https://en.wikipedia.org/wiki/Postmodern_Jukebox).
+HJ: Yes, of course. Ooh! There's something I discovered quite recently, [Postmodern Jukebox&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Postmodern_Jukebox).
 {: .interviewee }
 
 AG: Oh yeah, very creative! Very fun.
 {: .interviewer }
 
-HJ: I *love* those guys. A lot of those singers are fantastic. Then there are people who are not musicians, but have been incredible influences on me. Certainly people like [Charlie Chaplin](https://en.wikipedia.org/wiki/Charlie_Chaplin), [Marx Brothers](https://en.wikipedia.org/wiki/Marx_Brothers) (although they are kind of musicians as well, a lot of them). In today's world, I'm also intrigued by--you know what? <span class="important">I'm intrigued by anybody that is passionate about what they do.</span>
+HJ: I *love* those guys. A lot of those singers are fantastic. Then there are people who are not musicians, but have been incredible influences on me. Certainly people like [Charlie Chaplin&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Charlie_Chaplin), [Marx Brothers&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Marx_Brothers) (although they are kind of musicians as well, a lot of them). In today's world, I'm also intrigued by--you know what? <span class="important">I'm intrigued by anybody that is passionate about what they do.</span>
 {: .interviewee }
 
 Sometimes it's a nameless street performer that I also just shut up and listen. Pay attention to this guy or this girl. They're playing there on the street and they're not doing it for fun. They're doing it because--of course to get a little bit of money, but this is what they do. Some of them are just amazing. There's no reason why some of those people on the street should not have huge record deals.
@@ -391,7 +394,7 @@ HJ: [Laughter, continued wine glass sounds] But this one guy I saw. I even made 
 AG: So you like everything!
 {: .interviewer }
 
-HJ: I do! For example, also dance. There's a dancer called [Tamara Rojo](https://en.wikipedia.org/wiki/Tamara_Rojo). She's now the Artistic Director of the English Ballet. I actually flew to London to watch her perform. Twice. I'm not a major ballet freak, but for her, yes. There's also a guy called [James Thiérrée](https://en.wikipedia.org/wiki/James_Thiérrée), who happens to be the grandson of Chaplin, and he does these amazing theatrical shows. His sister too, Aurelia, actually. Both of them. They created this type of--again, this genre that doesn't really exist. It's this type of circus/theater/performance art/contortion/magic fun comedy.
+HJ: I do! For example, also dance. There's a dancer called [Tamara Rojo&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Tamara_Rojo). She's now the Artistic Director of the English Ballet. I actually flew to London to watch her perform. Twice. I'm not a major ballet freak, but for her, yes. There's also a guy called [James Thiérrée&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/James_Thiérrée), who happens to be the grandson of Chaplin, and he does these amazing theatrical shows. His sister too, Aurelia, actually. Both of them. They created this type of--again, this genre that doesn't really exist. It's this type of circus/theater/performance art/contortion/magic fun comedy.
 {: .interviewee }
 
 {% include video.html vid="sFFpzip-SZk" %}
@@ -408,7 +411,7 @@ AG: She's incredible.
 HJ: She's absolutely incredible.
 {: .interviewee }
 
-AG: Talk about serious music. She's doing the [Ligeti](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti) stuff in crazy outfits. People are laughing, but it's that stunned, "I don't know what to make of this, whether to laugh or cry" thing because you're so shocked.
+AG: Talk about serious music. She's doing the [Ligeti&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti) stuff in crazy outfits. People are laughing, but it's that stunned, "I don't know what to make of this, whether to laugh or cry" thing because you're so shocked.
 {: .interviewer }
 
 HJ: But Ligeti would have been very happy with this. Ligeti is considered to be one of the greatest composers of the 20th century and he's also considered to be one of the most serious composers. However, his music is full of fun and humor. He wrote a piece for 100 metronomes. Come on. You know?
@@ -443,7 +446,7 @@ HJ: How did you know this?!
 AG: I'm in an industry, too. It's what people do. They talk about the industry.
 {: .interviewer }
 
-HJ: <span class="important">They talk about the business! This is the *last thing* I want to talk about. It's *business*. It's the least interesting part of music. It's the business! That's why it's got that horrible term, "The business!"</span> And if we're lucky enough to be in the business, then okay we have to deal with it. But, I want to talk about music! I want to talk about the C major chord, or King Crimson, or lyrics. I want to talk about [Mendelssohn](https://en.wikipedia.org/wiki/Felix_Mendelssohn)!
+HJ: <span class="important">They talk about the business! This is the *last thing* I want to talk about. It's *business*. It's the least interesting part of music. It's the business! That's why it's got that horrible term, "The business!"</span> And if we're lucky enough to be in the business, then okay we have to deal with it. But, I want to talk about music! I want to talk about the C major chord, or King Crimson, or lyrics. I want to talk about [Mendelssohn&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Felix_Mendelssohn)!
 {: .interviewee }
 
 And I realize that very few musicians want to talk about that. In fact, there are even some musicians that will deliberately sabotage and stop you right there when they see you're starting to talk, and they say, "You know, I don't want to talk about music. Let's not talk about music." ...Okay?
@@ -466,7 +469,7 @@ AG: This is the best stuff!
 
 {% include video.html vid="rp5jQRyjf5c" %}
 
-HJ: [Laughter] Creative process. Well, of course I'm very, very lucky that a lot of my creative process is done with my friend and partner, Aleksey Igudesman, who today is in the form of fruit [arranged on a small table next to Hyung-ki]. It actually kind of looks like him. We did a pretty good... If [Jacopetti](https://en.wikipedia.org/wiki/Gualtiero_Jacopetti) or [Basquiat](https://en.wikipedia.org/wiki/Jean-Michel_Basquiat) did a high fruit sculpture of Aleksey Igudesman, this would be it! Two apples and a bunch of bananas. This apple represents his sort of chi, and this banana represents his mental state. I know he'd prefer it the other way around. I hate to say it, but it's more like this.
+HJ: [Laughter] Creative process. Well, of course I'm very, very lucky that a lot of my creative process is done with my friend and partner, Aleksey Igudesman, who today is in the form of fruit [arranged on a small table next to Hyung-ki]. It actually kind of looks like him. We did a pretty good... If [Jacopetti&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Gualtiero_Jacopetti) or [Basquiat&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Jean-Michel_Basquiat) did a high fruit sculpture of Aleksey Igudesman, this would be it! Two apples and a bunch of bananas. This apple represents his sort of chi, and this banana represents his mental state. I know he'd prefer it the other way around. I hate to say it, but it's more like this.
 {: .interviewee }
 
 So, yeah, so anyway I'm very fortunate that a lot of my creative process is shared with this guy. Actually, even though we're doing our own thing a lot of the times, we'll show it to the other. So if I'm writing a piece, which might be a serious piece or a funny piece or whatever, it's outside of the I&J umbrella, he will very often make some wonderful contribution and remarks.
@@ -507,7 +510,7 @@ Sometimes the fact that you have this friction leads to something better, actual
 I know that a lot of the Monty Pythons, their creative process was having little writing teams. I think Eric Idle did his own thing, Terry Gilliam of course did animations, and Cleese was with Chapman, and Terry Jones with Michael Palin. But when they got together, they would then give the stuff to the other person and the other person would say, "Oh, I know how to finish that." Or, "Give that to me." So then it became a collaborative process.
 {: .interviewee }
 
-I'd actually love to know how--you know, a lot of these rock groups that stay together like [U2](https://en.wikipedia.org/wiki/U2) or Radiohead or Queen, if you look at their song credits, it's all shared. It's actually a smart thing to do, also, just for the general harmony of the group because a lot of rock groups split up basically because somebody's houses were bigger than theirs. There is that aspect, but <span class="important">I am much more someone that likes to take time.</span>
+I'd actually love to know how--you know, a lot of these rock groups that stay together like [U2&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/U2) or Radiohead or Queen, if you look at their song credits, it's all shared. It's actually a smart thing to do, also, just for the general harmony of the group because a lot of rock groups split up basically because somebody's houses were bigger than theirs. There is that aspect, but <span class="important">I am much more someone that likes to take time.</span>
 {: .interviewee }
 
 {% include video.html vid="Kbbi_b5K3d8" %}
@@ -577,10 +580,10 @@ AG: Or just one scale!
 HJ: One scale! Yeah, so you can do Dah-dah! Whatever, sure go nuts, man! But when you're playing a keyboard, most of the time, you have to play the rhythm, the harmony, and that's usually with the left hand and a bit of right, but then you have to be totally free and inventive with the right and have at least 3 things going on at the same time and be polyrhythmic and polyharmonic.
 {: .interviewee }
 
-I'm sorry, but big respect has to be done for those guys. Not taking anything away from the instrumentalists who improvise, but when you look at somebody like these guys like Herbie Hancock or [Chick Corea](https://en.wikipedia.org/wiki/Chick_Corea). Brad. What they're doing is on another level. <span class="important">I guess I feel that I'm still a student.</span>
+I'm sorry, but big respect has to be done for those guys. Not taking anything away from the instrumentalists who improvise, but when you look at somebody like these guys like Herbie Hancock or [Chick Corea&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Chick_Corea). Brad. What they're doing is on another level. <span class="important">I guess I feel that I'm still a student.</span>
 {: .interviewee }
 
-AG: Like a [beginner's mind](https://en.wikipedia.org/wiki/Shoshin), always learning?
+AG: Like a [beginner's mind&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Shoshin), always learning?
 {: .interviewer }
 
 HJ: Yeah, I know that sounds cliche and zen and all that bullshit, but it's true. A few years ago, a student--well, she's not really a student of mine, but she's someone that used to come play for me quite regularly, and then there was a hiatus, but--she called me again and she said, "I'd like to come again and play for you."
@@ -623,10 +626,10 @@ I can objectively analyze it as much as I want and scrutinize and be critical, b
 
 {% include video.html vid="vi1JeWrIPeA" %}
 
-AG: The drummer [Bill Bruford](https://en.wikipedia.org/wiki/Bill_Bruford) talks about this. He says some people are producers, some people are musicians. Some people can go into a studio and lay down an album in 2 hours. Some people, like [Peter Gabriel](https://en.wikipedia.org/wiki/Peter_Gabriel), it takes 8 or 10 years to put out an album. It's not that it's bad, it's great. But one guy can put out an album and another can put out 100 albums.
+AG: The drummer [Bill Bruford&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bill_Bruford) talks about this. He says some people are producers, some people are musicians. Some people can go into a studio and lay down an album in 2 hours. Some people, like [Peter Gabriel&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Peter_Gabriel), it takes 8 or 10 years to put out an album. It's not that it's bad, it's great. But one guy can put out an album and another can put out 100 albums.
 {: .interviewer }
 
-HJ: Right! I do sometimes write songs and, again, I don't consider myself a natural born songwriter. I'm not your Ira and George Gershwin. I'm not your Irving Berlin, but I love the form of the art of song and I've written a few songs. But, phew, it's tough. Really tough.
+HJ: Right! I do sometimes write songs and, again, I don't consider myself a natural born songwriter. I'm not your [Ira&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Ira_Gershwin) and [George Gershwin&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/George_Gershwin). I'm not your [Irving Berlin&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Irving_Berlin), but I love the form of the art of song and I've written a few songs. But, phew, it's tough. Really tough.
 {: .interviewee }
 
 I must say I was a little bit heartened, but a friend of mine is Billy Joel. I said, "Man, it's so hard to write a song. I just feel like giving up." I even showed him a piece, and said, "I don't know. Should I do this?" And he's like, "What are you talking about, man? It's like giving birth!" He's one of those people that will just take forever and really struggle with music and lyrics. <span class="important">He's considered one of the world's greatest songwriters, right? If he can struggle, then I can too.</span>
@@ -641,7 +644,7 @@ HJ: I guess I can identify more with Beethoven than Mozart. I love Mozart, of co
 AG: Maybe that's why there's so much Mozart chocolate.
 {: .interviewer }
 
-HJ: That's right! Mozart chocolate balls. But, Mozart, he really just thought it and it was done. A whole opera. Boom. With Mozart, there's hardly any sketch. It's like [Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso) drawing a perfect circle. That's basically Mozart. The equivalent. Picasso didn't have any sketches where he's trying to draw a circle. He'd just go boom. Perfect circle. Straight line. He had that God-given talent.
+HJ: That's right! Mozart chocolate balls. But, Mozart, he really just thought it and it was done. A whole opera. Boom. With Mozart, there's hardly any sketch. It's like [Picasso&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Pablo_Picasso) drawing a perfect circle. That's basically Mozart. The equivalent. Picasso didn't have any sketches where he's trying to draw a circle. He'd just go boom. Perfect circle. Straight line. He had that God-given talent.
 {: .interviewee }
 
 Beethoven, on the other hand, sketches like this [gesticulates a huge pile of papers]. He would cross out stuff, try stuff, try different keys, and there's like 32 or 64 versions of just 4 notes. Probably before he came to da-da-da-DAAAAA [5th symphony], he did da-da-da-DEEEE, da-da-doooo, da-DI-da-daaa, da-DAAA. It's not that piece, but you actually see that. Sketches and sketches and sketches. <span class="important">And you feel the struggle. I guess maybe that's why I identify more with him.</span>
@@ -664,22 +667,22 @@ AG: And I want to make sure we talk about it because it's great.
 
 {% include video.html vid="64aeM7mtFRU" %}
 
-HJ: It's called [*You Just Have to Laugh*](https://store.cdbaby.com/cd/igudesmanjoo1). [Promotional zooming and smiling.]
+HJ: It's called [*You Just Have to Laugh*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://store.cdbaby.com/cd/igudesmanjoo1). [Promotional zooming and smiling.]
 {: .interviewee }
 
 AG: Where can someone procure said CD?
 {: .interviewer }
 
-HJ: Umm, here. If you have that [Willy Wonka](https://en.wikipedia.org/wiki/Willy_Wonka) ability if they can just reach into the camera and pick up the disc. It's certainly available after our shows. It's available in the one CD store that still exists in the world. Somewhere in Mesa, Arizona or something like that, because CD stores are relics. But, mostly [ordered through Amazon](https://www.amazon.com/You-Just-Have-Laugh-Igudesman/dp/B01CRT7086). You can also [download it on iTunes](https://itunes.apple.com/us/album/you-just-have-to-laugh-vol./id1152481360).
+HJ: Umm, here. If you have that [Willy Wonka&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Willy_Wonka) ability if they can just reach into the camera and pick up the disc. It's certainly available after our shows. It's available in the one CD store that still exists in the world. Somewhere in Mesa, Arizona or something like that, because CD stores are relics. But, mostly [ordered through Amazon&nbsp;<i class="non-mwm fa fa-amazon" aria-hidden="true"></i>](https://www.amazon.com/You-Just-Have-Laugh-Igudesman/dp/B01CRT7086). You can also [download it on iTunes&nbsp;<i class="non-mwm fa fa-apple" aria-hidden="true"></i>](https://itunes.apple.com/us/album/you-just-have-to-laugh-vol./id1152481360).
 {: .interviewee }
 
-AG: Tell us about the album. You've got a whole [Malkovich](https://en.wikipedia.org/wiki/John_Malkovich) thing going on.
+AG: Tell us about the album. You've got a whole [Malkovich&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Malkovich) thing going on.
 {: .interviewer }
 
 HJ: Yes, there's some actor called John Malkovich on there and he plays our agent. The thing is, because we're traditional guys, we grew up in the world of radio shows and LPs and concept albums, which now don't really exist. We've been a duo officially for 14 years and only last year did we make this CD. It's our first and only.
 {: .interviewee }
 
-When we were at the drawing board, we were thinking, "Okay, what should we do?" And we were looking at current trends, what do people do? The concept album doesn't exist anymore, but we've always loved things like [Sgt. Pepper's](https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band) and all those great concept albums from the 60s and 70s, but CDs... So we wrestled with all these conflicting things. At the end of the day, we said, "Why are we doing what we do? Is it to win a grammy?" [In promotional voice] We hope to win a grammy. [Back to normal] But, is that what we're doing this for? No.
+When we were at the drawing board, we were thinking, "Okay, what should we do?" And we were looking at current trends, what do people do? The concept album doesn't exist anymore, but we've always loved things like [Sgt. Pepper's&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band) and all those great concept albums from the 60s and 70s, but CDs... So we wrestled with all these conflicting things. At the end of the day, we said, "Why are we doing what we do? Is it to win a grammy?" [In promotional voice] We hope to win a grammy. [Back to normal] But, is that what we're doing this for? No.
 {: .interviewee }
 
 <span class="important">We're doing it because it's our creative desire and if we're lucky enough to do it, let's just do what we love doing. If it's a success, great. If not, then too bad. At least we're doing something we believe in.</span> So we said, "Screw it. Screw whether people care about the concept album. We're just going to do our own thing." So we said, "Let's make an album that has a line, a kind of shape, and a drama to it."
