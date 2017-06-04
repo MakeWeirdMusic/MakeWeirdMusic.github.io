@@ -14,10 +14,10 @@ seo_keywords: hyung-ki joo, joothoven, aleksey igudesman, hans zimmer, emmanuel 
 front_page: yes
 draft: yes
 has_video: yes
-youtube_id:
+youtube_id: xk3y-vNWtZM
 file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/igudesman-and-joo/igudesman-and-joo.mp3
-duration: "" #audio length in min
-length: "" #filesize in byte
+duration: "01:10:16" #audio length in min
+length: "136960055" #filesize in byte
 explicit: "yes" #other option is no
 block: "yes" #means is shown in itunes
 ---
