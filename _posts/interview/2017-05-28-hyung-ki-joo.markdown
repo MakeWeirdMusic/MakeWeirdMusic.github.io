@@ -124,6 +124,8 @@ HJ: Sure, fine, but then don't shave for a month and don't shower and then put o
 
 > NOTE: *[The Rest is Noise&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](http://www.therestisnoise.com/2005/02/applause_a_rest.html) has the content of Mozart's letter*: Right in the middle of the First Allegro came a Passage that I knew would please, and the entire audience was sent into raptures—there was a big applaudißement;—and as I knew, when I wrote the passage, what good effect it would make, I brought it once more at the end of the movement—and they went again, Da capo. The Andante was well received as well, but the final Allegro pleased especially—because I had heard that here the final Allegros begin like first Allegros, namely with all instruments playing and mostly unisono; therefore, I began the movement with just 2 violins playing softly for 8 bars—then suddenly comes a forte—but the audience had, because of the quiet beginning, shushed each other, as I expected they would, and then came the forte—well, hearing it and clapping was one and the same. I was so delighted, I went right after the Sinfonie to the Palais Royal—bought myself an ice cream, prayed a rosary as I had pledged—and went home.
 
+{% include video.html vid="9X0RmNZKj4Y" %}
+
 If today, if that happened, it would be a scandal. It would be like, "Shh! What are you doing?! How dare you clap?! The composer will be pissed off!" If I was the composer of a work, especially one of those where it's, "Bee ahh off pfbfbtbtbt" [atonal], and people were clapping after 16 measures, I'd be like, "Thank you, God!" You know? "Wow! Great! I made it!" You should be fucking happy! Instead of being like, "Ugh, how *dare* you interrupt my work with applause?!"
 {: .interviewee }
 
@@ -758,7 +760,7 @@ HJ: We made a 3D space for the 2D listener.
 AG: And it's fresh! If you watch the YouTube things, that's one version of it, but then you get the CD, and you say, "Oh, I see how they twisted this."
 {: .interviewer }
 
-HJ: Right. It's totally different. They're all totally different versions. So, please, *You Just Have to Laugh* by Igudesmand and Joo. The unmaking of, featuring John Malkovich.
+HJ: Right. It's totally different. They're all totally different versions. So, please, *You Just Have to Laugh* by Igudesman and Joo. The unmaking of, featuring John Malkovich.
 {: .interviewee }
 
 AG: Thank you so much, man. What a treat.
