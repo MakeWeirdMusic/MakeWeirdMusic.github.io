@@ -12,14 +12,14 @@ oneliner: Classical music's most creative, outrageous, funny, and talented duo.
 seo_description: Hyung-ki Joo and Aleksey Igudesman (sorta) join us to talk about their mission.
 seo_keywords: hyung-ki joo, joothoven, aleksey igudesman, hans zimmer, emmanuel ax, josh bell, joshua bell
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 youtube_id: xk3y-vNWtZM
 file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/igudesman-and-joo/igudesman-and-joo.mp3
 duration: "01:10:16" #audio length in min
 length: "136960055" #filesize in byte
 explicit: "yes" #other option is no
-block: "yes" #means is shown in itunes
+block: "no" #means is shown in itunes
 ---
 
 ## History
