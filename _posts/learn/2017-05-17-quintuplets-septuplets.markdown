@@ -17,6 +17,7 @@ redirect_from:
 - /learn/septuplets
 - /learn/quintuplet
 - /learn/septuplet
+- /learn/tuplets-with-jan
 oneliner: Learn how Panzerballett works in the world of quintuplets and septuplets.
 seo_description: Learn how Jan Zehrfeld used quintuplets and septuplets for some Panzerballett songs.
 seo_keywords: jan zehrfeld, sebastian lanser, joe doblhofer, alexander von hagke, heiko jung, gregor burger, florian schmidt, andreas dombert, max bucher, martin mayrhofer, jazz metal, progressive metal, polyrhythms
