@@ -7,9 +7,6 @@ author: anthony-garone
 image: king-crimson
 category: share
 permalink: /share/king-crimson-concert-2017
-redirect_from:
-  - /share/king-crimson/2017-concert
-  - /share/king-crimson/concert-2017
 oneliner: The 8-headed beast of Crim debuted in Seattle and blew many minds.
 seo_description: Personal thoughts on the 8-member King Crimson Friends and Family concert in Seattle.
 seo_keywords: king crimson, robert fripp, jeremy stacey, bill rieflin, pat mastelotto, gavin harrison, tony levin, mel collins, steve ball, alex anthony faide, fracture
