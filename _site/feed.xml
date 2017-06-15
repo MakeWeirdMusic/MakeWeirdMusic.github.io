@@ -3,70 +3,11 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Jun 2017 12:09:49 +0200</pubDate>
-    <lastBuildDate>Thu, 15 Jun 2017 12:09:49 +0200</lastBuildDate>
+    <link>http://www.makeweirdmusic.com/</link>
+    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 15 Jun 2017 12:13:20 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Jun 2017 12:13:20 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
-    
-      <item>
-        <title>King Crimson Concert Thoughts</title>
-        <description>&lt;h2 id=&quot;warning&quot;&gt;Warning&lt;/h2&gt;
-
-&lt;p&gt;I’m not a music critic, nor am I particularly qualified to deliver musical criticism, so these are my personal thoughts on attending the King Crimson Friends &amp;amp; Family concert on June 11, 2017 in Seattle. My intention is to be positive. I have some criticism of the show at the bottom, which I didn’t include in my Facebook note.&lt;/p&gt;
-
-&lt;h2 id=&quot;thoughts&quot;&gt;Thoughts&lt;/h2&gt;
-
-&lt;p&gt;Last night, I saw King Crimson perform in its new 8-headed beast configuration (3 drummers, 2 guitarists, 1 woodwind, 1 bassist, 1 keyboardist). It was an absolutely incredible concert. They performed for more than three hours across two sets of complex music proving themselves to be one of the most present, focused, energetic, and powerful configurations of the band’s 48-year history.&lt;/p&gt;
-
-&lt;p&gt;The true highlight of the evening for me was a ripping performance of Fracture, a song I never believed I would see KC perform in my lifetime. &lt;a href=&quot;/learn/fracture&quot;&gt;I have been studying and failing to play this impossible song for almost 20 years&lt;/a&gt;. This band, with its 71-year-old founding guitarist, performed it with new life at a breakneck pace (I’m guessing 136-138 beats per minute during the grueling moto perpetuo). The performance of this song was an unforgettable life experience for me and left me stunned.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9ySAvqgX0Rs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;The arrangement included a beautiful passing of notes between &lt;a href=&quot;https://en.wikipedia.org/wiki/Robert_Fripp&quot;&gt;Robert Fripp &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Jakko_Jakszyk&quot;&gt;Jakko Jakszyk &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, incredible percussive and drum additions across the three (three!) drummers, a deeper exploration of the song’s motifs, and a new musical direction after the moto perpetuo. The performance and arrangement were so impressive, the performers received a near-immediate standing ovation. The friends and family crowd were screaming, standing in the aisles between seats, clapping above their heads, and shaking their heads in disbelief. It was the kind of performance that kicked you out of your seat and made you feel like you could run a marathon. It was overwhelming.&lt;/p&gt;
-
-&lt;p&gt;I won’t spoil any more of the setlist, but it is worth noting there is brand new KC music being performed and some great additions to the band’s repertoire. And the decades-old music being performed takes on a new life. Robert has said that the music is new no matter when it is being performed, which is philosophically true, but I can personally attest that this lineup brings new life to many KC “standards.”&lt;/p&gt;
-
-&lt;p&gt;The 8-headed Crimson is significantly better than the 7-headed incarnation I saw in Los Angeles on September 30, 2014. They clearly have much more internal alignment and practice as a band. I remember several rough spots during that show, which was still a great show but did not make quite the impression this new KC made last night.&lt;/p&gt;
-
-&lt;p&gt;Every band member contributed meaningfully to the performance. Throughout the show, I would look at someone in the band and think, “Wow, what an amazing player! I love what he’s doing tonight!” Near the end of the first set, I realized I had done that for each of the eight members. I entered the second set with complete admiration and respect for the musicians on stage, each performing at the top of their game.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FhKJgqxNDD8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Mel_Collins&quot;&gt;Mel Collins &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; was the highlight of the 2014 show for me, and he was equally impressive last night. &lt;a href=&quot;https://en.wikipedia.org/wiki/Tony_Levin&quot;&gt;Tony Levin &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; was shredding on the Stick and bass like I’ve never seen, even after catching &lt;a href=&quot;https://en.wikipedia.org/wiki/Stick_Men_(prog_band)&quot;&gt;Stick Men &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; in January in Phoenix. Jakko played several extremely difficult guitar lines, offered a very solid and passionate vocal performance, and still had energy through the end of the encore. He clearly gave his all. &lt;a href=&quot;https://en.wikipedia.org/wiki/Bill_Rieflin&quot;&gt;Bill Riefin’s &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; keyboard parts were great and contributed a lot of atmosphere that rounded out the songs. &lt;a href=&quot;https://en.wikipedia.org/wiki/Jeremy_Stacey&quot;&gt;Jeremy Stacey’s &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; drums were a beautiful complement to &lt;a href=&quot;https://en.wikipedia.org/wiki/Pat_Mastelotto&quot;&gt;Pat Mastelotto’s &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; percussive exploration and sound library. &lt;a href=&quot;https://en.wikipedia.org/wiki/Gavin_Harrison&quot;&gt;Gavin Harrison &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; was… well, Gavin Harrison–a precise master of his craft with excellent tone and clarity at every tempo.&lt;/p&gt;
-
-&lt;p&gt;Then, of course, there’s Robert. This is a man that has had such profound impact on me and many others. In fact, I was in Seattle for a “Seattle Guitar Work Weekend” led by Steve Ball (&lt;a href=&quot;/interview/steve-ball&quot;&gt;see our interview with Steve on MWM&lt;/a&gt;). What struck me most about Robert last night was not his playing nor his smiling throughout the show (some smiles of joy, some smiles of laughing at mistakes). What struck me most about Robert was the community he has built around the world, particularly in Seattle.&lt;/p&gt;
-
-&lt;p&gt;The Seattle Guitar Work Weekend was a wonderful event bringing together a group of guitarists (and a few non-guitarists) from across the globe to make and appreciate music together. Some of the musicians in the group have known each other and performed together for decades. These are people who connected via Robert and his Guitar Craft/Guitar Circle efforts. Steve Ball and several other Seattle-based guitarists have familial relationships through music, craft, and love. What Robert has brought together in these people is so special and so far beyond the music. I am awed and humbled to have been invited to take part in a very small way.&lt;/p&gt;
-
-&lt;p&gt;Robert’s impact on these good human beings is profound. He has helped foster an adoration of silence, understanding of self, mastery of craft, and love for others through music, relationships, and study. And these achievements have changed the course of my own life and my own relationship with music and the guitar. I cannot overstate the significance of what I’ve experienced through the Guitar Circle teachings and through the relationships I’ve been privileged to have through the Guitar Circle. And I cannot overstate the impact I’ve seen in others much more experienced than I. Several of us flew thousands of miles just to participate in the Guitar Work Weekend and to attend the KC show.&lt;/p&gt;
-
-&lt;p&gt;Yes, Robert played incredibly last night. Yes, he wrote some great music. Yes, he has assembled a cadre of expert musicians that will melt thousands of faces this year. But most importantly to me, he has selflessly given himself to music and to others in a way that’s only understood when you spend some time with his friends and family.&lt;/p&gt;
-
-&lt;p&gt;[NOTE for KC fans, I filmed an interview with &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Singleton&quot;&gt;David Singleton &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; before the show and another interview with &lt;a href=&quot;https://www.youtube.com/user/instrofreak&quot;&gt;Alex Anthony Faide &lt;i class=&quot;non-mwm fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, the only other guitarist in the world that can play Fracture. So stay tuned on the site for more KC-related fun…]&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/227L6FW30ZA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;criticism&quot;&gt;Criticism&lt;/h2&gt;
-
-&lt;p&gt;Similar to the live show in 2014, the sound was poorly mixed in Seattle. It was really the only disappointing part of the experience, but it was a clear disappointment for myself and many others. For the first half of the first set, Tony’s bass and vocals could not be heard. For most of the show, Pat’s electronic drum pad couldn’t be heard. Robert’s guitar parts were hard to hear. Jakko’s amp sounded like it was submerged in a lake and key guitar parts were indiscernible in the mix.&lt;/p&gt;
-
-&lt;p&gt;Having the three drummers at the front of the stage is amazing for stage setup and visual presence, but it’s pretty brutal for the audience. When all three are playing at the same time, it’s nearly impossible to hear anything else, especially when the cymbals are blaring (there are a &lt;em&gt;lot&lt;/em&gt; of cymbal crashes throughout the show). Nearly all the frequencies of the band are smothered by the drums.&lt;/p&gt;
-
-&lt;p&gt;The mix got much better into the second set, but it still wasn’t great. That being said, having done some live sound, I do not envy the work of a sound crew working with three entire drumsets and unamplified instruments. It’s an incredibly difficult task, but some of the mix was difficult to excuse. Key guitar parts were too quiet or inaudible in certain songs, which made me feel like the sound engineers were unfamiliar with the music. In fact, two of my favorite/most anticipated guitar parts were nearly inaudible in the show.&lt;/p&gt;
-
-&lt;p&gt;I kept wondering if Robert or David had sat in the venue to listen to a song or two being performed because it was legitimately distracting. Everyone I talked to was disappointed with the sound. The show in 2014 was so, so badly mixed, but that may have been due to the fact that I sat up front. Nevertheless, I remember I couldn’t hear bass or vocals at that show, either.&lt;/p&gt;
-
-&lt;p&gt;My hope is that as they get further into the tour, the sound and mixing quality improves. Part of the risk of attending a Friends &amp;amp; Family show is you are the testing audience, but the performances all night were so strong that the sound issues stunted the potential of the performance.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Jun 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/share/king-crimson-concert-2017</link>
-        <guid isPermaLink="true">http://localhost:4000/share/king-crimson-concert-2017</guid>
-        
-        
-        <category>share</category>
-        
-      </item>
     
       <item>
         <title>David Singleton</title>
@@ -282,12 +223,71 @@
 
 &lt;p class=&quot;interviewee&quot;&gt;DS: Cheers!&lt;/p&gt;
 </description>
-        <pubDate>Sun, 11 Jun 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/discover/david-singleton/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/david-singleton/</guid>
+        <pubDate>Thu, 15 Jun 2017 02:00:00 +0200</pubDate>
+        <link>http://www.makeweirdmusic.com/discover/david-singleton/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/david-singleton/</guid>
         
         
         <category>discover</category>
+        
+      </item>
+    
+      <item>
+        <title>King Crimson Concert Thoughts</title>
+        <description>&lt;h2 id=&quot;warning&quot;&gt;Warning&lt;/h2&gt;
+
+&lt;p&gt;I’m not a music critic, nor am I particularly qualified to deliver musical criticism, so these are my personal thoughts on attending the King Crimson Friends &amp;amp; Family concert on June 11, 2017 in Seattle. My intention is to be positive. I have some criticism of the show at the bottom, which I didn’t include in my Facebook note.&lt;/p&gt;
+
+&lt;h2 id=&quot;thoughts&quot;&gt;Thoughts&lt;/h2&gt;
+
+&lt;p&gt;Last night, I saw King Crimson perform in its new 8-headed beast configuration (3 drummers, 2 guitarists, 1 woodwind, 1 bassist, 1 keyboardist). It was an absolutely incredible concert. They performed for more than three hours across two sets of complex music proving themselves to be one of the most present, focused, energetic, and powerful configurations of the band’s 48-year history.&lt;/p&gt;
+
+&lt;p&gt;The true highlight of the evening for me was a ripping performance of Fracture, a song I never believed I would see KC perform in my lifetime. &lt;a href=&quot;/learn/fracture&quot;&gt;I have been studying and failing to play this impossible song for almost 20 years&lt;/a&gt;. This band, with its 71-year-old founding guitarist, performed it with new life at a breakneck pace (I’m guessing 136-138 beats per minute during the grueling moto perpetuo). The performance of this song was an unforgettable life experience for me and left me stunned.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9ySAvqgX0Rs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;The arrangement included a beautiful passing of notes between &lt;a href=&quot;https://en.wikipedia.org/wiki/Robert_Fripp&quot;&gt;Robert Fripp &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Jakko_Jakszyk&quot;&gt;Jakko Jakszyk &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, incredible percussive and drum additions across the three (three!) drummers, a deeper exploration of the song’s motifs, and a new musical direction after the moto perpetuo. The performance and arrangement were so impressive, the performers received a near-immediate standing ovation. The friends and family crowd were screaming, standing in the aisles between seats, clapping above their heads, and shaking their heads in disbelief. It was the kind of performance that kicked you out of your seat and made you feel like you could run a marathon. It was overwhelming.&lt;/p&gt;
+
+&lt;p&gt;I won’t spoil any more of the setlist, but it is worth noting there is brand new KC music being performed and some great additions to the band’s repertoire. And the decades-old music being performed takes on a new life. Robert has said that the music is new no matter when it is being performed, which is philosophically true, but I can personally attest that this lineup brings new life to many KC “standards.”&lt;/p&gt;
+
+&lt;p&gt;The 8-headed Crimson is significantly better than the 7-headed incarnation I saw in Los Angeles on September 30, 2014. They clearly have much more internal alignment and practice as a band. I remember several rough spots during that show, which was still a great show but did not make quite the impression this new KC made last night.&lt;/p&gt;
+
+&lt;p&gt;Every band member contributed meaningfully to the performance. Throughout the show, I would look at someone in the band and think, “Wow, what an amazing player! I love what he’s doing tonight!” Near the end of the first set, I realized I had done that for each of the eight members. I entered the second set with complete admiration and respect for the musicians on stage, each performing at the top of their game.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FhKJgqxNDD8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Mel_Collins&quot;&gt;Mel Collins &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; was the highlight of the 2014 show for me, and he was equally impressive last night. &lt;a href=&quot;https://en.wikipedia.org/wiki/Tony_Levin&quot;&gt;Tony Levin &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; was shredding on the Stick and bass like I’ve never seen, even after catching &lt;a href=&quot;https://en.wikipedia.org/wiki/Stick_Men_(prog_band)&quot;&gt;Stick Men &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; in January in Phoenix. Jakko played several extremely difficult guitar lines, offered a very solid and passionate vocal performance, and still had energy through the end of the encore. He clearly gave his all. &lt;a href=&quot;https://en.wikipedia.org/wiki/Bill_Rieflin&quot;&gt;Bill Riefin’s &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; keyboard parts were great and contributed a lot of atmosphere that rounded out the songs. &lt;a href=&quot;https://en.wikipedia.org/wiki/Jeremy_Stacey&quot;&gt;Jeremy Stacey’s &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; drums were a beautiful complement to &lt;a href=&quot;https://en.wikipedia.org/wiki/Pat_Mastelotto&quot;&gt;Pat Mastelotto’s &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; percussive exploration and sound library. &lt;a href=&quot;https://en.wikipedia.org/wiki/Gavin_Harrison&quot;&gt;Gavin Harrison &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; was… well, Gavin Harrison–a precise master of his craft with excellent tone and clarity at every tempo.&lt;/p&gt;
+
+&lt;p&gt;Then, of course, there’s Robert. This is a man that has had such profound impact on me and many others. In fact, I was in Seattle for a “Seattle Guitar Work Weekend” led by Steve Ball (&lt;a href=&quot;/interview/steve-ball&quot;&gt;see our interview with Steve on MWM&lt;/a&gt;). What struck me most about Robert last night was not his playing nor his smiling throughout the show (some smiles of joy, some smiles of laughing at mistakes). What struck me most about Robert was the community he has built around the world, particularly in Seattle.&lt;/p&gt;
+
+&lt;p&gt;The Seattle Guitar Work Weekend was a wonderful event bringing together a group of guitarists (and a few non-guitarists) from across the globe to make and appreciate music together. Some of the musicians in the group have known each other and performed together for decades. These are people who connected via Robert and his Guitar Craft/Guitar Circle efforts. Steve Ball and several other Seattle-based guitarists have familial relationships through music, craft, and love. What Robert has brought together in these people is so special and so far beyond the music. I am awed and humbled to have been invited to take part in a very small way.&lt;/p&gt;
+
+&lt;p&gt;Robert’s impact on these good human beings is profound. He has helped foster an adoration of silence, understanding of self, mastery of craft, and love for others through music, relationships, and study. And these achievements have changed the course of my own life and my own relationship with music and the guitar. I cannot overstate the significance of what I’ve experienced through the Guitar Circle teachings and through the relationships I’ve been privileged to have through the Guitar Circle. And I cannot overstate the impact I’ve seen in others much more experienced than I. Several of us flew thousands of miles just to participate in the Guitar Work Weekend and to attend the KC show.&lt;/p&gt;
+
+&lt;p&gt;Yes, Robert played incredibly last night. Yes, he wrote some great music. Yes, he has assembled a cadre of expert musicians that will melt thousands of faces this year. But most importantly to me, he has selflessly given himself to music and to others in a way that’s only understood when you spend some time with his friends and family.&lt;/p&gt;
+
+&lt;p&gt;[NOTE for KC fans, I filmed an interview with &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Singleton&quot;&gt;David Singleton &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; before the show and another interview with &lt;a href=&quot;https://www.youtube.com/user/instrofreak&quot;&gt;Alex Anthony Faide &lt;i class=&quot;non-mwm fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, the only other guitarist in the world that can play Fracture. So stay tuned on the site for more KC-related fun…]&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/227L6FW30ZA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;criticism&quot;&gt;Criticism&lt;/h2&gt;
+
+&lt;p&gt;Similar to the live show in 2014, the sound was poorly mixed in Seattle. It was really the only disappointing part of the experience, but it was a clear disappointment for myself and many others. For the first half of the first set, Tony’s bass and vocals could not be heard. For most of the show, Pat’s electronic drum pad couldn’t be heard. Robert’s guitar parts were hard to hear. Jakko’s amp sounded like it was submerged in a lake and key guitar parts were indiscernible in the mix.&lt;/p&gt;
+
+&lt;p&gt;Having the three drummers at the front of the stage is amazing for stage setup and visual presence, but it’s pretty brutal for the audience. When all three are playing at the same time, it’s nearly impossible to hear anything else, especially when the cymbals are blaring (there are a &lt;em&gt;lot&lt;/em&gt; of cymbal crashes throughout the show). Nearly all the frequencies of the band are smothered by the drums.&lt;/p&gt;
+
+&lt;p&gt;The mix got much better into the second set, but it still wasn’t great. That being said, having done some live sound, I do not envy the work of a sound crew working with three entire drumsets and unamplified instruments. It’s an incredibly difficult task, but some of the mix was difficult to excuse. Key guitar parts were too quiet or inaudible in certain songs, which made me feel like the sound engineers were unfamiliar with the music. In fact, two of my favorite/most anticipated guitar parts were nearly inaudible in the show.&lt;/p&gt;
+
+&lt;p&gt;I kept wondering if Robert or David had sat in the venue to listen to a song or two being performed because it was legitimately distracting. Everyone I talked to was disappointed with the sound. The show in 2014 was so, so badly mixed, but that may have been due to the fact that I sat up front. Nevertheless, I remember I couldn’t hear bass or vocals at that show, either.&lt;/p&gt;
+
+&lt;p&gt;My hope is that as they get further into the tour, the sound and mixing quality improves. Part of the risk of attending a Friends &amp;amp; Family show is you are the testing audience, but the performances all night were so strong that the sound issues stunted the potential of the performance.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Jun 2017 02:00:00 +0200</pubDate>
+        <link>http://www.makeweirdmusic.com/share/king-crimson-concert-2017</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/king-crimson-concert-2017</guid>
+        
+        
+        <category>share</category>
         
       </item>
     
@@ -832,8 +832,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p&gt;AG: Then it’s a good interview.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 May 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/interview/igudesman-and-joo</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/igudesman-and-joo</guid>
+        <link>http://www.makeweirdmusic.com/interview/igudesman-and-joo</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/igudesman-and-joo</guid>
         
         
         <category>interview</category>
@@ -985,8 +985,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p class=&quot;interviewee&quot;&gt;JZ: No, I’m totally normal.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 May 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/learn/quintuplets-septuplets</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/quintuplets-septuplets</guid>
+        <link>http://www.makeweirdmusic.com/learn/quintuplets-septuplets</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/quintuplets-septuplets</guid>
         
         
         <category>learn</category>
@@ -1024,8 +1024,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p&gt;Outside of that, there are speed bumps everywhere you look in this piece. I couldn’t decide on a definitive fingering, so it’s up to you how you want to play it. Watch the video and see if it helps you. If you decide to try learning it, please reach out and let me know!&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/learn/something-she-said</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/something-she-said</guid>
+        <link>http://www.makeweirdmusic.com/learn/something-she-said</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/something-she-said</guid>
         
         
         <category>learn</category>
@@ -1056,8 +1056,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 
 </description>
         <pubDate>Tue, 11 Apr 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/share/erudite-eyes</link>
-        <guid isPermaLink="true">http://localhost:4000/share/erudite-eyes</guid>
+        <link>http://www.makeweirdmusic.com/share/erudite-eyes</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/erudite-eyes</guid>
         
         
         <category>share</category>
@@ -1287,8 +1287,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p class=&quot;interviewee&quot;&gt;Band: Right on. Thanks.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Mar 2017 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/discover/evil-genius/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/evil-genius/</guid>
+        <link>http://www.makeweirdmusic.com/discover/evil-genius/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/evil-genius/</guid>
         
         
         <category>discover</category>
@@ -1310,8 +1310,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p class=&quot;ad&quot;&gt;You should check out Mike’s newest album, &lt;a href=&quot;https://store.keneally.com/products/copy-of-mike-keneally-you-must-be-this-tall-download-only&quot;&gt;&lt;em&gt;Scambot 2&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/share/aye-aye-monster</link>
-        <guid isPermaLink="true">http://localhost:4000/share/aye-aye-monster</guid>
+        <link>http://www.makeweirdmusic.com/share/aye-aye-monster</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/aye-aye-monster</guid>
         
         
         <category>share</category>
@@ -1344,8 +1344,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 
 </description>
         <pubDate>Sun, 12 Mar 2017 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/share/weasel-shake</link>
-        <guid isPermaLink="true">http://localhost:4000/share/weasel-shake</guid>
+        <link>http://www.makeweirdmusic.com/share/weasel-shake</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/weasel-shake</guid>
         
         
         <category>share</category>
@@ -1375,8 +1375,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p&gt;One thing I’d like to note: I’ve never let myself “go” like I did with this solo. It’s the first time you’ll ever see me &lt;em&gt;move&lt;/em&gt; while playing the guitar. My wife once called me “an impenetrable monolith,” which I’d say also describes my guitar playing. It was a lot of fun recording this and I was highly surprised to see the video afterward.&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Mar 2017 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/share/nick-prol/another-groan</link>
-        <guid isPermaLink="true">http://localhost:4000/share/nick-prol/another-groan</guid>
+        <link>http://www.makeweirdmusic.com/share/nick-prol/another-groan</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/nick-prol/another-groan</guid>
         
         
         <category>share</category>

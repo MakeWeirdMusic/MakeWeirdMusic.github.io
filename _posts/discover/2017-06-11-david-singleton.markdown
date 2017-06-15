@@ -1,7 +1,7 @@
 ---
 layout: post
 title: David Singleton
-date:  2017-06-11 00:00:00
+date:  2017-06-15 00:00:00
 artist: david-singleton
 author: anthony-garone
 image: david-singleton
