@@ -28,6 +28,9 @@ I met with David during the Seattle Guitar Work Weekend in June 2017, a collabor
 
 Enjoy this very enlightening conversation in video and podcast formats below!
 
+More King Crimson content on the site: [Failure to Fracture](/learn/fracture), a series about my decades-long effort to learn *Fracture*; [my review of the June 2017 Friends & Family show in Seattle](/share/king-crimson-concert-2017); and [my cover of Robert Fripp's song *Erudite Eyes*](/share/erudite-eyes).
+{: .ad }
+
 **[Check out The Vicar's website!&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.ttp://www.thevicar.com)**
 
 ## Interview video
