@@ -14,6 +14,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: ld3rgnNdfoY
+soundslice_id: 61509
 block: "yes" #means is shown in itunes
 ---
 
@@ -33,6 +34,5 @@ Here it is! Mike is playing his one-of-a-kind Black Devil semi-hollow SG copy. I
 
 Special thanks to Yvan Cluet, a young guitarist in France studying engineering in Lyon. He's really interested in beautiful and weird music. He writes some of his own music and looks to MWM to expand his knowledge. Super cool! Thanks, Yvan!!
 
-<iframe src="https://www.soundslice.com/scores/61509/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
-
+{% include soundslice.html sid=page.soundslice_id %}
 **Special thanks to Jack Rosenkrantz for helping me so much this weekend.**
