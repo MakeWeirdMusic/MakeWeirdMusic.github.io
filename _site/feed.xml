@@ -3,10 +3,10 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jul 2017 21:34:30 +0200</pubDate>
-    <lastBuildDate>Wed, 05 Jul 2017 21:34:30 +0200</lastBuildDate>
+    <link>http://www.makeweirdmusic.com/</link>
+    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 06 Jul 2017 12:49:47 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Jul 2017 12:49:47 +0200</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -25,7 +25,7 @@
 
 &lt;h2 id=&quot;sheet-music&quot;&gt;Sheet Music&lt;/h2&gt;
 
-&lt;p&gt;Coming soon!&lt;/p&gt;
+&lt;iframe src=&quot;https://www.soundslice.com/scores/71558/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 
@@ -60,8 +60,8 @@
 &lt;p&gt;If you want to know more or are interested in the sheet music, let me know!&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Jul 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/share/three-legged-dog</link>
-        <guid isPermaLink="true">http://localhost:4000/share/three-legged-dog</guid>
+        <link>http://www.makeweirdmusic.com/share/three-legged-dog</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/three-legged-dog</guid>
         
         
         <category>share</category>
@@ -285,8 +285,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;DS: Cheers!&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Jun 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/discover/david-singleton/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/david-singleton/</guid>
+        <link>http://www.makeweirdmusic.com/discover/david-singleton/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/david-singleton/</guid>
         
         
         <category>discover</category>
@@ -344,8 +344,8 @@
 &lt;p&gt;My hope is that as they get further into the tour, the sound and mixing quality improves. Part of the risk of attending a Friends &amp;amp; Family show is you are the testing audience, but the performances all night were so strong that the sound issues stunted the potential of the performance.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Jun 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/share/king-crimson-concert-2017</link>
-        <guid isPermaLink="true">http://localhost:4000/share/king-crimson-concert-2017</guid>
+        <link>http://www.makeweirdmusic.com/share/king-crimson-concert-2017</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/king-crimson-concert-2017</guid>
         
         
         <category>share</category>
@@ -893,8 +893,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p&gt;AG: Then it’s a good interview.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 May 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/interview/igudesman-and-joo</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/igudesman-and-joo</guid>
+        <link>http://www.makeweirdmusic.com/interview/igudesman-and-joo</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/igudesman-and-joo</guid>
         
         
         <category>interview</category>
@@ -1046,8 +1046,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p class=&quot;interviewee&quot;&gt;JZ: No, I’m totally normal.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 May 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/learn/quintuplets-septuplets</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/quintuplets-septuplets</guid>
+        <link>http://www.makeweirdmusic.com/learn/quintuplets-septuplets</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/quintuplets-septuplets</guid>
         
         
         <category>learn</category>
@@ -1085,8 +1085,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p&gt;Outside of that, there are speed bumps everywhere you look in this piece. I couldn’t decide on a definitive fingering, so it’s up to you how you want to play it. Watch the video and see if it helps you. If you decide to try learning it, please reach out and let me know!&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Apr 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/learn/something-she-said</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/something-she-said</guid>
+        <link>http://www.makeweirdmusic.com/learn/something-she-said</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/something-she-said</guid>
         
         
         <category>learn</category>
@@ -1117,8 +1117,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 
 </description>
         <pubDate>Tue, 11 Apr 2017 02:00:00 +0200</pubDate>
-        <link>http://localhost:4000/share/erudite-eyes</link>
-        <guid isPermaLink="true">http://localhost:4000/share/erudite-eyes</guid>
+        <link>http://www.makeweirdmusic.com/share/erudite-eyes</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/erudite-eyes</guid>
         
         
         <category>share</category>
@@ -1348,8 +1348,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p class=&quot;interviewee&quot;&gt;Band: Right on. Thanks.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Mar 2017 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/discover/evil-genius/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/evil-genius/</guid>
+        <link>http://www.makeweirdmusic.com/discover/evil-genius/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/evil-genius/</guid>
         
         
         <category>discover</category>
@@ -1371,8 +1371,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p class=&quot;ad&quot;&gt;You should check out Mike’s newest album, &lt;a href=&quot;https://store.keneally.com/products/copy-of-mike-keneally-you-must-be-this-tall-download-only&quot;&gt;&lt;em&gt;Scambot 2&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/share/aye-aye-monster</link>
-        <guid isPermaLink="true">http://localhost:4000/share/aye-aye-monster</guid>
+        <link>http://www.makeweirdmusic.com/share/aye-aye-monster</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/aye-aye-monster</guid>
         
         
         <category>share</category>
@@ -1405,8 +1405,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 
 </description>
         <pubDate>Sun, 12 Mar 2017 01:00:00 +0100</pubDate>
-        <link>http://localhost:4000/share/weasel-shake</link>
-        <guid isPermaLink="true">http://localhost:4000/share/weasel-shake</guid>
+        <link>http://www.makeweirdmusic.com/share/weasel-shake</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/weasel-shake</guid>
         
         
         <category>share</category>

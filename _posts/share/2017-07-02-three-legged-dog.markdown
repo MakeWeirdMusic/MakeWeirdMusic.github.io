@@ -32,7 +32,7 @@ Coming soon? [Reach out](/contact) if you're interested in downloading the song.
 
 ## Sheet Music
 
-Coming soon!
+{% include soundslice.html sid=page.soundslice_id %}
 
 ## Background
 
