@@ -1,23 +1,23 @@
 ---
 layout: post
 title: Markus Reuter Q&A
-date: 2017-06-26 00:00:00
+date: 2017-07-13 00:00:00
 artist: markus-reuter
 author: anthony-garone
-image: markus-reuter
+image: markus-reuter-2017
 category: interview
 permalink: /interview/markus-reuter/2017/06
 oneliner: Fan-submitted questions for Markus following his 2016 interview.
 seo_description: Markus Reuter's fans submitted some tough questions for him to answer.
 seo_keywords: stick men, king crimson, tony levin, pat mastelotto, robert fripp, ian boddy, centrozoon
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
-youtube_id: xk3y-vNWtZM
+youtube_id: OMsfHTg3M5U
 file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter-201706.mp3
-duration: "01:10:16" #audio length in min
-length: "136960055" #filesize in byte
-explicit: "yes" #other option is no
+duration: "01:03:38" #audio length in min
+length: "92456681" #filesize in byte
+explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 ---
 
