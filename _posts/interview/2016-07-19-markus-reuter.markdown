@@ -7,6 +7,7 @@ author: anthony-garone
 image: markus-reuter
 category: interview
 permalink: /interview/markus-reuter/
+redirect_from: /interview/markus-reuter/2016/07
 oneliner: Composer, touch guitarist, and ambient musician from Germany
 seo_description: Markus Reuter is a prolific, diverse guitarist, composer, and musician from Berlin, Germany
 seo_keywords:
@@ -20,6 +21,10 @@ length: "113580607" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 ---
+
+## Other Markus Reuter/MWM content
+
+Be sure to [check out our June 2017 follow-up interview with Markus](/interview/markus-reuter/2017/06).
 
 ## Interview video
 

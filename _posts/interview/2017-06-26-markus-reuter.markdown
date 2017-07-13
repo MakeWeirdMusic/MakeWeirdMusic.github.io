@@ -1,0 +1,454 @@
+---
+layout: post
+title: Markus Reuter Q&A
+date: 2017-06-26 00:00:00
+artist: markus-reuter
+author: anthony-garone
+image: markus-reuter
+category: interview
+permalink: /interview/markus-reuter/2017/06
+oneliner: Fan-submitted questions for Markus following his 2016 interview.
+seo_description: Markus Reuter's fans submitted some tough questions for him to answer.
+seo_keywords: stick men, king crimson, tony levin, pat mastelotto, robert fripp, ian boddy, centrozoon
+front_page: yes
+draft: yes
+has_video: yes
+youtube_id: xk3y-vNWtZM
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter-201706.mp3
+duration: "01:10:16" #audio length in min
+length: "136960055" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
+---
+
+## More Markus Reuter/MWM Content
+
+Be sure to check out [our July 2016 interview with Markus](/interview/markus-reuter/2016/07).
+
+Check out Markus' music [on Bandcamp&nbsp;<i class="non-mwm fa fa-bandcamp" aria-hidden="true"></i>](https://markusreuter.bandcamp.com). There's free stuff and a ton of stuff to stream.
+{: .ad }
+
+## Interview video
+
+{% include video.html vid=page.youtube_id %}
+
+## Interview Audio (Podcast)
+
+{% include audio.html podcast=page.file %}
+
+## Interview Transcript
+
+AG: This is Anthony with MakeWeirdMusic.com and I'm here in Germany with Markus Reuter. Markus!
+{: .interviewer }
+
+MR: Hi.
+{: .interviewee }
+
+AG: It's good to see you again.
+{: .interviewer }
+
+MR: Yep.
+{: .interviewee }
+
+AG: So, this is kind of different. This is the first time we're trying this. We have a bunch of user-submitted questions. User? Listener-submitted questions! (I'm from the software world, so I think of users.) Let's get started. The first question is from [Cameron Piko&nbsp;<i class="non-mwm fa fa-external-link" aria-hidden="true"></i>](http://in-disciplined.com/). Australian guy, really cool dude. He says, "I'm always fascinated with [generative&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Generative_music)/[algorithmic&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Algorithmic_composition) approaches to music and am always eager to learn more about it. So maybe something on that or your classical compositional technique in general." Question mark.
+{: .interviewer }
+
+MR: Really, that's such a huge question. But what I can say is that even in the most simple ways, <span class="important">we always do apply some sort of generative approach, even if it's just our very own way of doing things. It is a generative approach.</span>
+{: .interviewee }
+
+AG: It is algorithmic. It's what we know how to do.
+{: .interviewer }
+
+MR: It is algorithmic. Exactly. And so <span class="important">what I think you should do is just become aware of how you're doing things and as you become aware of how you're doing things, you can find ways to do things differently.</span> Or, you can decide to do things differently at some point and that's where it becomes interesting. That's why I'm using generative approaches, just to be aware of the choices I'm making and to have the freedom to also say, "No."
+{: .interviewee }
+
+In a way, the funny thing is that I just had a thought that when I first learned the [Alexander Technique&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Alexander_Technique), there's the idea of doing and non-doing. In a way, <span class="important">I see some sort of relationship there between the Alexander Technique and how I approach making music because when I become more aware of what I'm doing naturally (or not naturally), I have more choices to act differently.</span> And "differently" doesn't mean necessarily that it's out of the reach of what I'm capable of doing as a human being, but it's not what it's suggesting to myself.
+{: .interviewee }
+
+{% include video.html vid="JzBGfUOs70A" comment="MR + 0 Ohms, Recondite" %}
+
+It's really a huge question when it comes down to my very own techniques of making generative music. The simple answer is that you can start looking at permutations of ideas. For example, if you are writing a song and you have a chorus that is using four chords, you can use the same four chords for the verse, just start with the second chord and the first chord becomes the last chord. Something like that. It's these simple ideas that lead to new creative solutions.
+{: .interviewee }
+
+AG: Did this arise out of determining that you were too formulaic? Too many patterns?
+{: .interviewer }
+
+MR: No, it wasn't like that at all because for some reason, I started out with this sense that I want to be inspired not as something that just happens inside of me that I would want to create a framework that I could sort of rely on and would help me having to find certain solutions. <span class="important">I don't think I've ever thought about music or life differently.</span>
+{: .interviewee }
+
+I remember sitting there as a 10-year-old with a little keyboard with small keys and figuring out these changes that I didn't know back then. I knew that if you had all the white keys, that's a C major scale and you can play an A minor and a D minor, but then once I started playing the A minor and the F minor chords, I realized, "Okay, that's not the same scale, so it's not supposed to fit into one framework."
+{: .interviewee }
+
+That's kind of how I arrived at this idea that harmony and music and the rules can be in a flow of change. Where the progression becomes sort of the guiding element. <span class="important">It's not about the actual freedom to have a choice of what to do, but the choice is always limited to the flow that you're in.</span>
+{: .interviewee }
+
+In a way, that's just the perfect way to describe what life is like, really. You're always in a new situation and that's what my music represents for myself, that the situations and the circumstances change all the time. Rather than being perplexed by that, I'm just opening myself up to that reality and that means that the rules and actions that I'm allowing myself to make are always in constant flux. It's really the opposite of randomness, somehow, funnily enough.
+{: .interviewee }
+
+Even though the results can sound like things are changing all the time, you can say it's random, but it's always derived from the state that was there before. That was the actual circumstance, the actual state of things in the "now." But, then the "now" is the past already.
+{: .interviewee }
+
+AG: Okay. [Jeff Evans&nbsp;<i class="non-mwm fa fa-external-link" aria-hidden="true"></i>](http://mellamojefe.com) asks, "Does Markus have a compositional process he prefers over others? Does he ever compose based on an algorithm?" I guess we should have looked at these first. [Laughter.] "If so, can he provide an example? And who would he like to collaborate that he hasn't already?" So, maybe you could talk about a couple of pieces that use algorithms and then the collaboration one.
+{: .interviewer }
+
+MR: Yes. For example, a very simple approach I know a lot of people play around with, you just have a fixed bass line and one of the very first pieces I wrote, it's called *Ten Years* and it's on the [*Europa String Choir*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Europa_String_Choir) album, has the idea that the baseline descends chromatically. It starts on an F and goes down to Bb chromatically and then I just wrote chords on top of those bass notes.
+{: .interviewee }
+
+{% include video.html vid="mffn1EfRMy8" comment="Todmorden live excerpt" %}
+
+So, really, there's just a simple rule and everything else is open. The chords were written freely, the melody was written freely, but the rule was the bass line goes down chromatically from F to Bb. Really, the ratio between what is being determined by a generative idea versus what I write freely, that can change. There's some pieces like [*Todmorden 513*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Todmorden_513) where it's 100% generated.
+{: .interviewee }
+
+The musical material, in this case, of the piece *Ten Years*, you could say the bass line is maybe only 10%. You could also say it's only 50% of the composition, but what I mean is that there's always freedom within generated structures if you allow yourself to change them, but there's also two ways of changing things. You could either say, "There's something here." Let's say there's suddenly an A major chord and you could say it sounds better as a minor chord. Or you could say, "It is an A major chord and I'm breaking the rule. I'm going to keep the A, the C#, and the E, but what I'm going to do is put an F# underneath and turn it into a minor chord that way."
+{: .interviewee }
+
+So there's always the freedom to either change the generative structure in the way of changing something that has been generated, like you are basically breaking the rule, or you are adding something so the rule can stay intact, but by adding, you're changing the content.
+{: .interviewee }
+
+AG: With *Todmorden 513*, you said it was 100% generated?
+{: .interviewer }
+
+MR: Yes.
+{: .interviewee }
+
+AG: At what point do you take credit? What was the generation process and how did you as a human influence the generation of the music?
+{: .interviewer }
+
+MR: I take all the credit because it's not different. You can compose an algorithm, you can compose some rules that then create the piece of music. So, the credit is there from the very beginning.
+{: .interviewee }
+
+AG: Did you create musical axioms and establish those first? Or did you use some software and choose some parameters? What happened?
+{: .interviewer }
+
+MR: It may sound much more complicated than it actually is. It's just a permutational process that I'm using, which creates a chord sequence, you could say. It's a permutational process because it goes through all the combinations of the initial intervals. The way that it can be explained--for example, people like [Brian Eno&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Brian_Eno) when he came up with the ambient music, still the way he does it is that he works on the sound level.
+{: .interviewee }
+
+He might have two different loops of different length and let's use the example again. You have the A and the E in one loop and you have C and C# in the other loop. So, depending on if there's a C or a C#, the harmonic structure is either minor or major. An A major chord or an A minor chord. <span class="important">That's on a sound level, but I've moved this idea to the symbolic level, which means to the underlying structure where the pitches are being defined by loops that are interacting, but not sonic loops, but loops of instructions.</span>
+{: .interviewee }
+
+So, you could have, like in the example of *Todmorden 513*, the way it works is you have a center note of a 3-note chord modulated in a certain pattern. Let's just say it's a 3-note pattern, so it can be a C, a C#, and a D. Then there's an interval that's added on top of the center note, which goes by a pattern that can be 5 notes long. I'm not going to make the full thought experiment, but you have a pattern here, so that means that already by adding 5 notes to 3 notes that modulate here, you get a sequence of 15. And then I'm also using a note that goes underneath, which has a pattern of 7, for example. So, you have already 15*7 for that.
+{: .interviewee }
+
+{% include video.html vid="nkT-Metg2jg" comment="Hold by MR" %}
+
+That means this generates a structure of chords that is very, very deterministic, very simple for our subconscious minds to understand, but musically it is always logical and always fulfills the rules of logical resolution, I would say. Not necessarily musical resolution.
+{: .interviewee }
+
+AG: Because it comes back to the first and resolves itself?
+{: .interviewer }
+
+MR: Yes, and even within the structure, even though we have three cycles intersecting, we have the interaction of the one in the middle and the one below, would be 3 against 7, and you have the 3 against 5 on top, and even though the relationship moves with the modulation of the center note, you basically have repeating patterns there. <span class="important">The funny thing is that I swear that I believe, let's say, that human beings will instantly recognize these rules and can kind of imply what the next chord would be, but it's not happening on the conscious level.</span>
+{: .interviewee }
+
+That's the basic idea, but then you can use this and put it into feedback. You could say, from one trigger we've generated this sequence of chords, but then we can take each note from that generated file and apply the same process to each note again, which would then make it bloom in a way and you get these interesting chords like *Todmorden 513*. And then, to get more into detail, you could also say, "Okay, we have these chords here, but the chords, rather than just being chords, can become filters."
+{: .interviewee }
+
+So, you could write melodies on top of that, which are then being filtered through the chords. Basically, the chords become scales then. What I also do is I use the opposite--for example, the notes that I'm putting in the melody are "not allowed" to be notes that are in the chord.
+{: .interviewee }
+
+AG: So, they're the inverse of the safe notes. The black keys when you're in the key of C.
+{: .interviewer }
+
+MR: Exactly. Yes. And then obviously you can start shifting things. You could say that the filter lags behind by a bar or something like that, which really creates just wonderful things.
+{: .interviewee }
+
+AG: Cool! And collaboration. Who would you collaborate with?
+{: .interviewer }
+
+MR: That's really a question I can't answer.
+{: .interviewee }
+
+{% include video.html vid="lcarrQOUdxI" comment="Mondo Nuevo" %}
+
+AG: Too many? That's my guess.
+{: .interviewer }
+
+MR: Too many and I just want to keep doing what I do. At this point, it's really about who the people are that want to collaborate with me. I would love to play with [Adam&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Adam_Jones_(musician)), [Justin&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Justin_Chancellor), and [Danny&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Danny_Carey) of [Tool&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Tool_(band)), for example. I would love to play with them. I think that would be really fantastic. I've recently been to their rehearsal studio and they played and that's something that I would love to do.
+{: .interviewee }
+
+Then there's always the [Mike Oldfield&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Mike_Oldfield) thing, I would love to produce an album with him. And then, I guess it's more about collaborating with ensembles, like great string quartets and string ensembles. <span class="important">I would really love to work more with artists that don't have a name because I think there's a little bit of a problem in the musical culture right now that everything is kind of tied to names. So, let's say there are a lot of people I want to collaborate with, but I don't know their names yet.</span>
+{: .interviewee }
+
+AG: I like that a lot. Especially on this website. I feel like with MWM, it's not about celebrity. It's about making music.
+{: .interviewer }
+
+MR: Exactly. Yeah. I'm just so shocked sometimes that people really stop listening and they just respond to the name. It's frustrating for me as well because I have worked under my own name for a long time and I feel like I have to--not that I *have to*, but I want to stop doing that.
+{: .interviewee }
+
+AG: All right. Bruce Roop! Big fan. "I've wondered how different it is to record music with others when they are together as opposed to sending files of music. Which do you prefer?" I guess you could talk about the experience as well.
+{: .interviewer }
+
+MR: Yes. <span class="important">Really, for me, in the end it's the same thing because we are making music, but it just allows for a different sort of interaction.</span> Where the collaboration at a distance is more of a generative approach, you could say, in the sense that you *can* actually take your time to find your way into something where you don't have to respond in real time.
+{: .interviewee }
+
+And I like that because it opens doors that normally you would be able to respond that way. Maybe sometimes you need time to practice a part in order to be able to play it. If you don't allow yourself the time, like being together and recording is one thing, but being in a rehearsal room and actually having the time to learn your part, it's something that hardly ever happens anymore these days. At least for me.
+{: .interviewee }
+
+{% include video.html vid="qBCpf-Z5EoA" comment="Stone House promo" %}
+
+So, really, I enjoy both and this album, [*The Stone House*&nbsp;<i class="non-mwm fa fa-bandcamp" aria-hidden="true"></i>](https://markwingfield-moonjune.bandcamp.com/album/the-stone-house-24bit-88-2khz), which was recorded in January 2016, is a very good example. It's just great music created right on the spot. There's always the joy of doing that. It's also very time-efficient. We've all grown into this--when I say, "we," I mean [Pat Mastelotto&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Pat_Mastelotto), for example--when we started making music, he was inviting me out to his studio and we were working there. We realized that we can do some of that work at a distance. <span class="important">That's how projects like [Stick Men&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Stick_Men_(prog_band)) can actually work and create new, exciting music because it's really cheap to be working at home. We don't have to pay for studios.</span>
+{: .interviewee }
+
+AG: Or flights.
+{: .interviewer }
+
+MR: Or flights! It's been a blessing, really.
+{: .interviewee }
+
+AG: I'm not going to read the "boxers or briefs?" question.
+{: .interviewer }
+
+MR: You just did.
+{: .interviewee }
+
+AG: I know. [Laughter] [*Don't Think of an Elephant*](https://www.amazon.com/ALL-NEW-Dont-Think-Elephant/dp/160358594X/)! [Markus and I were talking about that book earlier before the interview.] When can fans expect an album between yourself and [Trey Gunn&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Trey_Gunn)? From Shawn Sutherland.
+{: .interviewer }
+
+MR: Trey and I have been talking about that for a while and I think I asked again two years ago if we should start doing it. He said, "Yes, let's do it." But we haven't started yet.
+{: .interviewee }
+
+AG: I don't know if you realize this, but a year ago, you didn't know what would happen with [*FACE*&nbsp;<i class="non-mwm fa fa-bandcamp" aria-hidden="true"></i>](https://mastelottoreuter.bandcamp.com/album/face) and then after our interview, *FACE* came out. So, hopefully this can be an instigator.
+{: .interviewer }
+
+MR: Yes. And I like Trey a lot. He's a very unique human being. I think it would be great. It's just that nowadays, <span class="important">I have stopped making musical projects just for the sake of doing them. Like, there has to be some sort of purpose and I know that as soon as there is this purpose, it will happen.</span>
+{: .interviewee }
+
+AG: Shawn also asks, "Why do you think [Robert Fripp&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Robert_Fripp) believed [Touch Guitar&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Touch_guitar) would be well-suited for you?"
+{: .interviewer }
+
+MR: To be honest, I am not exactly sure if I remember this correctly because I was 18 when I had this conversation with Robert Fripp about the [Chapman Stick&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Chapman_Stick). I was just inspired by the fact that *he said* that he likes the concept of the Stick so much that if he were starting over, he would like to learn to play the Stick. I'm 100% sure that's what he said to me. I remember that.
+{: .interviewee }
+
+If he actually suggested--I mean, he suggested that I should try. Yes. But, I'm not positive that he said it would suit me. So, that--I can't remember that. But, I remember that I was really inspired by him suggesting that it's something worth exploring. And since I never felt like a guitarist, I always felt like a composer/musician (whatever that means) and so it was kind of unexplored territory. <span class="important">As I started working with the instrument, I realized that really nobody knows anything about it. Or they don't dare to say they know things about it. It was just the perfect field of research and I really enjoyed working with it.</span>
+{: .interviewee }
+
+AG: Shawn has a few more questions. We'll give other people some air time, too, but, "The internet reports that you have sometimes been hailed as Robert Fripp's successor. Despite always downplaying and rejecting this idea when questioned about it. Outside of you playing Fripp's guitar parts with the [Crimson ProjeKct &nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/ProjeKcts#The_Crimson_ProjeKCt_.282011.E2.80.932014.29) and you both exploring soundscapes, why do you think so many folks see the similarities between the two of you? No jokes about eyeglasses, please."
+{: .interviewer }
+
+MR: I don't know. It's really difficult. I love Robert's guitar playing. I love what he's done for music in general and it's just--I don't even know what to say in this sense that somehow I can hear, in a way, maybe the way that I play is my interpretation of what I would love to have heard him play.
+{: .interviewee }
+
+{% include video.html vid="0tW_4p5Oilc" comment="Level 5 live w/Stick Men" %}
+
+AG: Actually, I'll comment on that. When you played with Stick Men and you played some of Robert's parts, it didn't sound like a cover band. Someone trying to play Robert's parts like Robert. It was clear you were interpreting Robert's parts as your own. They were musical parts, not Robert's parts.
+{: .interviewer }
+
+MR: Maybe that's what it is. I used to say that I *know* what music is. And that's just an assumption that I'm making about myself, but it's a good starting point. I kind of know what you mean. When I listen to a lot of people trying to play King Crimson repertoire or Robert Fripp repertoire, even if they play the notes right, it doesn't sound right. And so I guess that there *is* something that he kind of passed on to me even if it wasn't intentional.
+{: .interviewee }
+
+I don't really know what that is and it's kind of an awkward situation as well, as you can imagine, because for example, I don't really think that I did a great job at playing his parts. First of all, I play them on a different instrument and I'm not a great *player* player. I'm just a musician who uses an instrument to play music. So, it was a great challenge to even get things right and most of the time I didn't get them right.
+{: .interviewee }
+
+In some cases, my personal limitations made for something cool because I was bending the rules, let's say, because of who I am and that's a good thing. I would never consider myself a successor in that way. I don't know. There's one of his guitar solos that I studied, which is--I'm not exactly sure what the name of the track is. It's the re-release of the [League of Gentlemen&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/The_League_of_Gentlemen_(band)) album and I think it's *God Save the King*. It's a long droning track in E minor or something. He plays a free-tonal solo on it and he's using all 12 notes and playing melodies over this drone. It's a rhythmic drone.
+{: .interviewee }
+
+I started to study on which notes he stopped and basically learning the essence of his style of soloing in a way. It's all kind of represented in this piece. Somehow by going so deep into that composition, I acquired some knowledge about the note choices and so it's still in there when I play. But, I know of other players who *sound* more like Fripp in terms of the actual sound, but they're not capable of playing the right notes. I'm not sure if that's a good answer or answers Shawn's question. Probably, but...
+{: .interviewee }
+
+AG: Let's see. A lot of good questions, but some repetitive. This is interesting from Leibeck Jacob. "Is Markus interested in interactive music at all? Music that alters with user input."
+{: .interviewer }
+
+MR: Yes, I'm very much interested in that and much of the compositional ideas that I have are actually based in that field. For example, in general, <span class="important">without user input there is no music. The listener is creating the music in the head.</span> I don't know about these things well enough to really have the right words, but I know that there are engines for computer games that you can program to use rules.
+{: .interviewee }
+
+I was always dreaming of this idea of having a companion programmer who would be able to work on intelligent music with me. I'm sure that if somebody would explain to me the way that software like that would work, then I could write some new great music with it. As a child or a teenager, I was drawn to text adventure games on the computer. That was before there were graphic surfaces. It was just text adventures. It was fascinating and they were really atmospherically rich.
+{: .interviewee }
+
+AG: The choose-your-own-adventure where you take a path from start to one of many finishes?
+{: .interviewer }
+
+MR: Yes. And you would have to solve simple problems, but it had to be done in a certain sequence. Just the text that was describing the situations, the rooms you were in, was very nice. It's almost like an interactive book. Back then, I also got into how those were being programmed, how the software worked, and already back then I was thinking, "That would be great to have something like that where your input would actually change music." So, depending on if you're carrying a briefcase or not, the music would change. Going into a meeting or not. I find that it's just fascinating. I would like to work more in that.
+{: .interviewee }
+
+AG: There's a programmer near here. He's in Linz maybe in Austria named Jens-Christian Fischer. He's a fan of Make Weird Music and he did a whole presentation on generative music with user input. I'll have to show it to you. He built a website and allowed users on their phones or laptops to choose shapes and move the shapes around and those shapes represented sound. I'll get you hooked up with him.
+{: .interviewer }
+
+{% include video.html vid="cmeunlYCcwM" comment="Condition V from FFA" %}
+
+Bernie, the famous Bernie. "Since the first MWM interview, two holy grails of your discography have finally been unveiled and released. [*Falling for Ascension*&nbsp;<i class="non-mwm fa fa-bandcamp" aria-hidden="true"></i>](https://roninrhythmrecords.bandcamp.com/album/falling-for-ascension) and *FACE*." Albums I love, too. "If not yet commercial, then at least to fan and critical acclaim. And a very important component of both recordings, as well as of the symphonic *Todmorden 513*, is the fundamental role of structure. *FACE* is a fascinating exercise on structure, from the F-A-C-E sequence throughout, to the 'freedom within a compactly constrained set.' And the instruction for [Sonar&nbsp;<i class="non-mwm fa fa-bandcamp" aria-hidden="true"></i>](https://sonar-band.bandcamp.com/) and [Tobias Reber&nbsp;<i class="non-mwm fa fa-external-link" aria-hidden="true"></i>](http://www.tobiasreber.com/) on *FFA* has the same characteristic. *TM513* also evolves into specific intervals. Why do you have this seeming fascination with mathematical structure, with framework, and with relative constraints, to inform your work as a composer? Where does it come from?" Wow...
+{: .interviewer }
+
+MR: I can still go into the mode of just intuitively creating music, so it's not like that mode is not available to me. It's a tool. It's a tool to get excited by something, really. It's easier for me to get excited by something that is challenging to me. So, I guess that's really where it psychologically comes from. In more technical terms, it comes from having read some interesting books as a teenager.
+{: .interviewee }
+
+[*Gödel, Escher, Bach*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) by [Douglas Hofstadter&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Douglas_Hofstadter), which was really the book that triggered my interest in composing in such ways. I do recommend that book to people who want to just get inspired. There's also another book by Hofstadter that's called [*I Am a Strange Loop*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) that's just incredible. If you are a creative person, if you are artistic in any sort of way, I think it's impossible for those books not to inspire you. That's really where it comes from, I guess.
+{: .interviewee }
+
+AG: Another lengthy setup. "In your "unconstrained instant composition" work, you also seem extremely capable of doing that sort of work to also great effect, as albums like *Unleashed* by Stick Men, *Stone House* by [Wingfield&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Mark_Wingfield)/Reuter/[Stavi&nbsp;<i class="non-mwm fa fa-twitter-square" aria-hidden="true"></i>](https://twitter.com/yaronstavi)/[Sirkis&nbsp;<i class="non-mwm fa fa-external-link" aria-hidden="true"></i>](https://www.asafsirkis.com/), [*Modus Novus*&nbsp;<i class="non-mwm fa fa-bandcamp" aria-hidden="true"></i>](http://iapetus-store.com/album/modus-novus) with the Quartet for the End of Time, or your own solo soundscapes work, among many others, clearly show. And more 'traditional' (or less unorthodox) rock composition techniques also abound in your work with [Ian Boddy&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Ian_Boddy), Stick Men, and the first two studio albums by [TUNER&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Tuner_(band)). Are all these different aspects of Markus Reuter the composer always present in you? How do you choose to go one route or the other? Which one makes you more comfortable, less uncomfortable, and (by the comment on the first MWM interview), how does that internal feeling govern your final decision making progress?"
+{: .interviewer }
+
+MR: Wow.
+{: .interviewee }
+
+AG: Bernie. Well, he does have a Ph.D. So...
+{: .interviewer }
+
+MR: It seems like it's many, many questions in one. But, what is the core question? How do I choose, right?
+{: .interviewee }
+
+AG: Yeah, how do you choose? You have the tools available to you as you mentioned in the last question. What inspires you to go one direction or the other?
+{: .interviewer }
+
+MR: That is a really good question. I think it's really I go inside of me and I try to figure out if I'm bored. <span class="important">I try to figure out which part of the work or which part of the potential work does bore me. And then I attach something to that part that bores me and then the decision is being made</span>, and not necessarily by me alone, but also by my collaborator.
+{: .interviewee }
+
+So, with the work that Ian Boddy and I are doing together, for example, it's very simple. That scene, that style of music that Ian is in, it is kind of "boring" in the sense that it has very clearly defined rules. <span class="important">So, what I'm interested in is how I can bend the rules and still stay within the sound.</span> Ian enjoys doing that with me as well, so we're keeping the same box, let's say, but we're looking at a higher resolution within what is possible there.
+{: .interviewee }
+
+AG: Or, what happens when you throw a Markus Reuter into that set of constraints? Because you're bringing who you are and how you operate to the music.
+{: .interviewer }
+
+{% include video.html vid="KIzrmcMnwzk" comment="Memento" %}
+
+MR: Yeah. We've just released an album called [*Memento*&nbsp;<i class="non-mwm fa fa-bandcamp" aria-hidden="true"></i>](https://dinrecords.bandcamp.com/album/memento-din52), which is really interesting because it uses all sorts of generative processes. I think it is--but it doesn't really matter that it's using those--it's only if you start analyzing it. You can just start listening to it and you wouldn't really know why it sounds a little strange and you might have a hard time figuring out where the parts repeat. The answer is simple because they don't. I just like this challenge to give people something new that still works.
+{: .interviewee }
+
+AG: One thing I find interesting about your listeners and listeners of a lot of the bands that I try to feature on the site, they seem to want to understand the music. Very few of the fans will just listen. Is that something that you notice? You're on tour with Stick Men...
+{: .interviewer }
+
+MR: I'm not exactly sure that's really the case, but certainly those that do ask questions want to know. That's why they're asking questions.
+{: .interviewee }
+
+AG: Sometimes they're musicians and something they're not, which is interesting too.
+{: .interviewer }
+
+MR: Yeah, that is true. <span class="important">But I think that it's important that you still allow yourself to process music completely unintellectually.</span> I do that a lot. I listen to music mostly coming from the emotional side of things. I think it's just so important. If you really want to understand my music, you need to study with me, you need to spend time with me. It's impossible to put into words what makes the music the way I make the way it is.
+{: .interviewee }
+
+{% include video.html vid="qZh2gUOOZ1c" comment="centrozoon live" %}
+
+It's more than just applying a rule. It's more important to understand why and when at certain points rules get broken. Know what I mean? <span class="important">You can only really learn that if you are "breathing the same air" as somebody.</span> As far as I can tell, at least on the Stick Men tours, but also on the [centrozoon&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Centrozoon) tours, I can tell that people are purely enjoying it. They don't really need to understand it. Also, I don't want to say it's impossible to understand, but you would have to live my life in order to understand.
+{: .interviewee }
+
+AG: Here's a non-musical question.
+{: .interviewer }
+
+MR: Good.
+{: .interviewee }
+
+AG: Yeah. Thank you, Sharon Rudolph. "What do you do to stay healthy on the road? What's your diet so you don't pick up anything out there?"
+{: .interviewer }
+
+MR: I have to say I'm still very, very bad at that. Whenever I'm at home, I feel much better. I'm more healthy. I eat less. I eat better. On the road, it's just incredibly hard for me, I have to admit. And it's actually come to the point where I'm actually annoyed when I have to leave home because I already know that I'm going to get into bad shape. So, really, I'm in a position where I have both. I have the life away from home and I have the life at home.
+{: .interviewee }
+
+People like Tony Levin or Pat Mastelotto, they tour so much, they basically can totally adjust for that one way of living. It's easier than having to go back and forth. At least, that's what I think right now. Being on the road, it really helps to allow yourself to get into the flow of being on the road. A lot of things are pre-determined. You know where you're going to be at a certain time. Things become kind of same-y every day. That's a good thing.
+{: .interviewee }
+
+Also, what I think happens is a change in the hormonal system of my body where there's probably more adrenaline. I don't know about these things, but there's clearly a change that happens to the body. Also, attached to that are my mental processes where things are kind of easy once you're on the road. You're just going with the flow. In a way, it's a little bit like being in a trance. It can be enjoyable, but just the hard part starts when I'm getting back home. Even though, after a few weeks back at home, I start feeling better again, but it's really deceptive. You never really know how well you're doing. I'm not sure that makes any sense.
+{: .interviewee }
+
+AG: I think it does for me, having witnessed people on the road, touring. And having opened my home to musicians on tour, too. So, let's see. There's actually only a few questions left.
+{: .interviewer }
+
+{% include video.html vid="w4WG9XtDJSg" comment="MR, Veronica" %}
+
+Chris Harris asks, "A couple of things sparked by the first interview. I'm glad *FACE* finally got to see the light of day because it's a great piece of work. Okay, number 1: You talked about how important patterns are to perceptions of music - The Crimson ProjeKct and Stick Men push patterns beyond what constitutes 'normal' for popular music with pieces with parts in different time signatures that move apart and synchronize together again and you've experimented with the algorithmic generation of music in pieces like *Todmorden 513* - do you ever wonder how far you can push a pattern before its presence becomes hidden from the listener? Would that alter people's responses to the music?"
+{: .interviewer }
+
+MR: Yeah, that's exactly the point. <span class="important">What I'm interested in is finding that fine line where things are familiar and surprising.</span> So, the answer is, yes I'm wondering that all the time. I have actually developed this little bit of an idea of this permutational system that actually does that. It allows you to understand what's going on, but at the same time, the resulting sounds are surprising. It's very important because in a way, it's kind of the ideal ergonomic state of the mind. It's where the communication between the conscious and the subconscious, where there's an equilibrium somehow, and yes I'm looking for that. I'm wondering that all the time.
+{: .interviewee }
+
+I think I am guilty of exploring and not having the balance right sometimes. I'm okay with that because it's part of my process and it's part of the process of discovery. It's not that anybody's asking me to always be perfect. I mean, I am always perfect in the sense that I do my best. It's a good question. I do ask myself that question many times. Sometimes I just decide to have a bias from either side.
+{: .interviewee }
+
+AG: It reminds me of the sitting practice from [Guitar Craft&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Guitar_Craft) because sometimes you sit down to focus on breathing and relaxation and it's like, "I don't want to do this. I don't want to do this." Then you're okay with it, but you lose your attention again. But it's a simple pattern of breathing and relaxing. So, musically, I think about that a lot. Like, [Steve Reich&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Steve_Reich), sometimes I can listen to his stuff and I think, "Okay, this is too much. Too many loops." Then other times, I think he could have gone on another ten minutes. So, I think it depends on the listener too.
+{: .interviewer }
+
+MR: Yeah, it does. And really I think a word that has become a little popular is mindfulness. In a way, it's kind of important for my process of making music, but also what it kind of does as well is almost forces the listener to be mindful, which can be a good thing, can be a bad thing. It might feel patronizing in a way, or people maybe don't want to get educated by listening, which I totally understand why you wouldn't want to be educated.
+{: .interviewee }
+
+An album like *Falling for Ascension*, for example, is basically an ear training exercise. It wasn't supposed to be that, but it turned out to be that way. People don't need to know that if they just listen to it. Something will happen, something will change. I'm aware of that. I want to be a little more conscious about knowing where I am on that spectrum.
+{: .interviewee }
+
+{% include video.html vid="GjG5R8FzJYE" comment="Pure by Markus & Ian" %}
+
+AG: Okay, so Chris Harris' second question: "When you hear the term 'weird music' what constitutes weirdness for you? Would a piece that is atonal but strongly rhythmic be preferable to one that is melodic but not discernibly rhythmic (which is where a lot of ambient music seems to lie)? How weird does something have to get before you say, 'Okay, that's no longer music?'"
+{: .interviewer }
+
+MR: Okay, I think first of all, the word "weird" is your invention.
+{: .interviewee }
+
+AG: Yeah, it's a marketing term.
+{: .interviewer }
+
+MR: It is. For me, the weirdness is not a factor that really decides over if something's music or not. It has nothing to do with that. And really, there is no such thing as "weird music" to me. I guess moreso an attitude can be weird, if you know what I mean. <span class="important">I think there's a difference between the work of an artist and the artist himself, somehow.</span> The weirdness--for me, there is no "weird music." Just for myself.
+{: .interviewee }
+
+<span class="important">However, the question if music is music or is not music, that's something that only each listener individually can decide for themselves.</span> I have said that before and I'm not so happy about the words that I have used for it and that I'm still using for it, but I think there's something what I still call "real music" where the motivation is the music itself. Again, this is not judging, but there is music that comes from the love of music and there's music that comes for the love of something else. And that's where I see some differences.
+{: .interviewee }
+
+That sound that's being created, how it appeals to me or how it doesn't make me feel. Obviously, it's just purely subjective and really it's something that you have to find out as a listener. You have to understand that people have all sorts of very, very different motivations to make music. And then, again, even if somebody asks--I don't know, I don't have good examples.
+{: .interviewee }
+
+But, if somebody makes music just for the--let's say a male guitarist is trying to pick up girls by playing guitar, and then creates a certain kind of music. You listen to that music, that does not mean that your experience of that music has anything to do with the original motivation, so even though some music might not be "real" in my sense, but *you* as a listener, <span class="important">you make it real because your motivation or your way of listening changes the sound in such a way that it totally becomes detached from the original meaning of it.</span>
+{: .interviewee }
+
+AG: Cool. Kathy Melaas--I don't know how to say her last name. She's great.
+{: .interviewer }
+
+MR: She's great. A big supporter.
+{: .interviewee }
+
+{% include video.html vid="ceX_BLdR-tM" comment="Stick Men performing Mike Oldfield" %}
+
+AG: She asks, "I've always found it remarkable how Markus, particularly when playing with centrozoon or in his solos opening Stick Men shows (that became the [*Sultry Kissing Lounge*&nbsp;<i class="non-mwm fa fa-bandcamp" aria-hidden="true"></i>](https://markusreuter.bandcamp.com/album/sultry-kissing-lounge-crimson-projekct-tour-2014) {be still my heart!}), that he 'composes in the moment' (I think that's [Bernhard&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://de.wikipedia.org/wiki/Bernhard_W%C3%B6stheinrich)'s explanation actually) and draws from the atmosphere and vibe of the room and audience to guide the piece.  That's the magic part for me." There's no question.
+{: .interviewer }
+
+MR: Yeah, but I sort of know what she's asking about. The funny thing is that she makes the assumption that I'm drawing from the atmosphere and I'm not. I'm not. I say I'm not, which means I'm not consciously doing that.
+{: .interviewee }
+
+AG: But there's no way you can't be influenced by your environment.
+{: .interviewer }
+
+MR: That is very true. However, how I'm doing that is by not being concerned with that. And actually, that's maybe the trick where some sort of channel is being opened by not being concerned of not by trying to do that. So, in that moment, I'm just trying to establish a good connection with the parts in me that are listening. Then I'll let my body respond almost intuitively so. It's not about thinking which note to play next. It can be, but it doesn't have to be.
+{: .interviewee }
+
+<span class="important">It's almost like using the body as somebody that is acting as a reflex. Its action is a reflex to what I'm hearing. So, it's more of a gestural approach to responding. It's not about making choices.</span> It's about--I think the word "reflex" is interesting in that sense because there's a certain sound and it leads to a certain response. I think that I have a relatively wide range of responses and that means the music is relatively alive.
+{: .interviewee }
+
+AG: Shawn Sutherland says, "I would love to hear Markus talk about Mike Oldfield, specifically what drew him to Mike's music, how it influenced and inspired him."
+{: .interviewer }
+
+MR: First of all, it was like the first music that I really fell in love with and I think it's just incredibly rich music that is packaged in a way that is very interesting and very beautifully crafted and deceptive in several ways. Chronologically, since I have followed Mike Oldfield's music for several decades, it's interesting also from the point of how his music develops. The biographical aspect of it.
+{: .interviewee }
+
+<span class="important">I'm just learning a lot about music by being true to one artist and following his works.</span> I still have this--it's kind of music I can go back to in order to recharge my creative energy. I can listen to the music and get goosebumps. I know that it is highly likely when I listen to a certain piece of music that it actually gives me that release--it's almost like a drug to me. It's really difficult to not be a fanboy if you're a fanboy.
+{: .interviewee }
+
+But, I really think that there's something really uniquely special to that music that I do not find in other music. It's probably just because of the way that he thinks about music or just the way that he does it. I like structure, I like complicated structures, I like ideas like canons and stuff, and his work is just full of that kind of thing. It still keeps inspiring me.
+{: .interviewee }
+
+{% include video.html vid="e0qrRmiFRWI" comment="30 minutes of Mike Oldfield" %}
+
+What is special is that I think Mike's music--or, just the way that he comes up with melodies--is just so inherently folkloristic. It's something that I never really had. <span class="important">Growing up in Germany after the war, I'm second or third generation after the war, but still we didn't have folklore. We weren't really singing songs at home or even at school. There was just too much attachment to the third reich with the German folklore. So, it somehow kind of got erased from the curriculums at school, I think. It could also just have been my school, I don't know.</span>
+{: .interviewee }
+
+Once I discovered the Irish roots of Mike Oldfield's music (I think it's Irish), it just gave me this instant connection to traditional music and the power of the soil, I would say. The music or traditions that have grown for hundreds or thousands of years. I find that fascinating and that's what I find in Mike Oldfield's music. I just don't get the same with blues music, for example. I don't know why.
+{: .interviewee }
+
+For me, the tradition, you could trace it back as many years, but somehow being a European--and blues and rock and roll is close to my heart, but then I like King Crimson more than Led Zeppelin for obvious reasons. Just the European style of writing, the European style of understanding, using the harmony--it's just closer to who I am. And obviously, Mike Oldfield being a prime example of going through all the phases of the music business from the early 1970s until now, I find it fascinating to see how the business has had an influence on the music and how one artist dealt with that--unsuccessfully and successfully, you could say. It's fascinating for me. I would really love to talk with him. I don't think there's hardly any--there's some good material out there now of him talking about things, but he would be the kind of person I would like to talk with about music.
+{: .interviewee }
+
+AG: And our last question from Bill Campbell, "I'd be interested in hearing Markus speak about music after a concert. Especially in relation to the music he'd just played moments before (improvisation, solo, centrozoon, etc context)."
+{: .interviewer }
+
+MR: First of all, <span class="important">I think that the musician hardly knows anything about the music he played right after.</span> You can listen back to recordings. I think it's actually wonderful that if you have an audience that there are people who are multiplying what you're doing. They're not multiplying it just as a pure--it's not just multiplying. It's to the power of.
+{: .interviewee }
+
+AG: Exponential.
+{: .interviewer }
+
+MR: Yeah, exponential because each listener builds his or her own world around the experience of listening, so that's really what I think is beautiful about the arts in general. Ideally, I'm exhausted after a performance.
+{: .interviewee }
+
+AG: Because you've put so much into it?
+{: .interviewer }
+
+MR: It's not that I'm putting anything into it. <span class="important">It just gives me the sense that I was available, but doesn't say anything about what happened, really.</span> You know what I mean? It's just providing the potential.
+{: .interviewee }
+
+AG: All right. That was a great Q&A. Thank you so much to all of the people who submitted questions and have followed Markus and his career and have followed what Make Weird Music is trying to do, too. Thank you so much to everyone. We'll have a lot more Markus content coming to the site that we filmed actually last year that I still haven't gotten to. So, stay tuned and we'll look for you in the next one.
+{: .interviewer }
+
+MR: Ciao ciao.
