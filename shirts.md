@@ -11,12 +11,27 @@ redirect_from: "/shirt/"
 ---
 ## Shirts!
 
-Thank you to all the people around the world who've purchased shirts. As of March 2016, we've got a slew of shirts!
+Thank you to all the people around the world who've purchased shirts. We usually have them in stock in various sizes.
+
+**Here's what's in stock as of August 20, 2017:**
+
+|Size   |Color   |Quantity   |Cost   |
+| ----- |:------:|:---------:| -----:|
+|M|Gray Blue|3|$20|
+|M|Muted Blue|2|$20|
+|M|Brown|2|$20|
+|XL|Black|3|$20|
+|XL|Gray|1|$20|
+|XXL|Purple|1|$22|
+|XXL|Brown|1|$22|
+|XXL|Muted Blue|3|$22|
+|XXL|Forest Green|1|$22|
+|XXXL|Black|3|$22|
+
+**Shipping in the US is $5. Shipping elsewhere is $13. [You can pay via PayPal, Venmo, or Square Cash.](/payments)**
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New MWM shirts!! Buy one today. Msg me. Beautiful colors!! <a href="https://t.co/czhWMfP5jV">pic.twitter.com/czhWMfP5jV</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/705136987611623424">March 2, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-We've got shirts in several colors and sizes for purchase. $25 total for US-based customers, $32 total for international. They're beautiful and wonderful and cool! Use the email link below and let me know if you want one (please include your size and shipping address).
 
 <script type="text/javascript" language="javascript">
 <!--

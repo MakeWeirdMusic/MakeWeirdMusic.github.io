@@ -5,9 +5,8 @@
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Sun, 20 Aug 2017 12:14:48 -0700</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 12:14:48 -0700</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2017 13:37:22 -0700</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 13:37:22 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -146,29 +145,6 @@
       </item>
     
       <item>
-        <title>Cupcake by Robbie Seahag Mangano</title>
-        <description>&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
-
-&lt;p&gt;Robbie Seahag Mangano and I got together in early March to film a bunch of stuff. We laughed for hours making a video that has yet to see the light of day. This performance of “Cupcake” was filmed at the end of a long, fun day of recording together.&lt;/p&gt;
-
-&lt;p class=&quot;ad&quot;&gt;&lt;a href=&quot;http://bumbleweenie.com&quot;&gt;You should buy Robbie’s new album, &lt;em&gt;Bumbleweenie&lt;/em&gt;.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You should also check out these videos we’ve made together: &lt;a href=&quot;/share/weasel-shake&quot;&gt;&lt;em&gt;Weasel Shake&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;/learn/33-in-buffalo&quot;&gt;&lt;em&gt;33 in Buffalo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;music-video&quot;&gt;Music Video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/P2VmncYiqOY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-</description>
-        <pubDate>Mon, 07 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/cupcake</link>
-        <guid isPermaLink="true">http://localhost:4000/share/cupcake</guid>
-=======
-    <pubDate>Tue, 15 Aug 2017 23:31:12 -0700</pubDate>
-    <lastBuildDate>Tue, 15 Aug 2017 23:31:12 -0700</lastBuildDate>
-    <generator>Jekyll v3.4.3</generator>
-    
-      <item>
         <title>Tiny Orchestral Moments Press Release</title>
         <description>&lt;h2 id=&quot;for-immediate-release-august-1-2017&quot;&gt;FOR IMMEDIATE RELEASE AUGUST 1, 2017&lt;/h2&gt;
 
@@ -225,7 +201,30 @@ steveball@steveball.com
         <pubDate>Sun, 13 Aug 2017 17:00:00 -0700</pubDate>
         <link>http://localhost:4000/share/tiny-orchestral-moments-2017</link>
         <guid isPermaLink="true">http://localhost:4000/share/tiny-orchestral-moments-2017</guid>
->>>>>>> origin/master
+        
+        
+        <category>share</category>
+        
+      </item>
+    
+      <item>
+        <title>Cupcake by Robbie Seahag Mangano</title>
+        <description>&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Robbie Seahag Mangano and I got together in early March to film a bunch of stuff. We laughed for hours making a video that has yet to see the light of day. This performance of “Cupcake” was filmed at the end of a long, fun day of recording together.&lt;/p&gt;
+
+&lt;p class=&quot;ad&quot;&gt;&lt;a href=&quot;http://bumbleweenie.com&quot;&gt;You should buy Robbie’s new album, &lt;em&gt;Bumbleweenie&lt;/em&gt;.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You should also check out these videos we’ve made together: &lt;a href=&quot;/share/weasel-shake&quot;&gt;&lt;em&gt;Weasel Shake&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;/learn/33-in-buffalo&quot;&gt;&lt;em&gt;33 in Buffalo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;music-video&quot;&gt;Music Video&lt;/h2&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/P2VmncYiqOY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 07 Aug 2017 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/share/cupcake</link>
+        <guid isPermaLink="true">http://localhost:4000/share/cupcake</guid>
         
         
         <category>share</category>
@@ -1764,79 +1763,5 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
         
       </item>
     
-      <item>
-        <title>Something She Said by Béla Fleck</title>
-        <description>&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/M-fdyC388-s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;audio-only-podcast&quot;&gt;Audio-Only (Podcast)&lt;/h2&gt;
-
-&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
-
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/something-she-said/something-she-said.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/something-she-said/something-she-said.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;soundslice-notation-and-tablature&quot;&gt;Soundslice Notation and Tablature&lt;/h2&gt;
-
-&lt;p&gt;Living sheet music brought to you by &lt;a href=&quot;http://soundslice.com&quot;&gt;Soundslice &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Wanna know more? Check out &lt;a href=&quot;/gear/soundslice&quot;&gt;our interview with Soundslice co-creator, Adrian Holovaty&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.soundslice.com/scores/71461/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bela_Fleck&quot;&gt;Béla Fleck &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;’s album &lt;a href=&quot;https://en.wikipedia.org/wiki/Outbound_(B%C3%A9la_Fleck_and_the_Flecktones_album)&quot;&gt;&lt;em&gt;Outbound&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; was released in 2000 with the &lt;a href=&quot;https://en.wikipedia.org/wiki/B%C3%A9la_Fleck_and_the_Flecktones&quot;&gt;Flecktones &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. I was 18 when it came out and pre-ordered a double-CD release from Barnes &amp;amp; Noble or Best Buy. &lt;em&gt;Something She Said&lt;/em&gt; was one of the songs that really stood out to me because of its odd chord changes and textural elements with &lt;a href=&quot;https://en.wikipedia.org/wiki/Adrian_Belew&quot;&gt;Adrian Belew &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; on electric guitar, &lt;a href=&quot;https://en.wikipedia.org/wiki/Shawn_Colvin&quot;&gt;Shawn Colvin &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; on vocals, and &lt;a href=&quot;https://en.wikipedia.org/wiki/Paul_McCandless&quot;&gt;Paul McCandless &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; on &lt;a href=&quot;https://en.wikipedia.org/wiki/English_horn&quot;&gt;English horn &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Fast forward 17 years and here we are! I’ve finally gotten around to figuring out the intro to this song. One reason it took me so long was because trivial efforts to learn it were met with unexpected difficulty. Honestly, I had no idea how hard this piece of music was until this week when I started seriously practicing. My fingertips hurt typing this paragraph just from all the left-hand fortitude required to play it. It seriously tore my callouses apart. Sheesh.&lt;/p&gt;
-
-&lt;p&gt;Anyway every single measure of this piece is difficult. Bela originally played it on a &lt;a href=&quot;https://en.wikipedia.org/wiki/Resonator_guitar&quot;&gt;resonator guitar &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; (I’ve always wanted a resonator guitar). Every measure had some weird trick to left- or right-hand acrobatics to make the piece particularly tricky. If you’ve followed my work for a while, you’ll know I don’t usually pick simple pieces of music to learn, but let me say that this was seriously challenging.&lt;/p&gt;
-
-&lt;p&gt;Outside of that, there are speed bumps everywhere you look in this piece. I couldn’t decide on a definitive fingering, so it’s up to you how you want to play it. Watch the video and see if it helps you. If you decide to try learning it, please reach out and let me know!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 28 Apr 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/learn/something-she-said</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/something-she-said</guid>
-        
-        
-        <category>learn</category>
-        
-      </item>
-    
-<<<<<<< HEAD
-=======
-      <item>
-        <title>Erudite Eyes by Robert Fripp (Cover)</title>
-        <description>&lt;h2 id=&quot;new-old-music&quot;&gt;New Old Music&lt;/h2&gt;
-
-&lt;p&gt;I covered Robert Fripp’s &lt;em&gt;Erudite Eyes&lt;/em&gt; in 2011, posted it to YouTube, and forgot about it. Six years later, I stumbled upon it again and found that I really liked what I did. So, in a fit of creativity and motivation, I recorded this video to go along with the song. I hope you enjoy it as much as I enjoyed making it.&lt;/p&gt;
-
-&lt;p&gt;For reference, my cover is quite a bit darker/moodier than the original. I spent time “updating” it to something more aligned with what Robert might write and release today. There is quite a bit more dissonance and it’s much less cheerful. The song originally came out in 1968 on the pre-&lt;a href=&quot;/discover/king-crimson&quot;&gt;King Crimson&lt;/a&gt; album, &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Cheerful_Insanity_of_Giles,_Giles_and_Fripp&quot;&gt;&lt;em&gt;The Cheerful Insanity of Giles, Giles, and Fripp&lt;/em&gt;&lt;/a&gt;, an album I grew up listening to and still enjoy decades later.&lt;/p&gt;
-
-&lt;p&gt;If you haven’t heard the original, I highly encourage you to check it out. It’s very different.&lt;/p&gt;
-
-&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NeWE8Su3sVc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;audio-only-podcast&quot;&gt;Audio-Only (Podcast)&lt;/h2&gt;
-
-&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
-
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/erudite-eyes/erudite-eyes.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/erudite-eyes/erudite-eyes.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 10 Apr 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/erudite-eyes</link>
-        <guid isPermaLink="true">http://localhost:4000/share/erudite-eyes</guid>
-        
-        
-        <category>share</category>
-        
-      </item>
-    
->>>>>>> origin/master
   </channel>
 </rss>
