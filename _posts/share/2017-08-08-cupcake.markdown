@@ -11,7 +11,7 @@ redirect_from: /share/robbie-seahag/cupcake
 oneliner: A weird music duet between Robbie Seahag Mangano and Anthony Garone.
 seo_description: Robbie Seahag and Anthony Garone perform Cupcake from Bumbleweenie.
 seo_keywords: anthony garone, robbie seahag, robbie seahag mangano
-draft: no
+draft: yes
 front_page: yes
 has_video: yes
 youtube_id: P2VmncYiqOY
