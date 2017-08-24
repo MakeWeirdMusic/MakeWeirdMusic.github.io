@@ -5,9 +5,33 @@
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Aug 2017 13:37:22 -0700</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 13:37:22 -0700</lastBuildDate>
+    <pubDate>Thu, 24 Aug 2017 10:12:32 -0700</pubDate>
+    <lastBuildDate>Thu, 24 Aug 2017 10:12:32 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Cupcake by Robbie Seahag Mangano</title>
+        <description>&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Robbie Seahag Mangano and I got together in early March to film a bunch of stuff. We laughed for hours making a video that has yet to see the light of day. This performance of “Cupcake” was filmed at the end of a long, fun day of recording together.&lt;/p&gt;
+
+&lt;p class=&quot;ad&quot;&gt;&lt;a href=&quot;http://bumbleweenie.com&quot;&gt;You should buy Robbie’s new album, &lt;em&gt;Bumbleweenie&lt;/em&gt;.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You should also check out these videos we’ve made together: &lt;a href=&quot;/share/weasel-shake&quot;&gt;&lt;em&gt;Weasel Shake&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;/learn/33-in-buffalo&quot;&gt;&lt;em&gt;33 in Buffalo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;music-video&quot;&gt;Music Video&lt;/h2&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vMaI93cYsh0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 23 Aug 2017 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/share/cupcake</link>
+        <guid isPermaLink="true">http://localhost:4000/share/cupcake</guid>
+        
+        
+        <category>share</category>
+        
+      </item>
     
       <item>
         <title>David Singleton</title>
@@ -201,30 +225,6 @@ steveball@steveball.com
         <pubDate>Sun, 13 Aug 2017 17:00:00 -0700</pubDate>
         <link>http://localhost:4000/share/tiny-orchestral-moments-2017</link>
         <guid isPermaLink="true">http://localhost:4000/share/tiny-orchestral-moments-2017</guid>
-        
-        
-        <category>share</category>
-        
-      </item>
-    
-      <item>
-        <title>Cupcake by Robbie Seahag Mangano</title>
-        <description>&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
-
-&lt;p&gt;Robbie Seahag Mangano and I got together in early March to film a bunch of stuff. We laughed for hours making a video that has yet to see the light of day. This performance of “Cupcake” was filmed at the end of a long, fun day of recording together.&lt;/p&gt;
-
-&lt;p class=&quot;ad&quot;&gt;&lt;a href=&quot;http://bumbleweenie.com&quot;&gt;You should buy Robbie’s new album, &lt;em&gt;Bumbleweenie&lt;/em&gt;.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You should also check out these videos we’ve made together: &lt;a href=&quot;/share/weasel-shake&quot;&gt;&lt;em&gt;Weasel Shake&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;/learn/33-in-buffalo&quot;&gt;&lt;em&gt;33 in Buffalo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;music-video&quot;&gt;Music Video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/P2VmncYiqOY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-</description>
-        <pubDate>Mon, 07 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/cupcake</link>
-        <guid isPermaLink="true">http://localhost:4000/share/cupcake</guid>
         
         
         <category>share</category>
