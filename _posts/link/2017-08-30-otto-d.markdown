@@ -1,0 +1,15 @@
+---
+layout: external
+title: Otto D'Agnolo Interviews MWM
+date:   2017-08-30 00:00:00
+artist: mwm
+author: anthony-garone
+category: link
+oneliner: Want to know more about the history and intention behind MWM? Listen to this interview from the Otto D. Show.
+front_page: yes
+draft: no
+icon: fa-microphone
+permalink: /link/otto-d-interview
+external_url: https://starworldwidenetworks.com/episodes/anthony-garone
+block: "yes" #means is shown in itunes
+---
