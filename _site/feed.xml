@@ -3,10 +3,10 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Aug 2017 10:12:32 -0700</pubDate>
-    <lastBuildDate>Thu, 24 Aug 2017 10:12:32 -0700</lastBuildDate>
+    <link>http://www.makeweirdmusic.com/</link>
+    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Sep 2017 08:29:10 -0700</pubDate>
+    <lastBuildDate>Sat, 02 Sep 2017 08:29:10 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -25,8 +25,8 @@
 
 </description>
         <pubDate>Wed, 23 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/cupcake</link>
-        <guid isPermaLink="true">http://localhost:4000/share/cupcake</guid>
+        <link>http://www.makeweirdmusic.com/share/cupcake</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/cupcake</guid>
         
         
         <category>share</category>
@@ -34,7 +34,7 @@
       </item>
     
       <item>
-        <title>David Singleton</title>
+        <title>Marco Machera</title>
         <description>&lt;p&gt;Marco Machera is an Italian musician/songwriter. He likes to say,  “I don’t play music – I make it happen.”&lt;/p&gt;
 
 &lt;p&gt;He’s played bass for Marillion, Paul Gilbert, Tony Levin, Markus Reuter, and many others. He’s rather prolific.&lt;/p&gt;
@@ -160,8 +160,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;MM: Yeah, thank you!&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/marco-machera/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/marco-machera/</guid>
+        <link>http://www.makeweirdmusic.com/discover/marco-machera/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/marco-machera/</guid>
         
         
         <category>discover</category>
@@ -223,8 +223,8 @@ steveball@steveball.com
 &lt;a href=&quot;http://www.steveball.com/TOM&quot;&gt;http://www.steveball.com/TOM&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/tiny-orchestral-moments-2017</link>
-        <guid isPermaLink="true">http://localhost:4000/share/tiny-orchestral-moments-2017</guid>
+        <link>http://www.makeweirdmusic.com/share/tiny-orchestral-moments-2017</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/tiny-orchestral-moments-2017</guid>
         
         
         <category>share</category>
@@ -393,8 +393,8 @@ steveball@steveball.com
 &lt;p class=&quot;interviewee&quot;&gt;AF: You’re welcome.&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/learn/fracture/alex-anthony-faide</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/fracture/alex-anthony-faide</guid>
+        <link>http://www.makeweirdmusic.com/learn/fracture/alex-anthony-faide</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/fracture/alex-anthony-faide</guid>
         
         
         <category>learn</category>
@@ -710,8 +710,8 @@ steveball@steveball.com
 &lt;p&gt;MR: Ciao ciao.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jul 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interview/markus-reuter/2017/06</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/markus-reuter/2017/06</guid>
+        <link>http://www.makeweirdmusic.com/interview/markus-reuter/2017/06</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/markus-reuter/2017/06</guid>
         
         
         <category>interview</category>
@@ -769,8 +769,8 @@ steveball@steveball.com
 &lt;p&gt;If you want to know more or are interested in the sheet music, let me know!&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jul 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/three-legged-dog</link>
-        <guid isPermaLink="true">http://localhost:4000/share/three-legged-dog</guid>
+        <link>http://www.makeweirdmusic.com/share/three-legged-dog</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/three-legged-dog</guid>
         
         
         <category>share</category>
@@ -994,8 +994,8 @@ steveball@steveball.com
 &lt;p class=&quot;interviewee&quot;&gt;DS: Cheers!&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Jun 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/david-singleton/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/david-singleton/</guid>
+        <link>http://www.makeweirdmusic.com/discover/david-singleton/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/david-singleton/</guid>
         
         
         <category>discover</category>
@@ -1053,8 +1053,8 @@ steveball@steveball.com
 &lt;p&gt;My hope is that as they get further into the tour, the sound and mixing quality improves. Part of the risk of attending a Friends &amp;amp; Family show is you are the testing audience, but the performances all night were so strong that the sound issues stunted the potential of the performance.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Jun 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/king-crimson-concert-2017</link>
-        <guid isPermaLink="true">http://localhost:4000/share/king-crimson-concert-2017</guid>
+        <link>http://www.makeweirdmusic.com/share/king-crimson-concert-2017</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/king-crimson-concert-2017</guid>
         
         
         <category>share</category>
@@ -1602,8 +1602,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p&gt;AG: Then it’s a good interview.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 May 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interview/igudesman-and-joo</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/igudesman-and-joo</guid>
+        <link>http://www.makeweirdmusic.com/interview/igudesman-and-joo</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/igudesman-and-joo</guid>
         
         
         <category>interview</category>
@@ -1755,8 +1755,8 @@ And after a while, I guess I did. So there’s a part of me that–you know, ins
 &lt;p class=&quot;interviewee&quot;&gt;JZ: No, I’m totally normal.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 May 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/learn/quintuplets-septuplets</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/quintuplets-septuplets</guid>
+        <link>http://www.makeweirdmusic.com/learn/quintuplets-septuplets</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/quintuplets-septuplets</guid>
         
         
         <category>learn</category>

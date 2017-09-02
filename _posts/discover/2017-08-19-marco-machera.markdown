@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Singleton
+title: Marco Machera
 date:  2017-08-19 00:00:00
 artist: marco-machera
 author: anthony-garone
