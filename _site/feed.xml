@@ -3,18 +3,218 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-<<<<<<< HEAD
-    <link>http://www.makeweirdmusic.com/</link>
-    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Sep 2017 08:29:10 -0700</pubDate>
-    <lastBuildDate>Sat, 02 Sep 2017 08:29:10 -0700</lastBuildDate>
-=======
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Aug 2017 15:00:30 -0700</pubDate>
-    <lastBuildDate>Wed, 30 Aug 2017 15:00:30 -0700</lastBuildDate>
->>>>>>> 32b8da5c57415dc0e34de209ec1adbfc3482f436
+    <pubDate>Sat, 02 Sep 2017 18:18:52 -0700</pubDate>
+    <lastBuildDate>Sat, 02 Sep 2017 18:18:52 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Frank Pesci</title>
+        <description>&lt;p&gt;Frank Pesci is a composer of “sophisticated music with surprising harmonies.” He writes contemporary opera and is based in Cologne, Germany. Frank and I met at a small, English-speaking Anglican church in Cologne. We initially connected by laughing about the impossibility of sight-reading some old hymns during church.&lt;/p&gt;
+
+&lt;p&gt;We started talking and it turns out he’s a fan of &lt;a href=&quot;/discover/frank-zappa&quot;&gt;Frank Zappa&lt;/a&gt;, &lt;a href=&quot;/interview/steve-vai&quot;&gt;Steve Vai&lt;/a&gt;, &lt;a href=&quot;/interview/igudesman-and-joo&quot;&gt;Igudesman and Joo&lt;/a&gt;, and lots of other musicians featured here on MWM. So, we hit it off pretty well. He lived walking distance from our vacation rental and we started getting our families together. He’s a great guy with a great family.&lt;/p&gt;
+
+&lt;p&gt;He’s also quite an accomplished musician with dozens of compositions having been performed across two continents, including forty choral works and five operas.&lt;/p&gt;
+
+&lt;p&gt;And his wife is also an accomplished singer. She is one of the leading sopranos in the modern opera scenes and is known for her stellar performances of Mozart’s The Magic Flute.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UftXn22rQ08?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
+
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-transcription&quot;&gt;Interview Transcription&lt;/h2&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: This is Anthony with MakeWeirdMusic.com and today I am here in Cologne, Germany with Frank Pesci. Frank, thanks so much for joining us.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Thank you for having me.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: So, why don’t you tell us who you are, what you do, and how you ended up doing what you do here? An American in Cologne.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Well, my name is Frank Pesci. I am an American composer based in and working in Germany. I am a composer primarily focused at the moment on opera, but I’ve written nearly 100 works for the concert stage, including pieces for chorus, solo works for instrumentalists and singers, works for large ensembles like orchestras, concert bands, and things like that. Plus chamber music and everything in between. But at the moment I’m focused primarily on opera.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;What I’m doing here in Germany is we’ve been living here in Germany, my wife and I, for four years. My wife is an opera singer and her career brought us here, first to Karlsruhe, which is a small town in the southwest (well, it’s a medium-sized town in the southwest) and for the last two years here in Cologne, where she’s a member of the ensemble with &lt;a href=&quot;http://www.oper.koeln&quot;&gt;Oper Köln&lt;/a&gt;. So that’s what I’m doing here and I am working as a freelance professional composer.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I’m gonna go ask the kids to be quiet…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: That’s okay… [Laughter]&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SjTEDeSWPxg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;[EDIT]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Through the magic of editing, we are back.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: We are back. [Laughter]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Okay, so…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Okay, who I am, what I do, why I’m here. That’s where we wound up.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: So tell us about the kind of opera music you perform here or anywhere else you’ve done it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Well, as a performer, I have had really fabulous experiences here in Germany for the last four years working as a singer for opera chorus gigs as well as working as a supernumerary, which is essentially a human prop or a non-speaking acting role. They put me in a place, they need me to move a box, or I just do nothing, I just take up space. So that–in terms of performing–is what I’ve been doing for the last four years or so and that’s given me a great chance to look at opera from the other side, from outside of the pit and from the stage looking out.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;As far as the opera that I’m writing goes, I have been working–I work both sides of the Atlantic. I’ve been slowly trying to work my way into the scene particularly in Germany where there is a lot of new opera happening (but from an American composer, it makes it a little bit trickier). And then working contacts in the US, I have five operas that I’m pushing now that are either ready to go or at various stages of development looking for collaborative partners. It involves a lot of administrative time. [Laughs.] Just keeping things going on both sides of the Atlantic with people who are looking for different things, the artistic aesthetic is very different, and two different languages… yeah, it takes up almost as much time as writing the damn pieces.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eDWO-dDebAw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Speaking of aesthetics, I think when people hear the word “opera,” they think of a large woman…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: In a magnesium dress. Right.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, so can you spell out some of the modern aesthetics of opera and dispel some of the myths that people believe or misconceptions of opera?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: I would love to. &lt;span class=&quot;important&quot;&gt;Opera is another way to tell a story.&lt;/span&gt; It is the same type of storytelling that you get from reading a story, from watching a movie, from seeing a play or going to see a musical. It is just another way of getting the point across of something that is happening in somebody’s life. Where it veers into a new territory is that sometimes what these people on stage are feeling is bigger than can be expressed solely through words or acting. So, then music becomes an extra part of that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;While there are lots of magnesium dress-wearing women in opera and while opera in general, in particular in the US, is struggling with a conception that it is not mainstream, that it is not for everybody, that it is snobby or snooty, or however you’d like to call it, or out of touch–&lt;span class=&quot;important&quot;&gt;if you first have an opportunity to take a look and understand what these people are going through on stage, it’s very similar to things people go through in their lives all the time. It is relevant, it is something that can be connected to.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;The stories that you will get in opera are life and death and love and hatred and betrayal and anguish and all the things that you see just in your normal everyday experience. What’s happening now, especially in the United States, is that there is a very strong push for new works to have immediately-relevant content. Meaning: things that are affecting society, things that are affecting real people’s lives currently, whether that has to do with technology or it has to do with modern political things, or other things that are happening culturally that are relevant in people’s lives so that it can tap into what people are experiencing.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/B6we7T0T7Fk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Now, musically we’re also seeing a shift in that the type of music that is being used to write opera–the field is wide open. &lt;span class=&quot;important&quot;&gt;All kinds of musical styles are being incorporated into modern operatic contexts, some to good effect, some not so much.&lt;/span&gt; But the attitude is that if we’re going to speak to people using this medium in contemporary living, then we need to make some adjustments artistically, musically, thematically in order to draw those people in, which I’m all for.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;In Germany and Europe in general, it’s a completely different thing because the aesthetic is very difficult and new music can be very difficult to hear. But they’ve cultivated an audience for that kind of thing. It’s not exactly where my aesthetic lies [laughs] so we’re going to see how that works out. &lt;span class=&quot;important&quot;&gt;Opera is an ever-changing animal and it actually is far more adaptable than I think people realize it is.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Now you and I first connected talking about Steve Vai and Frank Zappa.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Yes!&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: You were kind of a guitar nerd.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: I was totally a guitar nerd. I taught myself how to play off of Metallica albums. [Laughs.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us about the transition–I’m assuming at that point you were also not an opera composer.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: No I was not.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: How do you go from guitar heroes to modern opera? You didn’t study opera in music school, right?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: No, no I didn’t. I actually have a jazz degree and I come from a musical family. Unwittingly, my father probably–obviously without knowing it–instilled in me what I realize and recognize now are my two pillars of my musical understanding: jazz is one and opera is another. He was a jazz player when he was a kid and then he was the middle-aged man sitting in his recliner sobbing along with the radio broadcast from the Met. So, I got bombarded with all that all the time.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Hi89ySWq--Y?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;I think my turn to guitar was to be cool because that’s everybody’s initial reason to play the guitar&lt;/span&gt;, but also it was the music. I was listening to rock, I was listening to heavy metal, and I wanted to take part in that. Very musical family–we all sang, we all played instruments and then guitar became one of my central instruments for a while. That went through years of all kinds of stuff: I was doing rock, I was doing metal, I was doing lonely singer-songwriter coffee house gigs, I was playing jazz, I was in a funk fusion band for a while that toured when I was in college in the Southeast, but I was also singing in choirs and I was also studying classical music.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Then when I got to school to do my jazz degree, I was studying composition as well–like, “legit” composition in the classical vein, in addition to jazz composition. So it all just kind of morphed into one big musical experience and all of that continues to come out in my writing now. So in terms of how I got from there to opera, opera was sort of drilled into my DNA and then into my ears by my dad and then that was just something I felt like, &lt;span class=&quot;important&quot;&gt;“If I can be the best composer that I can be, what would that turn out to be?” For me, it was writing opera.&lt;span&gt; So, that was always the long-term goal.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;At some point, I wanted to be the opera composer, I wanted to be the guy writing new works and is making those things happen. How I got there was a little circuitous, but the totality of my musical experience all plays into that now, including the jazz and the funk and the metal and all the guitar nonsense that I went through.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, so on your website you have a selection of pieces you’ve written. What’s the website? &lt;a href=&quot;http://frankpesci.com&quot;&gt;FrankPesci.com&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: FrankPesci.com.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: There’s a lot of examples of what I’ve written there.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, so what struck me was your use of what sounded more like modern-day jazz. There’s kind of atonality going on in the music, but with opera singers on top of it. So, can you talk about how those influences outside of opera inform your composition and is this unique to what you’re doing or is this what you’re seeing in the opera scene today?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Well, I am seeing a lot of that in the American opera scene. I am seeing a lot of people who have disparate influences and then utilizing those influences to put something on the operatic stage. For me, I have been specifically trying to blend–I still don’t know what the best word is to say it–but to synthesize my jazz conceptions and my operatic sensibility. Just saying it out loud sounds like there’s no way in hell that’s going to work, but not exactly true.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;It’s been done before in terms of jazz and classical music. There are a couple of operas about jazz subjects that are floating around at the moment. One by &lt;a href=&quot;http://www.terenceblanchard.com/&quot;&gt;Terence Blanchard&lt;/a&gt; who’s a famous jazz trumpeter and there’s another one–there’s an opera going around about &lt;a href=&quot;https://en.wikipedia.org/wiki/Charlie_Parker&quot;&gt;Charlie Parker&lt;/a&gt;. So it’s not unheard of, but for me what it is is to take these two things that are a big part of my musical understanding and then to make something that is both and neither.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0WTRzqCxSx0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, aspects of it, like some of the harmonic things that you’d heard on my website and are readily there, some of the freer flowing harmonic conceptions of jazz are things that I latch on to. Also the way that players in a jazz setting will converse with each other musically and the dialogue that happens there, which then turns into a counterpoint–that is something that I freely draw from when I’m writing anything.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Also, just from a practical standpoint, &lt;span class=&quot;important&quot;&gt;most of my compositions begin as improvisations, which is directly out of my jazz upbringing.&lt;/span&gt; And then doing so in a way that still remains appropriate for the type of singers that I’m singing for. So, yes, you might have a jazz thing that is happening, or something that is definitely jazz influenced, but as you said, having an opera singer floating on top of it, you still have to keep in mind that these are people that were trained to sing a particular way and then to trying find a way to utilize that to make something new, instead of “Now I’m going to jam the opera singer into the jazz box and we’ll see what comes out on the other side.” It’s a balance and it’s a dance that you have to play, I find, but it’s one that I’ve been having fun with.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Are singers looking for this new kind of material and liking it? Are they pursuing that and do you find audiences doing the same? Looking for new opera?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Well, there’s been an explosion of new opera in the US and there’s a steady stream of new opera happening in Europe. I think singers who I know–and I’m also married to one–will appreciate new music and will be able to dig into new opera, especially if it’s written for singers in mind. This is one of the things that I have the hardest problem with: there is an explosion of new opera from people who have not written opera before or are just getting into it, just getting into writing opera.&lt;/p&gt;
+
+&lt;p&gt;[NOTE: Here’s a clip of Frank’s wife, Emily Hindrichs, singing the famous “Vengeance” coloratura aria with the Seattle Opera.]&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0DkiekeKwvE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;There’s a new one that’s coming out this season in Santa Fe &lt;a href=&quot;http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera&quot;&gt;written about Steve Jobs&lt;/a&gt;. It’s going to make a big splash and it’s by &lt;a href=&quot;https://en.wikipedia.org/wiki/Mason_Bates&quot;&gt;Mason Bates&lt;/a&gt;, who is a really well known composer and has been doing fabulous things, but this is his first opera and it is on a very large stage. So there obviously is an appetite for it, both from people who are programming it, the singers who are participating in it, and the public. So, that is encouraging to me, but also from being a singer and knowing singers and also knowing what I’m trying to do aesthetically, &lt;span class=&quot;important&quot;&gt;it still has to be singable&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;It’s still at the base level, for me, has to be opera and has to be operatic. So, I don’t know if that answers the question particularly, but it’s always something that’s in the back of my mind, for sure. I’m always thinking about from the micro level of, “Is what I’m writing idiomatic for the type of people who I want to have sing it?” And then for the bigger level of, “How is this going to play? Will it engage audiences?” There’s a lot to think about all the time.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: What are some of those idiomatic aspects or techniques that would differentiate something that you might write for jazz versus something you would write for an opera singer?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: &lt;span class=&quot;important&quot;&gt;If you’re writing for jazz–if you’re writing for anything, you need to have a great idea of what the instruments you’re writing for can do.&lt;/span&gt; This is one of these discussions that happens in dorky composer circles about how much you use your laptop to compose and do you play back the midi stuff because when the midi plays it back, the midi can play anything. It sounds like a clarinet is doing it, mostly, but can an actual clarinet player do those kinds of things?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;That is so important when dealing with singers. And also knowing that some singers can’t do–some sopranos can’t do things that other sopranos can do. There are different voice types, even within particular these broad ranges. And then there are things that classically trained singers and performers can’t, or won’t, or don’t want to do that, for jazz players, comes normally like improvisation or some stylistic things that they may not be comfortable with (in terms of rhythmically stylistic things).&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, it’s my job then to be able to find how to write things in such a way so that people who, with the type of classical training that I am familiar with, will be able to do what’s on the page and get across exactly the feeling, and the rhythmic precision, and the style of it just by reading what’s off the page. It’s just knowing who you’re dealing with and knowing the type of people that you’re dealing with and knowing that you have to be careful sometimes what you ask for because you might get it!&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: &lt;a href=&quot;/interview/paul-hanson&quot;&gt;I interviewed Paul Hanson&lt;/a&gt;, who is a bassoonist, and he talked about the dearth of improvisation education for non-jazz musicians, particularly in the classical world. He plays in chamber orchestras or whatever with the bassoon. But once he starts improvising, people are like, “What are you doing?” So, as somebody who has a jazz background and writes songs through improvisation, what are some of the ways you’ve been able to bridge the gap between being an improviser and asking ensembles to get out of the box?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: There are ways that you can do it. Now first of all &lt;span class=&quot;important&quot;&gt;I do proudly revel in making instrumentalists uncomfortable and this is one of the ways I do that. The other is when I try to make them sing, which they really don’t want to do.&lt;/span&gt; But sometimes I just feel like I have to. For me, it is–again, it’s going back to the way I know that these folks are trained and you’re exactly right (and he was exactly right) in the observation also in that improvising education just doesn’t exist for classical players.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Dsmnr6JLWzQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I don’t want to go super wide with it, but I feel like there’s a huge lack of improvisatory cognitive skills that are simply not taught. For me, verbal improvisation has been something I’ve done my whole life because I’m one of six kids and we all talk too much, so you always have to figure out how you can get yourself into the conversation better. From a musical perspective, even if it’s something like I will tell an instrumentalist, “These are the given pitches that you can come up with any rhythm you want, any speed you want, for this length of time.” So if things are properly measured out and doled out, “This is what I need you to do over this period of time,” that’s much more palatable and digestible.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;The thing with improvisation, even in jazz improvisation, is that unless you are doing free improvisation, unless you’re &lt;a href=&quot;https://en.wikipedia.org/wiki/Ornette_Coleman&quot;&gt;Ornette Coleman&lt;/a&gt; or somebody from that school, there are rules that you are following. There are constraints that you are having to work within. And then what has to be done is that given the thing that I want to do or that I want players or singers to do, how can I write in such a way as to make sure they are aware it’s not a free-for-all?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;“There are specific things I need you to do, but I am going to allow you some mobility.” Or, I just write it so that it sounds like they’re improvising. I’ve done that, too. I’ve been in situations where I was writing a blues–there’s one piece that I have, or one of the movements in this multi-movement work for a six-piece chamber ensemble that’s a blues. It is a blues in form and it is a blues the way the harmonies relate to each other. And then we’re going to take a chorus and the flute’s going to play a solo and I had to write it in such a way that it sounds like the flautist was improvising and it would sound like to the audience that the flautist was improvising, but they were simply playing exactly what’s on the page. I know it will come across that way, but that’s the whole thing. Combining the jazz and classical idioms is, “How can you make the one sound like the other, but not lose its quality, its initial amount of integrity?” So, that’s what I do.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: For people who visiting this site know nothing about contemporary opera, who are some of the heroes that you would say, “Go check these people out?” Whether performers like Barbara Hannigan or composers? Where would you suggest people start if they’re looking to explore the genre?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Well you mentioned &lt;a href=&quot;http://en.wikipedia.org/wiki/Barbara_Hannigan&quot;&gt;Barbara Hannigan&lt;/a&gt;. She is somebody who is working constantly and a large amount of what she does vocally is contemporary music or recent contemporary music, within the last 30-50 years. You could easily find her on YouTube and hear some crazy shit that she does.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Her stuff with &lt;a href=&quot;https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti&quot;&gt;Ligeti’s&lt;/a&gt;…&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/f-p1utKFxCg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: &lt;a href=&quot;https://en.wikipedia.org/wiki/Le_Grand_Macabre&quot;&gt;Mysteries of the Macabre&lt;/a&gt;–yeah, that’s some pretty amazing stuff. Now in terms of modern opera, depending upon where you are in the US, you can find your local opera company and you can see what they’re doing and more often than not, they will have one contemporary piece depending upon their mission. If they’re a smaller company and they really just cater to doing the classics and the rep, then they’re going to be doing that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;But if you are anywhere in any city and look for small, plucky, shoestring non-profit opera companies that do shows in bars, you can pretty much bet that they’re going to be doing something contemporary and it’s going to be fun. Getting into the bigger thing, there are a lot of major events that are happening, like the one that we talked about in Santa Fe with the Steve Jobs opera.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_IuI9z3LUIM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;There are a bunch of new works planned in the coming season. It’s more than I can count, but a good resource would be some place like &lt;a href=&quot;https://en.wikipedia.org/wiki/Opera_America&quot;&gt;Opera America&lt;/a&gt;, which is like the national trade association for professionals who work in opera and they will have a listing of everything that’s going on, anywhere. Just like I say with anybody who hasn’t listened to any opera or any classical music, you could do one of two things: you could find something that’s very popular and test your ability to go with that–something very popular opera-wise like &lt;a href=&quot;https://en.wikipedia.org/wiki/La_boh%C3%A8me&quot;&gt;La Boheme&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Magic_Flute&quot;&gt;The Magic Flute&lt;/a&gt; or something like that–&lt;/p&gt;
+
+&lt;p&gt;[A little girl starts crying in the background.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I don’t know if that’s yours or mine.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s my daughter.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Oh, it’s yours! [Laughs] Or, just take a chance and go to something new. You may hate it, but at least you’ll know. Or if you don’t want to waste any money on it, there are so many full, complete operas on YouTube that you could spend days and days and days and days watching free opera and just letting it roll. &lt;span class=&quot;important&quot;&gt;The gateway to new opera is being open to opera.&lt;/span&gt; The gateway to opera is just by being open to new things, if it’s something that you don’t know. Don’t worry about what to wear, don’t worry about the old people with money who are scowling at you. Don’t worry about any of that crap because it doesn’t actually have anything to do with what happens on stage.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: &lt;a href=&quot;/interview/igudesman-and-joo&quot;&gt;Just like Hyung-ki Joo said&lt;/a&gt;. Don’t be square.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: &lt;span class=&quot;important&quot;&gt;Don’t be square! Have some fun with it!&lt;/span&gt; And there are pieces out there that you can have fun with. And there are new pieces that are being written that are fun, that are supposed to be fun. All you have to do is take a little bit of a chance and look around at what’s going on in your neighborhood and you’re going to find something.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Alright, thanks a lot Frank. I really appreciate your time.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Thank you so much. I appreciate it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: And people who want to check out your stuff?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: FrankPesci.com.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Is it on any of the streaming services?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: Yeah. I’ve got a small YouTube channel, I’m all over SoundCloud both under my name and also under my self-publishing name, which is Ichthus Music Press. Yeah, I’m out there.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: All right. Thanks a lot Frank.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;FP: I appreciate it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: No problem. Cool.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Sep 2017 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/discover/frank-pesci/</link>
+        <guid isPermaLink="true">http://localhost:4000/discover/frank-pesci/</guid>
+        
+        
+        <category>discover</category>
+        
+      </item>
     
       <item>
         <title>Otto D'Agnolo Interviews MWM</title>
@@ -45,8 +245,8 @@
 
 </description>
         <pubDate>Wed, 23 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/cupcake</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/cupcake</guid>
+        <link>http://localhost:4000/share/cupcake</link>
+        <guid isPermaLink="true">http://localhost:4000/share/cupcake</guid>
         
         
         <category>share</category>
@@ -180,8 +380,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;MM: Yeah, thank you!&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/marco-machera/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/marco-machera/</guid>
+        <link>http://localhost:4000/discover/marco-machera/</link>
+        <guid isPermaLink="true">http://localhost:4000/discover/marco-machera/</guid>
         
         
         <category>discover</category>
@@ -243,8 +443,8 @@ steveball@steveball.com
 &lt;a href=&quot;http://www.steveball.com/TOM&quot;&gt;http://www.steveball.com/TOM&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/tiny-orchestral-moments-2017</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/tiny-orchestral-moments-2017</guid>
+        <link>http://localhost:4000/share/tiny-orchestral-moments-2017</link>
+        <guid isPermaLink="true">http://localhost:4000/share/tiny-orchestral-moments-2017</guid>
         
         
         <category>share</category>
@@ -413,8 +613,8 @@ steveball@steveball.com
 &lt;p class=&quot;interviewee&quot;&gt;AF: You’re welcome.&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/learn/fracture/alex-anthony-faide</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/fracture/alex-anthony-faide</guid>
+        <link>http://localhost:4000/learn/fracture/alex-anthony-faide</link>
+        <guid isPermaLink="true">http://localhost:4000/learn/fracture/alex-anthony-faide</guid>
         
         
         <category>learn</category>
@@ -730,8 +930,8 @@ steveball@steveball.com
 &lt;p&gt;MR: Ciao ciao.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jul 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/markus-reuter/2017/06</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/markus-reuter/2017/06</guid>
+        <link>http://localhost:4000/interview/markus-reuter/2017/06</link>
+        <guid isPermaLink="true">http://localhost:4000/interview/markus-reuter/2017/06</guid>
         
         
         <category>interview</category>
@@ -789,8 +989,8 @@ steveball@steveball.com
 &lt;p&gt;If you want to know more or are interested in the sheet music, let me know!&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jul 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/three-legged-dog</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/three-legged-dog</guid>
+        <link>http://localhost:4000/share/three-legged-dog</link>
+        <guid isPermaLink="true">http://localhost:4000/share/three-legged-dog</guid>
         
         
         <category>share</category>
@@ -1014,8 +1214,8 @@ steveball@steveball.com
 &lt;p class=&quot;interviewee&quot;&gt;DS: Cheers!&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Jun 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/david-singleton/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/david-singleton/</guid>
+        <link>http://localhost:4000/discover/david-singleton/</link>
+        <guid isPermaLink="true">http://localhost:4000/discover/david-singleton/</guid>
         
         
         <category>discover</category>
@@ -1073,718 +1273,13 @@ steveball@steveball.com
 &lt;p&gt;My hope is that as they get further into the tour, the sound and mixing quality improves. Part of the risk of attending a Friends &amp;amp; Family show is you are the testing audience, but the performances all night were so strong that the sound issues stunted the potential of the performance.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Jun 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/king-crimson-concert-2017</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/king-crimson-concert-2017</guid>
+        <link>http://localhost:4000/share/king-crimson-concert-2017</link>
+        <guid isPermaLink="true">http://localhost:4000/share/king-crimson-concert-2017</guid>
         
         
         <category>share</category>
         
       </item>
     
-      <item>
-        <title>Iguesman &amp; Joo</title>
-        <description>&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
-
-&lt;p&gt;Many years ago (probably around 2010), I came across some YouTube videos of an incredible classical music duo called &lt;a href=&quot;https://en.wikipedia.org/wiki/Igudesman_%26_Joo&quot;&gt;Igudesman &amp;amp; Joo &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; showing absolute virtuosity and top-notch prowess while incorporating some of the funniest theatrical material I’d ever seen. The clips were from a show called &lt;a href=&quot;http://www.igudesmanandjoo.com/a-little-nightmare-music/&quot;&gt;&lt;em&gt;A Little Nightmare Music&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; (a play on Mozart’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik&quot;&gt;&lt;em&gt;Eine Kleine Nachtmusic&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, or A Little Night Music or A Little Serenade). It was one of those nights where you spend 2-3 hours going down the YouTube rabbit hole finding every video you can about someone. Borderline creepy, I know.&lt;/p&gt;
-
-&lt;p class=&quot;ad&quot;&gt;You should &lt;a href=&quot;https://store.cdbaby.com/cd/igudesmanjoo1&quot;&gt;buy Igudesman &amp;amp; Joo’s first official CD, &lt;em&gt;You Just Have to Laugh&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;They played in my hometown of Mesa, Arizona for the first time in 2013 and then returned in 2014. The concert in 2013 was hilarious because my wife and I sat in the front row and Aleksey Igudesman flirted with her all night from the stage. We did not get to sit so close in 2014, but two of my friends sat in the front row and were chosen as participants in the show. It was hysterical and we all had a blast. I brought them two shirts and they sent me an awesome photo afterward.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Make weird music ? Or just weird faces and weird hand gestures? &lt;a href=&quot;https://twitter.com/MakeWeirdMusic&quot;&gt;@MakeWeirdMusic&lt;/a&gt; &lt;a href=&quot;https://t.co/IBeKpXA9lN&quot;&gt;pic.twitter.com/IBeKpXA9lN&lt;/a&gt;&lt;/p&gt;&amp;mdash; Igudesman &amp;amp; Joo (@igudesmanandjoo) &lt;a href=&quot;https://twitter.com/igudesmanandjoo/status/722936041661980672&quot;&gt;April 20, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;I’m not going to say I’m their #1 fan or anything, but I’m definitely a big fan of their work. So, it is a sincere and ridiculous privilege and pleasure to be able to present this interview.&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xk3y-vNWtZM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
-
-&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
-
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/igudesman-and-joo/igudesman-and-joo.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/igudesman-and-joo/igudesman-and-joo.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: This is Anthony…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Wait, before we start, I feel like we have to do this… [Gives me a noogie reminiscent of our &lt;a href=&quot;/interview/steve-vai&quot;&gt;Steve Vai interview&lt;/a&gt;] You should have every guest do that. That should be the start.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/--URKL94KrU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Done.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Good.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: All right.&lt;/p&gt;
-
-&lt;p&gt;[Laughter]&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: This is Anthony with MakeWeirdMusic.com and I have a very special guest with me. We are here in Germany and I’m really privileged to be here with him. It’s Hyung-ki Joo from Igudesman &amp;amp; Joo. Thank you so, so much.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: It’s a pleasure to be here. Good hair by the way.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Thank you so much. I just had it done.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Oh right!&lt;/p&gt;
-
-&lt;p&gt;[Laughter]&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So, tell us who you are and what you do.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Right. Well, my name is Hyung-ki Joo. I’m one of the rare Korean Joos [“Jews”] in the world. It’s spelled “J-O-O.” My parents are Korean, hence the Asian look, but I was born in England and I guess I’m a musician. I’m a pianist, I’m a composer, arranger, and one of the reasons why we’re here is because you got to know me through my duo, Igudesman &amp;amp; Joo. We are a duo of violinist and pianist. We are classically trained, but we make concerts-slash-shows that combine humor and theatricality with music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Awesome. So, I found out about you years ago through a YouTube video and you guys have found a lot of YouTube success. For me, when I look at what you’re doing, it’s clear that you have a mission of turning classical music into something more accessible and entertaining. Can you talk a little about that mission? And how do you feel you’ve done in executing that mission?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: &lt;span class=&quot;important&quot;&gt;The mission is a byproduct. “Mission” always sounds very self-aggrandizing.&lt;/span&gt; I mean, yes, it would be a lie to say that it wasn’t a mission and it would be a lie to say that the mission wasn’t in the back of our heads. &lt;span class=&quot;important&quot;&gt;What I mean by that is that our first goal was to be creative as we were when we were teenagers. We wanted to create a concert that we’d want to go to ourselves.&lt;/span&gt; We couldn’t understand why a classical concert–let alone jazz or rock concerts…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;Actually, if you think about it, the concert format, regardless of genre, is quite square. Even rock music… There’s so little humor and so little fun. I mean, the music is “yeah yeah yeah,” whatever, but they’re actually quite serious and it’s quite uptight in a weird sort of rock way.&lt;/span&gt; They’re on drugs and whatever, but there’s a certain type of rigidity, it’s a certain type of format. Of course, not all the groups, but most. And same in the world of classical and jazz.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;There seems to be certain formulas and rigidity and some people have become very comfortable with that, just accepting that as, “Oh, that’s what it is.” We couldn’t understand why. Who said that? Where’s the rule book? Show us the book–the book of laws, the ten commandments where it has to look like “this.” Who said?&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;It wasn’t that we wanted to be radical or rebels, we just felt that there could be more done. And because we were people that were fascinated by comedy, theater, literature, and other types of art forms, we couldn’t understand why these things couldn’t exist side by side, next to each other.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;We from a very early age just experimented and put on concerts our own way and then about 13 years ago, we sat down and said, “Okay, why don’t we actually really do what we’ve always wanted to do and create this show/concert?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;We didn’t always live in the same city and we spent a few years apart, I was studying in New York, he was studying in Vienna. Of course we’d see each other almost once every year. Most of the times, we’d end up doing something together. But now that I’ve moved to Vienna and he lived in Vienna, we’re both living in the same city, we said, “Okay, come on, let’s do this.” And so, &lt;em&gt;A Little Nightmare Music&lt;/em&gt; by Igudesman &amp;amp; Joo was born.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0jiu0RNizU8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: For those who don’t know what that is, could you describe it briefly?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Well, that’s the name of our first show officially as Igudesman &amp;amp; Joo. It’s crazy because I’ve been trying to describe this show for 14 years and now, being put on the spot again, you would have thought by now I’d have some perfect press statement. You know, “It is…” and just have it rehearsed. &lt;span class=&quot;important&quot;&gt;I think it’s impossible to describe because in a way there’s nothing like it.&lt;/span&gt; On the other hand, you could say that what we do is very retro because if you study the historical documents and you look at how concerts would happen in the times of &lt;a href=&quot;https://en.wikipedia.org/wiki/Mozart&quot;&gt;Mozart &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Beethoven&quot;&gt;Beethoven &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and &lt;a href=&quot;https://en.wikipedia.org/wiki/Liszt&quot;&gt;Liszt &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, they were much more open.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;There are very famous documented examples. For example, the world premiere of Beethoven’s violin concerto–this is quite a well-known story in the classical world. The violinist who was performing, his name was &lt;a href=&quot;https://en.wikipedia.org/wiki/Franz_Clement&quot;&gt;Franz Clemen &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;–in between movements he was performing tricks with his bow, like playing the violin upside-down, undoing the hair [in the bow], doing tricks with his bow–&lt;span class=&quot;important&quot;&gt;the kind of thing that would be just frowned upon today. It would be just scandalous, but this was authentic. People talk about “authenticity” and the “authentic movement,” but &lt;em&gt;that&lt;/em&gt; was authentic.&lt;/span&gt; Also, people stank. They didn’t take showers. You know, there’s this whole movement, at least in the classical world, about authentic period instruments and playing…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Right, romanticizing everything…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Sure, fine, but then don’t shave for a month and don’t shower and then put on a concert because that’s authentic. Another document is Mozart when one of his piano concertos was premiered. People started applauding after 16 measures, which–he was so proud of it that he wrote a letter to his father, that’s how we know this. “Papa, papa, you won’t believe it, but just now they clapped after 16 measures and we had to stop and start again. What a success!” So he was bathing in this glory that he had to stop for people clapping.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;NOTE: &lt;em&gt;&lt;a href=&quot;http://www.therestisnoise.com/2005/02/applause_a_rest.html&quot;&gt;The Rest is Noise &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; has the content of Mozart’s letter&lt;/em&gt;: Right in the middle of the First Allegro came a Passage that I knew would please, and the entire audience was sent into raptures—there was a big applaudißement;—and as I knew, when I wrote the passage, what good effect it would make, I brought it once more at the end of the movement—and they went again, Da capo. The Andante was well received as well, but the final Allegro pleased especially—because I had heard that here the final Allegros begin like first Allegros, namely with all instruments playing and mostly unisono; therefore, I began the movement with just 2 violins playing softly for 8 bars—then suddenly comes a forte—but the audience had, because of the quiet beginning, shushed each other, as I expected they would, and then came the forte—well, hearing it and clapping was one and the same. I was so delighted, I went right after the Sinfonie to the Palais Royal—bought myself an ice cream, prayed a rosary as I had pledged—and went home.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9X0RmNZKj4Y?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;If today, if that happened, it would be a scandal. It would be like, “Shh! What are you doing?! How dare you clap?! The composer will be pissed off!” If I was the composer of a work, especially one of those where it’s, “Bee ahh off pfbfbtbtbt” [atonal], and people were clapping after 16 measures, I’d be like, “Thank you, God!” You know? “Wow! Great! I made it!” You should be fucking happy! Instead of being like, “Ugh, how &lt;em&gt;dare&lt;/em&gt; you interrupt my work with applause?!”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Liszt! Franz Liszt! The inventor of the recital! He, apparently, would play a piece, he would stop, he would go into the audience–Franz Liszt, the great–have a chuckle with someone sitting there, have a swig of wine and then go back and play something. This was The Great Franz Liszt! The one who &lt;em&gt;invented the recital&lt;/em&gt;. That’s what they were doing.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;So, this was the times, and there was less of this elitist, snobbish divide between the artist and the audience. There was more interactivity and we lost that toward the end of the 19th and beginning of the 20th century. And then with the 2nd world war, it was just, pfbtbtbt. And things just got ultra-serious, at least in the classical world.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;But, as I said, even with jazz and rock, this music that’s so groovy and makes you want to dance, the musicians are actually quite serious. How many rock groups do you know–because that’s your world–do you know who actually would crack a joke on stage or write songs, which are funny?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Well, &lt;a href=&quot;/discover/frank-zappa&quot;&gt;Frank Zappa&lt;/a&gt; has an album called &lt;em&gt;Does Humor Belong in Music?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Of course, Frank Zappa is one of the rare exceptions, but he doesn’t quite fit in the mold of anything.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: You’re right. It’s usually, “I can’t hear you! Are you guys having a good time?” Trying to get the audience into it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: &lt;a href=&quot;https://en.wikipedia.org/wiki/Queen_(band)&quot;&gt;Queen &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; had humor. &lt;a href=&quot;https://en.wikipedia.org/wiki/Freddie_Mercury&quot;&gt;Freddie Mercury &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; had humor. And there’s this kind of stagecraft. Even songs like &lt;a href=&quot;https://en.wikipedia.org/wiki/One_Vision&quot;&gt;&lt;em&gt;One Vision&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; has words like “fried chicken.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: &lt;a href=&quot;https://en.wikipedia.org/wiki/Fat_Bottomed_Girls&quot;&gt;&lt;em&gt;Fat-Bottomed Girls&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Right! Yeah. And there’s a sort of humor in the orchestration and the sound. &lt;a href=&quot;https://en.wikipedia.org/wiki/Beatles&quot;&gt;The Beatles &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; had humor in the stagecraft, in their introductions, especially &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Lennon&quot;&gt;Lennon &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. But also in the songs, you hear it. There’s a sense of fun. Not trying to say that things have to be funny, but there’s a sense of fun. One of my favorite groups is &lt;a href=&quot;https://en.wikipedia.org/wiki/10cc&quot;&gt;10cc &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. I don’t know if you’ve heard of 10cc.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I’ve heard of them, but I don’t know their stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Oh, they’re fantastic. I love their songs. They have this humoristic element, the fun element. A lot of jazz musicians became ultra-serious. If you look at jazz in the beginning, a lot of these guys have so much humor. &lt;a href=&quot;https://en.wikipedia.org/wiki/Duke_Ellington&quot;&gt;Duke Ellington &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Erroll_Garner&quot;&gt;Errol Garner &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Ella_Fitzgerald&quot;&gt;Ella Fitzgerald &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. When they’re scatting, there’s humor, there’s a sense of fun, they’re quoting. Then these guys came around with this very ultra-serious movement in jazz.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, I saw this interesting video the other day. It was a lecture that &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Cleese&quot;&gt;John Cleese &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; gave on creativity. Of course, John Cleese, the whole &lt;a href=&quot;https://en.wikipedia.org/wiki/Monty_Python&quot;&gt;Monty Python &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; gang is a huge influence on Igudesman &amp;amp; Joo, as they are on comedy and many things. John Cleese was giving a very serious talk about creativity.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/h7fyOLe-xn4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;One of the things he talks about is that there’s a very big difference between serious and solemn. He also says that in order to be creative, you need to open the portal of humor. &lt;span class=&quot;important&quot;&gt;Just because you’re talking about something serious, it doesn’t mean that if you make a joke or find humor in it, it doesn’t mean that it’s any less serious.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;It is entirely possible to have a conversation about a serious subject, but with humor. He was even saying that there’s no room for solemnity. He said something like, two of the funerals he’s been to in his life were just full of humor and they were the most moving ceremonies that he’d ever been to. So, in this world, somehow humor is laughed upon, it’s not taken seriously, it’s kind of put aside. But, it’s key!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It’s human.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: It’s &lt;strong&gt;human!&lt;/strong&gt; When you ask holocaust survivors what kept them going, because they basically had death staring them in the face all the time–how did they, for 5 or 6 years, keep on going? Most of them say music and humor. &lt;span class=&quot;important&quot;&gt;We’re very lucky that we do both. We do music and humor.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I love your shows, everyone I’ve brought to your shows loves them–whether they know anything about classical music or not–but there have to be musicians that do not love what you do. That don’t appreciate you removing the solemnity in classical music that seems to have taken hold since, as you said, WWII.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: You know, we’ve never come across these people, but it doesn’t meant these people don’t exist. And I know these people exist because sometimes I read the comments on our YouTube videos. We believe in free speech, so if you go to our video clips, there are some shitty comments. We leave them. We don’t delete them or paint this image that we are “holier than thou” and only that people love us.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;There are one or two really horrible messages in the comments. We leave them. &lt;span class=&quot;important&quot;&gt;We have a saying, which is “not everybody loves chocolate.” It’s something we really believe in. It’s true, not everybody does love chocolate.&lt;/span&gt; Do you love chocolate?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I love chocolate.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Okay, you love it, I love it, but I know plenty of people who don’t like chocolate. And even those who do, they only like milk, or they like plain, or–so not everybody likes chocolate. And you have to accept that. So, there’s no reason why everybody should like what we do, but usually people who come to our show end up liking it if they didn’t know what they were in for. And those one or two that didn’t, we don’t hear about it, unless they are the ones that go home later and write online, “It was the worst thing I ever saw in my life!”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;Not to be defensive, but I find that those comments actually say a lot about the commenter, because there are some comments that say it’s disrespectful or that it’s tasteless. I really do not believe we are disrespectful. This is the last thing that we are.&lt;/span&gt; I can understand how people might see it that way, but we’re not.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;We trained at the &lt;a href=&quot;https://en.wikipedia.org/wiki/Yehudi_Menuhin_School&quot;&gt;Yehudi Menuhin school &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which is like an elite &lt;a href=&quot;https://en.wikipedia.org/wiki/Hogwarts&quot;&gt;Harry Potter school &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; for menta–er, musicians. We’re very passionate about music. I think that–orchestras, these institutions like the New York Philharmonic or the Chicago Symphony or the London Philharmonic–they wouldn’t play with us if they didn’t think we were serious musicians. They wouldn’t!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;If we were just clowns, they’d be, “Oh yeah, those guys are funny. Let’s watch them on YouTube.” But they’d never lend us the keys to their Ferrari. I mean, come on. And people like &lt;a href=&quot;https://en.wikipedia.org/wiki/Joshua_Bell&quot;&gt;Joshua Bell &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Emanuel_Ax&quot;&gt;Emmanuel Ax &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Billy_Joel&quot;&gt;Billy Joel &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, performing with us. They undestand that we’re serious musicians. &lt;span class=&quot;important&quot;&gt;Always for us, everything that we do, the number one priority is the music. And then numbers two and three are the humor and theatricality. And if people laugh, great.&lt;/span&gt; If they don’t, well…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;It’s not our aim to make people laugh or to do something that’s completely out of–let’s just do something weird, just for the sake of being weird. That’s really not what we do. It’s not disrespectful. If you grew up in a very puritan, rigid upbringing, then anything that goes outside of the box is gonna be like, “Whoa! Those radicals! Those punks!”&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u04nkEJQPqM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I saw a comment just recently on &lt;a href=&quot;http://www.universaledition.com/composers-and-works/Hyung-ki-Joo/Chandeliers/composer/4521/work/15794&quot;&gt;your &lt;em&gt;Chandeliers&lt;/em&gt; piece &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which was a beautiful piece, but somebody said, “A serious piece of music from Hyung-ki Joo!” And I thought, “Everything is a serious piece of music.” Even the music police sketch, you’re playing serious music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: That’s true. Yes, that’s true.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Really, really difficult, complex music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: You see, that comes down to–nothing against that person in particular, but &lt;span class=&quot;important&quot;&gt;it comes down to our general human inability or need for everything to be in boxes. To put things in categories. And that’s why people struggle with things like Frank Zappa and &lt;a href=&quot;https://en.wikipedia.org/wiki/Nina_Simone&quot;&gt;Nina Simone &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/span&gt; “Where are they? What genre?” Who cares?! Do you like it or do you not? Are you moved by them or are you not?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;If you look at people like &lt;a href=&quot;https://en.wikipedia.org/wiki/Glenn_Gould&quot;&gt;Glenn Gould &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; or Leonard Bernstein or Freddie Mercury or &lt;a href=&quot;https://en.wikipedia.org/wiki/Jacques_Brel&quot;&gt;Jacques Brel &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. These are guys that are not just singers or just composers, they’re bigger. They’re more varied. You can’t just put them in one slot. It’s like, “Oh, Bernstein wrote a musical, oh he wrote a serious symphony, oh he…” Who cares?!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Why can’t someone have many different facets? It’s like &lt;a href=&quot;https://en.wikipedia.org/wiki/Woody_Allen&quot;&gt;Woody Allen &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, whenever he tried to do something that was a bit more serious, he was torn apart. Why? It’s like, “Oh wait, you’re that comedy guy! You’re that funny guy with the glasses that goes uh-da-bi-bi-bi-duh… You can’t do serious stuff. It doesn’t make sense.” &lt;a href=&quot;https://en.wikipedia.org/wiki/Roald_Dahl&quot;&gt;Roald Dahl &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;! Do you know Roald Dahl?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh I love Roald Dahl. I’ve read almost everything!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Have you read the adult stuff?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Some of it!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Okay, so when you say you’ve read everything, you meant the children’s stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: All the children’s stuff when I was a kid, but then when I grew up, I was like, “Oh, no I can find those adult books!” But he wrote great stories for grownups!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: But the adult stuff is like, whooooaaa… It’s screwed up.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: What’s the one about childhood? [NOTE: It’s called &lt;a href=&quot;https://en.wikipedia.org/wiki/Boy_(book)&quot;&gt;&lt;em&gt;Boy&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yeahhh, isn’t that his autobiography?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, it’s brutal, but it’s wonderful.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: A lot of his &lt;a href=&quot;https://en.wikipedia.org/wiki/Tales_of_the_Unexpected_(short_story_collection)&quot;&gt;&lt;em&gt;Tales of the Unexpected&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/My_Uncle_Oswald&quot;&gt;&lt;em&gt;My Uncle Oswald&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, it’s weird stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: &lt;a href=&quot;https://en.wikipedia.org/wiki/Shel_Silverstein&quot;&gt;Shel Silverstein &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, you ever read his stuff?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: No, I don’t know him.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: He did &lt;a href=&quot;https://en.wikipedia.org/wiki/A_Light_in_the_Attic&quot;&gt;&lt;em&gt;A Light in the Attic&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, a lot of these children’s poems. But then he has other stuff that’s about smoking weed. It’s fantastic and not for kids, but even I’m like, “Whoa, who is this guy? Where did he come from?” But he’s a human being with interests.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Look at Mozart. He wrote &lt;a href=&quot;https://en.wikipedia.org/wiki/Requiem_(Mozart)&quot;&gt;requiems &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, he also wrote &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Magic_Flute&quot;&gt;magic flutes &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and he also wrote songs about &lt;a href=&quot;https://en.wikipedia.org/wiki/Mozart_and_scatology&quot;&gt;licking someone’s ass &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Which you have a video of.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/WP7v66ZnqTA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Oh, whoa you’ve really seen my stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yes! Performing the music…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Performing the music. That’s right. Just to be clear! He saw the video of me performing the music, not actually performing the…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s another channel. The adult channel.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: That’s the Roald Dahl adult channel. Yeah. [Laughter]&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So, can you tell us about your creative process and your inspirations that you haven’t mentioned already? I saw you have &lt;a href=&quot;https://www.youtube.com/watch?v=86EoPYNZpbA&quot;&gt;a Prokofiev piece &lt;i class=&quot;non-mwm fa fa-youtube-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=HP9Q8v2bQaw&quot;&gt;Shostakovich &lt;i class=&quot;non-mwm fa fa-youtube-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;… You’ve done a lot of out-of-the-box stuff and I know you compose and you educate. Can you talk about your influences and your creative process?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Wow, influences. I mean, we’re going to be here all night.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I’ve probably got 4 hours of storage on the camera.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: From the classical world…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It doesn’t matter. Just your influences.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: My influences? Well, definitely the greats like Beethoven, &lt;a href=&quot;https://en.wikipedia.org/wiki/Debussy&quot;&gt;Debussy &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Ravel&quot;&gt;Ravel &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, Mozart, &lt;a href=&quot;https://en.wikipedia.org/wiki/Rossini&quot;&gt;Rossini &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Then some of the early guys like &lt;a href=&quot;https://en.wikipedia.org/wiki/Carlo_Gesualdo&quot;&gt;Gesualdo &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Then from performers, already mentioned Glenn Gould, Bernstein. Then figures like, of course, &lt;a href=&quot;https://en.wikipedia.org/wiki/Yehudi_Menuhin&quot;&gt;Yehudi Menuhin &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/St%C3%A9phane_Grappelli&quot;&gt;Stéphane Grapelli &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, Jacques Brel.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Very interesting thing about Jacques Brel is I fell in love with a French girl when I was 15 years old, as one does, right? I don’t think she knows about it. No, she does know about it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Right, as every Korean British child does.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: And one day she sent me as a gift, a tape of Jacques Brel’s 20 greatest hits. I didn’t know who he was. I listened to this tape and loved it. I listened to this tape for many many years and back then, there was no YouTube, no easy access, no Spotify, so I was pretty much stuck with that tape.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Years later, I started to listen to other stuff, but I would say there was a gap of about 13 years until I actually saw him perform. He’s been dead for a long time, but I actually saw video footage of him. I never even thought to think, “Oh what does he look like? What is he like on stage?” I just loved him. And then one day I was watching TV and there was a documentary about him. &lt;span class=&quot;important&quot;&gt;I was just mesmerized by this guy because there was an animal. It was like, this guy was not just a singer, he was like an actor animal, something beyond. A real genuine performer.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I happen to understand French, but even if you don’t understand French, there’s no way that you can’t be compelled by this guy. You see him and it’s like, “Augh! He’s so in it.” Certain performers are like that. There’s a lot of jazz musicians that have influenced me, or at least turned me on, people like Errol Garner, &lt;a href=&quot;https://en.wikipedia.org/wiki/Herbie_Hancock&quot;&gt;Herbie Hancock &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Keith_Jarrett&quot;&gt;Keith Jarrett &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;… I recently heard a guy called &lt;a href=&quot;https://en.wikipedia.org/wiki/Brad_Mehldau&quot;&gt;Brad Mehldau &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cnH27mxW0KM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh, I just saw him live with &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Scofield&quot;&gt;John Scofield &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Mark_Guiliana&quot;&gt;Mark Guiliana &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Unbelievable. He’s a genius.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Of course I’ve known about him for many years. I’ve heard him here and there. But, actually going live to listen to him. It was just a few months ago.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: At the Blue Note?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: No, it was in Vienna. The main program was his kind of arrangements, improvisations based on Bach. That was the main course of the program. Very good, very interesting, no question. In fact, I was thinking that every single pianist that studies in Vienna should have been there because it was a masterclass in piano playing. Pedaling, articulation, phrasing, sound, sound quality, production. Everything.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Even his &lt;a href=&quot;https://en.wikipedia.org/wiki/Bach&quot;&gt;Bach &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; was wonderful and he’s not a classical player. I was like, “Where is every single student here? They should be just lapping this up.” He played two encores, which were like… He went into his thing. He did jazz standards. He played two jazz standards and I shit you not, I was just like a little kid. I was in between that emotional experience of wanting to cry and wanting to laugh. Not really knowing how to react because it was like, “Ohh hahahaha ohhhh hahaha!” Just amazing. And there’s been very few experiences like that in my life.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So definitely Brad Mehldau is now on my giants list. There’s a guitarist. Actually, &lt;em&gt;you’re&lt;/em&gt; a guitarist. I don’t know if you’ve heard of this guy. His name is &lt;a href=&quot;https://en.wikipedia.org/wiki/Wolfgang_Muthspiel&quot;&gt;Wolfgang Muthspiel &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, jazz guitarist. Fantastic. Check him out. Austrian dude. Just recorded a CD with Brad Mehldau. He is definitely a big inspiration. We hung out a lot in New York when I was studying there. He opened up my world to a lot of jazz music that I didn’t know about before. Certainly I’m a fan of &lt;a href=&quot;https://en.wikipedia.org/wiki/Pink_Floyd&quot;&gt;Pink Floyd &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, also like &lt;a href=&quot;https://en.wikipedia.org/wiki/Pink_(singer)&quot;&gt;Pink &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_BKVfbwI3X4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: She’s very creative.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yeah! She’s very creative. And she’s also like one of those people that’s like, ugh! She’s there. She’s in the moment. You believe in her. &lt;span class=&quot;important&quot;&gt;Even if you don’t like what she does. I think that some musicians, as far as I’m concerned, it doesn’t really matter whether I like them or not. Glenn Gould is one of my favorite artists. I don’t like everything he does, but when he plays, I just shut the fuck up.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;And people like Pink or Jacques Brel, they’re those type of people that not everything they do I like, but I stop to pay attention. Brad is the same thing. Just listen because these people are not screwing around. They basically–this is what they do. They’re dedicating their whole lives to this and they are hooking into something.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I feel like they’re superhuman. I see musicians like that and it’s almost like they forget who they are, they just exist for this music and it’s their identity. That song, that performance is who they are.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yes. Boom!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Right. You can’t deny it. You don’t have to like it, but you can’t ignore it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: I love a lot of things like we spoke earlier off camera about &lt;a href=&quot;/discover/king-crimson&quot;&gt;King Crimson&lt;/a&gt;. I love those guys. Obviously I’m a huge fan of the Beatles. Probably not a day goes by without some Beatles earworm in my head. I love a lot of &lt;a href=&quot;https://en.wikipedia.org/wiki/Simon_%26_Garfunkel&quot;&gt;Simon and Garfunkel &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. I’m open to all kinds of music. I love &lt;a href=&quot;https://en.wikipedia.org/wiki/Public_Enemy_(band)&quot;&gt;Public Enemy &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Beastie_Boys&quot;&gt;Beastie Boys &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; I think are fantastic.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;It’s not the music I listen to every day, but when I listen to them, it’s also like, “Shut up, pay attention. These are not some dudes in a garage. They’re onto something.” It’s fantastically crafted music. They have fun. There’s a sense of fun and creativity in there. They’re not just out there to make a hit. They’re there to make music, they’re there to make weird music. A lot of &lt;a href=&quot;https://en.wikipedia.org/wiki/Radiohead&quot;&gt;Radiohead &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/F_4fiMIxO2E?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Have you heard &lt;a href=&quot;https://en.wikipedia.org/wiki/Day_Is_Done_(album)&quot;&gt;Brad Mehldau’s Radiohead stuff &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yes, of course. Ooh! There’s something I discovered quite recently, &lt;a href=&quot;https://en.wikipedia.org/wiki/Postmodern_Jukebox&quot;&gt;Postmodern Jukebox &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh yeah, very creative! Very fun.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: I &lt;em&gt;love&lt;/em&gt; those guys. A lot of those singers are fantastic. Then there are people who are not musicians, but have been incredible influences on me. Certainly people like &lt;a href=&quot;https://en.wikipedia.org/wiki/Charlie_Chaplin&quot;&gt;Charlie Chaplin &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Marx_Brothers&quot;&gt;Marx Brothers &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; (although they are kind of musicians as well, a lot of them). In today’s world, I’m also intrigued by–you know what? &lt;span class=&quot;important&quot;&gt;I’m intrigued by anybody that is passionate about what they do.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Sometimes it’s a nameless street performer that I also just shut up and listen. Pay attention to this guy or this girl. They’re playing there on the street and they’re not doing it for fun. They’re doing it because–of course to get a little bit of money, but this is what they do. Some of them are just amazing. There’s no reason why some of those people on the street should not have huge record deals.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I once saw a guy–and you see these guys everywhere, but you find &lt;em&gt;one&lt;/em&gt; that’s like the golden child. It was one of those dudes doing this wine glass thing. You see that usually and it’s like, “Yeah, it’s just a party trick and it’s woooooeaeaea wowooooooahaha WOOOOOHHOOO.” It’s like, whatever!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I thought I was standing in front of wine glasses just now!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: [Laughter, continued wine glass sounds] But this one guy I saw. I even made a video clip of him. I’m so stupid, I should have asked for his name, got his number, his contact because we would have invited him to a show or something because this guy was something. He was a genius. An absolute genius.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So you like everything!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: I do! For example, also dance. There’s a dancer called &lt;a href=&quot;https://en.wikipedia.org/wiki/Tamara_Rojo&quot;&gt;Tamara Rojo &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. She’s now the Artistic Director of the English Ballet. I actually flew to London to watch her perform. Twice. I’m not a major ballet freak, but for her, yes. There’s also a guy called &lt;a href=&quot;https://en.wikipedia.org/wiki/James_Thiérrée&quot;&gt;James Thiérrée &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, who happens to be the grandson of Chaplin, and he does these amazing theatrical shows. His sister too, Aurelia, actually. Both of them. They created this type of–again, this genre that doesn’t really exist. It’s this type of circus/theater/performance art/contortion/magic fun comedy.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sFFpzip-SZk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Do you know Barbara Hannigan?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: OH MY GOD. I wrote a huge–my first blog, one of my first blogs I wrote was basically a love letter to Barbara Hannigan.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: She’s incredible.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: She’s absolutely incredible.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Talk about serious music. She’s doing the &lt;a href=&quot;https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti&quot;&gt;Ligeti &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; stuff in crazy outfits. People are laughing, but it’s that stunned, “I don’t know what to make of this, whether to laugh or cry” thing because you’re so shocked.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: But Ligeti would have been very happy with this. Ligeti is considered to be one of the greatest composers of the 20th century and he’s also considered to be one of the most serious composers. However, his music is full of fun and humor. He wrote a piece for 100 metronomes. Come on. You know?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;The guy is full of fun! He has pieces where the percussionists have to drop plates and stuff. He uses a lot of the types of techniques that those avant garde guys were doing, but because he’s a good musician and he has that sense of humor and creativity, it’s compelling. Then you get someone like Barbara Hannigan, who again is like a golden child, and she puts her approach onto this music. Wow. It’s explosive.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So we never got to your creative process.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Oh my God, yes. Well I &lt;em&gt;told you&lt;/em&gt; this was going to take forever! But you know, it’s very rare… This is a gift. &lt;span class=&quot;important&quot;&gt;It’s a gift to be able to just talk about people that one likes. And to share that with someone who understands. It’s very rare.&lt;/span&gt; I’ll tell you something, and this is going to sound weird. I’ll tell you something, and I know I’m going off subject here.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: No, go for it. This is &lt;em&gt;your&lt;/em&gt; interview.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/T4DCoZRr2SE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Something I realized recently in my world, which is mostly classical. Of course, I know a lot musicians outside of the classical world, but I noticed something a little disheartening, to be honest. &lt;span class=&quot;important&quot;&gt;It dawned on me just a few weeks ago that a lot of musicians, my colleagues, people in my world, they rarely talk about music.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;And it just hit me, like, “Wait a second… We’re calling ourselves musicians. This is what we do. We work our asses off. Our parents spent shitloads of money so we could have expensive lessons and go to music schools. And this is supposedly what we’re passionate about, yet when we site down we don’t talk about music.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: You talk about business, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: How did you know this?!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I’m in an industry, too. It’s what people do. They talk about the industry.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: &lt;span class=&quot;important&quot;&gt;They talk about the business! This is the &lt;em&gt;last thing&lt;/em&gt; I want to talk about. It’s &lt;em&gt;business&lt;/em&gt;. It’s the least interesting part of music. It’s the business! That’s why it’s got that horrible term, “The business!”&lt;/span&gt; And if we’re lucky enough to be in the business, then okay we have to deal with it. But, I want to talk about music! I want to talk about the C major chord, or King Crimson, or lyrics. I want to talk about &lt;a href=&quot;https://en.wikipedia.org/wiki/Felix_Mendelssohn&quot;&gt;Mendelssohn &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;And I realize that very few musicians want to talk about that. In fact, there are even some musicians that will deliberately sabotage and stop you right there when they see you’re starting to talk, and they say, “You know, I don’t want to talk about music. Let’s not talk about music.” …Okay?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I could kind of forgive them if the conversation steered toward something at least as interesting, but it either goes to a very low level, which–fine, that’s okay, that’s cool. But, it’s like, “Let’s not talk about music! Let’s talk about very low stuff or let’s talk about the business of music.” That doesn’t make sense to me. So, I don’t really understand. It just dawned on me, so…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Meeting you and &lt;span class=&quot;important&quot;&gt;being able to talk about music is, like, a rare treat.&lt;/span&gt; I can tell you that, unfortunately, very few people that I come across really want to talk about music. And I find that sad because what are we doing this for? Anyway, back to your question. What is my creative process? By the way, you can cut this however you want…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: No, I’m just looking at my cameras to make sure everything’s still rolling.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: You can cut out all…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: This is the best stuff!&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rp5jQRyjf5c?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: [Laughter] Creative process. Well, of course I’m very, very lucky that a lot of my creative process is done with my friend and partner, Aleksey Igudesman, who today is in the form of fruit [arranged on a small table next to Hyung-ki]. It actually kind of looks like him. We did a pretty good… If &lt;a href=&quot;https://en.wikipedia.org/wiki/Gualtiero_Jacopetti&quot;&gt;Jacopetti &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/Jean-Michel_Basquiat&quot;&gt;Basquiat &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; did a high fruit sculpture of Aleksey Igudesman, this would be it! Two apples and a bunch of bananas. This apple represents his sort of chi, and this banana represents his mental state. I know he’d prefer it the other way around. I hate to say it, but it’s more like this.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, yeah, so anyway I’m very fortunate that a lot of my creative process is shared with this guy. Actually, even though we’re doing our own thing a lot of the times, we’ll show it to the other. So if I’m writing a piece, which might be a serious piece or a funny piece or whatever, it’s outside of the I&amp;amp;J umbrella, he will very often make some wonderful contribution and remarks.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;We do that for each other. When we are working together, we call our relationship a ping-pong relationship because I ping stuff to him and he smells, so he pongs.&lt;/span&gt; That’s what it is. No, it’s ping-pong because one of us says, “What about this?” Boom. And the other says, “Okay, but then we do this?” Boom. And it just goes back and forth and there’s a nice rally going on.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And it always makes it better.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Always. Yes we do disagree and yes we do argue and yes we do fight. We fight less and less because we’re trying to be more Om about life and more holistic and spiritual and more about love and forgiveness. But it doesn’t always work, so… [Punches fruit scuplture.]&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BSE-86M_DVk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Man, Aleksey was doing really well until…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: To be fair, he bullied me. No, this is true.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: When you were younger?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yeah! He actually punched me in the nether regions. It’s actually true. It’s a miracle that I can be reproductive down there because I really thought, “I’m cut off. There can be no Joo dynasty.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I wouldn’t have thought he was strong enough to make a difference.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Oh, he’s strong. He is strong. He is much stronger. He’s always been stronger than me and he still is. [To the fruit] I’m sorry about that. Yes, that’s… yes. There’s no frustration there at all. No issues that need to be resolved. Of course, we have our differences and we have two very strong personalities, but we believe and we work toward the fact that to try and come to a consensus.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Sometimes the fact that you have this friction leads to something better, actually. Through arguing and through contesting, then you actually go, “Wait a minute. How about this?” So, I’m very lucky that I have that. I think that some people who are just working as solo artists maybe don’t have that resource.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I know that a lot of the Monty Pythons, their creative process was having little writing teams. I think Eric Idle did his own thing, Terry Gilliam of course did animations, and Cleese was with Chapman, and Terry Jones with Michael Palin. But when they got together, they would then give the stuff to the other person and the other person would say, “Oh, I know how to finish that.” Or, “Give that to me.” So then it became a collaborative process.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I’d actually love to know how–you know, a lot of these rock groups that stay together like &lt;a href=&quot;https://en.wikipedia.org/wiki/U2&quot;&gt;U2 &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; or Radiohead or Queen, if you look at their song credits, it’s all shared. It’s actually a smart thing to do, also, just for the general harmony of the group because a lot of rock groups split up basically because somebody’s houses were bigger than theirs. There is that aspect, but &lt;span class=&quot;important&quot;&gt;I am much more someone that likes to take time.&lt;/span&gt;&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Kbbi_b5K3d8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I think it’s partly because I’m slow [laughs], but it’s also because I believe in the magic of editing. I believe in the power of time and editing. Have you ever had this–I’m sure you’ve had this happen to you and to whoever’s watching this–Um, hi–that you’ve written something, like an essay or homework or something creative, a song, a birthday card, whatever, and the coffee spills on it and you’ve lost it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh yeah. You try recreating it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yeah, and then you’re like “AAAHHH!” But I think 9 times out of 10, or 99 times out of 100, when you try to recreate it or do it again, it’s usually better. So what does that mean? It means that subconsciously, with the passing of time, your subconscious has been working on it. You put it down. Boom, enter, save. While the computer’s stored it, or the handwriting has stored it, or whatever, your creative subconscious is still continuing to work on it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So actually, &lt;span class=&quot;important&quot;&gt;it’s a blessing in disguise, while bloody annoying, that you’ve lost the first draft.&lt;/span&gt; Let’s say sometimes I do that consciously. It’s not like I give it to a dog to chew up, but consciously I kind of will let time sit on it and then think about it and come back to it and somehow there’s a natural editing that’s just been done. I just say, “Okay, let’s get rid of this, and let’s get rid of that.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I don’t have–I’m not one of those child geniuses that just–I don’t have perfect pitch, I can’t write down something on one hearing. There are people like that. In fact, when I went to the Menuhin school, I was 10 years old and I thought I really didn’t belong there. I thought I’d get kicked out, besides getting kicked in the balls by people like Aleksey, I actually thought I’d get kicked out, also.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Because I arrived after playing the piano for about two years, I was certainly one of the lowest on the food chain. There were people there who were a lot younger than me that were already writing symphonies, they were playing Rachmaninoff, and my audition piece was Bach’s first prelude [sings it]. That was my audition piece and somehow they accepted me, but when I got there, I thought, “Oh, they made a mistake.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Fortunately, year after year, I was still there and I thought, “Oh I’m still here.” And the thing that kept me going was that I believed that I loved music more than anybody else. Of course, it’s a very subjective thing, but that’s what I felt. Looking around at everybody, I thought, “They’re much more talented than me, they’re much more naturally gifted, they’ve been given gifts from God and they’re more trained.”&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SrR9alVhCNU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;But the thing that I have over them is that I love music more than they do. I’m sure of it because I just love music so much and I felt that this love of music was lacking in a lot of them.&lt;/span&gt; So I felt like, “Okay, if you just give me a chance, just keep giving me a chance, I’ll get there. I’ll get there.”
-And after a while, I guess I did. So there’s a part of me that–you know, insecurities lie strong. Things that you feel as a child, so even today &lt;span class=&quot;important&quot;&gt;there’s a part of me that feels like I’m not a qualified musician.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Because of?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Because things don’t come easy to me. Because everything I do has to be worked on.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Is Aleksey the kind of guy you’re talking about?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: I would say Aleksey is a natural talent. Absolutely. In fact, it’s a miracle he’s such a good musician because he’s had such shitty teachers, in my opinion. He left the Menuhin school when he was 16 and in a way had arrested development. So it’s a miracle for me that he’s such a great musician, because–if he was here, he would probably argue that, but that’s not true.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;He learned his things in other ways. He probably has a right to say that, but I always felt from the moment I met him, even though he was kicking me in the balls, it still made me realize when he was playing that this guy was absolutely a natural talent. Exceptional. The way he played was unlike anything else. And the sound that he has is unlike anybody else. The sound, it’s a unique approach and an unique inflection of expression.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Seriously, he’s kind of not here, but he kind of is, and I’m not just saying this because I’m on camera, but I really feel like &lt;span class=&quot;important&quot;&gt;I’m one of the luckiest people to play with one of my favorite violinists. I’m just so lucky to play with a guy like that.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So you look at yourself and–do you ever compare yourself to his capabilities? Or is it a, “Thank God he is the way he is?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: No I don’t really compare. I’ve never been envious of anybody, I’ve never been competitive with anybody. I’ve had relationships with pianists. A lot of people go, “Oh my God, how can you go out with a pianist?” I don’t have any–I have wonderful friends who are pianists. I’ve never felt anything like a sort of competitiveness or rivalry.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ddKHdrUktkY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;The older I get, I have enormous respect for anyone who plays the piano.&lt;/span&gt; From one side, it’s a very simple thing to do. Every 5-year-old kid can just go play Twinkle Twinkle. And yes, it’s true, there is a certain simplicity to playing the piano, but when you get to a certain level, when you get to the last level of the video game, that’s not simple stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;If you talk about these funky pianists, these jazz pianists, these people who have to improvise–any other instrument, like electric guitar, saxophone, violin, I’m sorry, but with all due respect, they just have to play one line. It’s just one line.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Or just one scale!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: One scale! Yeah, so you can do Dah-dah! Whatever, sure go nuts, man! But when you’re playing a keyboard, most of the time, you have to play the rhythm, the harmony, and that’s usually with the left hand and a bit of right, but then you have to be totally free and inventive with the right and have at least 3 things going on at the same time and be polyrhythmic and polyharmonic.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I’m sorry, but big respect has to be done for those guys. Not taking anything away from the instrumentalists who improvise, but when you look at somebody like these guys like Herbie Hancock or &lt;a href=&quot;https://en.wikipedia.org/wiki/Chick_Corea&quot;&gt;Chick Corea &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Brad. What they’re doing is on another level. &lt;span class=&quot;important&quot;&gt;I guess I feel that I’m still a student.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Like a &lt;a href=&quot;https://en.wikipedia.org/wiki/Shoshin&quot;&gt;beginner’s mind &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, always learning?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yeah, I know that sounds cliche and zen and all that bullshit, but it’s true. A few years ago, a student–well, she’s not really a student of mine, but she’s someone that used to come play for me quite regularly, and then there was a hiatus, but–she called me again and she said, “I’d like to come again and play for you.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;And I was not trying to be modest or funny or blow her off, I said, “You know? I don’t think I’d actually be good to teach you.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;She said, “Why?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I said, “Well, because I’m doubting everything that I’ve ever done before and I really don’t know what the hell I’m doing myself. I’m reinvestigating everything and this would be just terrible for me. All those lessons and all that jargon trash I told you before, just throw it away because that’s what I’m doing. And so I really don’t think I’d be a suitable teacher for you.”&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/86EoPYNZpbA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;And she said, “That’s &lt;em&gt;exactly&lt;/em&gt; why I want to come to you!”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Did you teach her?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: I did, yes. How could I not after such a cute comment as that? It’s genuinely how I felt! “I don’t know myself, and I don’t have the answers myself. How can I give an answer to someone who’s looking up to me expecting the answer?” I said, “Uuuuuuh, I don’t know.” I really thought I’d be wasting her time.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;It’s not a “complex” thing, it’s not an insecurity, I just feel that–yes, &lt;span class=&quot;important&quot;&gt;I know I have an access to music and I know that I have a special approach to music. I know that I see music differently. I know that I feel music very passionately. I know those things. I’m not going to be modest about those things and I know that I can put on a good performance. But, because I know for myself how much work I need to get to even do that and I know that some people can just go and pick up the instrument. They haven’t played for a year and they’re drunk and the magic happens. Or they just sit down and write something or improvise something and they have a piece done.&lt;/span&gt; Aleksey is more like that. He’s a faster writer than me because he doesn’t really think. He doesn’t think anyway.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Well, he is fruit.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: He is a fruitcake. I think that’s also a blessing in disguise. It’s his strength and his weakness that he doesn’t give much thought to thought and he’s more impulsive and just letting it in and just doing it and kind of hit and miss. There’s not that quality control. “It’s good enough.” Boom.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;He has that midas touch. He’ll write pieces that–and they’re pieces that I listen to and, look, he’s one of my best friends. I love him. I admire him hugely. I listen to a piece and I’m like, “Really? Yeah? Again? The same trick?” But then I go away and I’m humming it and it’s in my head. Well, that’s the midas touch.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I can objectively analyze it as much as I want and scrutinize and be critical, but at the end of the day, &lt;span class=&quot;important&quot;&gt;I’ve walked away and hours later, I’m humming it. It’s in my mind. In that sense, it must be a good piece of music. It must be an infectious piece of music, right?&lt;/span&gt; So, he has that. And I’m a lot more, like I said, I like to tweak things and sit. It’s not so easy for me to say, “Yeah! That’s done! Next!” It’s very hard for me to do that.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vi1JeWrIPeA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: The drummer &lt;a href=&quot;https://en.wikipedia.org/wiki/Bill_Bruford&quot;&gt;Bill Bruford &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; talks about this. He says some people are producers, some people are musicians. Some people can go into a studio and lay down an album in 2 hours. Some people, like &lt;a href=&quot;https://en.wikipedia.org/wiki/Peter_Gabriel&quot;&gt;Peter Gabriel &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, it takes 8 or 10 years to put out an album. It’s not that it’s bad, it’s great. But one guy can put out an album and another can put out 100 albums.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Right! I do sometimes write songs and, again, I don’t consider myself a natural born songwriter. I’m not your &lt;a href=&quot;https://en.wikipedia.org/wiki/Ira_Gershwin&quot;&gt;Ira &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/George_Gershwin&quot;&gt;George Gershwin &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. I’m not your &lt;a href=&quot;https://en.wikipedia.org/wiki/Irving_Berlin&quot;&gt;Irving Berlin &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, but I love the form of the art of song and I’ve written a few songs. But, phew, it’s tough. Really tough.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I must say I was a little bit heartened, but a friend of mine is Billy Joel. I said, “Man, it’s so hard to write a song. I just feel like giving up.” I even showed him a piece, and said, “I don’t know. Should I do this?” And he’s like, “What are you talking about, man? It’s like giving birth!” He’s one of those people that will just take forever and really struggle with music and lyrics. &lt;span class=&quot;important&quot;&gt;He’s considered one of the world’s greatest songwriters, right? If he can struggle, then I can too.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Back to being human, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: I guess I can identify more with Beethoven than Mozart. I love Mozart, of course I love Mozart. But the thing with Mozart is he just literally defecated a piece. Maybe that’s why a lot of his pieces were scatalogical.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Maybe that’s why there’s so much Mozart chocolate.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: That’s right! Mozart chocolate balls. But, Mozart, he really just thought it and it was done. A whole opera. Boom. With Mozart, there’s hardly any sketch. It’s like &lt;a href=&quot;https://en.wikipedia.org/wiki/Pablo_Picasso&quot;&gt;Picasso &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; drawing a perfect circle. That’s basically Mozart. The equivalent. Picasso didn’t have any sketches where he’s trying to draw a circle. He’d just go boom. Perfect circle. Straight line. He had that God-given talent.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Beethoven, on the other hand, sketches like this [gesticulates a huge pile of papers]. He would cross out stuff, try stuff, try different keys, and there’s like 32 or 64 versions of just 4 notes. Probably before he came to da-da-da-DAAAAA [5th symphony], he did da-da-da-DEEEE, da-da-doooo, da-DI-da-daaa, da-DAAA. It’s not that piece, but you actually see that. Sketches and sketches and sketches. &lt;span class=&quot;important&quot;&gt;And you feel the struggle. I guess maybe that’s why I identify more with him.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Okay, so… We’ve talked a lot.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yes! I’ve probably not answered one sigle question.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: No, this is great! But, you’ve got a CD with you.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yes!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And I want to make sure we talk about it because it’s great.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/64aeM7mtFRU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: It’s called &lt;a href=&quot;https://store.cdbaby.com/cd/igudesmanjoo1&quot;&gt;&lt;em&gt;You Just Have to Laugh&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. [Promotional zooming and smiling.]&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Where can someone procure said CD?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Umm, here. If you have that &lt;a href=&quot;https://en.wikipedia.org/wiki/Willy_Wonka&quot;&gt;Willy Wonka &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; ability if they can just reach into the camera and pick up the disc. It’s certainly available after our shows. It’s available in the one CD store that still exists in the world. Somewhere in Mesa, Arizona or something like that, because CD stores are relics. But, mostly &lt;a href=&quot;https://www.amazon.com/You-Just-Have-Laugh-Igudesman/dp/B01CRT7086&quot;&gt;ordered through Amazon &lt;i class=&quot;non-mwm fa fa-amazon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. You can also &lt;a href=&quot;https://itunes.apple.com/us/album/you-just-have-to-laugh-vol./id1152481360&quot;&gt;download it on iTunes &lt;i class=&quot;non-mwm fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us about the album. You’ve got a whole &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Malkovich&quot;&gt;Malkovich &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; thing going on.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yes, there’s some actor called John Malkovich on there and he plays our agent. The thing is, because we’re traditional guys, we grew up in the world of radio shows and LPs and concept albums, which now don’t really exist. We’ve been a duo officially for 14 years and only last year did we make this CD. It’s our first and only.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;When we were at the drawing board, we were thinking, “Okay, what should we do?” And we were looking at current trends, what do people do? The concept album doesn’t exist anymore, but we’ve always loved things like &lt;a href=&quot;https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band&quot;&gt;Sgt. Pepper’s &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and all those great concept albums from the 60s and 70s, but CDs… So we wrestled with all these conflicting things. At the end of the day, we said, “Why are we doing what we do? Is it to win a grammy?” [In promotional voice] We hope to win a grammy. [Back to normal] But, is that what we’re doing this for? No.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;We’re doing it because it’s our creative desire and if we’re lucky enough to do it, let’s just do what we love doing. If it’s a success, great. If not, then too bad. At least we’re doing something we believe in.&lt;/span&gt; So we said, “Screw it. Screw whether people care about the concept album. We’re just going to do our own thing.” So we said, “Let’s make an album that has a line, a kind of shape, and a drama to it.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;We had all these pieces in motion and thought, “Okay, how do we string these together?” Because that’s the thing. Our genre is many genres. We are classically trained, yet we love to mix rap, country and western, electronic, heavy metal, funk, 30s/40s songwriting styles. In this CD, there must be a ton of styles. Film music, cabaret. Just a lot. Even Latin. Something for the Latin grammys. The song &lt;em&gt;Uruguay&lt;/em&gt;. Latin grammy nomination.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, great, we want to do a concept album, but how do we make all these things tie together? To us, this is our world. If you’re a black or Asian kid, like I was growing up in Norwich full of white, anglosaxons, you don’t think twice. That’s your world. But, actually, &lt;span class=&quot;important&quot;&gt;if you look at it from another angle, it’s like, “Whoa, I’m the black sheep.” So, these pieces are like our kids. They belong here, but to somebody else, they’re like, “Why? This is already 27 different iTunes categories. The computer’s going to go nuts.”&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: You don’t fit in the box!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: We don’t fit in the box. That’s right. So, one way we thought was, “Okay, well let’s create this character of an agent.” We called this guy Agent Sir and he’s a kind of persoflage mockup of all the kinds of agents that we’ve come across with the kind of traits that basically in this business that &lt;span class=&quot;important&quot;&gt;a lot of these people out there have no idea about music. The people that are “up there.”&lt;/span&gt;&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9A95yzVgBTs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh yeah. They “make decisions.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: People who make decisions about who will play next season.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It’s finance.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: &lt;span class=&quot;important&quot;&gt;They have no idea about music! Which I could forgive &lt;em&gt;if&lt;/em&gt; they had a passion for it, but they don’t. They couldn’t care less.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Obviously with streaming services…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: They don’t give a shit. They don’t care, so they have no emotional connection to the job they’re supposed to be working on. Also, those who have some kind of influence over the artist, a lot of them really don’t give a shit about the artist. They’re just there to rape and profit from them. If they get burnt out, it doesn’t matter. They’ll just move on.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Find another one.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Find another one. Yep. This character’s not as evil, but let’s say that’s the background of our agent. We wanted someone to play this, so who better to ask than John Malkovich?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Who suffers from the same problems in &lt;em&gt;his&lt;/em&gt; industry.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Yes, of course. He’s and out-of-the-box guy. You’ll see him in &lt;em&gt;Transformers&lt;/em&gt;, but that’s not his thing. His thing is doing French theater and weird projects like this.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: &lt;em&gt;Being John Malkovich&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: &lt;em&gt;Being John Malkovich&lt;/em&gt;! That’s him. So, that’s where we’re kindred spirits and he’s always so gracious and supportive. He said, “Yeah, sure I’ll do this.” So, he’s kind of the string, the thread. He sends us off to record all the things. He sends us off to Istanbul because he wants a Turkish lamp. He’s like, “I’m flying into Paris. Got some friends over for some wine and cheese. So, maybe you could record some Chopin to go with our wine and cheese.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;He doesn’t care. “Whatever. Just do something while I’m flying around the world making money from you guys. Or not from you guys, but something else.” He even sends us to outer space for some reason. He sends us to Uranus.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I have to say it was one of the most fun things to get him to say “Yer-anus.” Not that he had any trouble doing that, but we were like little kids writing the script like, “He’s going to say that! He’s going to say that! And I’m sending it to yer-anus!” And he’s reading it! It’s kind of like a mixture of not greatest hits, but songs that people love, like &lt;em&gt;From Mozart with Love&lt;/em&gt;, which is a mashup of Mozart and James Bond. There’s our kind of version of the disco hit, &lt;em&gt;I Will Survive&lt;/em&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RvWsRt8w664?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;A lot of people say, “Oh, but does your stuff work on radio? How can you make a CD because your stuff is so visual?” So we said, “All right. Let’s prove it to you.” So not only did we create a kind of concept for it, but &lt;span class=&quot;important&quot;&gt;we also rethought every single number to see how it could translate into an audio format.&lt;/span&gt; I know you know quite a lot of our stuff, but you’ll see that a lot of things are different.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh I love the disc!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: We made a 3D space for the 2D listener.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And it’s fresh! If you watch the YouTube things, that’s one version of it, but then you get the CD, and you say, “Oh, I see how they twisted this.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Right. It’s totally different. They’re all totally different versions. So, please, &lt;em&gt;You Just Have to Laugh&lt;/em&gt; by Igudesman and Joo. The unmaking of, featuring John Malkovich.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Thank you so much, man. What a treat.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Shameless plugging.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It’s not shameless. That’s why we’re here!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: That &lt;em&gt;is&lt;/em&gt; why we’re here. It’s shameful. It’s full of no shame!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: All right, thanks a lot.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;HJ: Thank you so much. I feel like I didn’t answer one single question.&lt;/p&gt;
-
-&lt;p&gt;AG: Then it’s a good interview.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 May 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/igudesman-and-joo</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/igudesman-and-joo</guid>
-        
-        
-        <category>interview</category>
-        
-      </item>
-    
-<<<<<<< HEAD
-      <item>
-        <title>Quintuplets and Septuplets with Jan Zehrfeld</title>
-        <description>&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;audio-only-podcast&quot;&gt;Audio-Only (Podcast)&lt;/h2&gt;
-
-&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
-
-&lt;p&gt;&lt;audio src=&quot;&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or, &lt;a href=&quot;&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;some-background&quot;&gt;Some Background&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;/discover/panzerballett&quot;&gt;Panzerballett&lt;/a&gt; is one of my favorite bands in the world and I was lucky enough to meet up with the band’s creative genius, &lt;a href=&quot;/interview/jan-zehrfeld&quot;&gt;Jan Zehrfeld&lt;/a&gt;, at his home in Munich, Germany while traveling with my family. I’d met him in person once before at the Baked Potato in Los Angeles in 2013, but we didn’t really connect until I emailed him and asked him to &lt;a href=&quot;/interview/jan-zehrfeld&quot;&gt;do an interview in 2015&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Jan has written some incredibly complex compositions built entirely on &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuplet&quot;&gt;quintuplets and septuplets &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. We thought it’d be fun to talk in-depth about what he’s done in these songs and how they work. Enjoy!&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: This is Anthony with MakeWeirdMusic.com and I have with me–it’s a real honor to be with you–Jan Zehrfeld from Panzerballett. Jan, thank you so much for joining me and having me in your home.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Of course. Good to have you here.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Thank you very much. So today, what do you want to talk about?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: I want to talk about quintuplets and septuplets and how I started experimenting with songs, or parts, that are based just on quintuplet feeling and septuplet feeling.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: What are some of the songs from your catalog that use quintuplets and septuplets in an interesting and novel way?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Well, the first one is &lt;em&gt;Some Skunk Funk.&lt;/em&gt; The idea is the first song that is just quintuplet-based. Another one is &lt;em&gt;Mahna Mahna&lt;/em&gt;–&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: The Muppets song?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Yeah, the Muppets song. And then there is an original composition called &lt;em&gt;Euroblast.&lt;/em&gt; I didn’t know in the beginning how to start it all, so the good start was just modifying something you already know into somethig different. Like &lt;em&gt;Some Skunk Funk&lt;/em&gt;, modifying it in a way that it can fit into a quintuplet grid.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: For people who don’t have a music theory background or don’t do much beyond a triplet, what are quintuplets and septuplets and how are you using them?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: The quintuplet is basically a division of the beat into five even parts. It might be the beat in half notes and one half note can be divided into five eighth notes quintuplets notes or four quarter notes can be divided into five “notes.” Or, for instance, the way I used it was dividing one quarter note, which means four 16ths and instead of four 16ths, use five 16th quintuplets. Can you say it like that?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, you’re putting five notes in the space where there’s normally four notes. In standard music notation, you don’t have to use any “signage.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: You can divide the beat into three 8th note triplets, or into four 16ths, or into five quintuplet 16ths.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And a septuplet is seven instead of five.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Yeah, which is even harder. This already means that the more notes you have, the slower the tempo needs to be to perceive them so it doesn’t get muddy with notes. If you have septuplets and a fast tempo, you don’t notice a difference between septuplets and 32nd notes or sextuplets. And the fast tempo is just “brrrrrrrrrrrrrr.” For seven, it must be slower. And for quintuplets, it’s similar, but it might be faster because it’s only five notes. The thing is that for quintuplets, I didn’t have any other music to listen to that has only quintuplets and you usually learn music by hearing it and getting influenced. I didn’t have something like this, so I had to build my own stuff and it was hard.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Most people use quintuplets as a rhythmic device for melodies or very small phrases. If it’s used at all in a song, it’s typically used in a short span of time and used to articulate a phrase. But you’re using quintuplets and septuplets as a division of time.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Right.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And then you’re laying time signatures on top of those divisions, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Right.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Okay, so how does that work?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Well, for instance it might be a good idea to choose one time signature. For guitar, you might choose 4/4 or 3/4, but 3/4… I started with 3/4. Why? Because I wanted something that had 4x4 16ths, which is 16 notes, but I changed it into one bar of 3/4 with quintuplets, which is 15, which means I have to take out one note in some place. So, it resulted in a 3/4 bar.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: 3/4 using quintuplets, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Yeah. Like 1, 2, 3–DA ga di ga da, DA ga di ga da, DA ga di ga da. For guitar, it’s hard and tricky because usually in funk guitar, if you have 16 notes in a 4/4 bar, it’s [plays a funk rhythm part on guitar]. So, if you have 3/4, it’s [plays a funk rhythm part with the accented 1 beat on up and then down strokes].&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And so much of what we do musically is in two because we walk in 2, our hand goes up and down, so you really have to keep track of where you are.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Yeah, because you have five and it changes if you have a constant down/up movement. It changes whether it’s changing to an upstroke on the downbeat in the first measure and then an upstroke in the second measure. And that’s the tricky thing about it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How did you apply this to &lt;em&gt;Some Skunk Funk&lt;/em&gt;?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: I started with the melody. You have this [plays the melody] and I started to add just two notes [plays the melody with two new notes] in every phrase. It’s like talking a sen-sentence. So you have the same kind of phrases, but more notes in every phrase to get five out of it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How do you maintain the integrity if you’re adding notes?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: I don’t maintain it. I just make something that I can still sell as the melody.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So it’s close enough?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Close enough for jazz. Yeah.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How do you count your version of &lt;em&gt;Some Skunk Funk&lt;/em&gt;? Are you counting in quintuplets or are you counting in the downbeats?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: In the downbeats. In the beginning, I have a 4/4 with quintuplets, which means 20 notes. The original has 16 notes. Somewhere I have to add 4 notes to it somewhere and not at the same time, but really hide it. That’s how it started. And then there is the “groove” thing. I found what fit better was the 3/4 bar instead of the 4/4.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Why not?&lt;/p&gt;
-
-&lt;p&gt;JZ: I don’t know why. It just fit better and made more sense.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;[Demonstration of the quintuplet groove]&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: That’s for the funk groove. Then you have the bass line and I found it with 3, 2, 2, 3, which is close to a triplet feel, but it’s not. [Plays triplet version and quintuplet version.] With triplets, the first note is 33% whereas two quintuplets is 40%. It’s a little percent difference of something that’s already quite fast. But with what you call “feeling,” you have to listen closely and play precisely.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I have to say that when I first heard the song, I couldn’t figure it out and then I heard Sebastian’s drum parts, I clearly heard quintuplets and thought, “That sounds like quintuplets. But why would they make a whole song about quintuplets?” Not thinking about you and what you do, but just like, “No one does that, so it can’t be right.” But it &lt;em&gt;was&lt;/em&gt; right and it did turn out after two or three months of listening, I concluded it must be quintuplets and then you confirmed it for me.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Right.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How do you even approach this? You have a whole band living in this different time space for several minutes. How do you improvise over it? You solo over it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Yeah.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How do you even do that?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Soloing was already the next step. The first step took us about half a year to get through the head as a band without any improvising because we were not that far, but we wanted to play it. So the first shows we played the song, we played just the head of it. We said, “Hey, we’ve got something new.” You may not be that far, but your kids will love this, like in [&lt;em&gt;Back to the Future&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;](https://en.wikipedia.org/wiki/Back_to_the_Future]. And then we started adding the improvisational part, which is extra work, but fun work. Exhausting, but fun.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Okay, so how does the septuplet stuff go?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Well, the septuplets was a year practicing to a click like this. [&lt;em&gt;1&lt;/em&gt; 2 3 4 &lt;em&gt;5&lt;/em&gt; 6 7] It’s like a fast 7/8 bar.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: You spent a year doing this?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: I spent a year learning and improvising over this feeling and learning the riffs. Not with a straight click, but with this changing click. The difference between 4 and 3 is smaller as the tempo gets faster. And when I’m doing only 4 over this click, it’s shifting around all the time. [Plays a note every 4 beats over the 4+3 click.] And then stuff like this [improvises with pentatonic scale over the 4+3 click] doing groups of 4 and 3 notes over this whole thing. Well, stuff like this…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How does this prepare you for a band context when the whole band is playing? They’re not going to be playing 4+3 over and over again. That’s not how music works.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: No, no. I had to learn it again because the band was playing to a different click than this or the band didn’t practice to this click. The rest of the band practiced to a different click and this kind of threw me out again because I practiced it that long with this click. The band’s click was “DA goo goo goo goDA goo goo goo.” It’s counting 8th note septuplets. [Does a rhythmic difference between the clicks.] It’s a different feeling.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It sounds very Indian, carnatic rhythm-inspired kind of thing. I know you had &lt;a href=&quot;https://en.wikipedia.org/wiki/Trilok_Gurtu&quot;&gt;Trilok Gurtu &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; on your album. Were you going through some sort of Indian rhythm study phase? Has that been an important part of your rhythmic foundation?&lt;/p&gt;
-
-&lt;p&gt;JZ: The Indian rhythm? No. Not at all. Not for me, but I should go there one day. &lt;a href=&quot;/interview/mattias-eklundh&quot;&gt;Mattias Eklund&lt;/a&gt; told me I should go there to South India but I never had this as a primary influence. I just recognized it later. Probably my influences came from there, like Meshuggah. I guess they must be inspired by those kinds of rhythms. So I guess it was a secondary influence, not a primary influence.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Yeah, but this septuplet thing was really challenging. So, the first rhythm that was in &lt;em&gt;Typewriter II&lt;/em&gt; was this one. [Plays a rhythm over the 4+3 click.] Again you have the first beat starting with a downstroke and then the second measure’s first beat starting with an upstroke.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I think &lt;a href=&quot;/share/typewriter&quot;&gt;in my cover version of that song&lt;/a&gt;, I simplified it so I could just record it. It’s so complex. The more I’ve studied your music, the more I wonder, “How do you get a whole ensemble to play like that?” And I saw you live, which blew my mind.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Well, this part took us quite long to rehearse over and over in loops, really starting slowly. Collectively rehearsing this kind of groove I just played to a click and slowly building it up, rehearsing each part separately from each other and then putting it all together, we spent quite a lot of rehearsals… We don’t rehearse very much, but a big percentage of our rehearsal time was spent getting this right.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Where do you go with this? Is this just an exercise per song? Or is there a whole other world that’s opened up to you guys?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Both. It’s the consequence of starting with quintuplets, then going to septuplets. I don’t know where it’s going to lead, but with septuplets, there is just one example that we did that’s maybe just an exercise. But on the other hand, I think it opened up now that we’ve already rehearsed it so much, the next time we work in septuplets, it won’t take that long, I guess. Having improvised and played these parts a lot now, I think I can build something on top of it, maybe more interesting or sophisticated. I don’t know yet. I will try to go this way, of course.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s really, really cool. I guess we’ll just have to wait until the next Panzerballett album.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: Probably.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Thanks a lot, Jan. This was extremely insightful. You’re a madman.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: I know. I know. What a madman? Me?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JZ: No, I’m totally normal.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 May 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/learn/quintuplets-septuplets</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/quintuplets-septuplets</guid>
-        
-        
-        <category>learn</category>
-        
-      </item>
-    
-=======
->>>>>>> 32b8da5c57415dc0e34de209ec1adbfc3482f436
   </channel>
 </rss>

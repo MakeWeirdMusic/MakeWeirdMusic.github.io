@@ -1,0 +1,289 @@
+---
+layout: post
+title: Frank Pesci
+date:  2017-09-02 00:00:00
+artist: frank-pesci
+author: anthony-garone
+image: frank-pesci
+category: discover
+permalink: /discover/frank-pesci/
+oneliner: Expand your horizons into modern contemporary opera.
+seo_description: Frank Pesci is an American contemporary opera composer based in Germany.
+seo_keywords: contemporary opera, barbara hannigan, gyorgi ligeti
+front_page: yes
+draft: yes
+has_video: yes
+youtube_id: UftXn22rQ08
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3
+duration: "21:21" #audio length in min
+length: "25794867" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+Frank Pesci is a composer of "sophisticated music with surprising harmonies." He writes contemporary opera and is based in Cologne, Germany. Frank and I met at a small, English-speaking Anglican church in Cologne. We initially connected by laughing about the impossibility of sight-reading some old hymns during church.
+
+We started talking and it turns out he's a fan of [Frank Zappa](/discover/frank-zappa), [Steve Vai](/interview/steve-vai), [Igudesman and Joo](/interview/igudesman-and-joo), and lots of other musicians featured here on MWM. So, we hit it off pretty well. He lived walking distance from our vacation rental and we started getting our families together. He's a great guy with a great family.
+
+He's also quite an accomplished musician with dozens of compositions having been performed across two continents, including forty choral works and five operas.
+
+And his wife is also an accomplished singer. She is one of the leading sopranos in the modern opera scenes and is known for her stellar performances of Mozart's The Magic Flute.
+
+## Interview video
+
+{% include video.html vid=page.youtube_id %}
+
+## Interview Audio (Podcast)
+
+{% include audio.html podcast=page.file %}
+
+## Interview Transcription
+
+AG: This is Anthony with MakeWeirdMusic.com and today I am here in Cologne, Germany with Frank Pesci. Frank, thanks so much for joining us.
+{: .interviewer }
+
+FP: Thank you for having me.
+{: .interviewee }
+
+AG: So, why don’t you tell us who you are, what you do, and how you ended up doing what you do here? An American in Cologne.
+{: .interviewer }
+
+FP: Well, my name is Frank Pesci. I am an American composer based in and working in Germany. I am a composer primarily focused at the moment on opera, but I’ve written nearly 100 works for the concert stage, including pieces for chorus, solo works for instrumentalists and singers, works for large ensembles like orchestras, concert bands, and things like that. Plus chamber music and everything in between. But at the moment I’m focused primarily on opera.
+{: .interviewee }
+
+What I’m doing here in Germany is we’ve been living here in Germany, my wife and I, for four years. My wife is an opera singer and her career brought us here, first to Karlsruhe, which is a small town in the southwest (well, it’s a medium-sized town in the southwest) and for the last two years here in Cologne, where she’s a member of the ensemble with [Oper Köln](http://www.oper.koeln). So that’s what I’m doing here and I am working as a freelance professional composer.
+{: .interviewee }
+
+AG: I’m gonna go ask the kids to be quiet...
+{: .interviewer }
+
+FP: That’s okay... [Laughter]
+{: .interviewee }
+
+{% include video.html vid="SjTEDeSWPxg" %}
+
+[EDIT]
+
+AG: Through the magic of editing, we are back.
+{: .interviewer }
+
+FP: We are back. [Laughter]
+{: .interviewee }
+
+AG: Okay, so...
+{: .interviewer }
+
+FP: Okay, who I am, what I do, why I’m here. That’s where we wound up.
+{: .interviewee }
+
+AG: So tell us about the kind of opera music you perform here or anywhere else you’ve done it.
+{: .interviewer }
+
+FP: Well, as a performer, I have had really fabulous experiences here in Germany for the last four years working as a singer for opera chorus gigs as well as working as a supernumerary, which is essentially a human prop or a non-speaking acting role. They put me in a place, they need me to move a box, or I just do nothing, I just take up space. So that--in terms of performing--is what I’ve been doing for the last four years or so and that’s given me a great chance to look at opera from the other side, from outside of the pit and from the stage looking out.
+{: .interviewee }
+
+As far as the opera that I’m writing goes, I have been working--I work both sides of the Atlantic. I’ve been slowly trying to work my way into the scene particularly in Germany where there is a lot of new opera happening (but from an American composer, it makes it a little bit trickier). And then working contacts in the US, I have five operas that I’m pushing now that are either ready to go or at various stages of development looking for collaborative partners. It involves a lot of administrative time. [Laughs.] Just keeping things going on both sides of the Atlantic with people who are looking for different things, the artistic aesthetic is very different, and two different languages... yeah, it takes up almost as much time as writing the damn pieces.
+{: .interviewee }
+
+{% include video.html vid="eDWO-dDebAw" %}
+
+AG: Speaking of aesthetics, I think when people hear the word “opera,” they think of a large woman...
+{: .interviewer }
+
+FP: In a magnesium dress. Right.
+{: .interviewee }
+
+AG: Yeah, so can you spell out some of the modern aesthetics of opera and dispel some of the myths that people believe or misconceptions of opera?
+{: .interviewer }
+
+FP: I would love to. <span class="important">Opera is another way to tell a story.</span> It is the same type of storytelling that you get from reading a story, from watching a movie, from seeing a play or going to see a musical. It is just another way of getting the point across of something that is happening in somebody’s life. Where it veers into a new territory is that sometimes what these people on stage are feeling is bigger than can be expressed solely through words or acting. So, then music becomes an extra part of that.
+{: .interviewee }
+
+While there are lots of magnesium dress-wearing women in opera and while opera in general, in particular in the US, is struggling with a conception that it is not mainstream, that it is not for everybody, that it is snobby or snooty, or however you’d like to call it, or out of touch--<span class="important">if you first have an opportunity to take a look and understand what these people are going through on stage, it’s very similar to things people go through in their lives all the time. It is relevant, it is something that can be connected to.</span>
+{: .interviewee }
+
+The stories that you will get in opera are life and death and love and hatred and betrayal and anguish and all the things that you see just in your normal everyday experience. What’s happening now, especially in the United States, is that there is a very strong push for new works to have immediately-relevant content. Meaning: things that are affecting society, things that are affecting real people’s lives currently, whether that has to do with technology or it has to do with modern political things, or other things that are happening culturally that are relevant in people’s lives so that it can tap into what people are experiencing.
+{: .interviewee }
+
+{% include video.html vid="B6we7T0T7Fk" %}
+
+Now, musically we’re also seeing a shift in that the type of music that is being used to write opera--the field is wide open. <span class="important">All kinds of musical styles are being incorporated into modern operatic contexts, some to good effect, some not so much.</span> But the attitude is that if we’re going to speak to people using this medium in contemporary living, then we need to make some adjustments artistically, musically, thematically in order to draw those people in, which I’m all for.
+{: .interviewee }
+
+In Germany and Europe in general, it’s a completely different thing because the aesthetic is very difficult and new music can be very difficult to hear. But they’ve cultivated an audience for that kind of thing. It’s not exactly where my aesthetic lies [laughs] so we’re going to see how that works out. <span class="important">Opera is an ever-changing animal and it actually is far more adaptable than I think people realize it is.</span>
+{: .interviewee }
+
+AG: Now you and I first connected talking about Steve Vai and Frank Zappa.
+{: .interviewer }
+
+FP: Yes!
+{: .interviewee }
+
+AG: You were kind of a guitar nerd.
+{: .interviewer }
+
+FP: I was totally a guitar nerd. I taught myself how to play off of Metallica albums. [Laughs.]
+{: .interviewee }
+
+AG: Tell us about the transition--I’m assuming at that point you were also not an opera composer.
+{: .interviewer }
+
+FP: No I was not.
+{: .interviewee }
+
+AG: How do you go from guitar heroes to modern opera? You didn’t study opera in music school, right?
+{: .interviewer }
+
+FP: No, no I didn’t. I actually have a jazz degree and I come from a musical family. Unwittingly, my father probably--obviously without knowing it--instilled in me what I realize and recognize now are my two pillars of my musical understanding: jazz is one and opera is another. He was a jazz player when he was a kid and then he was the middle-aged man sitting in his recliner sobbing along with the radio broadcast from the Met. So, I got bombarded with all that all the time.
+{: .interviewee }
+
+{% include video.html vid="Hi89ySWq--Y" %}
+
+<span class="important">I think my turn to guitar was to be cool because that’s everybody’s initial reason to play the guitar</span>, but also it was the music. I was listening to rock, I was listening to heavy metal, and I wanted to take part in that. Very musical family--we all sang, we all played instruments and then guitar became one of my central instruments for a while. That went through years of all kinds of stuff: I was doing rock, I was doing metal, I was doing lonely singer-songwriter coffee house gigs, I was playing jazz, I was in a funk fusion band for a while that toured when I was in college in the Southeast, but I was also singing in choirs and I was also studying classical music.
+{: .interviewee }
+
+Then when I got to school to do my jazz degree, I was studying composition as well--like, “legit” composition in the classical vein, in addition to jazz composition. So it all just kind of morphed into one big musical experience and all of that continues to come out in my writing now. So in terms of how I got from there to opera, opera was sort of drilled into my DNA and then into my ears by my dad and then that was just something I felt like, <span class="important">“If I can be the best composer that I can be, what would that turn out to be?” For me, it was writing opera.<span> So, that was always the long-term goal.
+{: .interviewee }
+
+At some point, I wanted to be the opera composer, I wanted to be the guy writing new works and is making those things happen. How I got there was a little circuitous, but the totality of my musical experience all plays into that now, including the jazz and the funk and the metal and all the guitar nonsense that I went through.
+{: .interviewee }
+
+AG: Yeah, so on your website you have a selection of pieces you’ve written. What’s the website? [FrankPesci.com](http://frankpesci.com)?
+{: .interviewer }
+
+FP: FrankPesci.com.
+{: .interviewee }
+
+AG: Cool.
+{: .interviewer }
+
+FP: There’s a lot of examples of what I’ve written there.
+{: .interviewee }
+
+AG: Yeah, so what struck me was your use of what sounded more like modern-day jazz. There’s kind of atonality going on in the music, but with opera singers on top of it. So, can you talk about how those influences outside of opera inform your composition and is this unique to what you’re doing or is this what you’re seeing in the opera scene today?
+{: .interviewer }
+
+FP: Well, I am seeing a lot of that in the American opera scene. I am seeing a lot of people who have disparate influences and then utilizing those influences to put something on the operatic stage. For me, I have been specifically trying to blend--I still don’t know what the best word is to say it--but to synthesize my jazz conceptions and my operatic sensibility. Just saying it out loud sounds like there’s no way in hell that’s going to work, but not exactly true.
+{: .interviewee }
+
+It’s been done before in terms of jazz and classical music. There are a couple of operas about jazz subjects that are floating around at the moment. One by [Terence Blanchard](http://www.terenceblanchard.com/) who’s a famous jazz trumpeter and there’s another one--there’s an opera going around about [Charlie Parker](https://en.wikipedia.org/wiki/Charlie_Parker). So it’s not unheard of, but for me what it is is to take these two things that are a big part of my musical understanding and then to make something that is both and neither.
+{: .interviewee }
+
+{% include video.html vid="0WTRzqCxSx0" %}
+
+So, aspects of it, like some of the harmonic things that you’d heard on my website and are readily there, some of the freer flowing harmonic conceptions of jazz are things that I latch on to. Also the way that players in a jazz setting will converse with each other musically and the dialogue that happens there, which then turns into a counterpoint--that is something that I freely draw from when I’m writing anything.
+{: .interviewee }
+
+Also, just from a practical standpoint, <span class="important">most of my compositions begin as improvisations, which is directly out of my jazz upbringing.</span> And then doing so in a way that still remains appropriate for the type of singers that I’m singing for. So, yes, you might have a jazz thing that is happening, or something that is definitely jazz influenced, but as you said, having an opera singer floating on top of it, you still have to keep in mind that these are people that were trained to sing a particular way and then to trying find a way to utilize that to make something new, instead of “Now I’m going to jam the opera singer into the jazz box and we’ll see what comes out on the other side.” It’s a balance and it’s a dance that you have to play, I find, but it’s one that I’ve been having fun with.
+{: .interviewee }
+
+AG: Are singers looking for this new kind of material and liking it? Are they pursuing that and do you find audiences doing the same? Looking for new opera?
+{: .interviewer }
+
+FP: Well, there’s been an explosion of new opera in the US and there’s a steady stream of new opera happening in Europe. I think singers who I know--and I’m also married to one--will appreciate new music and will be able to dig into new opera, especially if it’s written for singers in mind. This is one of the things that I have the hardest problem with: there is an explosion of new opera from people who have not written opera before or are just getting into it, just getting into writing opera.
+{: .interviewee }
+
+[NOTE: Here's a clip of Frank's wife, Emily Hindrichs, singing the famous "Vengeance" coloratura aria with the Seattle Opera.]
+
+{% include video.html vid="0DkiekeKwvE" %}
+
+There’s a new one that’s coming out this season in Santa Fe [written about Steve Jobs](http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera). It’s going to make a big splash and it’s by [Mason Bates](https://en.wikipedia.org/wiki/Mason_Bates), who is a really well known composer and has been doing fabulous things, but this is his first opera and it is on a very large stage. So there obviously is an appetite for it, both from people who are programming it, the singers who are participating in it, and the public. So, that is encouraging to me, but also from being a singer and knowing singers and also knowing what I’m trying to do aesthetically, <span class="important">it still has to be singable</span>.
+{: .interviewee }
+
+It’s still at the base level, for me, has to be opera and has to be operatic. So, I don’t know if that answers the question particularly, but it’s always something that’s in the back of my mind, for sure. I’m always thinking about from the micro level of, “Is what I’m writing idiomatic for the type of people who I want to have sing it?” And then for the bigger level of, “How is this going to play? Will it engage audiences?” There’s a lot to think about all the time.
+{: .interviewee }
+
+AG: What are some of those idiomatic aspects or techniques that would differentiate something that you might write for jazz versus something you would write for an opera singer?
+{: .interviewer }
+
+FP: <span class="important">If you’re writing for jazz--if you’re writing for anything, you need to have a great idea of what the instruments you’re writing for can do.</span> This is one of these discussions that happens in dorky composer circles about how much you use your laptop to compose and do you play back the midi stuff because when the midi plays it back, the midi can play anything. It sounds like a clarinet is doing it, mostly, but can an actual clarinet player do those kinds of things?
+{: .interviewee }
+
+That is so important when dealing with singers. And also knowing that some singers can’t do--some sopranos can’t do things that other sopranos can do. There are different voice types, even within particular these broad ranges. And then there are things that classically trained singers and performers can’t, or won’t, or don’t want to do that, for jazz players, comes normally like improvisation or some stylistic things that they may not be comfortable with (in terms of rhythmically stylistic things).
+{: .interviewee }
+
+So, it’s my job then to be able to find how to write things in such a way so that people who, with the type of classical training that I am familiar with, will be able to do what’s on the page and get across exactly the feeling, and the rhythmic precision, and the style of it just by reading what’s off the page. It’s just knowing who you’re dealing with and knowing the type of people that you’re dealing with and knowing that you have to be careful sometimes what you ask for because you might get it!
+{: .interviewee }
+
+AG: [I interviewed Paul Hanson](/interview/paul-hanson), who is a bassoonist, and he talked about the dearth of improvisation education for non-jazz musicians, particularly in the classical world. He plays in chamber orchestras or whatever with the bassoon. But once he starts improvising, people are like, “What are you doing?” So, as somebody who has a jazz background and writes songs through improvisation, what are some of the ways you’ve been able to bridge the gap between being an improviser and asking ensembles to get out of the box?
+{: .interviewer }
+
+FP: There are ways that you can do it. Now first of all <span class="important">I do proudly revel in making instrumentalists uncomfortable and this is one of the ways I do that. The other is when I try to make them sing, which they really don’t want to do.</span> But sometimes I just feel like I have to. For me, it is--again, it’s going back to the way I know that these folks are trained and you’re exactly right (and he was exactly right) in the observation also in that improvising education just doesn’t exist for classical players.
+{: .interviewee }
+
+{% include video.html vid="Dsmnr6JLWzQ" %}
+
+I don’t want to go super wide with it, but I feel like there’s a huge lack of improvisatory cognitive skills that are simply not taught. For me, verbal improvisation has been something I’ve done my whole life because I’m one of six kids and we all talk too much, so you always have to figure out how you can get yourself into the conversation better. From a musical perspective, even if it’s something like I will tell an instrumentalist, “These are the given pitches that you can come up with any rhythm you want, any speed you want, for this length of time.” So if things are properly measured out and doled out, “This is what I need you to do over this period of time,” that’s much more palatable and digestible.
+{: .interviewee }
+
+The thing with improvisation, even in jazz improvisation, is that unless you are doing free improvisation, unless you’re [Ornette Coleman](https://en.wikipedia.org/wiki/Ornette_Coleman) or somebody from that school, there are rules that you are following. There are constraints that you are having to work within. And then what has to be done is that given the thing that I want to do or that I want players or singers to do, how can I write in such a way as to make sure they are aware it’s not a free-for-all?
+{: .interviewee }
+
+“There are specific things I need you to do, but I am going to allow you some mobility.” Or, I just write it so that it sounds like they’re improvising. I’ve done that, too. I’ve been in situations where I was writing a blues--there’s one piece that I have, or one of the movements in this multi-movement work for a six-piece chamber ensemble that’s a blues. It is a blues in form and it is a blues the way the harmonies relate to each other. And then we’re going to take a chorus and the flute’s going to play a solo and I had to write it in such a way that it sounds like the flautist was improvising and it would sound like to the audience that the flautist was improvising, but they were simply playing exactly what’s on the page. I know it will come across that way, but that’s the whole thing. Combining the jazz and classical idioms is, “How can you make the one sound like the other, but not lose its quality, its initial amount of integrity?” So, that’s what I do.
+{: .interviewee }
+
+AG: For people who visiting this site know nothing about contemporary opera, who are some of the heroes that you would say, “Go check these people out?” Whether performers like Barbara Hannigan or composers? Where would you suggest people start if they’re looking to explore the genre?
+{: .interviewer }
+
+FP: Well you mentioned [Barbara Hannigan](http://en.wikipedia.org/wiki/Barbara_Hannigan). She is somebody who is working constantly and a large amount of what she does vocally is contemporary music or recent contemporary music, within the last 30-50 years. You could easily find her on YouTube and hear some crazy shit that she does.
+{: .interviewee }
+
+AG: Her stuff with [Ligeti’s](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti)...
+{: .interviewer }
+
+{% include video.html vid="f-p1utKFxCg" %}
+
+FP: [Mysteries of the Macabre](https://en.wikipedia.org/wiki/Le_Grand_Macabre)--yeah, that’s some pretty amazing stuff. Now in terms of modern opera, depending upon where you are in the US, you can find your local opera company and you can see what they’re doing and more often than not, they will have one contemporary piece depending upon their mission. If they’re a smaller company and they really just cater to doing the classics and the rep, then they’re going to be doing that.
+{: .interviewee }
+
+But if you are anywhere in any city and look for small, plucky, shoestring non-profit opera companies that do shows in bars, you can pretty much bet that they’re going to be doing something contemporary and it’s going to be fun. Getting into the bigger thing, there are a lot of major events that are happening, like the one that we talked about in Santa Fe with the Steve Jobs opera.
+{: .interviewee }
+
+{% include video.html vid="_IuI9z3LUIM" %}
+
+There are a bunch of new works planned in the coming season. It’s more than I can count, but a good resource would be some place like [Opera America](https://en.wikipedia.org/wiki/Opera_America), which is like the national trade association for professionals who work in opera and they will have a listing of everything that’s going on, anywhere. Just like I say with anybody who hasn’t listened to any opera or any classical music, you could do one of two things: you could find something that’s very popular and test your ability to go with that--something very popular opera-wise like [La Boheme](https://en.wikipedia.org/wiki/La_boh%C3%A8me) or [The Magic Flute](https://en.wikipedia.org/wiki/The_Magic_Flute) or something like that--
+{: .interviewee }
+
+[A little girl starts crying in the background.]
+
+I don’t know if that’s yours or mine.
+{: .interviewee }
+
+AG: That’s my daughter.
+{: .interviewer }
+
+FP: Oh, it’s yours! [Laughs] Or, just take a chance and go to something new. You may hate it, but at least you’ll know. Or if you don’t want to waste any money on it, there are so many full, complete operas on YouTube that you could spend days and days and days and days watching free opera and just letting it roll. <span class="important">The gateway to new opera is being open to opera.</span> The gateway to opera is just by being open to new things, if it’s something that you don’t know. Don’t worry about what to wear, don’t worry about the old people with money who are scowling at you. Don’t worry about any of that crap because it doesn’t actually have anything to do with what happens on stage.
+{: .interviewee }
+
+AG: [Just like Hyung-ki Joo said](/interview/igudesman-and-joo). Don’t be square.
+{: .interviewer }
+
+FP: <span class="important">Don’t be square! Have some fun with it!</span> And there are pieces out there that you can have fun with. And there are new pieces that are being written that are fun, that are supposed to be fun. All you have to do is take a little bit of a chance and look around at what’s going on in your neighborhood and you’re going to find something.
+{: .interviewee }
+
+AG: Alright, thanks a lot Frank. I really appreciate your time.
+{: .interviewer }
+
+FP: Thank you so much. I appreciate it.
+{: .interviewee }
+
+AG: And people who want to check out your stuff?
+{: .interviewer }
+
+FP: FrankPesci.com.
+{: .interviewee }
+
+AG: Is it on any of the streaming services?
+{: .interviewer }
+
+FP: Yeah. I’ve got a small YouTube channel, I’m all over SoundCloud both under my name and also under my self-publishing name, which is Ichthus Music Press. Yeah, I’m out there.
+{: .interviewee }
+
+AG: All right. Thanks a lot Frank.
+{: .interviewer }
+
+FP: I appreciate it.
+{: .interviewee }
+
+AG: No problem. Cool.
+{: .interviewer }
