@@ -21,14 +21,16 @@ explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 ---
 
+## Buy the EVO Terminator Kit!
+
+[Get yourself a Mad Hatter Guitar Products EVO Terminator  Kit&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/products/evo), the same as what we put into EVO.
+{: .ad }
+
 ## Video
 
 [Here's a video&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/watch?v=LETPKHwA7AY) about the installation of the Mad Hatter SVST-HSH Terminator Kit in EVO:
 
 {% include video.html vid=page.youtube_id %}
-
-[You should buy yourself a Mad Hatter Guitar Products Terminator SVST-HSH Kit&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/collections/terminator-single-volume-kits/products/copy-of-single-volume-single-tone-complete-kit-with-a-5-way-selector-switch-for-humbucker-single-humbucker-svst-hsh), the same as what we put into EVO.
-{: .ad }
 
 ## Podcast Audio
 
