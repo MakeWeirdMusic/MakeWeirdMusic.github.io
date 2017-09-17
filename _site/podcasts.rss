@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2017 Make Weird Music</copyright>
-		<pubDate>Tue, 12 Sep 2017 21:02:05 -0700</pubDate>
-		<lastBuildDate>Tue, 12 Sep 2017 21:02:05 -0700</lastBuildDate>
+		<pubDate>Sat, 16 Sep 2017 19:32:47 -0700</pubDate>
+		<lastBuildDate>Sat, 16 Sep 2017 19:32:47 -0700</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -30,6 +30,25 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
+			<item>
+				<title>Learn: Tuplets with Jan Zehrfeld</title>
+				<link>http://localhost:4000/learn/tuplets</link>
+				<pubDate>Fri, 15 Sep 2017 17:00:00 -0700</pubDate>
+				<description>Jan Zehrfeld of Panzerballett shares his expertise in tuplets and polyrhythms.</description>
+				<guid isPermaLink="true">http://localhost:4000/learn/tuplets</guid>
+				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/tuplets/tuplets-jan-zehrfeld.mp3" length="44410586" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Learn: Tuplets with Jan Zehrfeld by Make Weird Music</itunes:subtitle>
+				<itunes:summary>Jan Zehrfeld of Panzerballett shares his expertise in tuplets and polyrhythms.</itunes:summary>
+				<itunes:duration>36:46</itunes:duration>
+				<itunes:keywords>panzerballett, sebastian lanser, tuplets, polyrhythms, konnakol</itunes:keywords>
+				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/panzerballett/jan-zehrfeld.png" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+			
 		
 			
 			<item>

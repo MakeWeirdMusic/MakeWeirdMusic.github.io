@@ -1,0 +1,270 @@
+---
+layout: post
+title: Tuplets with Jan Zehrfeld
+date: 2017-09-16 00:00:00
+artist: panzerballett
+author: anthony-garone
+image: jan-zehrfeld
+category: learn
+permalink: /learn/tuplets
+redirect_from:
+ - /learn/jan-zehrfeld/tuplets
+oneliner: Jan Zehrfeld shares his tuplet madness with Panzerballett songs.
+seo_description: Jan Zehrfeld of Panzerballett shares his expertise in tuplets and polyrhythms.
+seo_keywords: panzerballett, sebastian lanser, tuplets, polyrhythms, konnakol
+draft: no
+front_page: yes
+has_video: yes
+youtube_id: 91zrIPUJRtg
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/tuplets/tuplets-jan-zehrfeld.mp3
+duration: "36:46" #audio length in min
+length: "44410586" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+## Why Tuplets?
+
+[Panzerballett](/discover/panzerballett) is one of the most amazing bands on earth right now. [Jan Zehrfeld](/interview/jan-zehrfeld) is the bandleader and composer. He uses the band as an outlet to channel aggression and technical complexity. [Check out our extensive interview](/interview/jan-zehrfeld) for more on Panzerballett.
+
+Several of Panzerballett's songs are structured entirely on tuplets, which makes them completely unique and uncountable for most musicians. Jan and his band have spent years working in these song-worlds where every beat is divisible by 5, 7, or 9 instead of 2, 4, or 8 like we're all typically taught. Jan spent some time talking and playing through some examples to illustrate how this all works.
+
+**[Purchase Panzerballett's music on Apple Music&nbsp;<i class="non-mwm fa fa-apple" aria-hidden="true"></i>](https://itunes.apple.com/us/artist/panzerballett/id218184264)**
+{: .ad }
+
+## Video
+
+Here is the video of our interview of Jan Zehrfeld of Panzerballett talking about tuplets.
+
+{% include video.html vid=page.youtube_id %}
+
+## Interview Transcript
+
+AG: This is Anthony with MakeWeirdMusic.com and we are in the rehearsal space of Jan Zehrfeld of Panzerballett. We want to talk today about [tuplets&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Tuplet) because Jan is a bit of a specialist in tuplets. So, Jan, for people who have no background in music theory, can you tell us some basics about tuplets?
+{: .interviewer }
+
+JZ: Of course. Basically, “tuplets” means that you have a different amount of notes above other notes. <span class="important">If you have two notes and instead of that, in the equal space you play three notes, you have triplets. If in the same space, you play five notes, you have quintuplets. Six notes, you have sextuplets. Seven notes, you have septuplets.</span> So, the most common thing for every musician is learning triplets.
+{: .interviewee }
+
+I think this is already a step I remember, learning triplets. It’s not as easy for everyone, but in the end, I think most musicians really get it. On triplets, there is so much based on triplets, so many musical styles. You have shuffle, you have the blues, swing. You have the polka. There’s a lot. And then there are, how do you say? We say “Donkey bridge.” We have some syllables to help you pronounce it.
+{: .interviewee }
+
+AG: I learned [triplets] with “trip-pull-it, trip-pull-it, trip-pull-it, trip-pull-it.” But then for quintuplets, it was “hippopotamus.” “Hip-po-pot-a-mus, hip-po-pot-a-mus, hip-po-pot-a-mus, hip-po-pot-a-mus.”
+{: .interviewer }
+
+JZ: Okay, in German, we have “fick-eh-dee-tit-teh.” I think it’s the best example. The Indians, like the “ta-ka-ti-na” [Konnakol&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Konnakol) stuff. “Ta-ka-ti-na-ta, ta-ka-ti-na-ta, ta-ka-ti-na-ta, ta-ka-ti-na-ta.” <span class="important">I think the Indian way is maybe the most effective way to pronounce syllables like musical rhythm. It’s the most direct way to actually get close to rhythm.</span>
+{: .interviewee }
+
+{% include video.html vid="E9neoYEQt60" %}
+
+This Konnakol thing the Indians do. In German, you count, “Eins zwei drei vier fünf, eins zwei drei vier fünf, eins zwei drei vier fünf, [garbled noise].” You just get tired. Your jaw gets numb, I think. Yeah, so I think the same way as a kid, I learned triplets. The same thing applied one day to quintuplets. Also to septuplets. <span class="important">I think in the beginning, as anything that is unusual, it’s hard to do but the step is not as far as you might think. You just have to keep doing it.</span> The step from eighth notes to triplets is not much smaller than the step from sixteenth notes to quintuplets.
+{: .interviewee }
+
+AG: Now, a lot of composers, or a lot of songs that I played in jazz band or something like that, will have a phrase with triplets or a phrase with quintuplets. But you’ve kind of explored a whole new world of possibilities. Can you talk about, for Panzerballett, where did you start and how did you get into this world of living in quintuplets and septuplets?
+{: .interviewer }
+
+JZ: Well, the start was in 2009, I wrote this arrangement of [Time of my Life&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/(I%27ve_Had)_The_Time_of_My_Life), and there was this one part--
+{: .interviewee }
+
+AG: The [Dirty Dancing&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Dirty_Dancing) song?
+{: .interviewer }
+
+JZ: The Dirty Dancing song, yeah. And I don’t remember if it even maybe was Sebastian [Lanser, drummer] who came up with the idea. I just had really something quite simple just after the saxophone solo, a break or something. It was kind of simple in comparison to what Sebastian came up with after that. It was a great idea. So, let me perform it for you.
+
+[Time of my Life demo]
+
+{% include video.html vid="1w2QfIi2xlQ" %}
+
+JZ: Now we have the groups--we perform quintuplets. The groups are getting smaller. We have groups of five quintuplets, and then of four quintuplets, and then of three quintuplets, which causes a polyrhythm. You call it “five against four” and then “five against three.” Meaning, “five against four” it means that for every quintuplet, you have groupings of every fourth quintuplet. You have groupings of every fourth quintuplet. “Five against three means” every third quintuplet, like “x against y” means “every y-th division of the beat by x.” You can say, “this is the donkey bridge.”
+{: .interviewee }
+
+AG: So in the “hippopotamus,” you’re doing “hip-po-puh hip-po-puh hip-po-puh” over “hip-po-pot-a-mus?”
+{: .interviewer }
+
+JZ: Right.
+{: .interviewee }
+
+AG: Okay, so you’re just subdividing the quintuplets into groups and then building phrases on top of those?
+{: .interviewer }
+
+JZ: Yeah, and you have the hippopotamus... You have “hip-po-puh... TAH-mus?” What is it again?
+{: .interviewee }
+
+AG: I don’t know. [Laughs]
+{: .interviewer }
+
+JZ: “Hip-po-po-TAH-mus, hip-PO-po-ta-MUS, hip-po-PO-tah-mus.” That’s every third one.
+{: .interviewee }
+
+AG: Ah, so you’re using accents on every x-th or every y-th quintuplet?
+{: .interviewer }
+
+JZ: Right. Exactly. Let me show you. It’s like the grouping of five would be “tak-a-ti-na-ta tak-a-ti-na-ta tak-a-ti-na-ta tak-a-ti-na-ta.” If you group those quintuplets in four, it’s like “tak-a-ti-NA-ta tak-a-TI-na-ta tak-A-ti-na-ta TAK-a-ti-na-TA.” And three would be “TAK-a-ti-NA-ta tak-A-ti-na-TA tak-a-TI-na-ta.”
+{: .interviewee }
+
+AG: So, every five “tak-a-ti” it ends up back on the one, right?
+{: .interviewer }
+
+JZ: Exactly. Yeah, and then this was kind of the start. It took us very long to really nail this down as a band and to really learn these groupings because they sound so unusual. And then, after a lot of practice, I think it was Alexander [Panzerballett's saxophonist] who mentioned, <span class="important">“Well, why don’t we do a whole song of quintuplets? This would be a challenge, right?”</span> I thought, “Okay, a whole song with this stuff? This must be very hard to accomplish.”
+{: .interviewee }
+
+{% include video.html vid="uGVYiU407cU" %}
+
+I didn’t have any examples of it, of quintuplet-based songs, and I didn’t know where to start. So, I chose to rearrange something that is very known and already very dense and 16th note-based that I rewrote in quintuplets. It was [*Some Skunk Funk*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Some_Skunk_Funk) by the [Brecker Brothers&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Brecker_Brothers). I will show you the example, but before this, I would like to show you other examples that are maybe a little easier to get. After *Some Skunk Funk*, I wrote this track *Euroblast*, the first original track with quintuplets. It has some easier-to-grasp stuff going on. Let me show you the first riff of *Euroblast*.
+{: .interviewee }
+
+[*Euroblast* riff example]
+
+JZ: Okay, so here we have “da-ka-da-da da-ka-da-da da-ka-da-da ohm,” which is the main riff. Then in the end, again has this four against five. Then again, I got another idea, “What else could I do?” It was not having these constant groupings, like always four notes. What if I changed the groupings of notes so it doesn’t necessarily have a polyrhythm in it, but just a fucked up rhythm. [Laughs.] So, I wrote the following riff. I’ll show you.
+
+[*Euroblast* riff example]
+
+JZ: Okay, so now here we have six, five, four, and three following onto each other and then expanding again. This was another big challenge, but <span class="important">the more different combinations you try, the more you will get to “feel” the subdivisions.</span> There are many possibilities. The polyrhythm is maybe a great start, but then you find you cannot always play polyrhythms, so it’s just a tool to get some nice ideas.
+{: .interviewee }
+
+{% include video.html vid="sCqPbWeecbA" %}
+
+AG: Before you go further, this is all fine and good for a guy playing in a rehearsal space. If you’re an individual, it’s one thing. But to get a whole band to play this stuff... How do you get five guys to all be playing in time in quintuplets when there are different people playing different subdivisions? What’s the practice process like? And since you all don’t live in the same city, how did you learn the pieces before coming together?
+{: .interviewer }
+
+JZ: In the beginning, something like *Skunk Funk* took us very long. The first thing is I do this pre-production where everyone gets a midi file. I play some guitars to it so it sounds kind of nice to practice to, but basically it’s to midi drums and everyone practices his part. The thing is, if you meet for the first time and there is not a midi file playing back, but others have practiced maybe to the same midi file, which is really nailing it down, but if not everyone is nailing it down from himself, then you have this kind of “not yet”--like it’s not glued together yet.
+{: .interviewee }
+
+It’s like a loose construct. The heads are not in sync yet. So we had to--you don’t have something to really rely on because it’s still a little bit shaky. Everyone has a different perception. One is slightly before the other one, one is slightly behind it, and it sums up to something really shaky in the beginning.
+{: .interviewee }
+
+<span class="important">So we started practicing really slow and it took us a half a year of practicing several times a month until we got through the head of *Skunk Funk*.</span> I remember doing rehearsals of six hours just to play one part of something. Beginning really slow and looping one bar or two bars and then looping four bars. And then the next day, we practice the next part and one day we get together and practice the transitions between the parts, which is another challenge.
+{: .interviewee }
+
+AG: When did it become music? It’s one thing to play it technically correct, but then you have to play it musically.
+{: .interviewer }
+
+JZ: <span class="important">There was not a moment when we said, “Okay, now it’s music,” because it’s gradual.</span> The rehearsals, we started to play it correctly together, but live is something different. You have to--always, a performance is only 80% of what you can actually play. It’s always like you have a bad monitor situation. It was gradual. Just playing the head. It’s not improvisation yet, right?
+{: .interviewee }
+
+So, I think the biggest step was when we got through the head and then started adding the improvisational parts. <span class="important">You start listening in a different way to the music if you start improvising on it. You have to get even deeper into it to be able to accomplish it.</span> So, I think then it started after maybe two or three years, you could see the horizon, like, “Okay, now it’s starting to become really musical.” Yet, not there yet after eight years, but I think it’s gotten much better.
+{: .interviewee }
+
+{% include video.html vid="t-u2UlTnZyo" %}
+
+AG: I remember you saying something about everyone practicing to different clicks so you could get a sense of different feels for those groupings.
+{: .interviewer }
+
+JZ: Yeah, this was later on with the septuplets.
+{: .interviewee }
+
+AG: Oh, septuplets. That’s right.
+{: .interviewer }
+
+JZ: We’ll get to that later. But, let me show you the example of *Skunk Funk*. The rearrangement of it was kind of a trial and error thing because it’s based on the original, but I had to insert notes to make it--in the original, you have 4/4 with 16th notes, so you have 16 notes in a bar. I wanted to make it similar, as close as possible, but to have it in the quintuplet feel. <span class="important">So you have to decide: do you take a 3/4 bar with quintuplets, so you have 15 instead of 16 per bar, or do you choose 4/4, but then you have 20 quintuplets?</span> With 15, you have to cut off one somewhere and with 20, you have to add 4 notes somewhere. This was kind of the start of how I rearranged this.
+
+[*Skunk Funk* example]
+
+JZ: Then I have another example.
+{: .interviewee }
+
+[Another *Skunk Funk* example]
+
+JZ: And so on.
+{: .interviewee }
+
+AG: So, you decided to add notes to the melody.
+{: .interviewer }
+
+JZ: Yeah, in some places I added notes.
+{: .interviewee }
+
+AG: To fit 20 notes in the space of 16, you’ve gotta add notes. How do you maintain the integrity of the original melody if you’re adding notes?
+{: .interviewer }
+
+JZ: That’s a good question. <span class="important">I don’t maintain the integrity, but I’m close to it.</span> It’s just like in *Skunk Funk*, something I did was repeating some “syllables.” It’s like repeating syllables in a sentence. If you say, “Make America-ca great ag-gai-gain.” In the original *Skunk Funk*, you have, [sings it in 4/4] and then with quintuplets, [sings it in 4/4 with quintuplets.] Make America-ca great agai-gain.
+{: .interviewee }
+
+AG: All right, you guys lived in quintuplets for quite some time and then you decided to move on.
+{: .interviewer }
+
+JZ: Right.
+{: .interviewee }
+
+AG: Not move on as in “leave,” but to add to your capabilities.
+{: .interviewer }
+
+JZ: Yeah, so six years later, it was still very hard (the quintuplet thing), but as soon as it gets somehow manageable, it already feels like it’s too easy. It has to be challenging. You have to be on the limit, you have to explore, you have to reach out to the limit to get further. Yeah, the next step was septuplets.
+{: .interviewee }
+
+I chose to add a part to my arrangement of the *Typewriter*. I called it *Typewriter II*, and there was this middle part and I chose to really do this in septuplet feel, but I already lacked the tools to learn this new rhythmic feeling. I already had this with quintuplets, so I tried the same with septuplets. First groupings of three notes and four notes. What happens?
+{: .interviewee }
+
+{% include video.html vid="5OGoftbnqLM" %}
+
+I immediately started with trying to improvise on it. Then, I thought, “Well, with septuplets, you have seven notes that pass between two clicks.” I thought, “Well, that’s too many notes. I need a click somewhere in between.” But 7 divided by two is 3.5, right? There is no...
+{: .interviewee }
+
+AG: You’d be in between two septuplets.
+{: .interviewer }
+
+JZ: Right. So I chose to practice to a click like this. [4/8 click plus a 3/8 click.] “Tak-a-ti-na tak-a-ti” and then gradually making it faster. And then trying the groupings over it. <span class="important">I practiced this for a year</span> and after that--about then was the time when we started to be able to rehearse the whole thing as a band. It turned out that this click--the others didn’t practice to this click. They practiced to something else, I don’t know. But the majority was against practicing to this click, so we chose a different click.
+{: .interviewee }
+
+[4/8 + 3/8 click improvisation example]
+
+JZ: So, when I noticed--then I changed the click to make it easier for the band, who managed to play it better over the other click. But for myself, having practiced so long to this odd click, I totally didn’t get it the first time. I had to learn it new again, practice almost from scratch, but after that, I was even more secure with improvising.
+{: .interviewee }
+
+AG: More tools.
+{: .interviewer }
+
+JZ: Yeah, the more tools you use, <span class="important">the more combinations of putting the stones in your way, the better you’ll manage getting over the stones.</span>
+{: .interviewee }
+
+AG: So you were practicing 4+3. Were they practicing 3+4 or something?
+{: .interviewer }
+
+JZ: No they were practicing, it was actually an 8th note click, like 7/8 but with one--
+{: .interviewee }
+
+AG: Like 1, 3, 5, 7?
+{: .interviewer }
+
+JZ: No, [clicks on 1 and the e of 4].
+{: .interviewee }
+
+AG: The & of 4 in septuplets? Okay.
+{: .interviewer }
+
+JZ: Between 4 and 5, in the middle you have to find this one...
+{: .interviewee }
+
+AG: Oh, it’s the e, like 4-e-&-a of a septuplet.
+{: .interviewer }
+
+JZ: Yeah. You can practice this in different ways. You can focus on the eighth notes or the sixteenth notes and it’s a different feeling, of course. <span class="important">If you practice with the eighth notes, maybe you get more calm over it, but the tiny little ways between the sixteenth notes... To focus on the sixteenth notes is better. I think both ways should be practiced.</span>
+{: .interviewee }
+
+AG: How about tempos? The faster you go, the harder it is to discern septuplets, right?
+{: .interviewer }
+
+JZ: I recently saw a video. There is a limit to how fast the time between two notes can pass, there’s a limit to it so that you perceive it as “not bullshit.” To perceive it as music. That means that if there is a limit, if you have septuplets, you have to basically choose a slower tempo than with quintuplets or with sixteenth notes. Otherwise, if you reach the limit with sixteenth notes, you cannot put in septuplets anymore. I think this sets a limitation to if you put in--which I haven’t done yet--if you put in 11 or 13, it has to be even slower for you to feel the difference between them. From a certain tempo, you don’t hear any difference. It’s just [machine gun sound].
+{: .interviewee }
+
+[Jan improvising on the “other” click]
+
+AG: Cool. So what’s next in this world of tuplets for you?
+{: .interviewer }
+
+JZ: Maybe, I don’t know, septuplets are not through yet. But, we already tried some fast 9/8 grooves, which is almost like if you have a fast 9/8 groove, it’s almost like a slow 9/16 groove. But, let’s see.
+{: .interviewee }
+
+AG: The band digs it? They’re cool with it?
+{: .interviewer }
+
+{% include video.html vid="bEdh3IjJ9Gk" %}
+
+JZ: Totally. You will hear more 9 from us. You can hear it on *Shunyai* on *Breaking Brain*. On the next album, we have some more 9. And the next one, 11, is still in the future.
+{: .interviewee }
+
+AG: All right, cool. Thank you so much for giving us such a great rundown of tuplets and all the examples. That’s awesome.
+{: .interviewer }
+
+JZ: You’re very welcome.
+{: .interviewee }
