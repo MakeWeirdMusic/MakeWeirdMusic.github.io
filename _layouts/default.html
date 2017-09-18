@@ -20,7 +20,7 @@
         {% if jekyll.environment == "production" %}<img src="{{ site.data.artists.mwm.art_prod }}{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />{% else %}<img src="{{ site.data.artists.mwm.art_dev }}{{ page.artist }}/{{ page.image }}.svg" class="circular bg-dark artist" />{% endif %}
         <p class="oneliner">{{ page.oneliner }}</p>
         <div class="social">
-          <p class="social-intro">Find {{ artist.name }} on:</p>
+          {% unless artist.social == "none" %}<p class="social-intro">Find {{ artist.name }} on:</p>{% endunless %}
           <p class="social-links">
             {% if artist.website %}<a href="{{ artist.website }}"><i class="fa fa-external-link-square" aria-hidden="true"></i></a>{% endif %}
             {% if artist.bandcamp %}<a href="{{ artist.bandcamp }}"><i class="fa fa-bandcamp" aria-hidden="true"></i></a>{% endif %}
