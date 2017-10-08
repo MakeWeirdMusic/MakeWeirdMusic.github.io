@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2017 Make Weird Music</copyright>
-		<pubDate>Sun, 17 Sep 2017 20:09:26 -0700</pubDate>
-		<lastBuildDate>Sun, 17 Sep 2017 20:09:26 -0700</lastBuildDate>
+		<pubDate>Sun, 08 Oct 2017 09:07:11 -0700</pubDate>
+		<lastBuildDate>Sun, 08 Oct 2017 09:07:11 -0700</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -30,6 +30,27 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
+		
+			
+			<item>
+				<title>Interview: Andy West &amp; Markus Reuter Chat</title>
+				<link>http://localhost:4000/interview/andy-west-markus-reuter</link>
+				<pubDate>Thu, 21 Sep 2017 17:00:00 -0700</pubDate>
+				<description>Andy West (Dixie Dregs) and Markus Reuter (Stick Men, centrozoon) chat music in my living room.</description>
+				<guid isPermaLink="true">http://localhost:4000/interview/andy-west-markus-reuter</guid>
+				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3" length="45469623" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Interview: Andy West &amp; Markus Reuter Chat by Make Weird Music</itunes:subtitle>
+				<itunes:summary>Andy West (Dixie Dregs) and Markus Reuter (Stick Men, centrozoon) chat music in my living room.</itunes:summary>
+				<itunes:duration>37:39</itunes:duration>
+				<itunes:keywords>generative music, algorithmic composition, experimental music, prog, progressive rock</itunes:keywords>
+				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/andy-west-markus-reuter/andy-west-markus-reuter.png" />
+				<itunes:explicit>yes</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+			
 		
 			
 			<item>
