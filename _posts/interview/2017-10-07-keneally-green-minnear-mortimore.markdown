@@ -11,9 +11,9 @@ oneliner: Mike Keneally and three friends from Gentle Giant sit down for a conve
 seo_description: Mike Keneally (Zappa, Vai, Satriani) and members of Gentle Giant talk about songwriting.
 seo_keywords: gary green, kerry minnear, malcolm mortimore, derek shulman, ray shulman, phil shulman, john weathers, prog, progressive rock
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
-youtube_id: pJKYWXm7o1Y
+youtube_id: zJ6Kb6AhpwM
 redirect_from: /interview/keneally-gg
 file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/kkeneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3
 duration: "51:41" #audio length in min
