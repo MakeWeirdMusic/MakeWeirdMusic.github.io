@@ -17,7 +17,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: 6-GwQRWXthQ
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/chris-opperman/the-cribbage-variations/chris-opperman-the-cribbage-variations.mp3
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/chris-opperman/the-cribbage-variations/chris-opperman-cribbage-variations.mp3
 duration: "33:49" #audio length in min
 length: "40798088" #filesize in byte
 explicit: "yes" #other option is no
