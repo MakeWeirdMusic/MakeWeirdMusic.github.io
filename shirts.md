@@ -19,14 +19,12 @@ Thank you to all the people around the world who've purchased shirts. We usually
 | ----- |:------:|:---------:| -----:|
 |M|Gray Blue|3|$20|
 |M|Muted Blue|2|$20|
-|M|Brown|2|$20|
-|XL|Black|3|$20|
-|XL|Gray|1|$20|
+|M|Brown|1|$20|
 |XXL|Purple|1|$22|
 |XXL|Brown|1|$22|
 |XXL|Muted Blue|3|$22|
 |XXL|Forest Green|1|$22|
-|XXXL|Black|3|$22|
+|XXXL|Black|2|$22|
 
 **Shipping in the US is $5. Shipping elsewhere is $13. [You can pay via PayPal, Venmo, or Square Cash.](/payments)**
 
