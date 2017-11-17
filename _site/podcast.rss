@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2017 Make Weird Music</copyright>
-		<pubDate>Mon, 13 Nov 2017 09:34:57 -0700</pubDate>
-		<lastBuildDate>Mon, 13 Nov 2017 09:34:57 -0700</lastBuildDate>
+		<pubDate>Fri, 17 Nov 2017 14:16:49 -0700</pubDate>
+		<lastBuildDate>Fri, 17 Nov 2017 14:16:49 -0700</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -30,6 +30,25 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
+			<item>
+				<title>Share: InZENity</title>
+				<link>http://localhost:4000/share/jen-majura/inzenity</link>
+				<pubDate>Thu, 16 Nov 2017 17:00:00 -0700</pubDate>
+				<description>Jen Majura talks us through her new album, InZENity.</description>
+				<guid isPermaLink="true">http://localhost:4000/share/jen-majura/inzenity</guid>
+				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3" length="40798088" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Share: InZENity by Make Weird Music</itunes:subtitle>
+				<itunes:summary>Jen Majura talks us through her new album, InZENity.</itunes:summary>
+				<itunes:duration>27:38</itunes:duration>
+				<itunes:keywords>evanescence, amy lee, mattias eklundh, panzerballett, jan zehrfeld, freak kitchen, alex skolnick</itunes:keywords>
+				<itunes:image href="https://cdn.rawgit.com/MakeWeirdMusic/art/master/jen-majura/jen-majura.png" />
+				<itunes:explicit>yes</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+			
 		
 			
 			<item>

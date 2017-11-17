@@ -5,9 +5,344 @@
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Nov 2017 09:34:57 -0700</pubDate>
-    <lastBuildDate>Mon, 13 Nov 2017 09:34:57 -0700</lastBuildDate>
+    <pubDate>Fri, 17 Nov 2017 14:16:49 -0700</pubDate>
+    <lastBuildDate>Fri, 17 Nov 2017 14:16:49 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>InZENity</title>
+        <description>&lt;h2 id=&quot;about-jen-majura&quot;&gt;About Jen Majura&lt;/h2&gt;
+
+&lt;p&gt;Sometime in 2015, I got an instagram notification that a guitarist named Jen Majura was following Make Weird Music. I looked at her profile and saw she was kind of a big deal guitarist for a major rock act, Evanescence. It’s always a little surreal when professional musicians find my content without any prodding from me. She kept liking my posts and actually paid attention to what I was doing with MWM, so I finally asked, “Are you actually Jen Majura or a marketing person that runs her accounts?”&lt;/p&gt;
+
+&lt;p&gt;She said she was the real Jen Majura and mentioned she’d found MWM via the Steve Vai and Mattias Eklundh interviews. We started chatting and became friends. We met in person at NAMM in 2016 and had a great time together. We stayed in touch ever since and she ended up coming to Phoenix in October 2017 for an Evanescence show. We thought it’d be a great opportunity to do an interview for her upcoming solo album, &lt;em&gt;InZENity&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;So here we are! I hope you enjoy this video interview. It was a lot of fun.&lt;/p&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/B3i6bcFhVXI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;audio-only-podcast&quot;&gt;Audio-Only (Podcast)&lt;/h2&gt;
+
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Let’s get you blabbering.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Jen Majura: [Sings] Let’s get you blabbering. Whoo!&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s how you start an interview right there. Jen Majura is the guitarist for Evanescence and a very, very great person.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Aww. Thank you so much for having me, Anthony. [Crying.] Thank you.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: This is how you start an interview.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: This is beautiful. I feel so appreciated. Thank you.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: So, Jen, you have a new album. A new solo album. Your second.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Yes sir. My second solo album, InZENity, will be released on the 24th of November this year.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: The same date as Panzerballett’s Christmas album, the death [jazz] Christmas album.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Exactly.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Awesome.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: And we have three people on my album the same three people are on the Panzerballett album.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Are you sharing who’s on your album yet?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Well, yeah, it’s public. Everybody knows it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I thought you had some surprise guests.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: No no no no. It’s over. The surprises are over. [Laughs.] Christmas is over. But, Christmas is coming with Panzerballett.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s right. And you! Driving the tank.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I am blessed with, first of all, good friends. And I’m blessed with good friends that are outstanding talented musicians as well. So, I don’t see it as some sort of “Oh, I want to get some name-dropping on my album. I need some big names to…” I don’t see it that way. It’s more like: all those guitar players that I asked to join my album with a guest appearance, a guest solo, are friends. And I feel humbled and grateful that they all said “yes” to my request. It’s like this product, this CD, this piece of music being me and friends, I like that. It’s just beautiful. We have Alex Skolnick of Testament, he’s playing one solo. We have Jeff Waters of Annihilator  and Mattias IA Eklundh of the Swedish band Freak Kitchen.&lt;/p&gt;
+
+&lt;p&gt;AG: Can you tell us what you did on Jen’s album, InZENity?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Mattias Eklundh: I think it was a guest solo. A weird guest solo, as usual. I’m really good at ruining stuff in a split second. I realize, “Ah, bloody hell.” I do this while some of my heavy metal friends want me to do a typical guest solo. They say, “You can do some typical stuff. Show us some sweeping, and swooping, and finish with a harmonic.” And then I play all the wrong notes because I want to create some tension. They say, “No no no, we want the right notes. White keys of the piano, man. Ivory keys. Don’t leave the church modes. Don’t go jazz or Indian style.” I don’t remember what I play. It’s done in very little time. I just improvise and then, “Ah, bloody hell. This was okay and then I’ll do a punch-in and that’s it.” I’m always done in five minutes, but I think it turned out okie dokie. So I’m looking forward to hearing it as well. She’s a good girl.&lt;/p&gt;
+
+&lt;p&gt;AG: It’s a killer solo.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;ME: Oh it is? Okay.&lt;/p&gt;
+
+&lt;p&gt;AG: It’s amazing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;ME: Okay.&lt;/p&gt;
+
+&lt;p&gt;AG: Yeah, you did a great job.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;ME: Okay. Thank you very much. I have no clue. I don’t remember the song. I don’t remember anything. [Laughs.] You do it and you move on. I am constantly running downhill.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: My dearest sweethearts. And Jan Zehrfeld of Panzerballett. So, Mattias, Jan, and me were going to be on my album as well as on the Panzerballett album.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That is so cool. So tell us about the album. How many songs and…?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: It’s InZENity . It’s 12 songs? Or is it 11? Or 12?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I think it’s 12. There’s 11 with the drummer and then the acoustic one.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Exactly. There was so much going on within those 10 days being locked in the studio.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: It was just 10 days? Oh, that’s right, because you recorded all the demos and then went to the studio.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Exactly. I did the whole thing. The drummer, he recorded the whole record plus one song, which I didn’t even plan to have him on. He literally recorded 11 songs within 27 hours, including night sleep, showering, eating, breaks, talking.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Wow.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: 27 hours! I was blown away by his performance. It was just…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Okay. What’s his name?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Felix Lehrmann.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Felix Lehrmann.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: He’s a German. Pretty-well-booked studio drummer.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: And he just came in and nailed it, huh?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I asked him. I sent a text message one day. I was like, “Hey. Did you wanna?” Answer: “Yes, when?” I said, “From [mumble] to [mumble].” “Okay. Sign me up.” I’m like, “Okay, that was easy.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Wow, that’s cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Yeah. I never worked with him before, but I was blown away by his performance. He came up with ideas that literally left the sound engineer laughing and crying at the same time. Lying on the floor because we couldn’t believe what he came up with.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: So, you didn’t have drum parts written for him?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I did have demo drums. But, I’m terrible with programming drums. I’m not good at this, so I told him, “Please, play drums, not the Casio-kind of bullshit I did on that one.” So, he took a lot of what I did, just did it cool. He played it rad. What I made sounded shitty.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, the drums are top-notch.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: It was really, really awesome. I decided this time to change my attitude a little bit because when I did my first solo record, I tried to find a way to combine the way I want to sound and the way people need me to sound so I can be sold with that CD. You know what I mean?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Oh yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Putting that thing out there to have it air-playable and stuff. Of course, I learned that never works. So I decided for this one to really do what I want to do. No one can tell me how to write songs, what I can do and what I cannot do. So, of course, this album turned out to be really InZENity . The whole philosophy about the entire piece is–it’s why the album cover and the artwork, everything is in black and white. It’s about the–I heard the joke a gazillion times, “Why didn’t you call it ‘InJenity?’”&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: [Groans.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I didn’t call it “Injenity” because: world, listen. It’s InZENity because you find your inner peace, your inner zen, as soon as you accept and acknowledge all those opposites inside of each of us, like black and white. You have mellow and happy, fast and slow, and all those different opposites together give you that inner calmness. That’s my InZENity that I found in this album because the opposites are not only in the black and white artwork, it’s in the songs that I picked to record, it’s in each song. I tried to be very dynamic. A lot of songs nowadays lose dynamic, so I really wanted to keep the verses so smooth and sweet and then go, like, “Oh my God. Here’s a big chorus that changed the entire song!” and then go back to the very sweet verse. So, it’s the whole philosophy in everywhere.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, and I noticed listening to it last night, there are huge parts. The album just sounds huge, like in InZENity . Layered vocals and the drums are just, you know, beating your face in.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I heard some good comments. Some friends of mine–Schmier is a singer of a German thrash metal band called Destruction. He said, “Damn Jen. This sounds like Extreme meets System of a Down.” I was like, “Well, that’s not too bad. I can live with that.” And then we had Alex Skolnick, who was like, when I sent him the track for recording, he was like, “Man, it’s like Faith No More on acid.” This is awesome! So, I paid attention to great dynamics and I like to sing. I like big vocal arrangements. I’m a big fan of King’s X and Extreme. I love great vocal arrangements, so when I decided to record, I was like, “Yeah, I wanna have that. I don’t want to have that major vocal line on top and then something cloudy beneath to support the main vocals.” I was like, “No. I want that all out there.” Just like back in the day, Queen or something. So, I’m really happy with how the vocals turned out.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, the title track, as I told you before we were filming–I can’t get it out of my head. And now I just hear three or four layers of your vocals screaming “InZENity.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I feel sorry for you. God. [Sings.] Voices in your head.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, well, you don’t run a site called Make Weird Music if you don’t have problems like that. But yeah, it’s like a very rich, dense, layered album.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Thank you.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: And it’s much more authentic, as you said, than the first album.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I learned when I started to show my music to colleagues, I learned the biggest compliment you could get–I didn’t know that, but I learned it–is when people go like, “Oh, this sounds like this or that band. This is like rock. This is like prog.” They always put you into that little corner and a lot of them ended up telling me, “This is just Jen.” And I learned that this makes me so proud. I mean, what can be a bigger compliment than somebody telling you, “Your album sounds exactly like you?!” I was so happy when I first heard that and kept going. People kept telling me, “It sounds like Jen.” Maybe I created a new style of music. Maybe there will be bands recording and they’re like, “This is the Jen stuff.” [Laughs.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, I think that’s a good idea. I’m going to record an album in the style of Jen.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Awesome. Gotcha.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: What did you learn about yourself making the record?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I learned that I can laugh so hard. I’ve never been laughing more while recording on this piece because we were so–usually, I’m very prepared. I’m German. I like to be prepared, so, “Oh, I’m going to the studio. I’m prepared. Here are my sheets. Here are my demos.” Now this time, on the other hand, I had no time to be prepared. I had my demo recordings and I had a week in Fort Worth with Evanescence recording. I came back, had the photo shoot the day after I was back to Germany, and then I went to the studio. So, I was really nervous because I felt insecure about, “Will that all happen now?” Because some of the songs were even considered to be on my first album. I haven’t been playing that since six years, a long time. I was a little bit afraid of being unprepared, but what I learned was things came out that were so spontaneous. Sometimes I inhaled for singing and he pushed the record button and I didn’t know what I was singing until I started singing and not even then, and it turned out to be beautiful. We came up with such beautiful melodies and ad-libs and stuff and that was really surprising. It made me feel good about myself as a creative musician.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: And what about as a guitarist? What did you learn about yourself?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I write weird stuff. Compared to–&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s why we’re here, Jen.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Compared to–I’m a big fan of bands where you–in the first place, of course, where you can hear the crazy work on the guitar, like Freak Kitchen and Panzerballett. Then on the other hand, I like bands that appear to be so smooth, easy-going and as soon as you try to play, you go, “What the heck is going on there?” as soon as you dig deeper into their music. So, what I learned about my music is I’m that kind of musician. So, I write, apparently, something and as soon as I dig deeper into it, it’s like, “What the heck was I thinking? Writing it like this?” So, we had some fun moments. [Laughs.] But all in all, I’m not trying to put difficult prog riffs out there. That should never be technique or a style should never be your approach or your inspiration for being creative and doing music. The inspiration should always be the song, the feeling, the moment. Whatever inspires you. It should be the creative process of getting to the song and the musical work, or the contribution by any instrument, should always be because the song demands it, not because you want to show off on your instrument.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us about your creative approach.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: My creative approach. Oh, it can be–there are so many different spots in life where you can feel inspired and creative. It can be a line in a movie, it can be a story that happened to a friend. So I usually really, when I’m working on songs, I mostly am inspired by a feeling. And I learned about myself: I can’t write music when I’m happy. I don’t know why. It’s like I’m not happy with the music that I write when I’m happy. What? Does that make any sense?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Do you know Markus Reuter?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Markus Reuter?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: He’s this touch guitarist in Berlin.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: What is a touch guitarist?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: It’s this instrument he designed. It’s like a Chapman Stick, but it’s a different take.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: With how many strings?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: It’s 8 or 10, but he intentionally find the stuff he doesn’t like and explore that because he..&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: You have done a video. I’ve seen it. Okay, yeah, of course I’ve seen it! I’m your biggest fan!&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I can’t believe this. That’s so cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I remember. Yeah, I remember.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: So he said if we like what we hear, then we’re familiar with it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: That’s true.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: So do you have–you think about taking an album of all the stuff you don’t like.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Oh good Lord. Oh God. Oh God. No, but–&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Have Markus produce it for you.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I have that approach from time to time when I do my short “Jen Majura plays videos.” That is just for fun. It started out for fun and it still is. So when I find the time, I do that “Jen Majura” stuff and I always try to pick something that is challenging. And it’s just a minute of a song and I did a Panzerballett, tons of Freak Kitchen songs.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I’ve seen a lot of your Freak Kitchen songs. And Steve Vai. You’ve done some stuff from him.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Steve Vai was horrible. And “Oblivion” from The Winery Dogs was horrible, too. From “Oblivion,” I think there’s even a making-of where I’m like, “THIS IS UNPLAYABLE.” I spent, literally, 10 days–no pause, no break, no eating, no peeing. Ten. It was like…&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Richie [Kotzen] is a beast. He’s a beast on the guitar.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Yeah, I know. And he’s a singer as well. Like, [sighs]. When somebody gave talent away, Richie was definitely screaming twice, like “Vocals here!” “I’ll take one!” “Guitar?” “Double! To go!”&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, well you’re not slouch on either.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Yeah, I think I’m happy and I was glad that I can work on my vocals for my album because with Evanescence, I’m doing a lot of background vocals, which are–the background vocalist is there to support the main voice. So, of course, I can’t sing the way I would sing. That would just like–Amy [Lee] would turn around and go, “WHAT? What the heck is she doing?” So I really enjoyed the work, especially in InZENity. I mean, you’ve listened to it. It’s from classical [sings] to death growls and hip hop elements. It’s just so vibrant and vivid. The whole singing process on that album. I really enjoyed singing this time.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Do you write on the guitar?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Yes.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s where you start.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Yes. Guitar or–where I live in Germany, in every room I have a piece of paper and a pen, so whenever there is an idea, I can always write it down because, like I said, inspiration can come from everywhere. Once I watched a movie, Machete Kills. It’s like an action movie, it was just in the background. And then that actor comes up and the girl says, “Oh Machete, you’re just a walking shit magnet.” I was like, “Dude! Walking shit magnet! I can write a song about this called Walking Shit Magnet!” So, I need paper to be creative whenever I feel inspired. So, that is–What was the question again?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yes. [Laughs.] Do you do much recording on your own? Do you sit in front of a computer?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Yes. I have everything at home, a microphone and computer, recording program, and I like to work and create alone, to be honest, because I like working with other people as well, but it always ends up being not what you first had in mind, which can be a beautiful thing. But if you’re stubborn as I am, it can be distracting, so on my record, I had two songs with a co-writer and all the rest was just written by me. So I like to close all doors and windows, don’t leave home, order in, stay there and work for hours and hours until you put layer over layer over layer for your songs and they grow and you see, “Okay, I’ll take away a little bit here and add a little bit more there” and then they become this beautiful dynamic thing that you created. And that’s just a beautiful process.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us the difference–&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I sound so wise. This is horrible. I sound like an 800-year-old person.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: No, you sound like a 600-year-old person.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Okay, 600 sounds better.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us the difference between Jen Majura guitarist for Evanescence and Jen Majura solo artist.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Does that fluffy thing distract you? Is it good? I love it. So, me in Evanescence, you know–it’s a gig you might get once in your life when you’re really lucky. It’s a great, great world I was allowed to dive into, but to be honest, as a guitar player, what I’m playing in Evanescence is not as challenging, like some stuff that I played before. But that is mainly because, like I said, I want to play guitar that supports the song. I’m not the the–because a lot people ask me, “Are you going to play the songs different now in your style?” I’m like, “Hell no. Somebody wrote that song. Show respect to that somebody who wrote that song.” Because the way that it’s been written is perfect the way it is. So why would I change it? So it’s not a sort of creative process in Evanescence right now for me when it comes to playing guitar. We’ll see about that in the future, but for right now, I’m literally having Troy show me what to play. And of course, I try to keep my sound and my style, but it’s not that I’m changing anything So it’s a whole different ball game when you get to play what’s just coming out of you. It’s like, “Okay, here’s me and a guitar. Let’s do something.” It’s a different approach than, “Okay, show me what to play.” So you can’t really compare it to each other.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: For someone that has never listened to your music, if they have an expectation of it sounding like Evanescence, what would you say?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: There are a lot of catchy chorus parts. It’s more up–it’s not speed metal, but upspeed tempo songs.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Hard rock.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Exactly. It’s hard rock style and Evanescence is a lot of very–they have a dark history, but the songs are beautiful and dark, but not as upspeed tempo like my music, maybe.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: How do you write upbeat songs while you’re feeling sad?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Not sad. Pissed off.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Oh, okay. Do they cheer you up?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: No, I’m the best to write when I’m really pissed off about something. So, I just get everything out and then it’s good.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: And you make sure you capture that idea.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Well, most of the time. Sometimes, if it’s just a feeling, you don’t write the lyrics. If something happens that pisses you off, you don’t necessarily write about the situation. It’s a feeling that inspires and it inspires your tone as well because I play different when–let’s say I’m tired and jetlagged. I would never have the same tone and approach and playing like when I’m angry. Or sad. Sad comes pretty much to jetlag than tired, but it’s a different approach you play in. So, I don’t know necessarily. I would not write about the situation, why I’m–maybe sometimes. But sometimes I have the riff and then I go, like, “Hmm, I should write a song about Walking Shit Magnet,” for example. There is no feeling for “Walking Shit Magnet,” but it sounds awesome. I mean, Walking Shit Magnet is not on the record.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Oh, it’s not. Yeah, it didn’t sound familiar, but–&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: What did you think about Chuck Norris?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I think that’s a fun song. It’s just fun. I listened to it when I was cleaning the studio and I had the audio on and I heard you sing, “Chuck.” I’m like, “Chuck? Is that what she’s saying?” And then you were like, “Chuck Norris!” I’m like, “What? Yeah, there’s literally a song about Chuck Norris.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I always try to–&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: It’s fun. Your whole album is just fun.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: The world–exactly–the world is very serious these days. There are a lot of serious things going on and threatening things and I always try to make people smile with whatever I do. Either it’s an Instagram post or a little story or music or whatever I do, I always keep that little smirk.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s actually what I love about what you publish. Your videos and your interviews, the four questions with your friends–&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Did I tell you the four questions?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I’ve seen them, but I can’t recall them right now.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: You can’t… No no no no no, I’ve never put them out there.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Oh no, yeah, you’re just holding–&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I text them to you?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: No you didn’t. You didn’t tell me them.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I won’t tell them NOW. I’m not going to spoil all my secrets in here. My latest four-question interview partner was Guthrie.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s right, Guthrie Govan.&lt;/p&gt;
+
+&lt;p&gt;JM: He was like, “Oh man, these questions are pretty heavy.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Guthrie Govan: Wow, these are all questions that are really hard!&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, well, that’s what’s so fun about what you do. Your videos always have humor and a lightness and you’re clearly having fun, but there are times where you’re clearly playing as hard as you can.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: THIS IS UNPLAYABLE.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s right! Yeah! From “This is unplayable” to you have clearly worked through and you’re shredding.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: I hate the term “shredding.” Did I tell you? You shred cheese. You don’t shred a guitar. Seriously. And the same thing is like “melting faces.” Why would people melt? Think about it. Melting faces?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I like that term.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Really?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah. Mike Keneally has a sticker that says, “Mike Keneally ripped my head off.” [Laughs.] It’s just this stick figure with his head detached and Xs for eyes.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Wait a minute, that is cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That is cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: But if it said, “Mike Keneally melted my face,” it would be totally not cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Huh. Mike, if you’re listening, don’t go that direction.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Happy to be on an album with you, Mike.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, that’s cool. Okay, let’s wrap up. Your album comes out November 24, 2017. Where can people get it?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Everywhere. Go to the grocery store. Go to your neighbors’. Everywhere.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: It’s in the next issue of Vogue?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: It’s going to be everywhere.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Cool! Thank you so much.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: You’re so welcome. Thanks for having me!&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I’m really excited to see this album come out. Cool! InZENity. November 24.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;JM: Woop woop.&lt;/p&gt;
+
+&lt;p&gt;AG: Jen Majura.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Nov 2017 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/share/jen-majura/inzenity</link>
+        <guid isPermaLink="true">http://localhost:4000/share/jen-majura/inzenity</guid>
+        
+        
+        <category>share</category>
+        
+      </item>
     
       <item>
         <title>The Cribbage Variations</title>
@@ -1808,176 +2143,6 @@ steveball@steveball.com
         
         
         <category>share</category>
-        
-      </item>
-    
-      <item>
-        <title>Failure to Fracture, Ep. 5</title>
-        <description>&lt;h2 id=&quot;episode-5-alex-anthony-faide&quot;&gt;Episode 5: Alex Anthony Faide&lt;/h2&gt;
-
-&lt;p&gt;Alex Anthony Faide is the only person on the internet who can actually play &lt;em&gt;Fracture&lt;/em&gt;. Here’s an interview highlighting his learning history and insights.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Vum4Z8YvR3E?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/fracture/id978457922?i=978458012&quot;&gt;Purchase King Crimson’s &lt;em&gt;Fracture&lt;/em&gt; on iTunes &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx&quot;&gt;Or, purchase the album on Robert Fripp’s website &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
-
-&lt;p&gt;Here is the video of our interview of Alex for this episode of &lt;em&gt;Failure to Fracture&lt;/em&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/C8a526gujK0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;what-is-failure-to-fracture&quot;&gt;What is &lt;em&gt;Failure to Fracture&lt;/em&gt;?&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;/learn/fracture&quot;&gt;&lt;em&gt;Failure to Fracture&lt;/em&gt;&lt;/a&gt; is a video series I’ve put together about all the things that have stood in the way of my successfully playing the song &lt;em&gt;Fracture&lt;/em&gt; by &lt;a href=&quot;/discover/king-crimson&quot;&gt;King Crimson&lt;/a&gt; despite years and years of study, practice, writing, and making videos.&lt;/p&gt;
-
-&lt;h2 id=&quot;episode-list&quot;&gt;Episode List&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/learn/fracture&quot;&gt;Episode 0: Introduction&lt;/a&gt; (includes notation/tablature)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/learn/fracture/stress&quot;&gt;Episode 1: Stress and Tension&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/learn/fracture/picks&quot;&gt;Episode 2: Picking Picks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/learn/fracture/inefficient-picking&quot;&gt;Episode 3: Inefficient Picking&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/learn/fracture/overzealous-precision&quot;&gt;Episode 4: Overzealous Precision&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/learn/fracture/alex-anthony-faide&quot;&gt;Episode 5: Alex Anthony Faide Interview&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: This is Anthony with MakeWeirdMusic.com and today I am in Seattle, Washington with Alex Anthony Faide. Thank you so much for joining us today.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Thank you, guys.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So, Alex, I found out about you on YouTube looking for people who could play &lt;em&gt;Fracture&lt;/em&gt; and you had the only video–and it probably is still the only video on the internet–of someone successfully playing &lt;em&gt;Fracture&lt;/em&gt; so I thought it’d be cool if we could talk about that because I have a series about my failures in playing &lt;em&gt;Fracture&lt;/em&gt;. I’d love to hear about some of the challenges you went through in trying to learn the piece. Mental, physical, musical… Go for it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Great to be here, Anthony. It is my pleasure. Yeah, it’s a long story in fact. Learning the notes took me about two weeks. I got involved in &lt;a href=&quot;https://en.wikipedia.org/wiki/Guitar_Craft&quot;&gt;Guitar Craft &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; in ‘95 and prior to that I never heard that piece.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Prior to 1995?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Prior to Guitar Craft, I had never heard it. I will also add that prior to 1995, I’d never heard &lt;a href=&quot;/discover/king-crimson&quot;&gt;King Crimson&lt;/a&gt; before. It certainly rang a bell, but I wasn’t into that or prog rock. I had no idea. I liked more shoegaze stuff or heavy metal or whatever kicks ass. Also, old guitar music, like &lt;a href=&quot;https://en.wikipedia.org/wiki/Django_Reinhardt&quot;&gt;Django Reinhardt &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; or old American music like &lt;a href=&quot;https://en.wikipedia.org/wiki/Duane_Eddy&quot;&gt;Duane Eddy &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, through my parents. They liked cowboy kind of music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Like &lt;a href=&quot;https://en.wikipedia.org/wiki/Hank_Williams&quot;&gt;Hank Williams &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Chet_Atkins&quot;&gt;Chet Atkins &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Not that obscure. That came later on from my own research. But they liked &lt;a href=&quot;https://en.wikipedia.org/wiki/Elvis_Presley&quot;&gt;Elvis &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; a lot, &lt;a href=&quot;https://en.wikipedia.org/wiki/Bill_Haley&quot;&gt;Bill Haley &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, some blues or jazz. I came in contact with American roots music very early, as well as with tango and other stuff. Later on, I liked many bands, like &lt;a href=&quot;https://en.wikipedia.org/wiki/Led_Zeppelin&quot;&gt;Led Zeppelin &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Beatles&quot;&gt;Beatles &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Rolling_Stones&quot;&gt;Stones &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/ACDC&quot;&gt;AC/DC &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. That kind of stuff. Mainstream rock and roll from the 70s. But up until 1990-something, I had no clue who &lt;a href=&quot;https://en.wikipedia.org/wiki/Robert_Fripp&quot;&gt;Robert Fripp &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; was or Guitar Craft or King Crimson or whatever.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SZiWvjRj1AY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;A friend of mine back then invited me to a concert that happened in Buenos Aires in 1993 or 1994. It was the Robert Fripp String Quintet with the &lt;a href=&quot;https://en.wikipedia.org/wiki/California_Guitar_Trio&quot;&gt;California Guitar Trio &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Trey_Gunn&quot;&gt;Trey Gunn &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and Robert, of course. That blew my mind. I was like, “What is this? What kind of music is this? Wow!” It just blew me away from the first tones coming from the instruments and the boxes. The theater was packed. &lt;span class=&quot;important&quot;&gt;It was sort of a revelation, this shimmering sound.&lt;/span&gt; At that moment, I was into &lt;a href=&quot;https://en.wikipedia.org/wiki/Cocteau_Twins&quot;&gt;Cocteau Twins &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and dream pop and ambient rock and slow dive. This must have been 1989, 1990, somewhere in there. I liked a lot of &lt;a href=&quot;https://en.wikipedia.org/wiki/This_Mortal_Coil&quot;&gt;This Mortal Coil &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/4AD&quot;&gt;4AD &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, average bands…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, I found some mesmerizing effect from the acoustic guitars these guys played. This harpsichord-like sound and then Fripp would do his soundscaping with Trey and all this dreamy ambient shimmering guitar music with arpeggios. That got me like, “Wow, this is really moving. I feel something.” At the end of that concert, there were some people with flyers about a Guitar Craft course happening the next year. I took one and read it, it seemed okay. That got me in. I applied for the course and got in but not really having an idea of the King Crimson stuff and the repertoire and the records and the different incarnations. I had no clue whatsoever about it. No idea.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, first was the change of tuning, which wasn’t really a problem for me because I’ve always been out of tune, so changing it a bit wasn’t that bad. Soon I thought, “Oh, this is much better. I can play things and they sound kind of okay.” The old tuning, I played it already It was fine for me to switch. For my way of playing, I always tried to not sound like a guitar back in that day. Lots of distortion, fuzz, dropped strings. The new tuning wasn’t that much of a surprise for me. I felt immediately at home with it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I had no clue we were using a different tuning back in the day. Some had said it, but I didn’t pay attention. Then I took a lesson with one of the instructors there prior to the course and he said, “Oh, you should tune differently.” “Why?” “Because it’s in 5th.” “Okay, well let’s do that and see what happens.” At first it was weird, but after a few minutes, it sounded nice. I liked it.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4HqFdQEK6_o?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;First course… there were all these King Crimson-heads and everyone knew everything about–&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Who was in the band–&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: The genealogy of this group. I must admit, I didn’t have a clear idea of what “prog rock” was or what kind of rock came to be in the day in Britain. All these progressive rock–I knew about &lt;a href=&quot;https://en.wikipedia.org/wiki/Yes&quot;&gt;Yes &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Pink_Floyd&quot;&gt;Pink Floyd &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, but King Crimson was really obscure for me. I didn’t have a clue about it. So, in that context, I began to become familiar with some material and I found a few things that really blew my head off. One of those was &lt;em&gt;Fracture&lt;/em&gt;, of course. Another one was &lt;em&gt;Larks Tongues in Aspic, Pt. 1&lt;/em&gt; and the other one, I think must have been &lt;em&gt;Red&lt;/em&gt;. All instrumentals. The singing is fine. I like it. But I really like the instrumentals. They’re really intense.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CVb2tnFN5AA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So &lt;em&gt;Fracture&lt;/em&gt; I came across probably during that year after my first course in Argentina. I thought, “Oh, this is cool.” I saw some people would play some similar patterns or exercises. I didn’t know what to call them. Maybe it’s a Guitar Craft piece, maybe just an exercise, who knows? I was asking and then it somehow happened that I began to learn and pick up the pieces because some older students knew some of it, but they’re in a new tuning, so it’s different. And the arpeggio part is extremely difficult to play in the 5ths because it’s super-stretchy. So, they sound similar.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I began to pick up the pieces and learn the notes from people orally. There was no score at that time. It happened gradually. Then, learning the piece was not that long. It wasn’t a long time to learn the notes and the form. It’s an excerpt. It’s not the whole piece, which is 13 minutes long with an improv and other parts. The only part I always enjoyed playing is the intro a little bit and then the moto perpetuo. So, being able to play that from A to Z, that part–well, being able to develop a way of playing that with a degree of relaxation took a long time. And I’m still working on it. I think it’ll never end. &lt;span class=&quot;important&quot;&gt;I think, “Okay, I might twist my right hand just 0.0003 nanometers,” and then it sounds different. Or, “I can do that upstroke and it sounds different.” I don’t know.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Well, that being said, practicing… &lt;a href=&quot;http://historyproject.orchestraofcraftyguitarists.com/the-primary-exercises&quot;&gt;There are the 7 primaries of Guitar Craft &lt;i class=&quot;non-mwm fa fa-external-link&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Are you familiar with them?&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KOKRkyeBzN4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I know a couple of them, but I’ve never seen them written out.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: One of the first seven primaries implies a motion sequence where certain notes will be held while others are not. This has a particular name and we don’t want to discuss that right now. But that is the principle of &lt;em&gt;Fracture&lt;/em&gt;. So, that appears in the system of Guitar Craft and the Guitar Craft lore as one of the first 7 primaries. I think it’s the 6th. I’m not sure now. Notes are being held down and kept ringing while the others are not on an adjacent string. It takes a long time to acquire the flexibility inside of your left hand that allows you to articulate like that. It’s super extremely difficult. Little tiny movements. &lt;span class=&quot;important&quot;&gt;It should have this quality of effortless effort.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;If you look at it, it’s as if there’s no movement almost. Just a little bit more than no motion. Then you begin to learn how to play. Up until then, it’s only work and labor. Like, 10,000 hours. Maybe more. This is not music. This is just notes and how to play them on the fretboard. Then there’s the right hand. This is particularly difficult because of inside picking. And &lt;span class=&quot;important&quot;&gt;you need to think inside the space between the strings instead of the strings themselves.&lt;/span&gt; This is something very refined. Very highly developed.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;I never before in my life had a guitar teacher that was so precise about the right hand and how we may hold our picks.&lt;/span&gt; I’ve been to many guitar teachers in my life, but no one could explain as exactly as Robert did what might be an efficient way of holding a pick. No one claims they have the most efficient way. This way allows you to remain relax while dispatching incredible acrobatics. Cross-picking and alternate picking systems.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, I did this, learned the piece, then practiced a lot, then abandoned it for quite a time. Then I got back to it and then just abandoned it and worked on some other aspects. I always revisited it over the years. &lt;span class=&quot;important&quot;&gt;There was a point where I was able to play from the beginning to the end of the moto perpetuo with a degree of comfort and not fainting&lt;/span&gt; and still being able to keep up with the tempo, which originally is a lively tempo. It’s quite something. I recommend a speed where the piece begins to lift up around 120-126 bpm. It seems to be a threshold for all players who begin working with this type of acrobatic picking technique, which I find to be very unique. It’s a unique approach to picking. For me, it was a complete revelation.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Ih3VbHo_A2Y?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;It also helped me to develop a sense of rhythm that was otherwise not available.&lt;/span&gt; It’s like an old-school made new. It’s super old school. I think in the 20s and 30s, dance band guitar players would just be rhythm players. They kind of developed a lot of these, maybe in a rougher manner, but maybe strumming effectively for about 3 hours without falling apart because people wanted to dance. There were no CDs, no mp3s, no mp8s. Bands had to play really long. So, I think it’s coming from a place and evolving and that place is live practice, in a live situation. Then I went offline with school.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I moved to Germany and began playing some other kinds of dialects in Robert-ism language. I sort of needed a grounding in terms of guitar playing and guitar tone and sound. That was my quest. I wanted the purest electric guitar sound I could find in recording history. So, I went back and back in time and began to listen again to the twangy guys like Duane Eddy, Chet Atkins, &lt;a href=&quot;https://en.wikipedia.org/wiki/Merle_Travis&quot;&gt;Merle Travis &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;–all these people who could really play well with a clean tone. Not only jazz players, but a lot of country picking. &lt;a href=&quot;https://en.wikipedia.org/wiki/Jimmy_Bryant&quot;&gt;Jimmy Bryant &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Also &lt;a href=&quot;https://en.wikipedia.org/wiki/Link_Wray&quot;&gt;Link Wray &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, for instance, is shockingly powerful with very little effort. Not very technical, he just gave a damn about it.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/N8vOTKMqzw4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, I began collecting all this information of playing purely in the old tuning with all the Guitar Craft background. I thought it might be interesting to revamp &lt;em&gt;Fracture&lt;/em&gt; on it original tuning and positions and transitions. That gave me, again, a whole overview that was amazing. I had to “relearn” the piece from scratch on the old tuning. It was nice to do.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Still, I’m having the idea of having a double neck guitar with NST and OST and see what happens. As I was revamping &lt;em&gt;Fracture&lt;/em&gt; on the old tuning again, I had my NST on my lap and kept switching. From there, I thought I needed a double-neck. Not a monster like a big Gibson, but something like a small Telecaster. It doesn’t need to be fancy, just something I can switch to properly.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Then, I don’t know why, I came across an old Guitar Player issue from 1986 or even older where there was a transcription of &lt;em&gt;Fracture&lt;/em&gt;. It was the time when Robert was collaborating with them and presenting some Guitar Craft proto concepts. So, I learned it properly from that. That took not long to learn the notes, but to articulate inside of that, it took 15 years, maybe, to build up the muscles. &lt;span class=&quot;important&quot;&gt;Maybe if I just practiced &lt;em&gt;Fracture&lt;/em&gt;, it might not be the right thing to do.&lt;/span&gt; You might need to practice &lt;em&gt;Hey Joe&lt;/em&gt;. It’s all about the feeling. If you don’t feel it, it’s worthless to play it. You have to play it. This happened to me, weirdly enough, with &lt;em&gt;Fracture&lt;/em&gt;, which is a piece that sounds like &lt;a href=&quot;https://en.wikipedia.org/wiki/Stravinsky&quot;&gt;Stravinsky &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; on acid.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MH_AfwF2JrM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: One thing in my efforts in learning it, I remember Robert saying, “Your relationship with the pick changes your relationship with the instrument,” or something like that. At first I thought, “This is ridiculous.” One of those deep-sounding quotes. And now that I’m into the study, post Guitar Circle technique, I feel like it’s changed my life. The way I think about using my hand, the way I hold the pick, even the way I type influences how I hold the pick.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Paramount. It’s paramount. The fingers and the thumb… It all has an influence on the tone it produces. If the fingers are set up to sound nice, then everything will sound nice. Why does it sound so good? Because you’re playing good. Why are you playing good? Because you’re sounding good. You’re listening, basically.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: He said to me, “Until you can do &lt;em&gt;this&lt;/em&gt; [moving thumb from the bottom thumb knuckle], you cannot play &lt;em&gt;Fracture&lt;/em&gt;.” I thought, “Okay, what could possibly be so important about moving a straight thumb from that knuckle?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Capital. Capital importance.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah! I couldn’t believe it. Can you talk about whether you had to go through physical change?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Yeah, when I went to the first course, I held the pick like most guitar players. [Floppy hand picking] As if I was putting whipping cream on something.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Right, loose floppy fingers.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Right. Trying to play &lt;em&gt;Fracture&lt;/em&gt; like that would be impossible. Maybe my bones would fracture or something. Then, I think in a personal meeting with him–back in the day he would kneel before you and take a few minutes of accommodation of your arm, wrist, and every joint. Once he found a middle road of relaxation, he would adjust your thumb and not allow you to loosen your thumb, then put the pick on the index finger in a perfect balance.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Every hand is different. Every body has a different feel, so he would very gently and generously do this and bring your hand to the guitar. He did that and he said something like, “Oh, you’ve really lost it.” That kept on popping up, like, “What was the meaning of that? What was lost? What exactly did he mean?” So I went back home and I began noticing that there are joints that we never use, I don’t know why and maybe that’s not important, but we don’t use them as requested by this technique.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;But once you begin noticing the points inside–this is something you also need to feel or be aware of–then &lt;span class=&quot;important&quot;&gt;I began noticing a change in the tone that I was producing only in the right hand.&lt;/span&gt; Not to speak of the left, which is also another body of work. So, because the angle at which the pick hits the strings and moves back, it defines the world. It makes a huge difference. A tiny huge difference. Every little correction I was able to bring inside made a big change in the sound. It was able to sound rounder and fuller at will. Or smaller.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/deS70z5IsG0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;And then I began to understand a little bit. I noticed where I had too much pressure, too much relaxation, what made a horrible sound on the guitar. I practice this still, every day. I don’t know if I’ll be able to achieve a perfect right hand because I like to do fingerstyle and other things on the guitar. But, for this particular approach, I prefer to have a sound that is cultivated. Regardless of what I play, I have a high standard of how I play it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I found that it took me about a year and a half to figure this out. When I was practicing, the point of the pick would start moving forward. I found it was just because on my upstrokes, the pick wasn’t flat, so it was pulling the pick forward, and when you’re playing a zillion notes per minute, every fraction of a millimeter adds up.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: &lt;span class=&quot;important&quot;&gt;The Guitar Craft pick is a precision tool.&lt;/span&gt; It’s as if you have a very sharp soul. It’s a precision tool, unlike the regular rounded pick, which is more like a hammer. This is rather like a scalpel, so you do exactly what you need to. A good thing is that no one will die if you do this wrong.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: No one except the song and your reputation.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: And your audience. [Laughter] I noticed your approach to picking has changed radically in the last few years. I must also admit that I’m not an internet nerd. I don’t look at everything. I apologize for that. I’d rather go and play guitar. I don’t like to spend too much time on the internet. It drives me crazy. But, still, I think it’s a powerful tool to connect with others and share and exchange. It’s a super powerful weapon.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So, any other things? One particular frustration with the pick? A story you can tell?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Well, not a frustration. It was very interesting as I became more familiar with the whole bag of information, which is inside of this piece, to practice with reversed picking.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Start with an upstroke?&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/C2MY5UA-NLg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: To practice it with reverse picking was crucial.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Why?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: Because it schools you again about something you thought you already had. We guitar players have a particular talent to take things for granted. Especially guitar players. Maybe some other instrumentalists, I don’t know. But we guitar players have a tendency to take things for granted all the time. This gives us an opportunity to look at how much we assumed are able to, but are not. That’s not a frustration, though. That’s something that I find exciting always. &lt;span class=&quot;important&quot;&gt;I don’t get frustrated with guitar. Guitar is always loving. She’s fine. We are not.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Beginning to practice this with the reverse picking gave me yet another boost in terms of knowing and experiencing the space between strings, rather than the strings themselves. I had a feeling that, “Well, finally, that’s where music comes from, from the space between strings.” You know? Something happens there. You play the string. You pluck the string. You hit the string. What is the space in between? The twilight zone? This gives you the opportunity to visit all these unknown regions of string spacing. So, you have all these beautiful strings and the 5 spaces, or the 7 spaces if you go beyond the strings.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Practicing reversed picking sounds super different. But, when you go back to straight normal flat picking or alternate picking, something remains. I think it’s the quest for lightness. Light, not heavy. This is a piece you cannot play in a &lt;a href=&quot;https://en.wikipedia.org/wiki/Zakk_Wylde&quot;&gt;Zakk Wylde &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; manner. It won’t work. Maybe he can play it, I don’t know. Maybe he can. For sure, he’s great. I love him. But, he’s always like a bodybuilder. Fantastic. He plays amazing stuff, but I cannot play like that and keep a whole show doing that. I’m mortal. He might be a viking or something, I don’t know.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;But, &lt;em&gt;Fracture&lt;/em&gt; is clean first.&lt;/span&gt; Then, you can hit a &lt;a href=&quot;https://en.wikipedia.org/wiki/Big_Muff&quot;&gt;Big Muff &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; or something. On the first run, it’s much better you do it clean. On an acoustic guitar, it’s extremely hard because of the action and the general construction, the strings are heavier than electric guitar. To play on the acoustic guitar and with this tuning, it’s close to a pain in the ass, but it is possible and it sounds okay. I like it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Thank you so much for taking the time to talk about this.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;AF: You’re welcome.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/learn/fracture/alex-anthony-faide</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/fracture/alex-anthony-faide</guid>
-        
-        
-        <category>learn</category>
         
       </item>
     
