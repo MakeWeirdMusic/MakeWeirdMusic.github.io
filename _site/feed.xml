@@ -3,11 +3,222 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Dec 2017 23:09:36 -0700</pubDate>
-    <lastBuildDate>Tue, 12 Dec 2017 23:09:36 -0700</lastBuildDate>
+    <link>http://www.makeweirdmusic.com/</link>
+    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Jan 2018 11:57:27 -0700</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2018 11:57:27 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Electric Gauchos</title>
+        <description>&lt;p&gt;We first highlighted &lt;a href=&quot;/discover/steve-ball&quot;&gt;Steve Ball in October 2016&lt;/a&gt; after having discovered the kinship of our spirits and aims. Since then, Steve and I have gotten to know each other fairly well. He invited me to join him and several others for a Seattle Guitar Work Weekend in June 2017, which coincided with a &lt;a href=&quot;/share/king-crimson-concert-2017&quot;&gt;King Crimson Friends and Family concert&lt;/a&gt;, &lt;a href=&quot;/discover/david-singleton&quot;&gt;an interview with KC’s tour manager, David Singleton&lt;/a&gt;, and &lt;a href=&quot;/learn/fracture/alex-anthony-faide&quot;&gt;an interview with virtuoso guitarist Alex Anthony Faide&lt;/a&gt;. It was a productive weekend, to say the least.&lt;/p&gt;
+
+&lt;p&gt;Steve is as prolific as he is kind and generous. He’s one of the hardest-working people I know. One of his many, many musical projects is a group called Electric Gauchos. One of Electric Gauchos’ releases is a 9-CD box set featuring tons of improvised and composed music in studio and live recordings. It’s a lot to digest.&lt;/p&gt;
+
+&lt;p&gt;So, we thought it’d be cool if we filmed a conversation with Alex Anthony Faide about the history and releases of the band. And here we are! Enjoy!&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/K5IW_C5eeMw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
+
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-transcription&quot;&gt;Interview Transcription&lt;/h2&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I don’t know if you want to cover anything in particular or just want to talk about &lt;a href=&quot;http://www.electricgauchos.com&quot;&gt;Electric Gauchos &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; or…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: We probably want to start by telling a little history about–maybe building on what Alex just talked about. The fact that we’ve been playing together for 23 years, 24 years.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: We met in Argentina? Or was it grocery shopping?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: No no, it was Argentina.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Argentina first?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: ‘95.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: 1995. I was down working with a &lt;a href=&quot;https://en.wikipedia.org/wiki/Guitar_Craft&quot;&gt;Guitar Craft &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; spinoff group called &lt;a href=&quot;https://www.youtube.com/watch?v=sBJED4MMWgg&quot;&gt;Los Gauchos Alemanes &lt;i class=&quot;non-mwm fa fa-youtube&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which–what the hell does that mean?&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sBJED4MMWgg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Los Gauchos Alemanes. Gaucho is the Argentinian cowboy and alemanes is the Spanish denomination for German people. I think the first name that came out was Les Gauchos Allemandes [French].&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Aah, the French.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Right, the French version. And Los Gauchos Alemanes were a bunch of German immigrants south of Argentina, like 1880-something. Last century. So, Argentine people would call, “Ah! El gaucho aleman! El gaucho aleman gringo.” So, Los Gauchos Alemanes were this pack of–&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Dogs?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Insane people.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Very, very old people, also.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Why were they old?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Well, they’re from the 1800s.&lt;/p&gt;
+
+&lt;p&gt;[Laughter.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Exactly.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Cool, so what happened? This group spun off out of the Argentina group in the mid-90s?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Actually it spun out of initially the original early days of Guitar Craft. In 1992, everyone was essentially sent home to do application and assimilation of what we’d learned for the last seven years and so, Martin Schwutke from the very early days of Guitar Craft went off to Germany and bought a house in Grossderschau and a bunch of us went there to work and continue playing together.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;The original Gauchos Alemanes was formed there with Hernan Nunez, Fernando Kabusacki, and Martin Schwutke. I visited a couple of summers in a row and some Argentinians came up to visit as well. It was clear that Argentina was going to become a next center of gravity for guitar work. So, I started commuting down to Argentina and went down to a level one course there in a place called Gandara, which is outside of Buenos Aires somewhere.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Yes, like a few miles south into the pampa.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3SVPtmy8ziA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: And so, the Gauchos–we took &lt;a href=&quot;https://www.discogs.com/Los-Gauchos-Alemanes-Little-Beast/release/2934111&quot;&gt;our feeble repertoire &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; into Argentina and met some incredible players who then changed the expectation and the level of our playing. Some collaborations began and we met and hit it off musically. We did a little spin-off after Los Gauchos Alemanes, playing for a couple years.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I really wanted to play with a drummer. This music we were writing and all the stuff we were doing, to me, was missing a rhythmic element that–I was really hungry to play with a drummer. So Fernando Kabusacki had been playing with a well-known Argentinian drummer named Fernando Samalea, so we got together with &lt;a href=&quot;http://www.kabusacki.com.ar&quot;&gt;Fernando Kabusacki &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/user/mistermartynumber9&quot;&gt;Martin Schwutke &lt;i class=&quot;non-mwm fa fa-youtube&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/samaleaoficial/&quot;&gt;Fernando Samalea &lt;i class=&quot;non-mwm fa fa-facebook&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and I think we went into a studio for a few days and wrote some…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: We went first to Mendoza and we went right into the project.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Ah yeah, Mendoza. We did some writing and maybe a show or two.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Yeah, two shows.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: At &lt;a href=&quot;https://www.facebook.com/pages/Estudio-De-Danza-Contempor%25C3%25A1nea-Luc%25C3%25ADa-y-Valentina-Fusari/1965087300183691&quot;&gt;Valentina’s dance studio &lt;i class=&quot;non-mwm fa fa-facebook&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Some repertoire emerged and we recorded some stuff in Argentina and then a subset came to Seattle and we recorded and we did a live show in Seattle called &lt;a href=&quot;https://www.youtube.com/watch?v=whCDjnlD82Q&quot;&gt;Globmobalooza &lt;i class=&quot;non-mwm fa fa-youtube&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; in 1997 at the Broadway Performance Hall with the California Guitar Trio, &lt;a href=&quot;https://en.wikipedia.org/wiki/Trey_Gunn&quot;&gt;Trey Gunn &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, and Tony Geballe. We recorded that and then smushed together a CD that looks like this that includes live tracks from Buenos Aires and from Seattle. A famous show at the Bauen Hotel where I think the encore was a version of &lt;a href=&quot;/learn/fracture&quot;&gt;&lt;em&gt;Fracture&lt;/em&gt;&lt;/a&gt;. Wasn’t it?&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/whCDjnlD82Q?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Yes.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: A scary version of &lt;em&gt;Fracture&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Scarier?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Well, they’re all scary, as you know, Anthony.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: We were also scared ourselves.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Yeah, we were scared.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Everyone was scared.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: So we have a history going back to 1997, but last year I went back to Buenos Aires twice and we did a show at–what is the arts center called?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: &lt;a href=&quot;https://www.youtube.com/watch?v=JTvyinFGJ7w&amp;amp;list=PLvGIL9EhBiNchBEByedwjSbXqbYdfEBy_&quot;&gt;Usina del Arte &lt;i class=&quot;non-mwm fa fa-youtube&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JTvyinFGJ7w?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Usina del Arte. We did a big show backed by 30-something acoustic guitars as well and we did an Electric Gauchos show with Fernando Kabusacki, Fernando Samalea on drums, and &lt;a href=&quot;https://www.facebook.com/nathy.cabrera.7&quot;&gt;Nathy Cabrera &lt;i class=&quot;non-mwm fa fa-facebook&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;–can’t pronounce her last name.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Cabrera.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Cabrera on bass, and &lt;a href=&quot;https://www.youtube.com/watch?v=bZpQj7Z3YiU&quot;&gt;Horacio Pozzo &lt;i class=&quot;non-mwm fa fa-youtube&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, who’s also a member of &lt;a href=&quot;https://www.facebook.com/bigtimetrio/&quot;&gt;Big Time Trio &lt;i class=&quot;non-mwm fa fa-facebook&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which is another Guitar Craft spin-off band. I think of them as the &lt;a href=&quot;http://cgtrio.com&quot;&gt;California Guitar Trio &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; of South America. And did a big show and we actually recorded that as well and then released a CD of that show as well. It includes some odd cover songs you don’t hear very often, including a version of &lt;a href=&quot;https://www.youtube.com/watch?v=fCh5Vy-TGSA&quot;&gt;Inductive Resonance &lt;i class=&quot;non-mwm fa fa-youtube&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which is an old League of Gentlemen piece.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fCh5Vy-TGSA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Tough song.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Heptaparaparaparapara–how do you pronounce it? There’s an old League of Gentlemen song with an esoteric title, which I’ll leave it to the reader to look up and pronounce.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Do you want to attempt it?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: &lt;a href=&quot;https://www.youtube.com/watch?v=dD7iO5KMYrI&quot;&gt;Heptaparaparshinokh &lt;i class=&quot;non-mwm fa fa-youtube&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Pretty good! Daisy, you wanna give it a shot? [Talking to his dog, Daisy.] Close. Okay. So, we have a long history of working together, writing together, improvising, playing live, and when I was putting together a plan for this next year, I thought with a very open mind, &lt;span class=&quot;important&quot;&gt;“Who would I love to bring to Seattle to energize some of the work that’s going on here?”&lt;/span&gt; And three or four names came to mind.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;At the top of the list was Alex, building on our long history of work and play together. And &lt;a href=&quot;https://www.facebook.com/tinyorchestralmoments/videos/1951848171699883/&quot;&gt;Martin de Aguirre &lt;i class=&quot;non-mwm fa fa-facebook&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; of the Big Time Trio is also here this week. We’re essentially continuing, we’re not just picking up again, but we’re continuing on the work of multiple decades. What are we missing?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Don’t you have a boxed set?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Oh yeah, there is also a &lt;a href=&quot;http://steveball.com/EG&quot;&gt;9-CD box set &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; based upon some other improvised recordings we did a couple years ago.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That was just Electric Gauchos, right?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Yeah. We brought–although there were a few guests as well–we brought a group to Seattle to improvise in the studio for four-and-a-half days. &lt;span class=&quot;important&quot;&gt;Of that four-and-a-half days, essentially eight CDs worth of material came out of it and it’s ludicrous. But again, I don’t necessarily do music projects based upon what an audience needs or expects or what a label needs or expects.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I tend to follow my instincts about where the music is going. Or, what collaborations might bring if you invite two people who have some investment in their instrument into a room together. It’s like having an interesting conversation and so I’m very interested in capturing the authentic live conversations of musicians who’ve essentially given their lives to their work.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Alex, how would you describe the Electric Gauchos’ music?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Now?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: [Laughs.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: It’s a trick question.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Well, it’s instrumental guitar music.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: To explore various genres?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: All the time. All day. At the same time, I would say.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: What is coming next for Electric Gauchos?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Well, well well well! I think my feeling is we’re just in a point where my sense, my personal egoistic sense, is that we came to a point where it will be great to throwing a writing period of time to writing a pool of ideas. Well, that’s what I see for the next, say, half year or something like that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Alex, I’ll speak for him a little bit, but Alex has a series of pieces brewing loosely called &lt;a href=&quot;https://www.youtube.com/watch?v=JW9MFQpFtsY&quot;&gt;Particles Of The Infinite &lt;i class=&quot;non-mwm fa fa-youtube&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;  with a number of evolutions and we’ve done a little collaboration on a couple of them. Just a tiny amount. They’re massive and difficult and probably a little bit weird.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JW9MFQpFtsY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Yeah, definitely weird. [Chuckles.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: But there’s a seed of something brewing, I think, in sort of the new writing Alex has been doing. There’s no shortage of potential in the members’ writing skills, even, I would say, performance skills. I think the next period may actually be energized by having a new repertoire. There’s little seeds of that already brewing. I spoke to Fernando Kabusacki a couple weeks ago. He and Fernando Samalea and Argentinian singer/songwriter that we played with last October, &lt;a href=&quot;https://www.youtube.com/watch?v=TEVEg96kOOA&amp;amp;list=PLziGqtc5FlJaEMX5uaWFyQsCJpGjBDNWv&quot;&gt;Marina Fages &lt;i class=&quot;non-mwm fa fa-youtube&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Did I pronounce that correctly?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Perfect&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: There’s some aspiration to bring this configuration to Seattle as well. Maybe in the next 6-12 months.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: As a matter of practicality, if someone were to want to hear this music, purchase it, where would they go? Is it available in all the normal channels?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Generally, yeah. If you just search “Electric Gauchos” in iTunes or Spotify or CDBaby or Groove Music, most of our stuff is out there, including the 9-CD box set. Eight of the nine CDs are on most of the big services. You could also just go to &lt;a href=&quot;http://SteveBall.com/EG&quot;&gt;SteveBall.com/EG &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which has nice fairly-high-quality playable previews of the box set if you want to get a glimpse of what 81 tracks of mostly-improvised music sounds like. It’ll give you a little sense of what we do.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Cool.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: It’s really hard to describe. In fact, is there a–is all the Particles work you’ve been doing, Alex, is that in OST or NST?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: It’s all OST.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: So you’ll have to use one of Sophie’s guitars if you’re going to give a glimpse of what that stuff is.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Maybe later.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Maybe later.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Cool! Anything else you want to say about Electric Gauchos?&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FCOqPqlfyX0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: I just want to make sure we show off the historical photos that were taken, literally, twenty years ago. This was almost our twenty-year anniversary. &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10156853691031562&amp;amp;set=t.574626561&amp;amp;type=3&amp;amp;theater&quot;&gt;This is from a photo shoot that happened at the rehearsal studio &lt;i class=&quot;non-mwm fa fa-facebook&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; where I used to share a space with &lt;a href=&quot;https://en.wikipedia.org/wiki/Bill_Rieflin&quot;&gt;Bill Rieflin &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Krist_Novoselic&quot;&gt;Krist Novoselic &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. Alex came to visit in 1997 with Martin Schwutke, one of the original Los Gauchos Alemanes members, and Ingrid Pape took this photo. You can’t quite see it, but it’s an old iconic sort of Seattle grunge rehearsal studio on Western Avenue. We haven’t changed a bit, if I actually look at the picture.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;AAF: Not at all.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: This feels like yesterday. And there’s &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=1677156815662614&amp;amp;set=t.574626561&amp;amp;type=3&amp;amp;theater&quot;&gt;another picture from that same time frame taken in Mendoza, Argentina with the full Greenthumb Ensemble &lt;i class=&quot;non-mwm fa fa-facebook&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which was a group that came together to write and record and play some songs. This includes–there’s a young Alex right up front, Martin de Aguirre, who’s upstairs sleeping right now, and some poor long-haired dude who looks like he just–&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Came out of &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Matrix&quot;&gt;The Matrix &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Exactly. And there’s Horacio Pozzo, also in the most recent Electric Gauchos and also a member of Big Time Trio with Martin de Aguirre. And Fernando Kabusacki, Schwutke, some famous people here.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Awesome. Cool. Thanks a lot!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;SB: Yeah. Hope to see you live somewhere soon.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2017 17:00:00 -0700</pubDate>
+        <link>http://www.makeweirdmusic.com/discover/electric-gauchos/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/electric-gauchos/</guid>
+        
+        
+        <category>discover</category>
+        
+      </item>
     
       <item>
         <title>X-mas Death Jazz</title>
@@ -380,8 +591,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;JZ: Thanks, Anthony.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/panzerballett/x-mas-death-jazz</link>
-        <guid isPermaLink="true">http://localhost:4000/share/panzerballett/x-mas-death-jazz</guid>
+        <link>http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</guid>
         
         
         <category>share</category>
@@ -715,8 +926,8 @@
 &lt;p&gt;AG: Jen Majura.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/jen-majura/inzenity</link>
-        <guid isPermaLink="true">http://localhost:4000/share/jen-majura/inzenity</guid>
+        <link>http://www.makeweirdmusic.com/share/jen-majura/inzenity</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/jen-majura/inzenity</guid>
         
         
         <category>share</category>
@@ -1012,8 +1223,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;CO: [Laughing.] No problem.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/the-cribbage-variations</link>
-        <guid isPermaLink="true">http://localhost:4000/share/the-cribbage-variations</guid>
+        <link>http://www.makeweirdmusic.com/share/the-cribbage-variations</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/the-cribbage-variations</guid>
         
         
         <category>share</category>
@@ -1641,8 +1852,8 @@
 &lt;p&gt;GG: Cool.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Oct 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interview/keneally-green-minnear-mortimore</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/keneally-green-minnear-mortimore</guid>
+        <link>http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</guid>
         
         
         <category>interview</category>
@@ -1884,8 +2095,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;That’s when I realized just to work with individual pitches doesn’t work because those individual pitches don’t suggest an actual relationship to something. Just putting a drone under that poem would probably have made it sound better because then there is a musical relationship. But just this one process that I thought would be sounding interesting was crap. That’s why I never use anything like that anymore.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Sep 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interview/andy-west-markus-reuter</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/andy-west-markus-reuter</guid>
+        <link>http://www.makeweirdmusic.com/interview/andy-west-markus-reuter</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/andy-west-markus-reuter</guid>
         
         
         <category>interview</category>
@@ -2075,8 +2286,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;JZ: You’re very welcome.&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Sep 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/learn/tuplets</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/tuplets</guid>
+        <link>http://www.makeweirdmusic.com/learn/tuplets</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/tuplets</guid>
         
         
         <category>learn</category>
@@ -2282,8 +2493,8 @@
 &lt;p class=&quot;interviewer&quot;&gt;AG: No problem. Cool.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Sep 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/frank-pesci/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/frank-pesci/</guid>
+        <link>http://www.makeweirdmusic.com/discover/frank-pesci/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/frank-pesci/</guid>
         
         
         <category>discover</category>
@@ -2295,8 +2506,8 @@
         <description>
 </description>
         <pubDate>Tue, 29 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/link/otto-d-interview</link>
-        <guid isPermaLink="true">http://localhost:4000/link/otto-d-interview</guid>
+        <link>http://www.makeweirdmusic.com/link/otto-d-interview</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/link/otto-d-interview</guid>
         
         
         <category>link</category>
@@ -2319,146 +2530,11 @@
 
 </description>
         <pubDate>Wed, 23 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/cupcake</link>
-        <guid isPermaLink="true">http://localhost:4000/share/cupcake</guid>
+        <link>http://www.makeweirdmusic.com/share/cupcake</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/cupcake</guid>
         
         
         <category>share</category>
-        
-      </item>
-    
-      <item>
-        <title>Marco Machera</title>
-        <description>&lt;p&gt;Marco Machera is an Italian musician/songwriter. He likes to say,  “I don’t play music – I make it happen.”&lt;/p&gt;
-
-&lt;p&gt;He’s played bass for Marillion, Paul Gilbert, Tony Levin, Markus Reuter, and many others. He’s rather prolific.&lt;/p&gt;
-
-&lt;p&gt;His new album is due out September 1, 2017. It’s called &lt;em&gt;Small Music from Broken Windows&lt;/em&gt;. &lt;a href=&quot;{ data.artists.marco-machera.website }&quot;&gt;Check his website &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; for more information.&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UftXn22rQ08?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
-
-&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
-
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/marco-machera/marco-machera.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/marco-machera/marco-machera.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-transcription&quot;&gt;Interview Transcription&lt;/h2&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Marco Machera is a bassist in Italy. He’s known best for his work with &lt;a href=&quot;https://www.facebook.com/slickmachera/&quot;&gt;EchoTest &lt;i class=&quot;non-mwm fa fa-facebook-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; with &lt;a href=&quot;/discover/julie-slick&quot;&gt;Julie Slick&lt;/a&gt;. We are very lucky to have him here today to talk about his new album. Marco, thank you so much for joining us.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: Thank you for your interest. It’s a pleasure.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So, you’ve got a new album and I thought it’d be cool if we talked about it here. Why don’t you tell us about it, what it’s called, and some of the story behind it?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: The title is very long. It’s maybe not good for promotion, but it’s called &lt;em&gt;Small Music from Broken Windows&lt;/em&gt;. It’s my first solo record since 2014. Since then, I started the EchoTest project with Julie and I’ve been very busy with that. It’s obviously a priority for us, but I’ve always been working on my own stuff, which is usually quite different from what I do with Julie.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_2UZ34eNgEo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;It’s more singer-songwriter-oriented music. I thought it was a good time now to put it out because we just published the new record with EchoTest called &lt;a href=&quot;https://julieslick.bandcamp.com/album/from-two-balconies&quot;&gt;&lt;em&gt;From Two Balconies&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I have it right here. [Points to EchoTest CD.]&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: That’s awesome. And I hope you listen to it, too.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh yeah, it’s great. I love it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: It’s doing very well. Then Julie got busy with &lt;a href=&quot;https://en.wikipedia.org/wki/Adrian_Belew&quot;&gt;Adrian Belew &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. She tours with him a lot, so I used that time to work on my record and put the final touches to it. It’s going to be out very soon. I don’t know what will happen next, but for sure there will be more touring with EchoTest, so I don’t know if I’ll ever have a real chance to promote my own record, but that’s not something I’m doing because I want to get something out of it. You know what I mean? It’s more like a need I have to put my music out and then whatever happens happens.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZqLkAwDnT2Q?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Can you tell us about the style of the record? I think you said it’s mostly singer-songwriter-oriented.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: Yeah, it starts with that. Usually my interest is in pop music and that’s also, I think, what makes EchoTest work very well because both me and Julie have strong pop sensibilities. When I work on my own music, it’s even more evident. I really like to write songs. At the same time, I want to make them interesting somehow.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I think Adrian Belew is a master of that craft. He’s an inspiration and that’s what I try to do with my own music. I start with a pop song formula and then I try to expand that and have different influences in it. I try to make it a little more adventurous than it should be for the music business world.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: What are some of the things that you do to your songs to make them “weird” or interesting?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: I don’t have to really think about it that much. It’s more of an inner thing, I think, because I have a melody and maybe I have a chorus and then I have a verse, but sometimes they just don’t follow a strict rule. even structure-wise. I’m driven most of the time by the mood of a song and I try to follow that and get inspired by the mood and the song itself. I don’t really think about, “Oh I wrote a verse and a chorus and now I should make something weird and not be too standard with it.”&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bwHAr4kaFNw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, usually, it’s just a matter of being inspired and using the imagination and something will be out there and I can just grab it and use it for my record. Most of the time, it’s just a bunch of ideas and then I’m very interested in working with editing the songs and using weird sounds and sometimes a sound will just inspire me with a whole song. It could be a loop or some really weird, strange sound and I’ll make a song out of it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us about some of your favorite moments from the record and why.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: I think there’s one particular song called The Things that features another vocalist. It’s the first time, at least on my own solo records, that I have another singer. She’s a girl, a female singer. It’s a very personal song. I think it was the first one I wrote for this record. It was a kind of departure musically from what I had done before, in a way, because it started very minimal, just on an acoustic guitar and a drum loop and no bass, which is strange for a bass player.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;That was the start of the whole record. That’s the start of the whole record and it kind of suggested to me the whole concept of the record. It’s inspired by a Lovecraft story to tell my own story. So, yeah, I will choose that song as the most representative, maybe, from the album.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: In what other ways is this album a departure from what people might expect of you?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: First thing is a concept album. So, I’m telling a story throughout the songs. As I said before, it’s inspired by a Lovecraft short story called The Outsider, which I think is relevant these days because people like me and Julie feel like outsiders sometimes. I thought it was a very cool concept to put music on. It is also connected to the ups and downs in life and how you deal with depression, stuff like that.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0d4GJEON3B8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So in a way, it’s a very personal album like it has never been before for me. The other two albums I made were more a collection of ideas I had throughout time. Then I collected them on the record and somehow I made them work as an album. But this time I just had a whole plan in my head, like a whole concept, and it’s like I wrote the music for that idea I had in mind.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us more about this feeling of being an outsider. Does that apply as a musician or is it because you’re a bassist and you’re doing more with the bass than a lot of people do or what?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: It definitely has to do with being a musician, I think, because first of all, I feel like I’m a musician. Even before being a bass player, I feel like I’m a musician and I’m doing music. And sometimes you feel very–I speak for myself. It doesn’t have to apply to any musician, but sometimes you feel very disillusioned. You go through ups and downs and you feel like an outsider in that it’s like you’re at the periphery. Is that the right word?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Mm-hmm.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: The periphery of things. And sometimes you make the mistake and you think that’s a bad thing. You think you’re not part of something bigger. You do your own thing on the periphery, on the side of things. But as you do more of this and as you grow to be more confident in your music and what you have to share with other people, you actually start to perceive it as a positive thing because you have more freedom, first of all. Then, you carve your own space and you have people reacting to that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;You have feedback and it’s your heart, 100%. You’re an outsider because you tried to do something that’s different in a way, but that also speaks to people. But sometimes you can’t help feeling a little bit disillusioned. Last year, for example, I was in a place where–I still am in that place, where you do your music but then you have to do other music to survive. I work often as a sideman for other people and I do corporate gigs, I play at weddings and stuff like that. They are two very different worlds.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wOXMxVpwhfw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;When I’m home and I work on my own music, it’s pure heart and I believe in every single note I make and I create. And then you have this whole other world, which is something you do to survive and I’m not saying that I don’t like it, but it’s not like your own music. You would like to be out all year doing your own tour and playing your own music in front of people around the world. Unfortunately, that’s still not the case.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Last year, I was feeling very bad about that situation, so I wanted to do something very different and I went to England to study to become a teacher of the Italian language for foreign students. I didn’t play a single note for a couple of months, but that kind of helped me because when I got back here, I had new energy, fresh energy for music. I’m enjoying doing both now. I enjoy doing music for the sake of doing music and I enjoy being more artistic with my own projects.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Did this album arise from that period or has it been in the works for quite some time?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: It has been in the works for quite some time. But before that period, before that time when I decided to go to England and disappear for a while, I was like, “I’m not even going to put this album out. It’s not even worth it.” But then I did that. I got back here and I felt like, “No, I should work on this and get it finished and put it out sometime next year otherwise I won’t do it anymore.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, I think you learn by–everything in life is an experience and it will teach you something. It’s not–to go back to your question about the outsider, there’s always a positive side of things. The bright side of life, as Monty Python said. It’s actually good to be an outsider sometimes. It’s good to not be like everyone else and do something else.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Well, that’s what this site’s all about.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: Exactly.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1WmBahJM_RM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I’m very happy to have you talk about that. I think that’s a great note to wrap up on, but I’d like to find out how to get the album, when it’s coming out, all those relevant details so we can help fund you and keep you doing what you do.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: Yeah, it will be available very soon on Bandcamp. I have my own Bandcamp page. If you go to my website, marcomachera.com, there is a link to the Bandcamp page. That’s the most direct way to help me and fund me. It will also be available in all the usual digital outlets, like iTunes, Google, Amazon, Google Play.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Is there a physical copy coming out?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: Yeah, there’s a physical copy. I’m very happy with it. Also the artwork really represents the concept well and all of the dark imagery behind the record, but also the positive turnout it had on me.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Excellent. When is it coming out?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: September 1st.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/657IiLDk5TY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Just a couple of weeks!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: Yeah.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Thank you so much, Marco. That was really insightful and I can’t wait to hear the new record. Hopefully other people chime in and let you know what they think, too.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: Yeah, hopefully!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: All right, man. Thanks a lot.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MM: Yeah, thank you!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 18 Aug 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/marco-machera/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/marco-machera/</guid>
-        
-        
-        <category>discover</category>
         
       </item>
     
