@@ -17,7 +17,7 @@
 		<image>
 			<link>{{ site.url }}</link>
 			<url>http://s3.amazonaws.com/audio.makeweirdmusic.com/mwm-promo-brightblue.png</url>
-			<title>{{ site.title }}</title>
+			<title>{{ site.title }}: {{ site.subtitle }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
 		<itunes:author>{{ site.author }}</itunes:author>
@@ -40,7 +40,7 @@
 				<link>{{ post.file }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.seo_description | xml_escape }}</description>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<guid isPermaLink="true">{{ post.file }}</guid>
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.author }}</itunes:author>
 				<itunes:subtitle>{{ post.category | capitalize }}: {{ post.title | xml_escape }} by {{ site.title }}</itunes:subtitle>

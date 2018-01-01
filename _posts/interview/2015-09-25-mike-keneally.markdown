@@ -9,7 +9,7 @@ category: interview
 permalink: /interview/mike-keneally/
 oneliner: Mike Keneally tells us about his approaches to songwriting and performance.
 seo_description: Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.
-seo_keywords: Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The Residents, King Crimson, Henry Cow, Joni Mitchell, Bob Dylan, The Beatles, Alice Cooper, The Rolling Stones, Simon & Garfunkel, Miles Davis, John Coltrane, Scambot, Nonkertompf, Wooden Smoke
+seo_keywords: Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The Residents, King Crimson, Henry Cow, Joni Mitchell, Bob Dylan, The Beatles, Alice Cooper, The Rolling Stones, Simon & Garfunkel, Miles Davis, John Coltrane, Scambot, Nonkertompf
 front_page: yes
 has_video: yes
 sponsors: Software++, Mad Hatter Guitar Products, and Carl King Creative
