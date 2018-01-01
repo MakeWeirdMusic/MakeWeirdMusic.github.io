@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: Y0N3UY6VAS4
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/matthias-eklundh/matthias-eklundh.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/matthias-eklundh/matthias-eklundh.mp3
 duration: "59:21" #audio length in min
 length: "115627874" #filesize in byte
 explicit: "yes" #other option is no

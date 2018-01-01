@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: 6tMVejtevKY
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/julie-slick/julie-slick.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/julie-slick/julie-slick.mp3
 duration: "16:45" #audio length in min
 length: "20420666" #filesize in byte
 explicit: "no" #other option is no

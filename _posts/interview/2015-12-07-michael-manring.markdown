@@ -14,7 +14,7 @@ front_page: yes
 has_video: yes
 draft: no
 youtube_id: 2naRtBfRFMo
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/michael-manring/michael-manring.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/michael-manring/michael-manring.mp3
 duration: "01:07:29" #audio length in min
 length: "64956383" #filesize in byte
 explicit: "no" #other option is no

@@ -15,7 +15,7 @@ draft: no
 has_video: yes
 block: "no" #means is shown in itunes
 youtube_id: mMONfhKgwQU
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/terry-bozzio/terry-bozzio.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/terry-bozzio/terry-bozzio.mp3
 duration: "44:09" #audio length in min
 length: "64078703" #filesize in byte
 explicit: "no" #other option is no

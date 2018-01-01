@@ -15,7 +15,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: Rj1dezLkIfI
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3
 duration: "45:23" #audio length in min
 length: "87784511" #filesize in byte
 explicit: "no" #other option is no

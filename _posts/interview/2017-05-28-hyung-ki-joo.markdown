@@ -15,7 +15,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: xk3y-vNWtZM
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/igudesman-and-joo/igudesman-and-joo.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/igudesman-and-joo/igudesman-and-joo.mp3
 duration: "01:10:16" #audio length in min
 length: "136960055" #filesize in byte
 explicit: "yes" #other option is no

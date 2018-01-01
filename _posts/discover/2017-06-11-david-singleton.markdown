@@ -15,7 +15,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: tnCu8N4Zmuc
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/david-singleton/david-singleton.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/david-singleton/david-singleton.mp3
 duration: "34:17" #audio length in min
 length: "67702269" #filesize in byte
 explicit: "yes" #other option is no

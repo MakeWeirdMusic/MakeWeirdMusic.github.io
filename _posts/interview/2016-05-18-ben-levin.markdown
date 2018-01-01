@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: QDKqyIamUJ0
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/ben-levin/ben-levin.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/ben-levin/ben-levin.mp3
 duration: "01:12:21" #audio length in min
 length: "140534652" #filesize in byte
 explicit: "yes" #other option is no

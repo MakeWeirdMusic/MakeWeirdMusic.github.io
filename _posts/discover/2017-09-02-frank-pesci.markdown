@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: KJmaYVVuRnY
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3
 duration: "39:16" #audio length in min
 length: "56745821" #filesize in byte
 explicit: "no" #other option is no

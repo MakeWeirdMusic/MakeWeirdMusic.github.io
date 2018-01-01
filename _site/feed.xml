@@ -5,8 +5,8 @@
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
     <link>http://www.makeweirdmusic.com/</link>
     <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jan 2018 11:57:27 -0700</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2018 11:57:27 -0700</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2018 12:43:17 -0700</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2018 12:43:17 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -25,9 +25,9 @@
 
 &lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;interview-transcription&quot;&gt;Interview Transcription&lt;/h2&gt;
 
@@ -238,9 +238,9 @@
 
 &lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz/panzerballett-x-mas-death-jazz.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz/panzerballett-x-mas-death-jazz.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz/panzerballett-x-mas-death-jazz.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz/panzerballett-x-mas-death-jazz.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
 
@@ -617,9 +617,9 @@
 
 &lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
 
@@ -952,9 +952,9 @@
 
 &lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/chris-opperman/the-cribbage-variations/chris-opperman-cribbage-variations.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/share/chris-opperman/the-cribbage-variations/chris-opperman-cribbage-variations.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/share/chris-opperman/the-cribbage-variations/chris-opperman-cribbage-variations.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/share/chris-opperman/the-cribbage-variations/chris-opperman-cribbage-variations.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
 
@@ -1251,9 +1251,9 @@
 
 &lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/keneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/keneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/keneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/keneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
 
@@ -1878,9 +1878,9 @@
 
 &lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
 
@@ -2312,9 +2312,9 @@
 
 &lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Or, &lt;a href=&quot;https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;interview-transcription&quot;&gt;Interview Transcription&lt;/h2&gt;
 

@@ -15,7 +15,7 @@ sponsors: Software++, Mad Hatter Guitar Products, and Carl King Creative
 draft: no
 has_video: yes
 youtube_id: vwTBhKy2A98
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/steve-vai/steve-vai.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/steve-vai/steve-vai.mp3
 duration: "01:05:01" #audio length in min
 length: "93806887" #filesize in byte
 explicit: "yes" #other option is no

@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: R7oCz8oFhZQ
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/courtney-swain/courtney-swain.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/courtney-swain/courtney-swain.mp3
 duration: "49:35" #audio length in min
 length: "96052750" #filesize in byte
 explicit: "no" #other option is no

@@ -15,7 +15,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: s8cqnlbH2jM
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter.mp3
 duration: "58:45" #audio length in min
 length: "113580607" #filesize in byte
 explicit: "no" #other option is no

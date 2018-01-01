@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: UrwtFrJ0Y1g
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/evil-genius/evil-genius.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/evil-genius/evil-genius.mp3
 duration: "32:35" #audio length in min
 length: "63318596" #filesize in byte
 explicit: "yes" #other option is no

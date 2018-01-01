@@ -14,7 +14,7 @@ front_page: yes
 has_video: yes
 sponsors: Software++, Mad Hatter Guitar Products, and Carl King Creative
 youtube_id: essLZ2eFqnc
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally/mike-keneally.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally/mike-keneally.mp3
 duration: "01:05:01" #audio length in min
 length: "126679653" #filesize in byte
 explicit: "yes" #other option is no

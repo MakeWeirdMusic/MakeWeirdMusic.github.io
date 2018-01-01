@@ -15,7 +15,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: omJhldQT-JQ
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3
 duration: "33:13" #audio length in min
 length: "64493904" #filesize in byte
 explicit: "no" #other option is no

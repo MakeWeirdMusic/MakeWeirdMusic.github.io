@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: tx0rhXKXiOg
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moulettes/moulettes.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moulettes/moulettes.mp3
 duration: "31:01" #audio length in min
 length: "45008602" #filesize in byte
 explicit: "no" #other option is no

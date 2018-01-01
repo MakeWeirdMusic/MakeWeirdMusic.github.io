@@ -14,7 +14,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: FLlzX0DObCY
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz/panzerballett-x-mas-death-jazz.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz/panzerballett-x-mas-death-jazz.mp3
 duration: "42:50" #audio length in min
 length: "51725518" #filesize in byte
 explicit: "yes" #other option is no

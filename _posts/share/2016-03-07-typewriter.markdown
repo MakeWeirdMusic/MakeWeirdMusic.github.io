@@ -15,7 +15,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: hKxuR7x4JrE
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/typewriter/typewriter.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/share/typewriter/typewriter.mp3
 duration: "5:53" #audio length in min
 length: "8038944" #filesize in byte
 explicit: "no" #other option is no

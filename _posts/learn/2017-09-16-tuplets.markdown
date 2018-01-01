@@ -16,7 +16,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: 91zrIPUJRtg
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/tuplets/tuplets-jan-zehrfeld.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/learn/tuplets/tuplets-jan-zehrfeld.mp3
 duration: "36:46" #audio length in min
 length: "44410586" #filesize in byte
 explicit: "no" #other option is no

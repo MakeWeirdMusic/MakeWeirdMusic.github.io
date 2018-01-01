@@ -15,7 +15,7 @@ front_page: no
 has_video: yes
 draft: no
 youtube_id: ZVYPm6fDisg
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part3.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part3.mp3
 duration: "01:07:29" #audio length in min
 length: "64956383" #filesize in byte
 explicit: "yes" #other option is no

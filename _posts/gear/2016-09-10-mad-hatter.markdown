@@ -19,7 +19,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: 2agooTHb3f8
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/mad-hatter/mad-hatter.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/mad-hatter/mad-hatter.mp3
 duration: "52:54" #audio length in min
 length: "77854234" #filesize in byte
 explicit: "no" #other option is no

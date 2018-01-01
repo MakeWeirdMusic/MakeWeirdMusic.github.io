@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: K5IW_C5eeMw
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3
 duration: "22:00" #audio length in min
 length: "31904097" #filesize in byte
 explicit: "no" #other option is no

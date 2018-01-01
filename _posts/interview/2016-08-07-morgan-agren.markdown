@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: 8CkgGTcmJG4
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/morgan-agren/morgan-agren.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/morgan-agren/morgan-agren.mp3
 duration: "01:14:42" #audio length in min
 length: "108844237" #filesize in byte
 explicit: "yes" #other option is no

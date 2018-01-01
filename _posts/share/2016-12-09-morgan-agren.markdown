@@ -18,7 +18,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: irRvqSiasPI
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3
 duration: "23:37" #audio length in min
 length: "45868748" #filesize in byte
 explicit: "no" #other option is no

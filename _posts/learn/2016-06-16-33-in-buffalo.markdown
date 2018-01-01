@@ -14,7 +14,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: MK3rnPPAjQM
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/33-in-buffalo/33-in-buffalo.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/learn/33-in-buffalo/33-in-buffalo.mp3
 duration: "07:04" #audio length in min
 length: "13979808" #filesize in byte
 explicit: "no" #other option is no

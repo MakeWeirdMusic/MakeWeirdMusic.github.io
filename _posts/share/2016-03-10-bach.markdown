@@ -15,7 +15,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: OUDXsoV6-ak
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/bach/bach-1060r.m4a
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/share/bach/bach-1060r.m4a
 duration: "4:27" #audio length in min
 length: "9397803" #filesize in byte
 explicit: "no" #other option is no

@@ -15,7 +15,7 @@ draft: no
 has_video: yes
 redirect_from: /interview/leonardo-pavkovic
 youtube_id: nx_8gLAlFiQ
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moonjune-records/moonjune-records.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moonjune-records/moonjune-records.mp3
 duration: "15:36" #audio length in min
 length: "30260848" #filesize in byte
 explicit: "no" #other option is no

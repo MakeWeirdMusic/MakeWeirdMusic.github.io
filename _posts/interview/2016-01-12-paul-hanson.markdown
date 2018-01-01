@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: 8M-ov1cL_i0
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson.mp3
 duration: "01:08:03" #audio length in min
 length: "65499422" #filesize in byte
 explicit: "no" #other option is no

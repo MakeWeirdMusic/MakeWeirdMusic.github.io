@@ -13,7 +13,7 @@ seo_keywords: mannerisms magnified, dale turner, brian wilson, jeff buckley, bea
 front_page: yes
 has_video: yes
 youtube_id: tvt2GFQGb3E
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/dale-turner/dale-turner.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/dale-turner/dale-turner.mp3
 duration: "01:13:51" #audio length in min
 length: "106480324" #filesize in byte
 explicit: "yes" #other option is no

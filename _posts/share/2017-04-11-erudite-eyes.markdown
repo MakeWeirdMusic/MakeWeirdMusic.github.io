@@ -15,7 +15,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: NeWE8Su3sVc
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/erudite-eyes/erudite-eyes.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/share/erudite-eyes/erudite-eyes.mp3
 duration: "3:37" #audio length in min
 length: "7092855" #filesize in byte
 explicit: "no" #other option is no

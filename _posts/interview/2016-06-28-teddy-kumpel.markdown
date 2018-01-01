@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: hZTfDQvzNbw
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3
 duration: "44:53" #audio length in min
 length: "65346019" #filesize in byte
 explicit: "no" #other option is no

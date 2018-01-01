@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: UftXn22rQ08
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/marco-machera/marco-machera.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/marco-machera/marco-machera.mp3
 duration: "21:21" #audio length in min
 length: "25794867" #filesize in byte
 explicit: "no" #other option is no

@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: _9LgUKKCmDs
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/hyperbass/hyperbass.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/hyperbass/hyperbass.mp3
 duration: "16:53" #audio length in min
 length: "33044260" #filesize in byte
 explicit: "no" #other option is no

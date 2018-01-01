@@ -15,7 +15,7 @@ google_post_url:
 front_page: yes
 has_video: yes
 youtube_id: meZk10p9dFo
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west/andy-west.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west/andy-west.mp3
 duration: "01:12:53" #audio length in min
 length: "142273493" #filesize in byte
 explicit: "no" #other option is no

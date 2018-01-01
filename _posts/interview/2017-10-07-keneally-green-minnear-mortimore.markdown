@@ -15,7 +15,7 @@ draft: no
 has_video: yes
 youtube_id: zJ6Kb6AhpwM
 redirect_from: /interview/keneally-gg
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/keneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/keneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3
 duration: "51:41" #audio length in min
 length: "49622204" #filesize in byte
 explicit: "no" #other option is no

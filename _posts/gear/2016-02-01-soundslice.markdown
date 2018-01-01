@@ -18,7 +18,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: ucgcR3-8BVs
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/soundslice/soundslice.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/soundslice/soundslice.mp3
 duration: "43:01" #audio length in min
 length: "73495813" #filesize in byte
 explicit: "no" #other option is no

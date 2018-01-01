@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: -b7MeucH4Xk
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3
 duration: "26:21" #audio length in min
 length: "31922796" #filesize in byte
 explicit: "no" #other option is no

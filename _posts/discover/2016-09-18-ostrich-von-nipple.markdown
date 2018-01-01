@@ -15,7 +15,7 @@ draft: no
 has_video: yes
 sponsors: Psychofon Records
 youtube_id: jCAk_S5ojaQ
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/ostrich-von-nipple/ostrich-von-nipple.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/ostrich-von-nipple/ostrich-von-nipple.mp3
 duration: "31:11" #audio length in min
 length: "60483778" #filesize in byte
 explicit: "yes" #other option is no

@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2018 Make Weird Music</copyright>
-		<pubDate>Mon, 01 Jan 2018 11:57:27 -0700</pubDate>
-		<lastBuildDate>Mon, 01 Jan 2018 11:57:27 -0700</lastBuildDate>
+		<pubDate>Mon, 01 Jan 2018 12:43:17 -0700</pubDate>
+		<lastBuildDate>Mon, 01 Jan 2018 12:43:17 -0700</lastBuildDate>
 		<image>
 			<link>http://www.makeweirdmusic.com</link>
 			<url>https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -38,7 +38,7 @@
 				<pubDate>Sun, 31 Dec 2017 17:00:00 -0700</pubDate>
 				<description>Steve Ball and Alex Anthony Faide discuss their Argentinian band, Electric Gauchos.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/electric-gauchos/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3" length="31904097" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3" length="31904097" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Electric Gauchos by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Steve Ball and Alex Anthony Faide discuss their Argentinian band, Electric Gauchos.</itunes:summary>
@@ -57,7 +57,7 @@
 				<pubDate>Sat, 25 Nov 2017 17:00:00 -0700</pubDate>
 				<description>Jan Zehrfeld, Mike Keneally, Jen Majura, and Mattias Eklundh talk about the new Panzerballett album.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz/panzerballett-x-mas-death-jazz.mp3" length="51725518" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz/panzerballett-x-mas-death-jazz.mp3" length="51725518" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Share: X-mas Death Jazz by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Jan Zehrfeld, Mike Keneally, Jen Majura, and Mattias Eklundh talk about the new Panzerballett album.</itunes:summary>
@@ -76,7 +76,7 @@
 				<pubDate>Thu, 16 Nov 2017 17:00:00 -0700</pubDate>
 				<description>Jen Majura talks us through her new album, InZENity.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/jen-majura/inzenity</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3" length="40798088" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3" length="40798088" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Share: InZENity by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Jen Majura talks us through her new album, InZENity.</itunes:summary>
@@ -95,7 +95,7 @@
 				<pubDate>Fri, 03 Nov 2017 17:00:00 -0700</pubDate>
 				<description>Chris Opperman shares a new set of variations he's arranged for a November 2017 performance.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/the-cribbage-variations</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/share/chris-opperman/the-cribbage-variations/chris-opperman-cribbage-variations.mp3" length="40798088" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/share/chris-opperman/the-cribbage-variations/chris-opperman-cribbage-variations.mp3" length="40798088" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Share: The Cribbage Variations by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Chris Opperman shares a new set of variations he's arranged for a November 2017 performance.</itunes:summary>
@@ -114,7 +114,7 @@
 				<pubDate>Fri, 06 Oct 2017 17:00:00 -0700</pubDate>
 				<description>Mike Keneally (Zappa, Vai, Satriani) and members of Gentle Giant talk about songwriting.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/keneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3" length="49622204" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/keneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3" length="49622204" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Mike Keneally, Gary Green, Kerry Minnear, &amp; Malcolm Mortimore Chat by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Mike Keneally (Zappa, Vai, Satriani) and members of Gentle Giant talk about songwriting.</itunes:summary>
@@ -133,7 +133,7 @@
 				<pubDate>Thu, 21 Sep 2017 17:00:00 -0700</pubDate>
 				<description>Andy West (Dixie Dregs) and Markus Reuter (Stick Men, centrozoon) chat music in my living room.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/andy-west-markus-reuter</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3" length="45469623" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3" length="45469623" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Andy West &amp; Markus Reuter Chat by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Andy West (Dixie Dregs) and Markus Reuter (Stick Men, centrozoon) chat music in my living room.</itunes:summary>
@@ -152,7 +152,7 @@
 				<pubDate>Fri, 15 Sep 2017 17:00:00 -0700</pubDate>
 				<description>Jan Zehrfeld of Panzerballett shares his expertise in tuplets and polyrhythms.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/tuplets</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/tuplets/tuplets-jan-zehrfeld.mp3" length="44410586" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/learn/tuplets/tuplets-jan-zehrfeld.mp3" length="44410586" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Learn: Tuplets with Jan Zehrfeld by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Jan Zehrfeld of Panzerballett shares his expertise in tuplets and polyrhythms.</itunes:summary>
@@ -171,7 +171,7 @@
 				<pubDate>Fri, 01 Sep 2017 17:00:00 -0700</pubDate>
 				<description>Frank Pesci is an American contemporary opera composer based in Germany.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/frank-pesci/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3" length="56745821" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3" length="56745821" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Frank Pesci by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Frank Pesci is an American contemporary opera composer based in Germany.</itunes:summary>
@@ -194,7 +194,7 @@
 				<pubDate>Fri, 18 Aug 2017 17:00:00 -0700</pubDate>
 				<description>Marco Machera is best known for his work in EchoTest with Julie Slick.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/marco-machera/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/marco-machera/marco-machera.mp3" length="25794867" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/marco-machera/marco-machera.mp3" length="25794867" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Marco Machera by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Marco Machera is best known for his work in EchoTest with Julie Slick.</itunes:summary>
@@ -217,7 +217,7 @@
 				<pubDate>Wed, 12 Jul 2017 17:00:00 -0700</pubDate>
 				<description>Markus Reuter's fans submitted some tough questions for him to answer.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/markus-reuter/2017/06</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter-201706.mp3" length="92456681" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter-201706.mp3" length="92456681" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Markus Reuter Q&amp;A by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Markus Reuter's fans submitted some tough questions for him to answer.</itunes:summary>
@@ -238,7 +238,7 @@
 				<pubDate>Wed, 14 Jun 2017 17:00:00 -0700</pubDate>
 				<description>David Singleton is a songwriter, producer, and record executive working closely with Robert Fripp.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/david-singleton/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/david-singleton/david-singleton.mp3" length="67702269" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/david-singleton/david-singleton.mp3" length="67702269" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: David Singleton by Make Weird Music</itunes:subtitle>
 				<itunes:summary>David Singleton is a songwriter, producer, and record executive working closely with Robert Fripp.</itunes:summary>
@@ -259,7 +259,7 @@
 				<pubDate>Sat, 27 May 2017 17:00:00 -0700</pubDate>
 				<description>Hyung-ki Joo and Aleksey Igudesman (sorta) join us to talk about their mission.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/igudesman-and-joo</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/igudesman-and-joo/igudesman-and-joo.mp3" length="136960055" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/igudesman-and-joo/igudesman-and-joo.mp3" length="136960055" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Iguesman &amp; Joo by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Hyung-ki Joo and Aleksey Igudesman (sorta) join us to talk about their mission.</itunes:summary>
@@ -280,7 +280,7 @@
 				<pubDate>Fri, 28 Apr 2017 17:00:00 -0700</pubDate>
 				<description>Learn how to play the intro to Béla Fleck's Something She Said.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/something-she-said</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/something-she-said/something-she-said.mp3" length="7421096" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/learn/something-she-said/something-she-said.mp3" length="7421096" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Learn: Something She Said by Béla Fleck by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Learn how to play the intro to Béla Fleck's Something She Said.</itunes:summary>
@@ -299,7 +299,7 @@
 				<pubDate>Mon, 10 Apr 2017 17:00:00 -0700</pubDate>
 				<description>A moody, electronic cover of Erudite Eyes (1968) by Robert Fripp</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/erudite-eyes</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/share/erudite-eyes/erudite-eyes.mp3" length="7092855" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/share/erudite-eyes/erudite-eyes.mp3" length="7092855" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Share: Erudite Eyes by Robert Fripp (Cover) by Make Weird Music</itunes:subtitle>
 				<itunes:summary>A moody, electronic cover of Erudite Eyes (1968) by Robert Fripp</itunes:summary>
@@ -318,7 +318,7 @@
 				<pubDate>Fri, 24 Mar 2017 17:00:00 -0700</pubDate>
 				<description>Evil Genius is an experimental jazz trio out of LA featuring guitar, drums, and tuba.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/evil-genius/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/evil-genius/evil-genius.mp3" length="63318596" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/evil-genius/evil-genius.mp3" length="63318596" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Evil Genius by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Evil Genius is an experimental jazz trio out of LA featuring guitar, drums, and tuba.</itunes:summary>
@@ -345,7 +345,7 @@
 				<pubDate>Mon, 09 Jan 2017 17:00:00 -0700</pubDate>
 				<description>Patrick Grant is a composer based in New York City and founder of Tilted Axes.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/patrick-grant/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/patrick-grant/patrick-grant.mp3" length="86411503" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/patrick-grant/patrick-grant.mp3" length="86411503" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Patrick Grant by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Patrick Grant is a composer based in New York City and founder of Tilted Axes.</itunes:summary>
@@ -364,7 +364,7 @@
 				<pubDate>Thu, 05 Jan 2017 12:14:46 -0700</pubDate>
 				<description>Steve Vai's EVO guitar has never sounded better!</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/evo</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo/EVO-mad-hatter.mp3" length="27232301" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo/EVO-mad-hatter.mp3" length="27232301" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Gear: Steve Vai's EVO &amp; Mad Hatter Terminator Kit by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Steve Vai's EVO guitar has never sounded better!</itunes:summary>
@@ -383,7 +383,7 @@
 				<pubDate>Thu, 22 Dec 2016 17:00:00 -0700</pubDate>
 				<description>Mike Keneally (Frank Zappa, Steve Vai) and Andy West (Dixie Dregs) sit down to chat about music.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3" length="64493904" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3" length="64493904" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Mike Keneally Talks To Andy West by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Mike Keneally (Frank Zappa, Steve Vai) and Andy West (Dixie Dregs) sit down to chat about music.</itunes:summary>
@@ -402,7 +402,7 @@
 				<pubDate>Thu, 22 Dec 2016 17:00:00 -0700</pubDate>
 				<description>Mike Keneally (Frank Zappa, Steve Vai) and Andy West (Dixie Dregs) sit down to chat about music.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3" length="64493904" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3" length="64493904" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Mike Keneally Talks To Andy West by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Mike Keneally (Frank Zappa, Steve Vai) and Andy West (Dixie Dregs) sit down to chat about music.</itunes:summary>
@@ -423,7 +423,7 @@
 				<pubDate>Sat, 10 Dec 2016 17:00:00 -0700</pubDate>
 				<description>Courtney Swain is the singer of the band Bent Knee, a progressive band out of the Boston area.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/courtney-swain/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/courtney-swain/courtney-swain.mp3" length="96052750" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/courtney-swain/courtney-swain.mp3" length="96052750" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Courtney Swain by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Courtney Swain is the singer of the band Bent Knee, a progressive band out of the Boston area.</itunes:summary>
@@ -442,7 +442,7 @@
 				<pubDate>Fri, 09 Dec 2016 12:14:46 -0700</pubDate>
 				<description>Morgan Ågren tells us about the Morgchestra and the Mats/Morgan 35th Anniversary.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/morgan-agren/morgchestra</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3" length="45868748" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3" length="45868748" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Share: New Morgan Ågren Releases by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Morgan Ågren tells us about the Morgchestra and the Mats/Morgan 35th Anniversary.</itunes:summary>
@@ -463,7 +463,7 @@
 				<pubDate>Tue, 29 Nov 2016 17:00:00 -0700</pubDate>
 				<description>The Moulettes will knock your socks off with their power folk vocals and instrumentation.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/moulettes/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moulettes/moulettes.mp3" length="45008602" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moulettes/moulettes.mp3" length="45008602" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Moulettes by Make Weird Music</itunes:subtitle>
 				<itunes:summary>The Moulettes will knock your socks off with their power folk vocals and instrumentation.</itunes:summary>
@@ -484,7 +484,7 @@
 				<pubDate>Sat, 05 Nov 2016 17:00:00 -0700</pubDate>
 				<description>Julie Slick will crush you with her skills on the bass and songwriting.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/julie-slick/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/julie-slick/julie-slick.mp3" length="20420666" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/julie-slick/julie-slick.mp3" length="20420666" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Julie Slick by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Julie Slick will crush you with her skills on the bass and songwriting.</itunes:summary>
@@ -505,7 +505,7 @@
 				<pubDate>Sat, 15 Oct 2016 17:00:00 -0700</pubDate>
 				<description>Steve Ball has spend decades working with Robert Fripp on Guitar Craft and various groups.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/steve-ball/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3" length="31922796" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3" length="31922796" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Steve Ball by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Steve Ball has spend decades working with Robert Fripp on Guitar Craft and various groups.</itunes:summary>
@@ -526,7 +526,7 @@
 				<pubDate>Sat, 17 Sep 2016 17:00:00 -0700</pubDate>
 				<description>Ostrich Von Nipple hails from another land with another way of thinking about another kind of music.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/ostrich-von-nipple/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/ostrich-von-nipple/ostrich-von-nipple.mp3" length="60483778" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/ostrich-von-nipple/ostrich-von-nipple.mp3" length="60483778" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Ostrich Von Nipple by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Ostrich Von Nipple hails from another land with another way of thinking about another kind of music.</itunes:summary>
@@ -545,7 +545,7 @@
 				<pubDate>Sat, 10 Sep 2016 12:14:46 -0700</pubDate>
 				<description>Mad Hatter Guitar Products will make a huge difference in the capabilities of your guitar or bass.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/mad-hatter</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/mad-hatter/mad-hatter.mp3" length="77854234" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/mad-hatter/mad-hatter.mp3" length="77854234" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Gear: Mad Hatter Guitar Products by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Mad Hatter Guitar Products will make a huge difference in the capabilities of your guitar or bass.</itunes:summary>
@@ -566,7 +566,7 @@
 				<pubDate>Fri, 19 Aug 2016 17:00:00 -0700</pubDate>
 				<description>Terry Bozzio is an artist on canvas and on the drum kit. We spent 40 minutes talking with the tour de force of creativity and composition.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/terry-bozzio/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/terry-bozzio/terry-bozzio.mp3" length="64078703" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/terry-bozzio/terry-bozzio.mp3" length="64078703" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Terry Bozzio by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Terry Bozzio is an artist on canvas and on the drum kit. We spent 40 minutes talking with the tour de force of creativity and composition.</itunes:summary>
@@ -585,7 +585,7 @@
 				<pubDate>Mon, 08 Aug 2016 17:00:00 -0700</pubDate>
 				<description>Morgan Ågren is one of the most innovative drummers on the planet. We talk to him about his upbringing, work with his musical partner Mats Öberg, his musical foundation, and who he's currently working with. Some great, hilarious Frank Zappa stories in here as well.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/morgan-agren/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/morgan-agren/morgan-agren.mp3" length="108844237" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/morgan-agren/morgan-agren.mp3" length="108844237" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Morgan Agren by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Morgan Ågren is one of the most innovative drummers on the planet. We talk to him about his upbringing, work with his musical partner Mats Öberg, his musical foundation, and who he's currently working with. Some great, hilarious Frank Zappa stories in here as well.</itunes:summary>
@@ -604,7 +604,7 @@
 				<pubDate>Fri, 05 Aug 2016 12:14:46 -0700</pubDate>
 				<description>Learn more about New York-based MoonJune Records from its owner, Leonardo Pavkovic.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/moonjune-records/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moonjune-records/moonjune-records.mp3" length="30260848" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moonjune-records/moonjune-records.mp3" length="30260848" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Discover: Discover MoonJune Records by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Learn more about New York-based MoonJune Records from its owner, Leonardo Pavkovic.</itunes:summary>
@@ -625,7 +625,7 @@
 				<pubDate>Sat, 23 Jul 2016 17:00:00 -0700</pubDate>
 				<description>Markus Reuter is a prolific, diverse guitarist, composer, and musician from Berlin, Germany</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/markus-reuter/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter.mp3" length="113580607" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter.mp3" length="113580607" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Markus Reuter by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Markus Reuter is a prolific, diverse guitarist, composer, and musician from Berlin, Germany</itunes:summary>
@@ -646,7 +646,7 @@
 				<pubDate>Tue, 05 Jul 2016 12:14:46 -0700</pubDate>
 				<description>Teddy is Joe Jackson's guitarist and runs the Loopestra.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/teddy-kumpel/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3" length="65346019" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3" length="65346019" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Teddy Kumpel Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Teddy is Joe Jackson's guitarist and runs the Loopestra.</itunes:summary>
@@ -667,7 +667,7 @@
 				<pubDate>Thu, 16 Jun 2016 12:14:46 -0700</pubDate>
 				<description>Learn how to play my favorite Robbie Seahag song.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/33-in-buffalo/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/33-in-buffalo/33-in-buffalo.mp3" length="13979808" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/learn/33-in-buffalo/33-in-buffalo.mp3" length="13979808" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Learn: 33 in Buffalo by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Learn how to play my favorite Robbie Seahag song.</itunes:summary>
@@ -686,7 +686,7 @@
 				<pubDate>Sun, 29 May 2016 12:14:46 -0700</pubDate>
 				<description>The Zon Hyperbass is an incredible instrument and a feat of luthiery.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/hyperbass</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/hyperbass/hyperbass.mp3" length="33044260" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/hyperbass/hyperbass.mp3" length="33044260" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Gear: Zon Michael Manring Hyperbass by Make Weird Music</itunes:subtitle>
 				<itunes:summary>The Zon Hyperbass is an incredible instrument and a feat of luthiery.</itunes:summary>
@@ -705,7 +705,7 @@
 				<pubDate>Wed, 18 May 2016 12:14:46 -0700</pubDate>
 				<description>Homer Flynn is the manager and visual designer for The Residents.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/homer-flynn/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3" length="87784511" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3" length="87784511" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Homer Flynn Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Homer Flynn is the manager and visual designer for The Residents.</itunes:summary>
@@ -724,7 +724,7 @@
 				<pubDate>Wed, 18 May 2016 12:14:46 -0700</pubDate>
 				<description>Ben Levin is the guitarist from Bent Knee. He is nice and fun. He has an interesting take on things.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/ben-levin/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/ben-levin/ben-levin.mp3" length="140534652" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/ben-levin/ben-levin.mp3" length="140534652" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Ben Levin Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Ben Levin is the guitarist from Bent Knee. He is nice and fun. He has an interesting take on things.</itunes:summary>
@@ -743,7 +743,7 @@
 				<pubDate>Sat, 30 Apr 2016 12:14:46 -0700</pubDate>
 				<description>Mattias IA Eklundh talks about life in Sweden and having nothing to do but play music.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mattias-eklundh/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/matthias-eklundh/matthias-eklundh.mp3" length="115627874" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/matthias-eklundh/matthias-eklundh.mp3" length="115627874" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Mattias Eklundh Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Mattias IA Eklundh talks about life in Sweden and having nothing to do but play music.</itunes:summary>
@@ -768,7 +768,7 @@
 				<pubDate>Thu, 10 Mar 2016 12:14:46 -0700</pubDate>
 				<description>This is my contest entry for the Panzerballett Typewriter II cover contest.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/typewriter</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/share/typewriter/typewriter.mp3" length="8038944" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/share/typewriter/typewriter.mp3" length="8038944" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Share: Panzerballett Typewriter Contest Entry by Make Weird Music</itunes:subtitle>
 				<itunes:summary>This is my contest entry for the Panzerballett Typewriter II cover contest.</itunes:summary>
@@ -789,7 +789,7 @@
 				<pubDate>Mon, 07 Mar 2016 12:14:46 -0700</pubDate>
 				<description>Bach shred-fest in progressive rock regalia.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/bach</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/share/bach/bach-1060r.m4a" length="9397803" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/share/bach/bach-1060r.m4a" length="9397803" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Share: Prog Cover of BWV 1060R by J.S. Bach by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Bach shred-fest in progressive rock regalia.</itunes:summary>
@@ -816,7 +816,7 @@
 				<pubDate>Fri, 05 Feb 2016 12:14:46 -0700</pubDate>
 				<description>Jeff Berlin talks to us about his deep personal transformation and dark night of the soul.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jeff-berlin/part-2/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-part2.mp3" length="26094898" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-part2.mp3" length="26094898" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Jeff Berlin Interview, Part 2 by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Jeff Berlin talks to us about his deep personal transformation and dark night of the soul.</itunes:summary>
@@ -835,7 +835,7 @@
 				<pubDate>Fri, 05 Feb 2016 12:14:46 -0700</pubDate>
 				<description>Jeff Berlin talks to us about his career and new thoughts on music education.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jeff-berlin/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-part1.mp3" length="70554471" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-part1.mp3" length="70554471" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Jeff Berlin Interview, Part 1 by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Jeff Berlin talks to us about his career and new thoughts on music education.</itunes:summary>
@@ -856,7 +856,7 @@
 				<pubDate>Mon, 01 Feb 2016 12:14:46 -0700</pubDate>
 				<description>Interview with Adrian Holovaty, co-founder of Soundslice.com.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/soundslice</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/soundslice/soundslice.mp3" length="73495813" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/soundslice/soundslice.mp3" length="73495813" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Gear: Soundslice by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Interview with Adrian Holovaty, co-founder of Soundslice.com.</itunes:summary>
@@ -887,7 +887,7 @@
 				<pubDate>Tue, 12 Jan 2016 12:14:46 -0700</pubDate>
 				<description>Paul Hanson, former bassoonist for Bela Fleck and the Flecktones, talks to us about his formation and career.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/paul-hanson/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson.mp3" length="65499422" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson.mp3" length="65499422" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Paul Hanson Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Paul Hanson, former bassoonist for Bela Fleck and the Flecktones, talks to us about his formation and career.</itunes:summary>
@@ -912,7 +912,7 @@
 				<pubDate>Thu, 17 Dec 2015 12:14:46 -0700</pubDate>
 				<description>Michael Manring has advanced bass playing with his virtuosity, creativity, and extraterrestrial hyperbass.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/michael-manring/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/michael-manring/michael-manring.mp3" length="64956383" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/michael-manring/michael-manring.mp3" length="64956383" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Michael Manring Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Michael Manring has advanced bass playing with his virtuosity, creativity, and extraterrestrial hyperbass.</itunes:summary>
@@ -931,7 +931,7 @@
 				<pubDate>Sat, 12 Dec 2015 12:14:46 -0700</pubDate>
 				<description>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-4/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part4.mp3" length="32190369" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part4.mp3" length="32190369" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Jan Zehrfeld Interview, Part 4 by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</itunes:summary>
@@ -952,7 +952,7 @@
 				<pubDate>Fri, 27 Nov 2015 12:14:46 -0700</pubDate>
 				<description>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-3/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part3.mp3" length="64956383" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part3.mp3" length="64956383" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Jan Zehrfeld Interview, Part 3 by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</itunes:summary>
@@ -971,7 +971,7 @@
 				<pubDate>Sat, 21 Nov 2015 12:14:46 -0700</pubDate>
 				<description>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-2/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part2.mp3" length="25144622" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part2.mp3" length="25144622" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Jan Zehrfeld Interview, Part 2 by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</itunes:summary>
@@ -990,7 +990,7 @@
 				<pubDate>Wed, 11 Nov 2015 12:14:46 -0700</pubDate>
 				<description>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jan-zehrfeld/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part1.mp3" length="55259208" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part1.mp3" length="55259208" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Jan Zehrfeld Interview, Part 1 by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</itunes:summary>
@@ -1013,7 +1013,7 @@
 				<pubDate>Fri, 25 Sep 2015 12:14:46 -0700</pubDate>
 				<description>Steve Vai has blazed several trails in the art of guitar technique, manufacturing, performance, sounds, and composition.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/steve-vai/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/steve-vai/steve-vai.mp3" length="93806887" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/steve-vai/steve-vai.mp3" length="93806887" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Steve Vai Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Steve Vai has blazed several trails in the art of guitar technique, manufacturing, performance, sounds, and composition.</itunes:summary>
@@ -1032,7 +1032,7 @@
 				<pubDate>Fri, 25 Sep 2015 12:14:46 -0700</pubDate>
 				<description>Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally/mike-keneally.mp3" length="126679653" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally/mike-keneally.mp3" length="126679653" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Mike Keneally Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.</itunes:summary>
@@ -1059,7 +1059,7 @@
 				<pubDate>Sat, 27 Jun 2015 12:14:46 -0700</pubDate>
 				<description>Harnch is a jazz fusion guitar instrumental track by Anthony Garone. It's overly complex.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/harnch/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/share/harnch/harnch.mp3" length="5938699" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/share/harnch/harnch.mp3" length="5938699" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Share: Harnch by Anthony Garone by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Harnch is a jazz fusion guitar instrumental track by Anthony Garone. It's overly complex.</itunes:summary>
@@ -1080,7 +1080,7 @@
 				<pubDate>Mon, 25 May 2015 12:14:46 -0700</pubDate>
 				<description>Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/dale-turner/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/dale-turner/dale-turner.mp3" length="106480324" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/dale-turner/dale-turner.mp3" length="106480324" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Dale Turner Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.</itunes:summary>
@@ -1101,7 +1101,7 @@
 				<pubDate>Mon, 06 Apr 2015 12:14:46 -0700</pubDate>
 				<description>Andy West is best known as the bassist for the Dixie Dregs, a band he started with Steve Morse.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/andy-west/</guid>
-				<enclosure url="https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west/andy-west.mp3" length="142273493" type="audio/mp3"/>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west/andy-west.mp3" length="142273493" type="audio/mp3"/>
 				<itunes:author>Anthony Garone</itunes:author>
 				<itunes:subtitle>Interview: Andy West Interview by Make Weird Music</itunes:subtitle>
 				<itunes:summary>Andy West is best known as the bassist for the Dixie Dregs, a band he started with Steve Morse.</itunes:summary>

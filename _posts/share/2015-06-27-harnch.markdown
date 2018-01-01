@@ -15,7 +15,7 @@ google_post_url:
 front_page: yes
 has_video: yes
 youtube_id: hKxuR7x4JrE
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/harnch/harnch.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/share/harnch/harnch.mp3
 duration: "4:14" #audio length in min
 length: "5938699" #filesize in byte
 explicit: "no" #other option is no

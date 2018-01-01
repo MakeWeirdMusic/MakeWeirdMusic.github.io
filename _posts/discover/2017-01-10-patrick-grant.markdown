@@ -14,7 +14,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: 0VBDV0YxGUg
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/discover/patrick-grant/patrick-grant.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/patrick-grant/patrick-grant.mp3
 duration: "44:16" #audio length in min
 length: "86411503" #filesize in byte
 explicit: "no" #other option is no

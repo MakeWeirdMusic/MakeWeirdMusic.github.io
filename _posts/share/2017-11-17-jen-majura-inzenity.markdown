@@ -14,7 +14,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: B3i6bcFhVXI
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3
 duration: "27:38" #audio length in min
 length: "40798088" #filesize in byte
 explicit: "yes" #other option is no

@@ -15,7 +15,7 @@ front_page: yes
 draft: no
 has_video: yes
 youtube_id: _suLx937mKU
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-part1.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-part1.mp3
 duration: "01:13:15" #audio length in min
 length: "70554471" #filesize in byte
 explicit: "no" #other option is no

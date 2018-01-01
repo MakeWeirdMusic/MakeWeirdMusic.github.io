@@ -15,7 +15,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: M-fdyC388-s
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/learn/something-she-said/something-she-said.mp3
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/learn/something-she-said/something-she-said.mp3
 duration: "03:39" #audio length in min
 length: "7421096" #filesize in byte
 explicit: "no" #other option is no
