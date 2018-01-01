@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2018 Make Weird Music</copyright>
-		<pubDate>Mon, 01 Jan 2018 13:09:25 -0700</pubDate>
-		<lastBuildDate>Mon, 01 Jan 2018 13:09:25 -0700</lastBuildDate>
+		<pubDate>Mon, 01 Jan 2018 15:38:10 -0700</pubDate>
+		<lastBuildDate>Mon, 01 Jan 2018 15:38:10 -0700</lastBuildDate>
 		<image>
 			<link>http://www.makeweirdmusic.com</link>
 			<url>https://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -34,7 +34,7 @@
 			
 			<item>
 				<title>Discover: Electric Gauchos</title>
-				<link>http://www.makeweirdmusic.com/discover/electric-gauchos/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/electric-gauchos/electric-gauchos.mp3</link>
 				<pubDate>Sun, 31 Dec 2017 17:00:00 -0700</pubDate>
 				<description>Steve Ball and Alex Anthony Faide discuss their Argentinian band, Electric Gauchos.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/electric-gauchos/</guid>
@@ -53,7 +53,7 @@
 			
 			<item>
 				<title>Share: X-mas Death Jazz</title>
-				<link>http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz/panzerballett-x-mas-death-jazz.mp3</link>
 				<pubDate>Sat, 25 Nov 2017 17:00:00 -0700</pubDate>
 				<description>Jan Zehrfeld, Mike Keneally, Jen Majura, and Mattias Eklundh talk about the new Panzerballett album.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</guid>
@@ -72,7 +72,7 @@
 			
 			<item>
 				<title>Share: InZENity</title>
-				<link>http://www.makeweirdmusic.com/share/jen-majura/inzenity</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3</link>
 				<pubDate>Thu, 16 Nov 2017 17:00:00 -0700</pubDate>
 				<description>Jen Majura talks us through her new album, InZENity.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/jen-majura/inzenity</guid>
@@ -91,7 +91,7 @@
 			
 			<item>
 				<title>Share: The Cribbage Variations</title>
-				<link>http://www.makeweirdmusic.com/share/the-cribbage-variations</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/share/chris-opperman/the-cribbage-variations/chris-opperman-cribbage-variations.mp3</link>
 				<pubDate>Fri, 03 Nov 2017 17:00:00 -0700</pubDate>
 				<description>Chris Opperman shares a new set of variations he's arranged for a November 2017 performance.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/the-cribbage-variations</guid>
@@ -110,7 +110,7 @@
 			
 			<item>
 				<title>Interview: Mike Keneally, Gary Green, Kerry Minnear, &amp; Malcolm Mortimore Chat</title>
-				<link>http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/keneally-green-minnear-mortimore/keneally-green-minnear-mortimore.mp3</link>
 				<pubDate>Fri, 06 Oct 2017 17:00:00 -0700</pubDate>
 				<description>Mike Keneally (Zappa, Vai, Satriani) and members of Gentle Giant talk about songwriting.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</guid>
@@ -129,7 +129,7 @@
 			
 			<item>
 				<title>Interview: Andy West &amp; Markus Reuter Chat</title>
-				<link>http://www.makeweirdmusic.com/interview/andy-west-markus-reuter</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3</link>
 				<pubDate>Thu, 21 Sep 2017 17:00:00 -0700</pubDate>
 				<description>Andy West (Dixie Dregs) and Markus Reuter (Stick Men, centrozoon) chat music in my living room.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/andy-west-markus-reuter</guid>
@@ -148,7 +148,7 @@
 			
 			<item>
 				<title>Learn: Tuplets with Jan Zehrfeld</title>
-				<link>http://www.makeweirdmusic.com/learn/tuplets</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/learn/tuplets/tuplets-jan-zehrfeld.mp3</link>
 				<pubDate>Fri, 15 Sep 2017 17:00:00 -0700</pubDate>
 				<description>Jan Zehrfeld of Panzerballett shares his expertise in tuplets and polyrhythms.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/tuplets</guid>
@@ -167,7 +167,7 @@
 			
 			<item>
 				<title>Discover: Frank Pesci</title>
-				<link>http://www.makeweirdmusic.com/discover/frank-pesci/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/frank-pesci/frank-pesci.mp3</link>
 				<pubDate>Fri, 01 Sep 2017 17:00:00 -0700</pubDate>
 				<description>Frank Pesci is an American contemporary opera composer based in Germany.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/frank-pesci/</guid>
@@ -190,7 +190,7 @@
 			
 			<item>
 				<title>Discover: Marco Machera</title>
-				<link>http://www.makeweirdmusic.com/discover/marco-machera/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/marco-machera/marco-machera.mp3</link>
 				<pubDate>Fri, 18 Aug 2017 17:00:00 -0700</pubDate>
 				<description>Marco Machera is best known for his work in EchoTest with Julie Slick.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/marco-machera/</guid>
@@ -213,7 +213,7 @@
 			
 			<item>
 				<title>Interview: Markus Reuter Q&amp;A</title>
-				<link>http://www.makeweirdmusic.com/interview/markus-reuter/2017/06</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter-201706.mp3</link>
 				<pubDate>Wed, 12 Jul 2017 17:00:00 -0700</pubDate>
 				<description>Markus Reuter's fans submitted some tough questions for him to answer.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/markus-reuter/2017/06</guid>
@@ -234,7 +234,7 @@
 			
 			<item>
 				<title>Discover: David Singleton</title>
-				<link>http://www.makeweirdmusic.com/discover/david-singleton/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/david-singleton/david-singleton.mp3</link>
 				<pubDate>Wed, 14 Jun 2017 17:00:00 -0700</pubDate>
 				<description>David Singleton is a songwriter, producer, and record executive working closely with Robert Fripp.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/david-singleton/</guid>
@@ -255,7 +255,7 @@
 			
 			<item>
 				<title>Interview: Iguesman &amp; Joo</title>
-				<link>http://www.makeweirdmusic.com/interview/igudesman-and-joo</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/igudesman-and-joo/igudesman-and-joo.mp3</link>
 				<pubDate>Sat, 27 May 2017 17:00:00 -0700</pubDate>
 				<description>Hyung-ki Joo and Aleksey Igudesman (sorta) join us to talk about their mission.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/igudesman-and-joo</guid>
@@ -276,7 +276,7 @@
 			
 			<item>
 				<title>Learn: Something She Said by Béla Fleck</title>
-				<link>http://www.makeweirdmusic.com/learn/something-she-said</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/learn/something-she-said/something-she-said.mp3</link>
 				<pubDate>Fri, 28 Apr 2017 17:00:00 -0700</pubDate>
 				<description>Learn how to play the intro to Béla Fleck's Something She Said.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/something-she-said</guid>
@@ -295,7 +295,7 @@
 			
 			<item>
 				<title>Share: Erudite Eyes by Robert Fripp (Cover)</title>
-				<link>http://www.makeweirdmusic.com/share/erudite-eyes</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/share/erudite-eyes/erudite-eyes.mp3</link>
 				<pubDate>Mon, 10 Apr 2017 17:00:00 -0700</pubDate>
 				<description>A moody, electronic cover of Erudite Eyes (1968) by Robert Fripp</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/erudite-eyes</guid>
@@ -314,7 +314,7 @@
 			
 			<item>
 				<title>Discover: Evil Genius</title>
-				<link>http://www.makeweirdmusic.com/discover/evil-genius/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/evil-genius/evil-genius.mp3</link>
 				<pubDate>Fri, 24 Mar 2017 17:00:00 -0700</pubDate>
 				<description>Evil Genius is an experimental jazz trio out of LA featuring guitar, drums, and tuba.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/evil-genius/</guid>
@@ -341,7 +341,7 @@
 			
 			<item>
 				<title>Discover: Patrick Grant</title>
-				<link>http://www.makeweirdmusic.com/discover/patrick-grant/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/patrick-grant/patrick-grant.mp3</link>
 				<pubDate>Mon, 09 Jan 2017 17:00:00 -0700</pubDate>
 				<description>Patrick Grant is a composer based in New York City and founder of Tilted Axes.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/patrick-grant/</guid>
@@ -360,7 +360,7 @@
 			
 			<item>
 				<title>Gear: Steve Vai's EVO &amp; Mad Hatter Terminator Kit</title>
-				<link>http://www.makeweirdmusic.com/gear/evo</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/evo/EVO-mad-hatter.mp3</link>
 				<pubDate>Thu, 05 Jan 2017 12:14:46 -0700</pubDate>
 				<description>Steve Vai's EVO guitar has never sounded better!</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/evo</guid>
@@ -379,7 +379,7 @@
 			
 			<item>
 				<title>Interview: Mike Keneally Talks To Andy West</title>
-				<link>http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3</link>
 				<pubDate>Thu, 22 Dec 2016 17:00:00 -0700</pubDate>
 				<description>Mike Keneally (Frank Zappa, Steve Vai) and Andy West (Dixie Dregs) sit down to chat about music.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</guid>
@@ -398,7 +398,7 @@
 			
 			<item>
 				<title>Interview: Mike Keneally Talks To Andy West</title>
-				<link>http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally-andy-west/mike-keneally-andy-west.mp3</link>
 				<pubDate>Thu, 22 Dec 2016 17:00:00 -0700</pubDate>
 				<description>Mike Keneally (Frank Zappa, Steve Vai) and Andy West (Dixie Dregs) sit down to chat about music.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally-andy-west</guid>
@@ -419,7 +419,7 @@
 			
 			<item>
 				<title>Discover: Courtney Swain</title>
-				<link>http://www.makeweirdmusic.com/discover/courtney-swain/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/courtney-swain/courtney-swain.mp3</link>
 				<pubDate>Sat, 10 Dec 2016 17:00:00 -0700</pubDate>
 				<description>Courtney Swain is the singer of the band Bent Knee, a progressive band out of the Boston area.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/courtney-swain/</guid>
@@ -438,7 +438,7 @@
 			
 			<item>
 				<title>Share: New Morgan Ågren Releases</title>
-				<link>http://www.makeweirdmusic.com/share/morgan-agren/morgchestra</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/share/morgan-agren/morgchestra/morgan-agren-morgchestra.mp3</link>
 				<pubDate>Fri, 09 Dec 2016 12:14:46 -0700</pubDate>
 				<description>Morgan Ågren tells us about the Morgchestra and the Mats/Morgan 35th Anniversary.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/morgan-agren/morgchestra</guid>
@@ -459,7 +459,7 @@
 			
 			<item>
 				<title>Discover: Moulettes</title>
-				<link>http://www.makeweirdmusic.com/discover/moulettes/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moulettes/moulettes.mp3</link>
 				<pubDate>Tue, 29 Nov 2016 17:00:00 -0700</pubDate>
 				<description>The Moulettes will knock your socks off with their power folk vocals and instrumentation.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/moulettes/</guid>
@@ -480,7 +480,7 @@
 			
 			<item>
 				<title>Discover: Julie Slick</title>
-				<link>http://www.makeweirdmusic.com/discover/julie-slick/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/julie-slick/julie-slick.mp3</link>
 				<pubDate>Sat, 05 Nov 2016 17:00:00 -0700</pubDate>
 				<description>Julie Slick will crush you with her skills on the bass and songwriting.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/julie-slick/</guid>
@@ -501,7 +501,7 @@
 			
 			<item>
 				<title>Discover: Steve Ball</title>
-				<link>http://www.makeweirdmusic.com/discover/steve-ball/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/steve-ball/steve-ball.mp3</link>
 				<pubDate>Sat, 15 Oct 2016 17:00:00 -0700</pubDate>
 				<description>Steve Ball has spend decades working with Robert Fripp on Guitar Craft and various groups.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/steve-ball/</guid>
@@ -522,7 +522,7 @@
 			
 			<item>
 				<title>Discover: Ostrich Von Nipple</title>
-				<link>http://www.makeweirdmusic.com/discover/ostrich-von-nipple/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/ostrich-von-nipple/ostrich-von-nipple.mp3</link>
 				<pubDate>Sat, 17 Sep 2016 17:00:00 -0700</pubDate>
 				<description>Ostrich Von Nipple hails from another land with another way of thinking about another kind of music.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/ostrich-von-nipple/</guid>
@@ -541,7 +541,7 @@
 			
 			<item>
 				<title>Gear: Mad Hatter Guitar Products</title>
-				<link>http://www.makeweirdmusic.com/gear/mad-hatter</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/mad-hatter/mad-hatter.mp3</link>
 				<pubDate>Sat, 10 Sep 2016 12:14:46 -0700</pubDate>
 				<description>Mad Hatter Guitar Products will make a huge difference in the capabilities of your guitar or bass.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/mad-hatter</guid>
@@ -562,7 +562,7 @@
 			
 			<item>
 				<title>Interview: Terry Bozzio</title>
-				<link>http://www.makeweirdmusic.com/interview/terry-bozzio/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/terry-bozzio/terry-bozzio.mp3</link>
 				<pubDate>Fri, 19 Aug 2016 17:00:00 -0700</pubDate>
 				<description>Terry Bozzio is an artist on canvas and on the drum kit. We spent 40 minutes talking with the tour de force of creativity and composition.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/terry-bozzio/</guid>
@@ -581,7 +581,7 @@
 			
 			<item>
 				<title>Interview: Morgan Agren</title>
-				<link>http://www.makeweirdmusic.com/interview/morgan-agren/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/morgan-agren/morgan-agren.mp3</link>
 				<pubDate>Mon, 08 Aug 2016 17:00:00 -0700</pubDate>
 				<description>Morgan Ågren is one of the most innovative drummers on the planet. We talk to him about his upbringing, work with his musical partner Mats Öberg, his musical foundation, and who he's currently working with. Some great, hilarious Frank Zappa stories in here as well.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/morgan-agren/</guid>
@@ -600,7 +600,7 @@
 			
 			<item>
 				<title>Discover: Discover MoonJune Records</title>
-				<link>http://www.makeweirdmusic.com/discover/moonjune-records/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/moonjune-records/moonjune-records.mp3</link>
 				<pubDate>Fri, 05 Aug 2016 12:14:46 -0700</pubDate>
 				<description>Learn more about New York-based MoonJune Records from its owner, Leonardo Pavkovic.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/moonjune-records/</guid>
@@ -621,7 +621,7 @@
 			
 			<item>
 				<title>Interview: Markus Reuter</title>
-				<link>http://www.makeweirdmusic.com/interview/markus-reuter/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/markus-reuter/markus-reuter.mp3</link>
 				<pubDate>Sat, 23 Jul 2016 17:00:00 -0700</pubDate>
 				<description>Markus Reuter is a prolific, diverse guitarist, composer, and musician from Berlin, Germany</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/markus-reuter/</guid>
@@ -642,7 +642,7 @@
 			
 			<item>
 				<title>Interview: Teddy Kumpel Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/teddy-kumpel/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/teddy-kumpel/teddy-kumpel.mp3</link>
 				<pubDate>Tue, 05 Jul 2016 12:14:46 -0700</pubDate>
 				<description>Teddy is Joe Jackson's guitarist and runs the Loopestra.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/teddy-kumpel/</guid>
@@ -663,7 +663,7 @@
 			
 			<item>
 				<title>Learn: 33 in Buffalo</title>
-				<link>http://www.makeweirdmusic.com/learn/33-in-buffalo/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/learn/33-in-buffalo/33-in-buffalo.mp3</link>
 				<pubDate>Thu, 16 Jun 2016 12:14:46 -0700</pubDate>
 				<description>Learn how to play my favorite Robbie Seahag song.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/learn/33-in-buffalo/</guid>
@@ -682,7 +682,7 @@
 			
 			<item>
 				<title>Gear: Zon Michael Manring Hyperbass</title>
-				<link>http://www.makeweirdmusic.com/gear/hyperbass</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/hyperbass/hyperbass.mp3</link>
 				<pubDate>Sun, 29 May 2016 12:14:46 -0700</pubDate>
 				<description>The Zon Hyperbass is an incredible instrument and a feat of luthiery.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/hyperbass</guid>
@@ -701,7 +701,7 @@
 			
 			<item>
 				<title>Interview: Homer Flynn Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/homer-flynn/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/homer-flynn/homer-flynn.mp3</link>
 				<pubDate>Wed, 18 May 2016 12:14:46 -0700</pubDate>
 				<description>Homer Flynn is the manager and visual designer for The Residents.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/homer-flynn/</guid>
@@ -720,7 +720,7 @@
 			
 			<item>
 				<title>Interview: Ben Levin Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/ben-levin/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/ben-levin/ben-levin.mp3</link>
 				<pubDate>Wed, 18 May 2016 12:14:46 -0700</pubDate>
 				<description>Ben Levin is the guitarist from Bent Knee. He is nice and fun. He has an interesting take on things.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/ben-levin/</guid>
@@ -739,7 +739,7 @@
 			
 			<item>
 				<title>Interview: Mattias Eklundh Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/mattias-eklundh/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/matthias-eklundh/matthias-eklundh.mp3</link>
 				<pubDate>Sat, 30 Apr 2016 12:14:46 -0700</pubDate>
 				<description>Mattias IA Eklundh talks about life in Sweden and having nothing to do but play music.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mattias-eklundh/</guid>
@@ -764,7 +764,7 @@
 			
 			<item>
 				<title>Share: Panzerballett Typewriter Contest Entry</title>
-				<link>http://www.makeweirdmusic.com/share/typewriter</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/share/typewriter/typewriter.mp3</link>
 				<pubDate>Thu, 10 Mar 2016 12:14:46 -0700</pubDate>
 				<description>This is my contest entry for the Panzerballett Typewriter II cover contest.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/typewriter</guid>
@@ -785,7 +785,7 @@
 			
 			<item>
 				<title>Share: Prog Cover of BWV 1060R by J.S. Bach</title>
-				<link>http://www.makeweirdmusic.com/share/bach</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/share/bach/bach-1060r.m4a</link>
 				<pubDate>Mon, 07 Mar 2016 12:14:46 -0700</pubDate>
 				<description>Bach shred-fest in progressive rock regalia.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/bach</guid>
@@ -812,7 +812,7 @@
 			
 			<item>
 				<title>Interview: Jeff Berlin Interview, Part 2</title>
-				<link>http://www.makeweirdmusic.com/interview/jeff-berlin/part-2/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-part2.mp3</link>
 				<pubDate>Fri, 05 Feb 2016 12:14:46 -0700</pubDate>
 				<description>Jeff Berlin talks to us about his deep personal transformation and dark night of the soul.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jeff-berlin/part-2/</guid>
@@ -831,7 +831,7 @@
 			
 			<item>
 				<title>Interview: Jeff Berlin Interview, Part 1</title>
-				<link>http://www.makeweirdmusic.com/interview/jeff-berlin/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/jeff-berlin/jeff-berlin-part1.mp3</link>
 				<pubDate>Fri, 05 Feb 2016 12:14:46 -0700</pubDate>
 				<description>Jeff Berlin talks to us about his career and new thoughts on music education.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jeff-berlin/</guid>
@@ -852,7 +852,7 @@
 			
 			<item>
 				<title>Gear: Soundslice</title>
-				<link>http://www.makeweirdmusic.com/gear/soundslice</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/gear/soundslice/soundslice.mp3</link>
 				<pubDate>Mon, 01 Feb 2016 12:14:46 -0700</pubDate>
 				<description>Interview with Adrian Holovaty, co-founder of Soundslice.com.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/gear/soundslice</guid>
@@ -883,7 +883,7 @@
 			
 			<item>
 				<title>Interview: Paul Hanson Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/paul-hanson/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/paul-hanson/paul-hanson.mp3</link>
 				<pubDate>Tue, 12 Jan 2016 12:14:46 -0700</pubDate>
 				<description>Paul Hanson, former bassoonist for Bela Fleck and the Flecktones, talks to us about his formation and career.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/paul-hanson/</guid>
@@ -908,7 +908,7 @@
 			
 			<item>
 				<title>Interview: Michael Manring Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/michael-manring/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/michael-manring/michael-manring.mp3</link>
 				<pubDate>Thu, 17 Dec 2015 12:14:46 -0700</pubDate>
 				<description>Michael Manring has advanced bass playing with his virtuosity, creativity, and extraterrestrial hyperbass.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/michael-manring/</guid>
@@ -927,7 +927,7 @@
 			
 			<item>
 				<title>Interview: Jan Zehrfeld Interview, Part 4</title>
-				<link>http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-4/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part4.mp3</link>
 				<pubDate>Sat, 12 Dec 2015 12:14:46 -0700</pubDate>
 				<description>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-4/</guid>
@@ -948,7 +948,7 @@
 			
 			<item>
 				<title>Interview: Jan Zehrfeld Interview, Part 3</title>
-				<link>http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-3/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part3.mp3</link>
 				<pubDate>Fri, 27 Nov 2015 12:14:46 -0700</pubDate>
 				<description>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-3/</guid>
@@ -967,7 +967,7 @@
 			
 			<item>
 				<title>Interview: Jan Zehrfeld Interview, Part 2</title>
-				<link>http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-2/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part2.mp3</link>
 				<pubDate>Sat, 21 Nov 2015 12:14:46 -0700</pubDate>
 				<description>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jan-zehrfeld/part-2/</guid>
@@ -986,7 +986,7 @@
 			
 			<item>
 				<title>Interview: Jan Zehrfeld Interview, Part 1</title>
-				<link>http://www.makeweirdmusic.com/interview/jan-zehrfeld/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/panzerballett/jan-zehrfeld-part1.mp3</link>
 				<pubDate>Wed, 11 Nov 2015 12:14:46 -0700</pubDate>
 				<description>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/jan-zehrfeld/</guid>
@@ -1009,7 +1009,7 @@
 			
 			<item>
 				<title>Interview: Steve Vai Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/steve-vai/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/steve-vai/steve-vai.mp3</link>
 				<pubDate>Fri, 25 Sep 2015 12:14:46 -0700</pubDate>
 				<description>Steve Vai has blazed several trails in the art of guitar technique, manufacturing, performance, sounds, and composition.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/steve-vai/</guid>
@@ -1028,7 +1028,7 @@
 			
 			<item>
 				<title>Interview: Mike Keneally Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/mike-keneally/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/mike-keneally/mike-keneally.mp3</link>
 				<pubDate>Fri, 25 Sep 2015 12:14:46 -0700</pubDate>
 				<description>Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/mike-keneally/</guid>
@@ -1055,7 +1055,7 @@
 			
 			<item>
 				<title>Share: Harnch by Anthony Garone</title>
-				<link>http://www.makeweirdmusic.com/share/harnch/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/share/harnch/harnch.mp3</link>
 				<pubDate>Sat, 27 Jun 2015 12:14:46 -0700</pubDate>
 				<description>Harnch is a jazz fusion guitar instrumental track by Anthony Garone. It's overly complex.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/share/harnch/</guid>
@@ -1076,7 +1076,7 @@
 			
 			<item>
 				<title>Interview: Dale Turner Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/dale-turner/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/dale-turner/dale-turner.mp3</link>
 				<pubDate>Mon, 25 May 2015 12:14:46 -0700</pubDate>
 				<description>Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/dale-turner/</guid>
@@ -1097,7 +1097,7 @@
 			
 			<item>
 				<title>Interview: Andy West Interview</title>
-				<link>http://www.makeweirdmusic.com/interview/andy-west/</link>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west/andy-west.mp3</link>
 				<pubDate>Mon, 06 Apr 2015 12:14:46 -0700</pubDate>
 				<description>Andy West is best known as the bassist for the Dixie Dregs, a band he started with Steve Morse.</description>
 				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/andy-west/</guid>

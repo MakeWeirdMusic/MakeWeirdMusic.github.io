@@ -37,7 +37,7 @@
 			{% if post.block == "no" and post.draft == false %}
 			<item>
 				<title>{{ post.category | capitalize }}: {{ post.title | xml_escape }}</title>
-				<link>{{ site.url }}{{ post.url }}</link>
+				<link>{{ post.file }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.seo_description | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
