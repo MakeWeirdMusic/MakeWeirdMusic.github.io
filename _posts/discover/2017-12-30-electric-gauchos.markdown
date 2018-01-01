@@ -46,7 +46,7 @@ SB: We probably want to start by telling a little history about--maybe building 
 AAF: Yeah.
 {: .interviewee }
 
-SB: We met in Argentina? Or was it grocery shopping?
+SB: We met in Argentina? Or was it Grossderschau?
 {: .interviewee }
 
 AAF: No no, it was Argentina.
