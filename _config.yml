@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.makeweirdmusic.com" # the base hostname & protocol for your site
 twitter_username: MakeWeirdMusic
 github_username:  MakeWeirdMusic
-s3_url: https://s3.amazonaws.com/audio.makeweirdmusic.com
+s3_url: http://s3.amazonaws.com/audio.makeweirdmusic.com
 lang: en
 author: Anthony Garone
 copyright: "&#x2117; &amp; &#xA9; 2017"
