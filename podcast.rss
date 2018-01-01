@@ -16,7 +16,7 @@
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.data.artists.mwm.art_prod }}mwm/mwm-promo-brightblue.png</url>
+			<url>http://s3.amazonaws.com/audio.makeweirdmusic.com/mwm-promo-brightblue.png</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
