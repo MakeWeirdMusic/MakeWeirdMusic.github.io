@@ -22,7 +22,7 @@
         <div class="social">
           {% unless artist.social == "none" %}<p class="social-intro">Find {{ artist.name }} on:</p>{% endunless %}
           <p class="social-links">
-            {% if artist.website %}<a href="{{ artist.website }}"><i class="fa fa-external-link-square" aria-hidden="true"></i></a>{% endif %}
+            {% if artist.website %}<a href="{{ artist.website }}"><i class="fas fa-globe" aria-hidden="true"></i></a>{% endif %}
             {% if artist.bandcamp %}<a href="{{ artist.bandcamp }}"><i class="fa fa-bandcamp" aria-hidden="true"></i></a>{% endif %}
             {% if artist.itunes %}<a href="{{ artist.itunes }}"><i class="fa fa-apple" aria-hidden="true"></i></a>{% endif %}
             {% if artist.patreon %}<a href="{{ artist.patreon }}"><i class="fab fa-patreon" aria-hidden="true"></i></a>{% endif %}
