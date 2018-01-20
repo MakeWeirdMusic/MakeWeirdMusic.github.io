@@ -8,7 +8,7 @@ image: jan-zehrfeld
 category: concert
 permalink: /concert/jan-zehrfeld-2018-clinic/
 sponsors: Mad Hatter Guitar Products, Guitar Answer Guy
-oneliner: Learn how guitar master Jan Zehrfeld sees the fretboard, constructs chords, and writes death jazz.
+oneliner: January 28, 2018 in Mesa, AZ: Learn how guitar master Jan Zehrfeld sees the fretboard, constructs chords, and writes death jazz.
 seo_description: Jan Zehrfeld of Panzerballett is running a guitar clinic at MWM HQ on January 28, 2018.
 seo_keywords: panzerballett, death jazz, jazz metal, death metal, prog, prog rock, progressive metal, fretboard navigation
 front_page: yes

@@ -1,6 +1,6 @@
 ---
 layout: external
-title: Make Weird Music on Patreon
+title: Support Make Weird Music on Patreon
 date:   2018-01-06 00:00:00
 artist: mwm
 author: anthony-garone
