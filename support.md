@@ -29,6 +29,8 @@ This site has been way more successful than I ever expected. It's also cost me m
 
 If you find value in the site, please consider donating money, code, artwork, or written content. Anything donated will go directly toward the site and *not* into my pocket.
 
+<a href="http://patreon.com/MakeWeirdMusic" class="donation-icon"><i class="fab fa-patreon"></i> Support us monthly via Patreon</a>
+
 <a href="http://paypal.me/MakeWeirdMusic" class="donation-icon"><i class="fa fa-paypal"></i> Donate via Paypal</a>
 
 <a class="donation-icon" href="http://cash.me/$MakeWeirdMusic"><i class="fa fa-square"></i> Donate via Square Cash</a>

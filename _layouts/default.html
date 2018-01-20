@@ -24,17 +24,18 @@
           <p class="social-links">
             {% if artist.website %}<a href="{{ artist.website }}"><i class="fa fa-external-link-square" aria-hidden="true"></i></a>{% endif %}
             {% if artist.bandcamp %}<a href="{{ artist.bandcamp }}"><i class="fa fa-bandcamp" aria-hidden="true"></i></a>{% endif %}
+            {% if artist.itunes %}<a href="{{ artist.itunes }}"><i class="fa fa-apple" aria-hidden="true"></i></a>{% endif %}
+            {% if artist.patreon %}<a href="{{ artist.patreon }}"><i class="fab fa-patreon" aria-hidden="true"></i></a>{% endif %}
             {% if artist.facebook %}<a href="{{ artist.facebook }}"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>{% endif %}
             {% if artist.twitter %}<a href="{{ artist.twitter }}"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>{% endif %}
             {% if artist.youtube %}<a href="{{ artist.youtube }}"><i class="fa fa-youtube-square" aria-hidden="true"></i></a>{% endif %}
             {% if artist.google %}<a href="{{ artist.google }}"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a>{% endif %}
             {% if artist.github %}<a href="{{ artist.github }}"><i class="fa fa-github-square" aria-hidden="true"></i></a>{% endif %}
-            {% if artist.pinterest %}<a href="{{ artist.pinterest }}"><i class="fa fa-pinterest-square" aria-hidden="true"></i></a>{% endif %}
             {% if artist.instagram %}<a href="{{ artist.instagram }}"><i class="fa fa-instagram" aria-hidden="true"></i></a>{% endif %}
             {% if artist.soundcloud %}<a href="{{ artist.soundcloud }}"><i class="fa fa-soundcloud" aria-hidden="true"></i></a>{% endif %}
             {% if artist.wikipedia %}<a href="{{ artist.wikipedia }}"><i class="fa fa-wikipedia-w" aria-hidden="true"></i></a>{% endif %}
             {% if artist.spotify %}<a href="{{ artist.spotify }}"><i class="fa fa-spotify" aria-hidden="true"></i></a>{% endif %}
-            {% if artist.itunes %}<a href="{{ artist.itunes }}"><i class="fa fa-apple" aria-hidden="true"></i></a>{% endif %}
+            {% if artist.pinterest %}<a href="{{ artist.pinterest }}"><i class="fa fa-pinterest-square" aria-hidden="true"></i></a>{% endif %}
           </p>
         </div>
         {% if page.category and page.category == 'page' %}<nav class="page-links"><p><a href="/about">About</a> &middot; <a href="/support">Support</a> &middot; <a href="/sponsors">Sponsors</a> &middot; <a href="/archive">Archive</a></p></nav>{% endif %}
