@@ -13,13 +13,13 @@ redirect_from: "/shirt/"
 
 Thank you to all the people around the world who've purchased shirts. We usually have them in stock in various sizes.
 
-**Here's what's in stock as of August 20, 2017:**
+**Here's what's in stock as of January 22, 2018:**
 
 |Size   |Color   |Quantity   |Cost   |
 | ----- |:------:|:---------:| -----:|
-|M|Gray Blue|3|$20|
-|M|Muted Blue|2|$20|
-|M|Brown|1|$20|
+|M|Black|9|$20|
+|L|Black|10|$20|
+|XL|Black|9|$20|
 |XXL|Purple|1|$22|
 |XXL|Brown|1|$22|
 |XXL|Muted Blue|3|$22|
@@ -27,9 +27,6 @@ Thank you to all the people around the world who've purchased shirts. We usually
 |XXXL|Black|2|$22|
 
 **Shipping in the US is $5. Shipping elsewhere is $13. [You can pay via PayPal, Venmo, or Square Cash.](/payments)**
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New MWM shirts!! Buy one today. Msg me. Beautiful colors!! <a href="https://t.co/czhWMfP5jV">pic.twitter.com/czhWMfP5jV</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/705136987611623424">March 2, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <script type="text/javascript" language="javascript">
 <!--
@@ -54,7 +51,10 @@ Thank you to all the people around the world who've purchased shirts. We usually
 document.write("<a class='donation-icon' href='mailto:"+link+"'><i class='fa fa-envelope'></i> Buy a shirt!</a>")
 }
 //-->
-</script><noscript><a href="{{ site.data.artists.mwm.twitter }}" class="donation-icon"><i class="fa fa-envelope"></i> Reach me on Twitter and get in touch!</a></noscript>
+</script><noscript><a href="/payment" class="donation-icon"><i class="fa fa-envelope"></i> Send money to buy a shirt!</a></noscript>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New MWM shirts!! Buy one today. Msg me. Beautiful colors!! <a href="https://t.co/czhWMfP5jV">pic.twitter.com/czhWMfP5jV</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/705136987611623424">March 2, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Pictures of people in shirts!
 
