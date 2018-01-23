@@ -9,16 +9,43 @@ seo_description: Buy a shirt and support the making of weird music!
 seo_keywords: donate, money, code, art, open source
 redirect_from: "/shirt/"
 ---
-## Shirts!
+## Order a Make Weird Music T-Shirt!
 
-Thank you to all the people around the world who've purchased shirts. We usually have them in stock in various sizes.
+Use the following form to order and pay via PayPal. You can also pay via [Venmo&nbsp;<i class="fas fa-dollar-sign"></i>](https://venmo.com/MakeWeirdMusic), or [Square Cash&nbsp;<i class="fas fa-dollar-sign"></i>](https://cash.me/$MakeWeirdMusic). Make sure you send me an email to get what you need.
 
-**Here's what's in stock as of January 22, 2018:**
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" id="order-form">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="H48ARP8CV2NEQ">
+<table>
+<tr><td><input type="hidden" name="on0" value="Size">Size</td><td><select name="os0">
+	<option value="Small">Small $20.00 USD</option>
+	<option value="Medium">Medium $20.00 USD</option>
+	<option value="Large">Large $20.00 USD</option>
+	<option value="X-Large">X-Large $20.00 USD</option>
+	<option value="XX-Large">XX-Large $22.00 USD</option>
+	<option value="XXX-Large">XXX-Large $22.00 USD</option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Preferred Color">Preferred Color</td><td><input type="text" name="os1" maxlength="200"></td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+**[Patreon supporters&nbsp;<i class="fab fa-patreon"></i>](https://patreon.com/MakeWeirdMusic) get free shipping! Otherwise, shipping in the US is $5. Shipping elsewhere is $13.**
+
+Our shirts are super-comfortable and printed by Suncraft Sportswear, a local company in Phoenix, Arizona.
+
+We use [Next Level Apparel #3600 cotton crew t-shirts&nbsp;<i class="fa fa-external-link"></i>](https://www.nextlevelapparel.com/mens/mens-cotton-crew.html), which are incredibly comfortable. If you want a color we aren't carrying, [please pick one from the Next Level page&nbsp;<i class="fa fa-external-link"></i>](https://www.nextlevelapparel.com/mens/mens-cotton-crew.html) and [let us know what you want](/contact).
+
+### What's in stock right now?
+
+Here's what's in stock as of January 22, 2018:
 
 |Size   |Color   |Quantity   |Cost   |
 | ----- |:------:|:---------:| -----:|
-|M|Black|9|$20|
-|L|Black|10|$20|
+|M|Black|8|$20|
+|L|Black|9|$20|
 |XL|Black|9|$20|
 |XXL|Purple|1|$22|
 |XXL|Brown|1|$22|
@@ -26,37 +53,9 @@ Thank you to all the people around the world who've purchased shirts. We usually
 |XXL|Forest Green|1|$22|
 |XXXL|Black|2|$22|
 
-**Shipping in the US is $5. Shipping elsewhere is $13. [You can pay via PayPal, Venmo, or Square Cash.](/payments)**
+Chances are I haven't updated the inventory in a little while, but it should be pretty close. :)
 
-<script type="text/javascript" language="javascript">
-<!--
-// Email obfuscator script 2.1 by Tim Williams, University of Arizona
-// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
-// This code is freeware provided these four comment lines remain intact
-// A wizard to generate this code is at http://www.jottings.com/obfuscator/
-{ coded = "DR8ZXRM@nDYuFu3LlnyT3g.gXn"
-  key = "dahAwYrvE7x4MQV2o0WTtIugiRlDZSFfL96mNK5OqkXzCG8pyj3BJU1sHbecPn"
-  shift=coded.length
-  link=""
-  for (i=0; i<coded.length; i++) {
-    if (key.indexOf(coded.charAt(i))==-1) {
-      ltr = coded.charAt(i)
-      link += (ltr)
-    }
-    else {
-      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-      link += (key.charAt(ltr))
-    }
-  }
-document.write("<a class='donation-icon' href='mailto:"+link+"'><i class='fa fa-envelope'></i> Buy a shirt!</a>")
-}
-//-->
-</script><noscript><a href="/payment" class="donation-icon"><i class="fa fa-envelope"></i> Send money to buy a shirt!</a></noscript>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New MWM shirts!! Buy one today. Msg me. Beautiful colors!! <a href="https://t.co/czhWMfP5jV">pic.twitter.com/czhWMfP5jV</a></p>&mdash; Make Weird Music (@MakeWeirdMusic) <a href="https://twitter.com/MakeWeirdMusic/status/705136987611623424">March 2, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Pictures of people in shirts!
+## Pictures of people in MWM shirts!
 
 Check out this gallery of people all over the world who've bought MWM shirts!
 
