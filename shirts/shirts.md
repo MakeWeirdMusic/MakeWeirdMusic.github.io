@@ -32,7 +32,7 @@ Use the following form to order and pay via PayPal. You can also pay via [Venmo&
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-**Shipping in the US is $5. Shipping elsewhere is $13.**
+**[Patreon supporters&nbsp;<i class="fab fa-patreon"></i>](https://patreon.com/MakeWeirdMusic) get free shipping! Otherwise, shipping in the US is $5. Shipping elsewhere is $13.**
 
 Our shirts are super-comfortable and printed by Suncraft Sportswear, a local company in Phoenix, Arizona.
 
