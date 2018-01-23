@@ -34,6 +34,10 @@ Use the following form to order and pay via PayPal. You can also pay via [Venmo&
 
 **Shipping in the US is $5. Shipping elsewhere is $13.**
 
+Our shirts are super-comfortable and printed by Suncraft Sportswear, a local company in Phoenix, Arizona.
+
+We use [Next Level Apparel #3600 cotton crew t-shirts&nbsp;<i class="fa fa-external-link"></i>](https://www.nextlevelapparel.com/mens/mens-cotton-crew.html), which are incredibly comfortable. If you want a color we aren't carrying, [please pick one from the Next Level page&nbsp;<i class="fa fa-external-link"></i>](https://www.nextlevelapparel.com/mens/mens-cotton-crew.html) and [let us know what you want](/contact).
+
 ### What's in stock right now?
 
 Here's what's in stock as of January 22, 2018:
