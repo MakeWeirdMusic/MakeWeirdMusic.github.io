@@ -485,10 +485,16 @@
 <loc>http://localhost:4000/shirts/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/shirts/sold-out/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/sponsors/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/support/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/shirts/thanks/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/transcriptions/</loc>

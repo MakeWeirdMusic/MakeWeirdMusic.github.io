@@ -106,6 +106,16 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   margin-bottom: 0;
 }
 
+#order-form {
+  border: 1px solid #33a;
+  padding: 2%;
+  margin-bottom: 1em;
+}
+
+#order-form td {
+  padding: 2%;
+}
+
 @media (min-width: 550px) {
   .pane {
     position: absolute;
