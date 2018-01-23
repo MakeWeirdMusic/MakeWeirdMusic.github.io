@@ -44,8 +44,8 @@ Here's what's in stock as of January 22, 2018:
 
 |Size   |Color   |Quantity   |Cost   |
 | ----- |:------:|:---------:| -----:|
-|M|Black|9|$20|
-|L|Black|10|$20|
+|M|Black|8|$20|
+|L|Black|9|$20|
 |XL|Black|9|$20|
 |XXL|Purple|1|$22|
 |XXL|Brown|1|$22|
