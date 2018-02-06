@@ -3,10 +3,10 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Feb 2018 23:48:34 -0700</pubDate>
-    <lastBuildDate>Sat, 03 Feb 2018 23:48:34 -0700</lastBuildDate>
+    <link>http://www.makeweirdmusic.com/</link>
+    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Feb 2018 00:24:22 -0700</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2018 00:24:22 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
 
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/K5IW_C5eeMw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YsPWo4dSVAw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
 
@@ -248,8 +248,8 @@
 &lt;p&gt;NG: You too!&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Feb 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/nora-germain/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/nora-germain/</guid>
+        <link>http://www.makeweirdmusic.com/discover/nora-germain/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/nora-germain/</guid>
         
         
         <category>discover</category>
@@ -267,8 +267,8 @@
 &lt;p&gt;This was performed live in October 2017 in Albuquerque, New Mexico for the 2017 &lt;a href=&quot;https://gorgg.org&quot;&gt;GORGG&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/concert/gorgg-2017/aspirations</link>
-        <guid isPermaLink="true">http://localhost:4000/concert/gorgg-2017/aspirations</guid>
+        <link>http://www.makeweirdmusic.com/concert/gorgg-2017/aspirations</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/gorgg-2017/aspirations</guid>
         
         
         <category>concert</category>
@@ -290,8 +290,8 @@
 &lt;p&gt;Special thanks to our awesome sponsors Ed at &lt;a href=&quot;https://madhatterguitarproducts.com&quot;&gt;&lt;em&gt;Mad Hatter Guitar Products&lt;/em&gt; &lt;i class=&quot;non-mwm fas fa-external-link-square-alt&quot;&gt;&lt;/i&gt;&amp;lt;/a&amp;gt;&lt;/a&gt; and Bobby at &lt;a href=&quot;http://guitaranswerguy.com&quot;&gt;&lt;em&gt;The Guitar Answer Guy&lt;/em&gt; &lt;i class=&quot;non-mwm fas fa-external-link-square-alt&quot;&gt;&lt;/i&gt;&amp;lt;/a&amp;gt;&lt;/a&gt;. Thanks also to the &lt;a href=&quot;/support&quot;&gt;generous donations we’ve received online&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/concert/jan-zehrfeld-2018-clinic/</link>
-        <guid isPermaLink="true">http://localhost:4000/concert/jan-zehrfeld-2018-clinic/</guid>
+        <link>http://www.makeweirdmusic.com/concert/jan-zehrfeld-2018-clinic/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/jan-zehrfeld-2018-clinic/</guid>
         
         
         <category>concert</category>
@@ -303,8 +303,8 @@
         <description>
 </description>
         <pubDate>Fri, 05 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/link/mwm-on-patreon</link>
-        <guid isPermaLink="true">http://localhost:4000/link/mwm-on-patreon</guid>
+        <link>http://www.makeweirdmusic.com/link/mwm-on-patreon</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/link/mwm-on-patreon</guid>
         
         
         <category>link</category>
@@ -514,8 +514,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;SB: Yeah. Hope to see you live somewhere soon.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Dec 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/electric-gauchos/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/electric-gauchos/</guid>
+        <link>http://www.makeweirdmusic.com/discover/electric-gauchos/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/electric-gauchos/</guid>
         
         
         <category>discover</category>
@@ -893,8 +893,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;JZ: Thanks, Anthony.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/panzerballett/x-mas-death-jazz</link>
-        <guid isPermaLink="true">http://localhost:4000/share/panzerballett/x-mas-death-jazz</guid>
+        <link>http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</guid>
         
         
         <category>share</category>
@@ -1228,8 +1228,8 @@
 &lt;p&gt;AG: Jen Majura.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/jen-majura/inzenity</link>
-        <guid isPermaLink="true">http://localhost:4000/share/jen-majura/inzenity</guid>
+        <link>http://www.makeweirdmusic.com/share/jen-majura/inzenity</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/jen-majura/inzenity</guid>
         
         
         <category>share</category>
@@ -1525,8 +1525,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;CO: [Laughing.] No problem.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/the-cribbage-variations</link>
-        <guid isPermaLink="true">http://localhost:4000/share/the-cribbage-variations</guid>
+        <link>http://www.makeweirdmusic.com/share/the-cribbage-variations</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/the-cribbage-variations</guid>
         
         
         <category>share</category>
@@ -2154,8 +2154,8 @@
 &lt;p&gt;GG: Cool.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Oct 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interview/keneally-green-minnear-mortimore</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/keneally-green-minnear-mortimore</guid>
+        <link>http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</guid>
         
         
         <category>interview</category>
@@ -2397,8 +2397,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;That’s when I realized just to work with individual pitches doesn’t work because those individual pitches don’t suggest an actual relationship to something. Just putting a drone under that poem would probably have made it sound better because then there is a musical relationship. But just this one process that I thought would be sounding interesting was crap. That’s why I never use anything like that anymore.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Sep 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interview/andy-west-markus-reuter</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/andy-west-markus-reuter</guid>
+        <link>http://www.makeweirdmusic.com/interview/andy-west-markus-reuter</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/andy-west-markus-reuter</guid>
         
         
         <category>interview</category>

@@ -13,10 +13,10 @@ seo_keywords: steve ball, tiny orchestral moments, jacob collier, knower, louis 
 front_page: yes
 draft: yes
 has_video: yes
-youtube_id: K5IW_C5eeMw
+youtube_id: YsPWo4dSVAw
 file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/nora-germain/nora-germain.mp3
-duration: "22:00" #audio length in min
-length: "31904097" #filesize in byte
+duration: "30:27" #audio length in min
+length: "36756938" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 ---
