@@ -40,17 +40,16 @@ We use [Next Level Apparel #3600 cotton crew t-shirts&nbsp;<i class="fa fa-exter
 
 ### What's in stock right now?
 
-Here's what's in stock as of January 22, 2018:
+Here's what's in stock as of February 7, 2018:
 
 |Size   |Color   |Quantity   |Cost   |
 | ----- |:------:|:---------:| -----:|
-|M|Black|8|$20|
-|L|Black|9|$20|
-|XL|Black|9|$20|
-|XXL|Purple|1|$22|
-|XXL|Brown|1|$22|
+|M|Black|5|$20|
+|M|Brown|1|$20|
+|M|Muted Blue|1|$20|
+|L|Black|6|$20|
+|XL|Black|6|$20|
 |XXL|Muted Blue|3|$22|
-|XXL|Forest Green|1|$22|
 |XXXL|Black|2|$22|
 
 Chances are I haven't updated the inventory in a little while, but it should be pretty close. :)
