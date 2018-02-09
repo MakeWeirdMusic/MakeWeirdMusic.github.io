@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2018 Make Weird Music</copyright>
-		<pubDate>Wed, 07 Feb 2018 20:26:38 -0700</pubDate>
-		<lastBuildDate>Wed, 07 Feb 2018 20:26:38 -0700</lastBuildDate>
+		<pubDate>Fri, 09 Feb 2018 14:33:36 -0700</pubDate>
+		<lastBuildDate>Fri, 09 Feb 2018 14:33:36 -0700</lastBuildDate>
 		<image>
 			<link>http://www.makeweirdmusic.com</link>
 			<url>http://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -31,6 +31,23 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 		
+			
+			<item>
+				<title>Discover: Nora Germain</title>
+				<link>http://www.makeweirdmusic.com/discover/nora-germain/</link>
+				<pubDate>Fri, 02 Feb 2018 17:00:00 -0700</pubDate>
+				<description>Nora Germain is a jazz violinist, bandleader, singer, songwriter, dancer, recording artist, and author based in Los Angeles.</description>
+				<guid isPermaLink="true">http://www.makeweirdmusic.com/discover/nora-germain/</guid>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/nora-germain/nora-germain.mp3" length="36756938" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Discover: Nora Germain by Make Weird Music</itunes:subtitle>
+				<itunes:summary>Nora Germain is a jazz violinist, bandleader, singer, songwriter, dancer, recording artist, and author based in Los Angeles.</itunes:summary>
+				<itunes:duration>30:27</itunes:duration>
+				<itunes:keywords>steve ball, tiny orchestral moments, jacob collier, knower, louis cole, tommy emmanuel, jazz violin</itunes:keywords>
+				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/nora-germain/nora-germain.png" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 			
 		
 			

@@ -11,7 +11,7 @@ oneliner: Jazz violinist, prodigy/virtuoso, singer/songwriter, dancer, author, a
 seo_description: Nora Germain is a jazz violinist, bandleader, singer, songwriter, dancer, recording artist, and author based in Los Angeles.
 seo_keywords: steve ball, tiny orchestral moments, jacob collier, knower, louis cole, tommy emmanuel, jazz violin
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 youtube_id: Uf4ro2xmez0
 file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/nora-germain/nora-germain.mp3
