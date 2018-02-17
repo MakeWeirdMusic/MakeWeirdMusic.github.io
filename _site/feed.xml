@@ -3,10 +3,10 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Feb 2018 19:05:52 -0700</pubDate>
-    <lastBuildDate>Fri, 16 Feb 2018 19:05:52 -0700</lastBuildDate>
+    <link>http://www.makeweirdmusic.com/</link>
+    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Feb 2018 19:11:35 -0700</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2018 19:11:35 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -27,11 +27,11 @@
 
 &lt;h2 id=&quot;soundslice-notation&quot;&gt;Soundslice Notation&lt;/h2&gt;
 
-&lt;iframe src=&quot;https://www.soundslice.com/scores/Xgfcc/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://www.soundslice.com/scores/150973/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 15 Feb 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/learn/taurus-bulba</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/taurus-bulba</guid>
+        <link>http://www.makeweirdmusic.com/learn/taurus-bulba</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/taurus-bulba</guid>
         
         
         <category>learn</category>
@@ -277,8 +277,8 @@
 &lt;p&gt;NG: You too!&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Feb 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/nora-germain/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/nora-germain/</guid>
+        <link>http://www.makeweirdmusic.com/discover/nora-germain/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/nora-germain/</guid>
         
         
         <category>discover</category>
@@ -296,8 +296,8 @@
 &lt;p&gt;This was performed live in October 2017 in Albuquerque, New Mexico for the 2017 &lt;a href=&quot;https://gorgg.org&quot;&gt;GORGG&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/concert/gorgg-2017/aspirations</link>
-        <guid isPermaLink="true">http://localhost:4000/concert/gorgg-2017/aspirations</guid>
+        <link>http://www.makeweirdmusic.com/concert/gorgg-2017/aspirations</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/gorgg-2017/aspirations</guid>
         
         
         <category>concert</category>
@@ -319,8 +319,8 @@
 &lt;p&gt;Special thanks to our awesome sponsors Ed at &lt;a href=&quot;https://madhatterguitarproducts.com&quot;&gt;&lt;em&gt;Mad Hatter Guitar Products&lt;/em&gt; &lt;i class=&quot;non-mwm fas fa-external-link-square-alt&quot;&gt;&lt;/i&gt;&amp;lt;/a&amp;gt;&lt;/a&gt; and Bobby at &lt;a href=&quot;http://guitaranswerguy.com&quot;&gt;&lt;em&gt;The Guitar Answer Guy&lt;/em&gt; &lt;i class=&quot;non-mwm fas fa-external-link-square-alt&quot;&gt;&lt;/i&gt;&amp;lt;/a&amp;gt;&lt;/a&gt;. Thanks also to the &lt;a href=&quot;/support&quot;&gt;generous donations we’ve received online&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/concert/jan-zehrfeld-2018-clinic/</link>
-        <guid isPermaLink="true">http://localhost:4000/concert/jan-zehrfeld-2018-clinic/</guid>
+        <link>http://www.makeweirdmusic.com/concert/jan-zehrfeld-2018-clinic/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/jan-zehrfeld-2018-clinic/</guid>
         
         
         <category>concert</category>
@@ -332,8 +332,8 @@
         <description>
 </description>
         <pubDate>Fri, 05 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/link/mwm-on-patreon</link>
-        <guid isPermaLink="true">http://localhost:4000/link/mwm-on-patreon</guid>
+        <link>http://www.makeweirdmusic.com/link/mwm-on-patreon</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/link/mwm-on-patreon</guid>
         
         
         <category>link</category>
@@ -543,8 +543,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;SB: Yeah. Hope to see you live somewhere soon.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Dec 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/electric-gauchos/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/electric-gauchos/</guid>
+        <link>http://www.makeweirdmusic.com/discover/electric-gauchos/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/electric-gauchos/</guid>
         
         
         <category>discover</category>
@@ -922,8 +922,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;JZ: Thanks, Anthony.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/panzerballett/x-mas-death-jazz</link>
-        <guid isPermaLink="true">http://localhost:4000/share/panzerballett/x-mas-death-jazz</guid>
+        <link>http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</guid>
         
         
         <category>share</category>
@@ -1257,8 +1257,8 @@
 &lt;p&gt;AG: Jen Majura.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/jen-majura/inzenity</link>
-        <guid isPermaLink="true">http://localhost:4000/share/jen-majura/inzenity</guid>
+        <link>http://www.makeweirdmusic.com/share/jen-majura/inzenity</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/jen-majura/inzenity</guid>
         
         
         <category>share</category>
@@ -1554,8 +1554,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;CO: [Laughing.] No problem.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/the-cribbage-variations</link>
-        <guid isPermaLink="true">http://localhost:4000/share/the-cribbage-variations</guid>
+        <link>http://www.makeweirdmusic.com/share/the-cribbage-variations</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/the-cribbage-variations</guid>
         
         
         <category>share</category>
@@ -2183,8 +2183,8 @@
 &lt;p&gt;GG: Cool.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Oct 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interview/keneally-green-minnear-mortimore</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/keneally-green-minnear-mortimore</guid>
+        <link>http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</guid>
         
         
         <category>interview</category>
