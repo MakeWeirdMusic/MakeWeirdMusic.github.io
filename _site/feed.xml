@@ -3,11 +3,40 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://www.makeweirdmusic.com/</link>
-    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Feb 2018 17:35:01 -0700</pubDate>
-    <lastBuildDate>Fri, 09 Feb 2018 17:35:01 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Feb 2018 19:05:52 -0700</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2018 19:05:52 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Taurus Bulba E Mixolydian Riffage</title>
+        <description>&lt;h2 id=&quot;why-this-riff&quot;&gt;Why This Riff?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/interview/steve-vai&quot;&gt;Steve Vai&lt;/a&gt; is one of the most innovative guitarists to ever live. This riff from his 1996 release &lt;a href=&quot;https://en.wikipedia.org/wiki/Fire_Garden&quot;&gt;&lt;em&gt;Fire Garden&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; has always impressed me since I learned it over 20 years ago. It’s artistic, fun, and caters especially to the instrument. When you actually play this lick, you can really appreciate the intricacies and the craft that went into it.&lt;/p&gt;
+
+&lt;p class=&quot;ad&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://itunes.apple.com/us/album/fire-garden/190372450&quot;&gt;Purchase Steve Vai’s Fire Garden on Apple Music &lt;i class=&quot;non-mwm fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s always been one of my favorite go-to riffs that I play to warm up. It’s fun, difficult, and in the key of A (E mixolydian), so it’s hard to play a wrong note since the guitar is basically built for the keys of A and E.&lt;/p&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+
+&lt;p&gt;Here is the instructional video for this piece.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kRR1UtuUlZA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;soundslice-notation&quot;&gt;Soundslice Notation&lt;/h2&gt;
+
+&lt;iframe src=&quot;https://www.soundslice.com/scores/Xgfcc/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 15 Feb 2018 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/learn/taurus-bulba</link>
+        <guid isPermaLink="true">http://localhost:4000/learn/taurus-bulba</guid>
+        
+        
+        <category>learn</category>
+        
+      </item>
     
       <item>
         <title>Nora Germain</title>
@@ -248,8 +277,8 @@
 &lt;p&gt;NG: You too!&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Feb 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/nora-germain/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/nora-germain/</guid>
+        <link>http://localhost:4000/discover/nora-germain/</link>
+        <guid isPermaLink="true">http://localhost:4000/discover/nora-germain/</guid>
         
         
         <category>discover</category>
@@ -267,8 +296,8 @@
 &lt;p&gt;This was performed live in October 2017 in Albuquerque, New Mexico for the 2017 &lt;a href=&quot;https://gorgg.org&quot;&gt;GORGG&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/concert/gorgg-2017/aspirations</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/gorgg-2017/aspirations</guid>
+        <link>http://localhost:4000/concert/gorgg-2017/aspirations</link>
+        <guid isPermaLink="true">http://localhost:4000/concert/gorgg-2017/aspirations</guid>
         
         
         <category>concert</category>
@@ -290,8 +319,8 @@
 &lt;p&gt;Special thanks to our awesome sponsors Ed at &lt;a href=&quot;https://madhatterguitarproducts.com&quot;&gt;&lt;em&gt;Mad Hatter Guitar Products&lt;/em&gt; &lt;i class=&quot;non-mwm fas fa-external-link-square-alt&quot;&gt;&lt;/i&gt;&amp;lt;/a&amp;gt;&lt;/a&gt; and Bobby at &lt;a href=&quot;http://guitaranswerguy.com&quot;&gt;&lt;em&gt;The Guitar Answer Guy&lt;/em&gt; &lt;i class=&quot;non-mwm fas fa-external-link-square-alt&quot;&gt;&lt;/i&gt;&amp;lt;/a&amp;gt;&lt;/a&gt;. Thanks also to the &lt;a href=&quot;/support&quot;&gt;generous donations we’ve received online&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/concert/jan-zehrfeld-2018-clinic/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/jan-zehrfeld-2018-clinic/</guid>
+        <link>http://localhost:4000/concert/jan-zehrfeld-2018-clinic/</link>
+        <guid isPermaLink="true">http://localhost:4000/concert/jan-zehrfeld-2018-clinic/</guid>
         
         
         <category>concert</category>
@@ -303,8 +332,8 @@
         <description>
 </description>
         <pubDate>Fri, 05 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/link/mwm-on-patreon</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/link/mwm-on-patreon</guid>
+        <link>http://localhost:4000/link/mwm-on-patreon</link>
+        <guid isPermaLink="true">http://localhost:4000/link/mwm-on-patreon</guid>
         
         
         <category>link</category>
@@ -514,8 +543,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;SB: Yeah. Hope to see you live somewhere soon.&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Dec 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/discover/electric-gauchos/</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/electric-gauchos/</guid>
+        <link>http://localhost:4000/discover/electric-gauchos/</link>
+        <guid isPermaLink="true">http://localhost:4000/discover/electric-gauchos/</guid>
         
         
         <category>discover</category>
@@ -893,8 +922,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;JZ: Thanks, Anthony.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/panzerballett/x-mas-death-jazz</guid>
+        <link>http://localhost:4000/share/panzerballett/x-mas-death-jazz</link>
+        <guid isPermaLink="true">http://localhost:4000/share/panzerballett/x-mas-death-jazz</guid>
         
         
         <category>share</category>
@@ -1228,8 +1257,8 @@
 &lt;p&gt;AG: Jen Majura.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/jen-majura/inzenity</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/jen-majura/inzenity</guid>
+        <link>http://localhost:4000/share/jen-majura/inzenity</link>
+        <guid isPermaLink="true">http://localhost:4000/share/jen-majura/inzenity</guid>
         
         
         <category>share</category>
@@ -1525,8 +1554,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;CO: [Laughing.] No problem.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/the-cribbage-variations</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/the-cribbage-variations</guid>
+        <link>http://localhost:4000/share/the-cribbage-variations</link>
+        <guid isPermaLink="true">http://localhost:4000/share/the-cribbage-variations</guid>
         
         
         <category>share</category>
@@ -2154,251 +2183,8 @@
 &lt;p&gt;GG: Cool.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Oct 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/keneally-green-minnear-mortimore</guid>
-        
-        
-        <category>interview</category>
-        
-      </item>
-    
-      <item>
-        <title>Andy West &amp; Markus Reuter Chat</title>
-        <description>&lt;h2 id=&quot;deep-musicians-geeking-out&quot;&gt;Deep Musicians Geeking Out&lt;/h2&gt;
-
-&lt;p&gt;Anyone who’s followed MWM for a while knows that we have an affinity for cerebral musicians. After a &lt;a href=&quot;https://en.wikipedia.org/wiki/Stick_Men_(prog_band)&quot;&gt;Stick Men &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; show in Phoenix in January 2017, &lt;a href=&quot;/interview/andy-west&quot;&gt;Andy West&lt;/a&gt; and &lt;a href=&quot;/interview/markus-reuter&quot;&gt;Markus Reuter&lt;/a&gt; had a chat in my living room. Most of the conversation happened while I was out picking up my kids from school, so my first encounter with their discussion was when I edited this video.&lt;/p&gt;
-
-&lt;p&gt;I’m so glad this conversation happened because it’s very different to hear two professional musicians discuss their craft than it is having me ask questions and prompting open-ended responses. This is a very active conversation and one I think many musicians will enjoy.&lt;/p&gt;
-
-&lt;p&gt;This is not the first time I’ve had Andy West sit in on a conversation. &lt;a href=&quot;/interview/mike-keneally-andy-west&quot;&gt;Andy had a great conversation with Mike Keneally in 2016 as well&lt;/a&gt;, which you should check out.&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/skDll90ElwA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
-
-&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
-
-&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/andy-west-markus-reuter/andy-west-markus-reuter.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Where artists interview artists and where you’re talking about the things that no journalist would ever ask.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Right.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Like, how do you actually do what you do? That’s what I want to know when I’m listening to someone talk about their work.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: And the interesting thing about it is that the explanations are never direct. I mean, they are, but they can also be abstractions because it’s like, “Well, do you want to know how to do 100 push-ups? Here, start with 10 and then eventually you’ll get to 100.” &lt;span class=&quot;important&quot;&gt;But when you talk about the energy from your finger going into the string and then coming back into your body, how does a journalist understand that? They can write it down.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Personally, I think I’m still a young rebel and I just don’t care if they understand. I would still say it if it’s important. I’m not trying to censor myself. I know there are a lot of potential misunderstandings if you’re like that–if I’m like that. But, I’d rather be authentic, you know what I mean? &lt;span class=&quot;important&quot;&gt;If you’re not allowed to use the language that you want to use, then what’s the point of talking?&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah, so this actually touches back on something we were talking about earlier, which is kind of just being in the world. &lt;span class=&quot;important&quot;&gt;As an artist, you’re in the world, all you really want is to be able to express your art and have people listen and appreciate it.&lt;/span&gt; The people that want to hear it, right? The people that aren’t interested in it, that’s fine, but the world is big enough that if you have something to say that’s worth saying, there are people who will want to hear it and respond to it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Exactly. I have the same feeling. If there’s something that I can imagine that I want to hear, for example, it does not feel like it’s just me. &lt;span class=&quot;important&quot;&gt;It feels like I’m part of the group who wants to hear that and I have the motivation to actually do it. I’m the one who actually creates the sound, but it does not mean that others are not thinking about the same thing.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Somehow, my career and the way I have more and more new friends–”fans”–friends, the more it shows that they’re looking for the same thing. &lt;span class=&quot;important&quot;&gt;I’m just one of the guys who actually goes a bit further, not just dreams about it, but actually does it.&lt;/span&gt; I think you need to connect with that. That’s kind of your drive.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: I think so. Like you were saying, when you’re expressing yourself, it doesn’t matter what the receptors are doing because as you’re broadcasting, there’s always–because we have to broadcast. We don’t have this kind of in-born editorial thing where the perfect fan or the perfect appreciator of music is going to walk in the door. They’re going to discover you somehow, like we talked about. They’re going to discover music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;Even as listeners, we do the same thing. &lt;span class=&quot;important&quot;&gt;Along the path, you’re going to have people who walk in the room and go, “What the hell is this shit?” And they don’t appreciate it.&lt;/span&gt; And in fact, because the way the culture is and the internet and everything else, there’s a negative energy that can be associated with that that can be pretty strong. I don’t know if you’ve experienced that…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: That’s true. If people are like that, then they don’t have manners. That’s what I seriously think. It’s manners. I can accept if you don’t like something. I can accept that. But if you have heard somebody else because he likes something that you don’t like, that’s where it ends for me. I remember once, a situation where one of my best friends at his 30th birthday a long time ago, we were listening to &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Sylvian&quot;&gt;David Sylvian &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; in his living room, and one of his female friends came in the room and she said, “Turn off that funeral music.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;That was shocking to me. It was actually eye-opening to me. Eye-opening to experience this that there’s a friend of my friend, and they were friends, but she had no sense what that music meant to him. And she said, “Turn off the funeral music.” That was so incredible.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: I don’t necessarily wrestle with this, but I do notice it and it bothers me about the world in general. &lt;span class=&quot;important&quot;&gt;There’s less and less acceptance and openness, even at the same time that there’s a broader field for things to take place. It’s fascinating.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yeah, the question is really: Why is that? I think it’s partially maybe even a misunderstanding on our side. There are a lot of people who actually develop an interest for something who really fall in love with a certain idea, a certain concept. It could be music, it could be art, it could be sports. Cars. Hi-fi systems. Whatever. There’s always something that people kind of enjoy as their hobby, but there also seems to be people who don’t have anything like that who just seem to be empty.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I’m not even judging that this is something bad, really, because I don’t really know. &lt;span class=&quot;important&quot;&gt;I can’t imagine what it must be like to not having ever developed a passion.&lt;/span&gt; I’m actually doubting that it even exists, that there’s a human being without some sort of passion.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: A deep interest in something!&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: They may be kind of burying that feeling deep inside and they don’t let it out because of social pressure. I don’t know.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: I don’t know either. I think you’re right. It’s impossible to imagine not having a deep interest in something so maybe they just focus it in different ways. They focus it on family or social environments or, hopefully, something positive. But it can also be something very negative, trolling on the internet. It’s very easy to be negative about anything, honestly.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Generally, I’m more of an optimist than a pessimist. Does that actually exist in English?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah! Optimist, pessimist, sure.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Those are the German words and I don’t know if they translate that way. I’m actually an optimist. I believe that people and humanity is getting better and better somehow. If I’m looking at young kids and compared to what I was capable of as a 10-year-old, they live in a completely different world. They have a completely different understanding already. They know how to use tools much better than I did and I think that’s great. If there’s a way to channel that energy into something good, that’s really wonderful.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: I’m curious about your perspective on this because I think of it as–just because of the evolution of people and societies and things there are a lot of opportunities that didn’t exist as we grew up. That’s the way it’s always been for every generation, there’s always opportunities. But I see it as a kind of a problem of scale and maybe it’s because of where I live here in Phoenix.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;I’m curious about where you live, but here in Phoenix, what’s really interesting is the scale of the city. It’s not a gigantic city, it’s big–5 million plus, I think–but what I find really fascinating about it is the degree of opportunity. Phoenix has a lot of growth in the last 10-20 years and a lot of it is at the lower end of the economic spectrum where there’s lots of people that have moved here because it’s cheap to live here. There’s kind of jobs, but they’re not. If Amazon or Google comes to Phoenix, it’s because they’re going to open a call center. They’re not going to do advanced technology work here.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;So, the kind of real big advances in opportunities for societies is not found at a scale in a town like this. If you go further and further out on the edges of town, because we have a large Hispanic population with immigrants and stuff where there’s more and more depressed–and this is a sort of gross generalization, but more and more depressed economic areas where there’s less and less opportunity and there’s political systems that want to keep it that way with schools and all that kind of stuff.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;So, it’s a scale thing. There’s kids in Scottsdale that have incredible opportunities or here in Mesa or Chandler, and then there’s kids in other parts of town that don’t have anything and it’s this big scale. So, I find myself waffling–this is a long way of me saying &lt;span class=&quot;important&quot;&gt;I’ve waffled between the optimism and the pessimism because it depends on the eye you put on this massive scale of stuff. “Here’s some good stuff, here’s some not so good stuff.”&lt;/span&gt; Which is the pervading force?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: &lt;span class=&quot;important&quot;&gt;If you have the choice, then go for the optimism.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: There you go. Simple as that, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yeah! [Laughter.]&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: I like it. It’s good.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yeah, seriously, there’s no need to be negative about anything. &lt;span class=&quot;important&quot;&gt;If there’s one thing that we can contribute, it’s our good will. For me, optimism is part of that.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah yeah, that’s great.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yeah, maybe there’s a kid from a bad neighborhood and you wouldn’t expect that kid to be–I don’t know… successful (to oversimplify things). But yeah, why not? I believe in that kid. That’s what you have to do. My brother actually works in that field. He works as a kind of a social worker and he works with kids.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I can see how frustrated he is and he doesn’t believe. He believes that of 200 kids that he works with, maybe 1 kid is going to change. He might actually be right with the numbers, but for me, that doesn’t count. It’s not the numbers. The fact that one kid is actually going to lead a good life, that’s what I’m focusing on.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: There’s still some hope there.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: It doesn’t help to not be positive.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: I think that’s really the crux of it. &lt;span class=&quot;important&quot;&gt;What’s a useful thought and what’s a not useful thought?&lt;/span&gt; It’s not useful to think negatively unless it’s going to cause you to act differently to change that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yeah.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: So, why bother? This kind of loops back to that whole thing of what you were saying with people’s judgment on music and the music you do. &lt;span class=&quot;important&quot;&gt;Sometimes I’ve had the feeling where I don’t want to play this music for some people because I don’t want them to have the, “What’s this funeral music?” or “What’s that noisy shit?” It’s like you almost want to go, “Well, whatever.” Then there’s the other side of it, which is just to be authentic and present it.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: It’s not easy. It’s very hard. I know that I’ve been called–some people said that I’m autistic or something, which is ridiculous. It’s the other way around. I want to say, “You are autistic for saying that to me.” It’s just that &lt;span class=&quot;important&quot;&gt;I’ve actually made a choice to do what I do despite the fact that some people might not understand it.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I’ve accepted that as just a reality. Again, I’m not judging them and I’m not judging that, but it can be hard. I think in my career, which is not really that long, maybe 20 years now… &lt;span class=&quot;important&quot;&gt;I’ve had long stretches, maybe 5 or 6 years where nothing happened and I only got bad feedback. It’s hard to go through and keep going, but I never had a choice to do anything else.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: You just kind of believed. Your pursuit was purely based on that interest and desire to do it, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yeah. And especially that my interest was in discovering new sound worlds. Like we said before, if I can develop this interest and this hunger for that, there must be others. Even if there wouldn’t be others, but there are. I kind of know it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Actually, that is the great opportunity now, isn’t it? You know you can find those people eventually somehow.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yes and this idea of a collective subconscious, it makes total sense but the way we need to look at it is obviously like &lt;span class=&quot;important&quot;&gt;it’s not necessarily a global collective consciousness, but it’s kind of localized spatially but also localized in the field of interest.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So in music you have a certain group of people who are interested in discovering a new sound world, then you have other people who are interested in creating the best tools for re-creating the sound of the blues, for example, but it’s still a discipline that’s at the same level as finding a new sound world because it’s about creating the tools to get where you want to be.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Somehow I don’t make any real distinction where the one thing is better than the other. &lt;span class=&quot;important&quot;&gt;It’s about this drive to create and in the end, the process is what counts.&lt;/span&gt; Somebody who sits down and tries to play like–I don’t want to give a name now. Play like–&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Somebody.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Jazz Guitarist X! He has to spend as much time and energy to become that player as if I decide I want to sound like me or like this sound vision I have. So, in a way, what really connects us all is the process and that’s where we can share, no matter which field we’re working in. If you’re in software development or in music composition or running a business, in a way in the end it always comes down to the same drive.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. It’s gotta be pure, authentic, and come from a place that will keep you going forward. Keep you moving. I’m curious because you said earlier you didn’t really–I’m gonna blow this, but somehow when you started, it wasn’t that you wanted to get up and play, but you wanted to create the sound and create the worlds that we’re hearing. In order to do that, you had to learn how to play. [Laughs.]&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;What I’m wondering is: What is your preferred mode? When you’re creating your own music, do you prefer to create just solo or do you like to work with other musicians? How do you approach this whole thing? What’s your preferred mode?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: That’s a good question. I actually enjoy collaboration very much because I somehow still have this belief that &lt;span class=&quot;important&quot;&gt;if you’re working together, you’re making something bigger than the sum of its parts.&lt;/span&gt; Especially if creative minds get together and create something beautiful. It kind of contributes to if you’re looking for something new, if you’re doing something new for yourself and you want newer than new, work with somebody else because there’s always going to be more of a surprise factor.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Ideally. I found out that working solo, composing on my own, has become more important in recent years. I see that not having to make compromise–I’ve never felt like I actually have to make a compromise when I work with somebody else, but I figured that when I’m just taking my own decisions and I’m completely left on my own, I started creating something that really was–I don’t even have words for it. It had even more directness, but that’s a recent development in my musical life. &lt;span class=&quot;important&quot;&gt;I find that now I have already played on the field of collaboration for long enough, now I can just be myself.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Do you see the medium more as a blend of live and recorded or do you see it more as, “I just want to make these recordings and they’ll live on?”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: There are so many modes I can go into. For example, there’s the mode of instant composition. I pretty much enjoy that. But, then ideally I even want to go beyond that. That means that the instant composition is not the end result, but I’m composing a process, let’s say. Then I’m letting the process create music. So, &lt;span class=&quot;important&quot;&gt;I’m kind of inserting an additional level, like writing an algorithm which creates a piece of music, so my creativity goes into the algorithm and then the algorithm spits out the music.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Do you mean that literally?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: I mean that literally. Yeah, literally. That’s when it becomes very interesting. The process basically becomes your collaborator. It’s almost as if I’m designing an artificial intelligence. Then that artificial intelligence that’s my musical partner then writes the piece of music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Have you been able to do this?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yeah.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Oh, that’s awesome.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yeah, I did that on several occasions. A handful of compositions out there have turned out that way. Also, when I’m working with audio, I’m using feedback loops so you always get a little bit of that element of recursion even in the audio processing, if you would. Like this little bit of looping I did last night, for example, those were already feedback loops.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: I can’t say that I’ve done that, but I believe I understand what you’re saying. There’s this guy, &lt;a href=&quot;https://en.wikipedia.org/wiki/Stephen_Wolfram&quot;&gt;Stephen Wolfram &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, who was this mathematical genius, apparently, and he created this &lt;a href=&quot;http://www.wolfram.com/&quot;&gt;Mathematica &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; program. I went to this website years and years ago and he had this music generator on there and you could tweak it and I’m like, “Okay, in and of itself, this is not interesting, but when you take it”–and what was cool about it is you could say, “Okay, here are my inputs,” and &lt;span class=&quot;important&quot;&gt;it would spit out a midi file and I could take that and say, “Okay, I really like these parts of it,” and throw out the rest and it felt very interactive in a weird way.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: That’s exactly what I’m doing except for the fact that I’m not editing.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Less editing.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: &lt;span class=&quot;important&quot;&gt;That I don’t like because that’s where the beauty lies, in the things that I don’t like.&lt;/span&gt; It sounds surprising. If you want to edit, just get rid of all the stuff you like and only keep the stuff you don’t like. That would be my approach because I want to find the new sounds. “New” is really, if you think about it, &lt;span class=&quot;important&quot;&gt;if we say we like something, why do we say that? Because we know it.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah, I’ve never actually asked and answered that question.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: I believe a big part is that we like the things that we know.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: &lt;span class=&quot;important&quot;&gt;There’s another side of it, too. We also like novelty.&lt;/span&gt; I know for myself, I’ve heard a lot of music over many, many years. There is truth to what you’re saying. “I know this and I like it.” But there’s always, “Well, I’ve heard enough of that.” So, there’s also this desire for novelty that can drive you perhaps to interesting places.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Of course. If you still remember when you played a C blues and you ended on a C# on your solo and it’d make you cringe. At that time, it felt wrong, but then at some point, you start learning to accept what sounds wrong in the first place and it becomes part of–and that’s what I mean with “less editing.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;The more experience you get, the more you can accept sounds that maybe some people don’t expect, some people don’t like, but you can learn to like them and you can learn to accept them.&lt;/span&gt; That’s what I mean when I have an algorithm in computer science writing a piece of music for me, with me, and it’s my algorithm so it’s me anyway. Then, I’m trying to keep the decisions that it’s making that are kind of odd, those are the ones that are of interest because that’s what I’m looking for.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I’m not looking for those patterns that I could have played myself or those patterns that I would have written down myself. That’s kind of why I’m using software algorithms in the first place.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Okay, but just to challenge that a little bit because I do understand what you’re saying but I also think you must have some kind of editing. &lt;span class=&quot;important&quot;&gt;You can’t just accept that randomness for the sake of randomness is going to have beauty.&lt;/span&gt; It may or may not, right?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: I totally agree with you because randomness totally does not work for me at all. &lt;span class=&quot;important&quot;&gt;If a structure happens that surprises me, it comes from some &lt;a href=&quot;https://en.wikipedia.org/wiki/Deterministic_system&quot;&gt;deterministic processes &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/span&gt; It’s not random. That’s why I can accept the beauty of it. For example, I experimented a lot with &lt;a href=&quot;https://en.wikipedia.org/wiki/Aleatoric_music&quot;&gt;aleatoric composition &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and I can use it well during a composition on process.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Can you explain that again? I remember the term, but…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: It’s just like rolling the dice, for example. So, you have rolling dice and the 1 is a C and 2 is a C# and so on, for example. You can easily roll the dice and make a melody. You could do the same with note length. It’s possible to create beautiful work like that, but only if it’s part of the human process.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: There’s some intention or direction in there, but it’s not…&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: It’s like &lt;span class=&quot;important&quot;&gt;you’re making the choice to use the dice and that’s already enough to make it work. But if the dice were rolling by themselves, that doesn’t make any sense.&lt;/span&gt; For example, there are people who take the data from the height of the Alps and they put these numbers and then turn that into a score, for me that doesn’t make sense because that’s random data.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;But if the data has an intention or if you were assigning meaning to the heights of the mountains, you are saying, “Back then, people took this route from there to there and there to there,” in that order and then it starts making more sense. So, that’s what I mean, you always have the human factor. &lt;span class=&quot;important&quot;&gt;You always have to build a story somehow around what you’re using in order for it to start making sense.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: That’s fascinating.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: The way that translates to how I compose algorithmically is that I don’t use single pitches as the smallest unit. &lt;span class=&quot;important&quot;&gt;The smallest unit for my compositional technique is an interval so it’s already a relationship.&lt;/span&gt; If you’re taking the relationship of two pitches, these can be turned into a series that can be used for an algorithm. But if you just have individual notes, it’s much harder to create something truly “musical” from it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;So, 12-tone composition, for example. If you just take a 12-tone series and write a melody with that, it’s just the 12 notes repeated over and over again in a fixed sequence, but &lt;span class=&quot;important&quot;&gt;if you start composing polyphonically, then it starts getting into different types of relationships and it becomes music.&lt;/span&gt; It took me a while to figure that out. I have a long history of experimenting with generative music.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah, wow that’s cool. I think it can lead somewhere very–I think it’s actually largely untapped still.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: I think so, too. And part of–&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: I do want to touch on this because this is another one of these things–I have so many of these things in my life where it’s “yes, but no.” One of them is actually this very topic. You read these stupid research papers, these guys at MIT invented this program that writes Bach or something insane. And then all of a sudden, there’s a news article on it and I’m just like, “This is just madness.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: It’s ridiculous. It’s fun.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Yeah. And it has nothing to do with what we were just talking about.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: No, it has nothing to do with that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: But it’s lumped in the same category to some people. So, it’s funny.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Yeah, but it’s just the same. People who go onto that quest to find a way to recreate Bach’s music by building neural networks or whatever that learn the structures and then can repeat them: it’s fine, it’s great. Their interest is in recreating an existing sound, just like the blues people I mentioned earlier. They want to learn to play the blues just like Player X. That’s fine, it’s great.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;My process is that I want to find a new sound so that means I have to train the neural network with something that doesn’t exist yet, if you’re thinking in the same terms. Then the question is: &lt;span class=&quot;important&quot;&gt;Is the neural network the right tool? No, it’s not because I basically have to create my own rules that make the music that maybe later on someone can analyze to understand what’s happening.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;I was thinking, I have this huge orchestral piece which is a generative, algorithmic piece, which is called &lt;a href=&quot;https://en.wikipedia.org/wiki/Todmorden_513&quot;&gt;&lt;em&gt;Todmorden 513&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;. It’s a really fucking complex composition that’s based on a really elaborate process which involves a lot of computer-made decisions, but also quite a few decisions I made. I was thinking, “What would happen if someday in the future, maybe a class at some conservatory sits down and analyzes this piece of music, what will they discover? Will they have any understanding of the processes I used?” Probably not, but &lt;span class=&quot;important&quot;&gt;they will find something that I have no idea was actually in the piece.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Is it right, is it wrong? Who knows. They’ll find something. I’m curious, what applications are you using to do this? What do you work with?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Well, it’s mostly these days it’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Ableton_Live&quot;&gt;Ableton Live &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, which I use to create generative stuff.&lt;/p&gt;
-
-&lt;p&gt;AW: And it allows you to do that?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer interviewee&quot;&gt;MR: It allows me to do that.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: I have to look into that. That’s amazing.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: But I also have a programmer friend in Boston that helped me recreate an old piece of software I’d written when I was 15. It is very simple. It’s just a recursive procedure that creates a recursive interval structure and he’s helped me to modify that with my current knowledge.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: There are all these things that &lt;a href=&quot;https://en.wikipedia.org/wiki/Cycling_%2774&quot;&gt;Cycling ‘74 &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; have a lot of–that environment is something that you could bring some of that into.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: Oh yes. And a lot of people are working with that, but at this point, maybe if I was to learn &lt;a href=&quot;https://en.wikipedia.org/wiki/Max_(software)&quot;&gt;Max/MSP &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, I’m sure I could do great things with it, but at this point I feel like it’s–&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Well, if you have an avenue that you’re comfortable with or you think is interesting, go ahead.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: I mean, my friend &lt;a href=&quot;http://www.tobiasreber.com/&quot;&gt;Tobias Reber &lt;i class=&quot;non-mwm fa fa-external-link-square&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;, who is in my band &lt;a href=&quot;https://en.wikipedia.org/wiki/Centrozoon&quot;&gt;Centrozoon &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; also, is a great Max/MSP programmer. Basically, whenever I would need anything, I only would have to ask him and he would program it. So, sometimes after the most recent tour, I sent him an email saying, “Hey, I had this idea. It would be great to have this and this.” What we want to do for example is a scale filtering tool that does not shut notes off that are not in the scale, but where you can dynamically change things.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;For example, you could say this scale filter in C major (white keys) are going to be at maximum level and all the black keys at half level. So just imagine you send random notes into that and you kind of crossfade from the one scale to the other dynamically and you can create waves or moving waves of harmonies by morphing from one harmony to the other that way. Stuff like that, I’ve always had–&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AW: Okay, so when you go there and do that kind of stuff, do you see that as an end in itself or is that a foundation for–&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;MR: &lt;span class=&quot;important&quot;&gt;It’s never an end to itself. The end is the discovery of the new sound&lt;/span&gt; and quite often, I have this idea for a musical tool and I try it and it sounds like shit and I don’t think I ever can use it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Actually, my very first experiment with generative music was I took a &lt;a href=&quot;https://en.wikipedia.org/wiki/Lewis_Carroll&quot;&gt;Lewis Carroll &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; poem and I turned it into DSP data and I turned those into midi notes and I listened to it and even though back then I had just read &lt;a href=&quot;https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach&quot;&gt;&lt;em&gt;Gödel, Escher, Bach&lt;/em&gt; &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt; and I wanted to have this &lt;a href=&quot;https://en.wikipedia.org/wiki/Isomorphism&quot;&gt;isomorphic translation &lt;i class=&quot;non-mwm fa fa-wikipedia-w&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/a&gt;–you have the same information, but coded into a new medium. Listening back to that poem as sounds sounded horrible. It didn’t work. It didn’t work. &lt;span class=&quot;important&quot;&gt;There’s basically the same information to decode the sound to give you that poem, but it doesn’t have any meaning in it.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;That’s when I realized just to work with individual pitches doesn’t work because those individual pitches don’t suggest an actual relationship to something. Just putting a drone under that poem would probably have made it sound better because then there is a musical relationship. But just this one process that I thought would be sounding interesting was crap. That’s why I never use anything like that anymore.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Sep 2017 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/andy-west-markus-reuter</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/andy-west-markus-reuter</guid>
+        <link>http://localhost:4000/interview/keneally-green-minnear-mortimore</link>
+        <guid isPermaLink="true">http://localhost:4000/interview/keneally-green-minnear-mortimore</guid>
         
         
         <category>interview</category>
