@@ -1,0 +1,540 @@
+---
+layout: post
+title: iNFiNiEN
+date:  2018-03-08 00:00:00
+artist: infinien
+author: anthony-garone
+image: infinien
+category: discover
+permalink: /discover/infinien/
+oneliner: Philadelphia-based rock band iNFiNiEN is a wonderful group of people who love making music for all the right reasons.
+seo_description: Philadelphia-based rock band iNFiNiEN is a wonderful group of people who love making music for all the right reasons.
+seo_keywords: progressive rock, prog, mr. bungle, consider the source, secret chiefs 3, mike patton
+front_page: yes
+draft: no
+has_video: yes
+youtube_id: JTTRX8_lXBo
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/infinien/infinien.mp3
+duration: "36:57" #audio length in min
+length: "44655072" #filesize in byte
+explicit: "yes" #other option is no
+block: "no" #means is shown in itunes
+---
+
+iNFiNiEN is a rock band based in Philadelphia making music for all the right reasons. They are passionate about music as art and have a huge variety of influences. Their music is fun, exploratory, dense, and beautiful. The band's drummer, Tom Cullen, submitted their music to me via Facebook several months ago. When I finally got around to actually listening with intention, I came to realize what a talented group of people they are. I immediately knew they'd be a great fit for the site.
+
+- Jordan Berger: Bass
+- Tom Cullen: Drums
+- Matt Hollenberg: Guitar
+- Chrissie Loftus: Vocals and Keys
+
+## Interview video
+
+{% include video.html vid=page.youtube_id %}
+
+## Interview Audio (Podcast)
+
+{% include audio.html podcast=page.file %}
+
+## Interview Transcription
+[“If I Were a Song” excerpt]
+
+AG: Infinien is a really interesting rock band out of the Philadelphia area and I am really delighted that they’re here with me because it’s all I’ve been able to listen to in the last couple weeks. So, thank you guys for joining us today and I’m really excited to introduce your music to our audience.
+{: .interviewer }
+
+MH: Of course! We’re happy to be here.
+{: .interviewee }
+
+TC: Thanks for having us.
+{: .interviewee }
+
+CL: Thank you.
+{: .interviewee }
+
+JB: Yeah, man.
+{: .interviewee }
+
+AG: Yeah, of course. So, could you guys introduce yourself--names and what you play? And I’m most curious about your creative process because your songs are so interesting and they blend so many different styles and I really want to hear about your creative process for your songs.
+{: .interviewer }
+
+CL: Cool. I’m Chrissie [Loftus] and I play keyboards and sing.
+{: .interviewee }
+
+MH: And I’m Matt [Hollenberg] and I play guitar.
+{: .interviewee }
+
+TC: I’m Tom [Cullen], I play drums and percussion.
+{: .interviewee }
+
+JB: I’m Jordan [Berger], I play bass and sing some background vocals.
+{: .interviewee }
+
+AG: Cool, so your creative process. Who wants to start?
+{: .interviewer }
+
+TC: I think...
+{: .interviewee }
+
+JB: It all started with a big bang, really.
+{: .interviewee }
+
+MH: Well, I guess the main thing to understand about the band is we’re all coming from different areas of music, stylistically. <span class="important">We started out the band as just an outlet for jamming and exploring with no agenda of making a band, really. We just liked exploring music together and it was fun for us to have an interaction</span> with--just speaking for myself, I was thrilled to play with them because it was such a different thing than what I was doing at the time, which was more metal stuff.
+{: .interviewee }
+
+So, I got to play all this clean, jazzy guitar style and that was just a totally fresh thing for me at the time. And then I think collectively, we got into the genre-busting music in the beginning. Obviously, we share a love of [Mr. Bungle](https://en.wikipedia.org/wiki/Mr._Bungle). I think that’s pretty obvious to certain people that like Mr. Bungle. [*California*](https://en.wikipedia.org/wiki/California_(Mr._Bungle_album)) is one of our all-time favorite records. It’s not directly an influence. We’re not trying to recreate Mr. Bungle, but just the spirit of adventurousness, free exploration, boundary smashing, off-the-wall. We love everything about the way they approach it.
+{: .interviewee }
+
+{% include video.html vid="tUOWTmOP4FQ" %}
+
+We got in some [John Zorn](https://en.wikipedia.org/wiki/John_Zorn) in [Secret Chiefs 3](https://en.wikipedia.org/wiki/Secret_Chiefs_3) and that world has a little bit of a quirkiness that we maybe wanted to smooth the edge of. So, we like having the soulful vocals and the deep harmony of sort of more conventional styles of music. Maybe not more convention, but more soulful kinds of music. So obviously we love [Esperanza Spalding](https://en.wikipedia.org/wiki/Esperanza_Spalding), [Hiatus Coyote](https://en.wikipedia.org/wiki/Hiatus_Kaiyote), [MoeTar](https://en.wikipedia.org/wiki/MoeTar), and those bands are kind of in their own world compared to Bungle and Secret Chiefs. I guess we’re coming from all over the map and <span class="important">we don’t like any filler or redundancy in our songs, so by the time we’re all happy, there’s just this mish-mash of different stuff that’s very adventurous to listen to and kind of engulfs you in the sound</span>. I think we’re just going for an immersive vibe with what we’re doing. I know that was a long answer, but that’s a big question. Just bear with me.
+{: .interviewee }
+
+TC: I would agree. I think our main objective is to sort of fuse all different influences to where--we love so many different types of music. Like Matt’s saying, we’re inspired by [Miles Davis](https://en.wikipedia.org/wiki/Miles_Davis), [Weather Report](https://en.wikipedia.org/wiki/Weather_Report), and Mr. Bungle, John Zorn, [Candiria](https://en.wikipedia.org/wiki/Candiria), you know? When we create, a lot of it--that’s the concept, but the working process is probably like Matt writes material, Chrissie writes material	, and then we kind of write a song as a band based on those blueprints.
+{: .interviewee }
+
+MH: Yeah, that’s pretty accurate.
+{: .interviewee }
+
+TC: If you listen close, you can tell the two different writing styles. [Steely Dan](https://en.wikipedia.org/wiki/Steely_Dan) or--
+{: .interviewee }
+
+MH: Steely Dan! [Laughs.]
+{: .interviewee }
+
+TC: [Hall and Oates](https://en.wikipedia.org/wiki/Hall_%26_Oates).
+{: .interviewee }
+
+JB: <span class="important">We don’t sound like Steely Dan or Hall and Oates.</span>
+{: .interviewee }
+
+TC: I don’t know. If you listen close enough, you can sort of figure out who sparked the original thought for the tune.
+{: .interviewee }
+
+MH: Right. And then there’s other tunes we all write together. Everyone equally. And all three modes kind of have different results, so the albums just end up being all over the place.
+{: .interviewee }
+
+{% include video.html vid="S74hBpQZ6LU" %}
+
+TC: I wrote this one song. So...
+{: .interviewee }
+
+AG: Which one?
+{: .interviewer }
+
+TC: Brand New.
+{: .interviewee }
+
+MH: The first track.
+{: .interviewee }
+
+[“Brand New” excerpt]
+
+AG: Yeah, that’s a great song.
+{: .interviewer }
+
+MH: It was based on a rhythm Tom came up with and we all worked it out together in the room. That didn’t come from anybody, it was all working together. So certain songs, that happens. Other songs, Chrissie brings the whole thing and it’s a perfect chord progression and we just orchestrate that together.
+{: .interviewee }
+
+TC: Yeah.
+{: .interviewee }
+
+MH: So there’s no song that’s complete that’s being brought in. It’s at a certain point and we build it together.
+{: .interviewee }
+
+
+
+CL: Yeah, I’d say that. I’d say it’s just--usually the process is however we’re going to express it, being the most honest with what we’re currently feeling or what we’re influenced by. That’s kind of why I think it sounds like there’s a lot of different influences just because <span class="important">every day is a different influence and every day we’re listening to different types of music.</span> There was a period where we were really getting into Indian music together. And then we found out about Ethopian music. “Oh shit!” And then everything just kind of builds on itself. It’s just honest expression, I think. That’s the best...
+{: .interviewee }
+
+TC: We move really fast. We’re always telling each other about new music that we discover. Being inspired and influenced by the most creative, newest, weirdest music keeps us on a roll.
+{: .interviewee }
+
+MH: Yeah.
+{: .interviewee }
+
+JB: As far as my view on the process for us, it’s like we’ve said--a lot of writing comes from Chrissie, a lot of writing comes from Matt. Basically, a lot of the divide, or the separation, is Matt tends to bring in more technically-written instrumental lines.
+{: .interviewee }
+
+MH: Yeah, that’s true.
+{: .interviewee }
+
+JB: Sometimes some really active chord progressions. Chrissie more often than not will bring in a more chord progression and melody with some lyrics already written. Things like that. There’s been a couple of songs where I’ve contributed a section to, like one of Chrissie’s songs or I’ve contributed a section to a song where we were sort of all working on together.
+{: .interviewee }
+
+I feel that my role in the process is really more of an arranging kind of role and sort of more like, “Well here’s all these ideas, they’re all awesome. Let’s put them all together, let’s see what maybe needs to change to fit the other things that are happening around it.”
+{: .interviewee }
+
+{% include video.html vid="cb-DseJ-s30" %}
+
+CL: Or a cool chord progression, like the end of “Bottom of the Food Chain.” The ending is all [points to Jordan.]
+{: .interviewee }
+
+[The Bottom of the Food Chain excerpt]
+
+JB: Yeah, I’ve written some sections.
+{: .interviewee }
+
+MH: Yeah, that’s an amazing chord progression.
+{: .interviewee }
+
+JB: That’s on the new record.
+{: .interviewee }
+
+MH: It’s coming from everyone. Ultimately, everyone has something new that came completely from them.
+{: .interviewee }
+
+JB: Yeah.
+{: .interviewee }
+
+MH: The third record, especially, everyone has a voice on that and I think that’s why it’s all over the place, but it’s thematic because we play in a certain way together. So, the songs kind of have this thing that binds them together.
+{: .interviewee }
+
+JB: Yeah, on the third record, if you look at the inside of it, it does break it down pretty cleanly as far as who wrote what, but also what’s interesting about the song that Tom brought in the basis for, that actually credits all of us including the original bass player. It’s a really old song. That song’s called “Brand New.” It’s the first song on our newest record. That one actually credits Justin Carney, the original bassist and he did some writing in the early stages of the band as well.
+{: .interviewee }
+
+TC: And Justin did, too, have the initial concept, which was cool. I remember he phoned me one time and I was--I had been playing in really obscure grindcore band called Heinous Anus.
+{: .interviewee }
+
+[Laughter.]
+
+TC: It was a great band. Legendary band.
+{: .interviewee }
+
+MH: They were really great.
+{: .interviewee }
+
+JB: They’re worth talking about.
+{: .interviewee }
+
+CL: It’s true.
+{: .interviewee }
+
+MH: They’re very good.
+{: .interviewee }
+
+TC: Me and Matt collided in the metal world because his band, Cleric, at the time was doing insane shit. That was cool.
+{: .interviewee }
+
+JB: They still are doing really insane stuff. Cleric is awesome.
+{: .interviewee }
+
+TC: I guess I had broken up with that band and I was just distraught. I was fucked up, you know? It was a bad period of my life. So I started rapping and making beats. I wasn’t playing music. And Justin called me and said, “What if we”--I was also going to jazz school, learning about jazz and harmony, and I thought all the advanced harmony was really dope, you know?
+{: .interviewee }
+
+So, he was like, “What if we do a really low--something with a lot of power. Heavy funk. Metal, almost. Heavy funk metal and then just christen it with this nice keyboards, jazz harmony, female vocals,” and I was like, “Let’s do it.” So I packed up my cardboard box and I went straight to Philadelphia. I swear to God.
+{: .interviewee }
+
+MH: That’s amazing.
+{: .interviewee }
+
+CL: Yeah. [Laughs.]
+{: .interviewee }
+
+JB: Everything except the cardboard part.
+{: .interviewee }
+
+CL: I know. I think that’s pretty funny, though.
+{: .interviewee }
+
+TC: This was years ago. But yeah, Justin Carney.
+{: .interviewee }
+
+MH: Yeah, Justin Carney deserves a lot of credit because he--I didn’t understand any of these chords. He wanted to use these 5- and 6-note deep chords and use polyrhythm and he’s like, “The whole thing will just be, like, swirling, man!” And I’m like, “Yeah, that’s cool!” But I didn’t know anything about that. I didn’t go to jazz school. So he taught me all that jazz stuff and kind of formed the language.
+{: .interviewee }
+
+Then through jamming, we all were exploring it together. I don’t feel like I was--I just felt like I was along for the ride. I didn’t come up with the idea because I didn’t know anything about jazz when I was 19. Nothing. I was playing metal. That’s it.
+{: .interviewee }
+
+{% include video.html vid="WsPloykBpo8" %}
+
+AG: I think we’re making a lot of assumptions of the listener, so can you tell us a little bit about your band’s history and how many releases you have? What brought you together and what you’re up to now?
+{: .interviewer }
+
+JB: Sure. We’ve released three--we have three releases. One is an EP, the original. It’s “How to Accept.” The first record that I was involved with is the self-titled, full-length album. It’s our first full-length album.
+{: .interviewee }
+
+CL: And the year, I guess.
+{: .interviewee }
+
+JB: Huh?
+{: .interviewee }
+
+CL: The year.
+{: .interviewee }
+
+MH: Oh it was 2009.
+{: .interviewee }
+
+JB: Oh yeah, sorry. The original EP came out in 2006. The self-titled album is 2009. And we just put out our follow-up to that. It’s a full-length record called “Light at the Endless Tunnel” that came out last year, or earlier in 2017.
+{: .interviewee }
+
+TC: And then between those albums, we played all the damn time. Between the first two records, we played all the time throughout Philly. Basements, World Cafe, jazz cafes, metal gigs. It was tough for us because we were doing something that was totally different, yet somehow we were able, in our networking, to connect with bands that were partially like us. We’re so alienated yet somehow we were able to connect with these bands.
+{: .interviewee }
+
+{% include video.html vid="xl0xviYz3rM" %}
+
+But when we weren’t in the studio dropping albums, we were out on the road. We did three tours. We went to the midwest, down south--we did three tours. We covered a lot of ground. We never got to go out west. But, yeah man, we’ve got tapes of us playing all this stuff live that we’re hoping to release. We just stayed busy. We constantly--the band’s history, too, we were always playing. We were real stern on rehearsing all the time. A couple times a week, gigging. You know, all the time.
+{: .interviewee }
+
+[“Love for Yourself” excerpt]
+
+CL: We met originally with the bass player--that was 2004. Three of us were roommates--the bass player, Matt, and I were roommates with, like, eight other people. So there was always music going on of some sort. Usually it was hip hop because a lot of people at that time, it was in college. Other people wanted to rap, you know? But what happened is we just realized we were all in different bands, so let’s just make music together.
+{: .interviewee }
+
+And then I think the core, the three of us, realized we were kind of finding a voice that we hadn’t found in our other projects, so we just called Tom in and took it and just started experimenting. You know, sometimes with substances. [Laughs.] And each other, and just realizing that that was a lot of fun. Then we just started playing gigs as those came up. Mostly just playing and writing and having fun and being wild and allowing ourselves to be wild. Then Justin wound up moving to LA and he told us, “Get Jordan. This guy’s right on your level.”
+{: .interviewee }
+
+JB: Yeah, Justin not only kind of helped them to stay together when they were first starting, as Tom was mentioning, but his last contribution was to recommend me, which seems to have worked out pretty well. At least, speaking personally. I’m still thrilled after all these years. I knew Justin through school. We were actually schoolmates studying basically on the same track of Temple University’s jazz studies program. We were both upright bass players at the school.
+{: .interviewee }
+
+CL: And I was there, too. So we were all in the same music school.
+{: .interviewee }
+
+JB: Yeah, Chrissie was at Temple as well.
+{: .interviewee }
+
+CL: It makes sense that we would have--
+{: .interviewee }
+
+JB: Matt was at Temple for a week, but that’s a different story.
+{: .interviewee }
+
+{% include video.html vid="8L8IfJlgarA" %}
+
+CL: But that’s where I met him and we kind of opened each other’s eyes to different types of music and we realized that was--we were kind of both geeks in the same way.
+{: .interviewee }
+
+MH: Yeah, <span class="important">meeting Chrissie was way better education than the actual teachers there.</span>
+{: .interviewee }
+
+AG: So it sounds like you guys have a mission of blending as much music as possible and that’s, to me, very evident on the third album because one song, “Oasis,” I don’t know who wrote that song but it’s a work of genius. [Laughs as everyone points to Chrissie.]
+{: .interviewer }
+
+{% include video.html vid="u9iCmqCBXB0" %}
+
+CL: Thank you.
+{: .interviewee }
+
+AG: That’s an incredible piece of music. And then, like, two or three tracks later, it’s like all of “California” from Mr. Bungle without any of the cartoon-y sounds.
+{: .interviewer }
+
+MH: Right. Well, that’s kind of what I was saying. We kind of smooth the quirkiness a little bit. It’s more beautiful than quirky and off-putting.
+{: .interviewee }
+
+AG: But then there’s another song where Chrissie is singing Indian melodies with very fast stepping between notes.
+{: .interviewer }
+
+[“Light at the Endless Tunnel” excerpts]
+
+MH: Oh yeah, yeah. You know, that song was really influenced by that--you know that [Consider the Source](https://en.wikipedia.org/wiki/Consider_the_Source) band?
+{: .interviewee }
+
+AG: Oh, they’re awesome.
+{: .interviewer }
+
+MH: Yeah, we toured with them our first tour and me and Gabe [Marin] go all the way back. He’d just tell me about scales. So that song is just based on this one Indian scale that’s their version of pentatonic. The whole song is that scale, so it’s kind of like our version of a raga or something, mixed with [Philip Glass](https://en.wikipedia.org/wiki/Philip_Glass) or something totally not related to that. But that was totally influenced by Consider the Source.
+{: .interviewee }
+
+AG: Okay, that makes sense. All right, so--
+{: .interviewer }
+
+MH: You kind of hear their influence in “AYA” a little bit in moments. We play more chords than they do, so that would be the biggest difference, but yeah we really like them.
+{: .interviewee }
+
+AG: What’s next for you guys? Tom, I think, mentioned that you’re in the studio. What’s going on?
+{: .interviewer }
+
+MH: We’re just demoing new tracks that we made, but we don’t have a concrete plans as of now, but we have another record written. So, we’re just in the process of figuring out what to do.
+{: .interviewee }
+
+{% include video.html vid="nPg12O61Etk" %}
+
+TC: Yeah, if anyone’s been paying attention to the videos we’ve been releasing online, some of them have the full show of the last couple of shows that we played and there are some songs that are not released on the third record, sort of implying that there is more to come. It’s always a good time.
+{: .interviewee }
+
+AG: So, I mentioned earlier, I took my daughter to Costco today and we were listening to your album and I said “What did you think of that?” And she said, “It was weird,” which I think is perfect.
+{: .interviewer }
+
+TC: That’s fine.
+{: .interviewee }
+
+AG: But I want to know, as a band that is really focused on “new” and “different” and “mish-mash”--these are all terms I’ve heard many times so far--how are you reaching audiences and how are they receiving what you’re putting together?
+{: .interviewer }
+
+MH: I think since the third record, we’ve been amazingly well-received. We went down to North Carolina in September and played [Prog Day](https://www.progday.net/) and we sold out of all our CDs, we made a ton of money in merch. Everyone rushed us after we were done. People talked about us on the message board, the word got out more, so that was kind of one of the biggest hitting-the-target moments we’ve had booking-wise. All the reviews have been incredible. So the word’s getting out there. It’s just us.
+{: .interviewee }
+
+We’re strictly DIY. <span class="important">We don’t have a promotion team, we didn’t hire PR, we don’t have a booking agent.</span> It’s just us and considering that, the album is standing on its own pretty well. I got a message from Italy the other day, this guy who’s just obsessed with it, he’s trying to get us over there. I don’t push us over there, it’s just getting around.
+{: .interviewee }
+
+<span class="important">In the age of the internet and the sort of bleak musical economic environment, for a band like us, that’s a good sign. It’s a reason to be optimistic about the future, you know? We’re not making a lot of money, but our goals were artistic, not commercial, and I think we’re all satisfied in that way. And I think that’s what the band’s about. It’s not about what’s working right now in the industry, what’s selling right now, how many likes and followers we have. No, it’s about the record. It’s about the substance and I think that’s what we’re bringing that’s countering a lot of what’s going on.</span>
+{: .interviewee }
+
+[“Worth the Wait” excerpt]
+
+TC: I’ll answer this with two answers. It’s difficult for us to attain mass appeal. We gotta understand that from the jump. <span class="important">But there are millions of people that like weird music.</span> First thing we did when we dropped the album is we started contacting as many people as we could to get reviews. The reviews were outstanding. We couldn't--I mean, people were just saying the most amazing stuff. It’s almost like--
+{: .interviewee }
+
+JB: We’re humbled.
+{: .interviewee }
+
+TC: Yeah. <span class="important">We played last week and someone came up to me and was like, “You’re my favorite band.” I was like, “This is my favorite band!” I couldn’t lie. I was like, “When I go to sleep, I think of music that’s dope and cool.” This is what I imagine.</span>
+{: .interviewee }
+
+JB: That’s cool.
+{: .interviewee }
+
+TC: It’s been very well received to the right people. Mass appeal? No. But the people who do like this type of music will love it. It’s been a great year.
+{: .interviewee }
+
+JB: Yeah yeah. So far, the internet’s been really nice to connect us and we’ve been getting a little bit more word of mouth spreading this year. It’s been fun. It’s been nice to see that we can put an album out and people are actually reacting to it. It’s not just like, “Oh, there’s another album on bandcamp,” you know? Everybody does that, and it’s important to do that because you’ve gotta make your stuff available however you can, but it’s nice to see that people are actually checking it out.
+{: .interviewee }
+
+{% include video.html vid="5qY8arvbQCI" %}
+
+MH: Yeah, it’s nice not to be ignored because there’s so much out there and most stuff does get ignored. I feel like the people that are connecting with what we are doing, it really means something to them. And I guess for me personally, <span class="important">the low-to-the-ground approach is better in the long run because 5-10 years from now, you’ll still have those people whereas if you just make a catchy song and a million people get into it for two months, and then they leave, what did you really build there?</span> It just seems like, “Let’s go up the roller coaster and get off.” I would want something more permanent than that. I like to think that we’ve attained that. I don’t really know, but...
+{: .interviewee }
+
+AG: Yeah, I would classify your music as art. And that’s what I’m after. True artists who use music as their form of expression. So, it’s funny. Tom wrote to me months ago, I don’t remember--I think you just said, “Hey, here’s my stuff,” and I get a lot of those emails, but when I heard “Oasis,” I was like, “I gotta check this out later.” And when I listened with real intention, I was like, “Oh my goodness, these guys are awesome.” [Laughs.]
+{: .interviewer }
+
+MH: Thank you so much.
+{: .interviewee }
+
+JB: Thank you.
+{: .interviewee }
+
+TC: We really appreciate that.
+{: .interviewee }
+
+AG: Yeah, so what’s going on in 2018 for you and where can people find out more?
+{: .interviewer }
+
+MH: Well, we’re [on Facebook](https://www.facebook.com/profile.php?id=122617694436220&ref=br_rs), we’re [on Bandcamp](https://infinien.bandcamp.com/), we’re exploring booking options right now, we’re demoing new stuff, there’ll be a new release sometime.. In the future.
+{: .interviewee }
+
+AG: When it’s ready.
+{: .interviewer }
+
+MH: Right, when it’s ready is the key there.
+{: .interviewee }
+
+TC: But, way sooner than the other--
+{: .interviewee }
+
+JB: Yeah, there was a bit of a gap between the self-titled album and the “Light at the Endless Tunnel” unfortunately. But that’s definitely not going to be the case this time. We can say that for sure. We can also say the four of us are very committed to making this record better than the one we just put out.
+{: .interviewee }
+
+TC: Yeah, that’s very true.
+{: .interviewee }
+
+JB: We had the same mentality when we made “Light at the Endless Tunnel,” which was like, “We put our heart and soul into the Infinien record,” which is why we had to call it that. We couldn’t come up with a title because it was just like, “Well, this is everything we are,” so that’s why that record was self-titled. But I’m sorry, a little bit of a digression there. But, yeah, when we made the third one, it was like, “It has to sound better, we have to do this, we have to do that.” And it totally fueled us. We put together an orchestra. That was a weird dream--
+{: .interviewee }
+
+CL: That was fun.
+{: .interviewee }
+
+JB: that we took into reality. All of a sudden we were standing--there’s a video of us online recording next to two enormous orchestra-sized harps.
+{: .interviewee }
+
+{% include video.html vid="aVuFmuShkyE" %}
+
+MH: Yeah, there’s like 4 harps on that track.
+{: .interviewee }
+
+JB: And it’s real! Those aren’t fake instruments.
+{: .interviewee }
+
+MH: That was a total mission accomplished.
+{: .interviewee }
+
+CL: That was so beautiful.
+{: .interviewee }
+
+JB: That’s also in the credits. You can see the list of orchestral players. I was lucky enough to play upright bass on that, too. Saved us a little bit of bread. [Laughs.] But anyway, yeah we’re very committed to making a new release that is even better than the third one, which we’re pretty happy with. All things considered. We can rest easy knowing that we made a really solid album. Or at least I can. Are you guys sleeping all right?
+{: .interviewee }
+
+
+TC: This next album is--like I said, these guys are my favorite band and this next album is just so, so good. I don’t even know what to say. I’m excited.
+{: .interviewee }
+
+MH: There’s no album yet, though.
+{: .interviewee }
+
+TC: This year. Maybe not. I hope so.
+{: .interviewee }
+
+CL: I feel like one of the reasons why people who like it really like it is because <span class="important">we’ve always been honest with ourselves and I think that maybe it’s not going to be popular, but it’s our truth and the truth is undeniable.</span> So, when you’re honest with the way you need to express it, then somebody somewhere out there who’s gets it is going to get it. So, I feel like we can always be proud of what we’ve done because we’ve always been doing it honestly.
+{: .interviewee }
+
+MH: <span class="important">We never did anything we didn’t want to do to get more people into the band. Ever. Everything was based on curiosity, exploration, innocence.</span> None of us are innocent, but you know what I mean.
+{: .interviewee }
+
+CL: <span class="important">I also feel like what I like so much about what we’ve found is that it’s a mix between chaos and beauty. I think that that’s the whole universe. Maybe that’s what weird music is. It’s not just beautiful, it’s not just chaotic, but it’s the blend.</span>
+{: .interviewee }
+
+MH: Yeah, I totally agree with that.
+{: .interviewee }
+
+CL: It kind of captures you in all of your facets. You know?
+{: .interviewee }
+
+AG: Yeah, I would love to explore that chaos and order. That’s been a major theme going on the last few months in the philosophy I’ve been reading, but we don’t really have time for that. [Laughs.] So for anyone who’s new to you guys, what’s the best way to find out about you, find out more, and what’s the best way to support you?
+{: .interviewer }
+
+JB: We’re on Facebook, Instagram, and all the recorded music is available to check out on Bandcamp and all of the other streaming services. Spotify, Google Play Music, Apple Music, Amazon. I believe it’s available. A friend of ours has a joke that you should have a t-shirt that says sorry I missed your gig. And there’s another t-shirt that says, “My music is highly available.” Anyway, Facebook is probably--between Facebook and Instagram is probably the best way to keep in touch as far as that goes. But, I’ve always said this to anybody who’s been interested in the band. Shoot us an email! It’s the band’s name at gmail.com [infinien@gmail.com].
+{: .interviewee }
+
+MH: Yeah, we like hearing from people.
+{: .interviewee }
+
+JB: We like people reaching out to us. It’s nice.
+{: .interviewee }
+
+MH: It’s a core group of people right now, so it’s very community-esque. Don’t feel like we’re on an ivory tower. We love hearing from fans.
+{: .interviewee }
+
+AG: Cool.
+{: .interviewer }
+
+TC: Yeah and if you go to Bandcamp, you can find our whole collection. You can get our CDs, t-shirts, there’s some merch, a biography, and some stuff. If you want to see us, YouTube. We’re building our content this year, so expect more videos coming.
+{: .interviewee }
+
+AG: Awesome.
+{: .interviewer }
+
+{% include video.html vid="6_frjTIDeZA" %}
+
+JB: You keep mentioning “Oasis,” there is a really good capture of that song that we just released on YouTube through a company called [Sun Sessions](https://en.wikipedia.org/wiki/The_Sun_Sessions).
+{: .interviewee }
+
+AG: I saw it. It’s all solar-powered. That was so cool.
+{: .interviewer }
+
+JB: It is really cool!
+{: .interviewee }
+
+[“Oasis” excerpt]
+
+JB: And then we just happened to be--it was the last hot day of last year. It was already starting to be a cold fall and then it was just this one day of abundant sunshine and it was like, “Jeez, it’s almost 80 degrees out.” It was kind of weird, so now we’re releasing in winter these sunny videos. But yeah, that’s a good capture of that. If you like that, there’s probably--a little bird told me there’s another one of those videos coming out soon.
+{: .interviewee }
+
+AG: Okay, cool. Thank you guys so much for your time. I really appreciate it.
+{: .interviewer }
+
+MH: Thank you so much
+{: .interviewee }
+
+CL: Thank you so much. I was going to say the best way to support us is what you’re doing. You’re spreading the word and you listen. Thank you.
+{: .interviewee }
+
+AG: Awesome.
+{: .interviewer }
+
+JB: Keep making weird music.
+{: .interviewee }
+
+TC: And hit us up on Skype! [Laughs.]
+{: .interviewee }
+
+JB: Thank you so much for having us. Infinien is a band we all believe in so dearly. We put so much energy into it and we just love so much that it is contagious. It seems to be, anyway. We just want to keep spreading it.
