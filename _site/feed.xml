@@ -5,9 +5,356 @@
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Mar 2018 20:12:26 -0700</pubDate>
-    <lastBuildDate>Thu, 08 Mar 2018 20:12:26 -0700</lastBuildDate>
+    <pubDate>Sun, 25 Mar 2018 20:39:38 -0700</pubDate>
+    <lastBuildDate>Sun, 25 Mar 2018 20:39:38 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>California Guitar Trio</title>
+        <description>&lt;h2 id=&quot;lets-get-real&quot;&gt;Let’s Get Real&lt;/h2&gt;
+
+&lt;p&gt;I’ll admit that a lot of a lot of my interviews focus on my admiration of the artist, trying to get at the heart of what makes them tick, and understanding their creative process. These are important topics and I’m really happy with most of the interviews on this site. However, this one gets pretty real. We talk money, streaming rates, and the “different scales of nothingness that artists are paid.” If you’re interested in how a troupe of acoustic guitarists who studied with Robert Fripp have survived for 27 years, this interview will shed some light on that. And they bravely discuss real numbers, real struggles, and real plans.&lt;/p&gt;
+
+&lt;p&gt;I would be remiss if I didn’t at least acknowledge the influence of &lt;a href=&quot;http://innerviews.org&quot;&gt;Anil Prasad&lt;/a&gt; on this discussion. Most of &lt;a href=&quot;https://facebook.com/innerviews&quot;&gt;his facebook&lt;/a&gt; posts are about this stuff and recently he’s gotten heated on the topic of the dismal pay for artists in today’s musical climate. I admire him and he definitely made me step up this interview a bit.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-video&quot;&gt;Interview video&lt;/h2&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZlpIbf8ERMQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;interview-audio-podcast&quot;&gt;Interview Audio (Podcast)&lt;/h2&gt;
+
+&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/california-guitar-trio/california-guitar-trio.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/california-guitar-trio/california-guitar-trio.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
+&lt;p&gt;Paul Richards [PR]
+Bert Lams [BL]
+Hideyo Moriya [HM]
+Anthony Garone [AG]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: The California Guitar Trio has been a musical tour de force for the last 27 years now and you guys are here in Phoenix, Arizona–Scottsdale, Arizona in February 2018 and I thought it’d be really cool to have a discussion about what life is like as music has evolved, as the industry has evolved, and as people’s tastes have evolved in the 27 years of your experience.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: And you have all evolved yourselves as individuals and as a band. I also thought, for people who have never heard the California Guitar Trio, that we could get a brief intro as to who you are and what you’ve been doing. So, Paul, why don’t you introduce yourself.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Sure, yeah. I’m Paul Richards with the California Guitar Trio and the three of us met while we were studying with British guitar player &lt;a href=&quot;https://en.wikipedia.org/wiki/Robert_Fripp&quot;&gt;Robert Fripp&lt;/a&gt; back in the late 80s. All three of us attended his &lt;a href=&quot;https://en.wikipedia.org/wiki/Guitar_Craft&quot;&gt;Guitar Craft&lt;/a&gt; seminars and Robert had a house in the English countryside called Red Lion House. He invited some of the students to go to England to study music together at Red Lion House and that’s where the three of us–it’s the time period that the three of us met. We met Bert the first time in Switzerland on a Guitar Craft course that Robert was doing there during that time period, but then Bert came over to Red Lion House and we began playing together as the &lt;a href=&quot;https://en.wikipedia.org/wiki/Guitar_Craft&quot;&gt;League of Crafty Guitarists&lt;/a&gt;. [See our &lt;a href=&quot;/discover/steve-ball&quot;&gt;interview with Steve Ball&lt;/a&gt;, another former Crafty Guitarist.]&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/e_fPaRajJ0A?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, we were working with Robert for four or five years before we formed the California Guitar Trio. Bert had just moved to Los Angeles and invited the three of us to go to LA in 1991. So we formed the California Guitar Trio in February of 1991. &lt;span class=&quot;important&quot;&gt;So, we’re just celebrating our 27th anniversary now.&lt;/span&gt; At that time we were just starting out playing and we just took any gig that we could in LA. Tiny little coffee shops, we even played at the Blind Institute and a home for autistic people. Then as we began playing more and more together, we got invited to do different things. Robert invited us to open up a series of concerts that he did with &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Sylvian&quot;&gt;David Sylvian&lt;/a&gt;. He and &lt;a href=&quot;https://en.wikipedia.org/wiki/Trey_Gunn&quot;&gt;Trey Gunn&lt;/a&gt; and David Sylvian did several tours together.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So in 1992, we did several tours with David Sylvian and Robert and then a few years later, Robert invited the three of us to open for &lt;a href=&quot;https://en.wikipedia.org/wiki/King_Crimson&quot;&gt;King Crimson&lt;/a&gt;. &lt;span class=&quot;important&quot;&gt;We did over 130 concerts with King Crimson worldwide.&lt;/span&gt; Those were just the few things that helped us. As an acoustic guitar trio, a big challenge is getting to the point where we can tour and play and make any kind of living doing this. So, we did have some help along the way from Robert, but a lot of it we did ourselves–and during our first year, Bert was getting on the phone and calling up these venues in LA just to get gigs for us.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;For our first eight or nine years together, we did everything ourselves aside from the short tours we did opening for other bands. But, we booked all of our own gigs and arranged all the details and then around–was it ‘98? ‘98 or ‘99 we got an agency who started helping us book shows and then in early 2001 or 2002, we got with our agent who we have now, which is &lt;a href=&quot;https://sroartists.com/&quot;&gt;SRO Artists&lt;/a&gt;. That was a really good thing for us. They had worked with &lt;a href=&quot;https://en.wikipedia.org/wiki/Michael_Hedges&quot;&gt;Michael Hedges&lt;/a&gt;, who was one of their main acoustic guitar players, and so they had really good connections with acoustic guitar venues. He was one of the first acoustic guitar greats that was playing for large audiences. So, SRO helped us get into a lot of venues that we had previously been trying to on our own. To this day, they help keep us going now.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s great.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: I’ll talk a little bit about before the three of us.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Sure, yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: I was born in Belgium and around the age of 13 or 14 [the room lights went out].&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Around the age of 13 or 14, I heard mainly blues music and I wanted to play the guitar. Electric guitar was my first love, so I bought an electric guitar and started playing with my friends around–I taught myself how to play guitar by listening to blues music. I always had this desire to go to America and study the guitar in America, but it didn’t materialize until later. When I finished high school, rather than go to Berklee College of Music, which was a good option but too expensive for me at that time. I couldn’t afford that, or my parents wouldn’t let me do that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So I went to the Conservatory of Music in Brussels with little preparation and I gloriously failed the entrance exam, but they referred me to a really good teacher and then in a couple of years, I really caught up. That’s where I really started to play the guitar more seriously. In the meantime, I kept playing the electric guitar and listening to electric guitar music. Maybe six or seven years later after I graduated and started teaching, while I was teaching, I found out that these courses were held by Robert Fripp. I was a big fan of his music. Then, finally, it became possible. It was only a five day introductory course in the states in West Virginia. So, I got on a plane and went there and it all started and began for the three of us as well.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: How do I start it?&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Well, yeah a little introduction to yourself.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Okay, yeah. I’m born in Japan and raised in Japan and when I was a kid, like 12 years old, &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Ventures&quot;&gt;The Ventures&lt;/a&gt; (the instrumental surf band) in the states was very big in Japan. That’s how I imitate to start the guitar playing a Ventures piece because it’s all instrumental so you don’t sing it. That was fun. The Ventures, most of their pieces, the famous one, I copied it and then started listening to other bands, like the Beatles and many, many others. But The Ventures was the beginning.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;One interesting thing for me is the very first piece–from the time I learned my first piece–I still am playing it now. I’m wondering why, but it’s the music. It’s staying. What I played around that time and now, I still am playing. It’s very interesting for me. I still have some life. It’s not just playing old pieces, so that’s one thing I keep going. So even almost close to 50 years ago I was playing my very first piece.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Are you the one who’s brought in the surf and 60s influence into the band?&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3_Mu2CUrM2o?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Yeah. I could say that I think. Of course, people are suggesting to us to play other pieces, like Sleepwalk. I didn’t know it. It’s not famous in Japan, I guess.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, The Ventures are awesome. They have a Christmas album that we discovered a couple of years ago and thought, “Why is this not a staple for everyone’s Christmas?” Great album. Really out of tune guitars. It’s great.&lt;/p&gt;
+
+&lt;p&gt;[Laughter.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;As you were talking about yourselves and how you met, it reminded me of my experience in the Guitar Circle introductory course. It was a life-changing week for me and clearly it’s a life-changing experience for each of you. What do you think transformed about yourself when you went through the Guitar Craft instruction?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: At the time I heard about the Guitar Craft course, I was only 20 years old, I think. I was studying–I was in the jazz guitar ensemble at the University of Utah and my teacher at that time just passed away yesterday so I’ve been thinking a lot about him–he was there with Robert Fripp and some other great teachers I had, like Kevin Johanssen. So that experience playing with the jazz guitar ensemble was great and it really helped form the things I’m doing now.&lt;/p&gt;
+
+&lt;p&gt;[Lights turned off again.]&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SZiWvjRj1AY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So that experience of playing with the jazz guitar ensemble was important at that time, but I somehow knew that that’s not what I was going to end up doing. And then I heard about these Robert Fripp Guitar Craft courses. And another teacher of mine at that time, a guy named Don Ayers, he’s the one who encouraged me to go on my first level one course. I remember arriving at the mansion in West Virginia where these first courses were held and walking in the room and Robert Fripp is sitting in the corner and all the students were sitting on the ground and no chairs around.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I immediately had a sense of peace come over me and I felt like, “This is the right place for me to be.” Even though I had no idea of what was going to happen. That whole week was very transformative. At the end of that week–I had this transcription of &lt;a href=&quot;https://en.wikipedia.org/wiki/Discipline_(King_Crimson_album)&quot;&gt;&lt;em&gt;Discipline&lt;/em&gt;&lt;/a&gt;, the King Crimson song Discipline that my teacher Don Ayers had made–and I wanted to show it to Robert to show what I’d been working on with my other teacher. Everybody was leaving the course and my time was running out. Then I went to Robert’s room and he was practicing his guitar and normally you don’t bother him when he’s practicing, but I knocked on the door and at first he was saying, “Don’t bother me. What do you want?” I said, “Oh it’s Paul, I have this transcription of Discipline.”&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;He invited me in and I sat down with him for a few minutes and showed him the transcription and he said, “Oh that’s very nice.” And then he said, “You need to come on the next Guitar Craft course next month!” And I was kind of in shock. I thought I was just going to do that one thing and then the idea that this was going to be a continual thing suddenly to happen for me. I went on the course the next month there and soon after that I was invited to England–to Robert’s house in England. Then everything changed in my life from attending those courses. It was huge. And what we’re doing now is all a result of that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Right. Still riding that wave.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Can you talk a little more about the transformation? For me, physically, back pain went away with &lt;a href=&quot;https://en.wikipedia.org/wiki/Alexander_Technique&quot;&gt;Alexander Technique&lt;/a&gt;, the guitar technique completely changed, the way I pick, my relationship with the instrument… Can you talk a little about your experience coming from an electric blues background?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: There’s so many different things, but I can relate two instances. While Paul was talking, it just came up. I was used to imitating. The way I learned was listen to something that I really loved and then pick up all the details. Blues music was perfect, you know? The bending strings and stuff. And in classical guitar, the way I would learn a piece, I could read music, but the way I would learn a piece was to listen over and over again to something that I really wanted to play. And it’s the same with these two guys. We get the feel of a piece then it works.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;But, when I went to that week, the way I was used to having guitar classes or lessons was I would take jazz guitar lessons, for instance, with a man named John Thomas. He was a black guy, a really good guitar teacher. He teaches still at Berklee College of Music. I would go to his apartment. He was not–I would say he was not a great teacher, per se, but he could play really well and I would just bring my microphone and ask him to play Autumn Leaves, whatever, any standard that would be amazing. I’d take it home and then I’d assimilate. Pick it up and say, “Oh I like that.” Pick it up, imitate it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;And then I went to the Guitar Craft courses with the same thing. I brought my little tape recorder and my cassette recorder and I was ready to record anything I could, pick up all the exercises. I had no idea what was going to happen, so I did it the same way. I remember there was a big inaugural meeting, as you remember, with all the students there and Robert would ask everybody to introduce themselves and everything. I was recording everything. [Laughs.] Also, I didn’t want to miss anything. My English was not as good then and I wanted to take it home and listen to what he said in case I missed something.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6JTL3uxSYhI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Somebody noticed I was recording and told Robert and when I had my first personal meeting, right after, &lt;span class=&quot;important&quot;&gt;Robert pulled me aside. He was really nice, he wasn’t like, “Bootlegging!” He was saying, “Well, you don’t need to do that. Just listen with your heart,” he said.&lt;/span&gt; I was like, “Oh, okay.” And then in one of the first personal meetings I had a question for him because I was teaching full time at that time and I asked him, “How can I apply…”&lt;/p&gt;
+
+&lt;p&gt;[Lights off again.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;You have to stand up.&lt;/p&gt;
+
+&lt;p&gt;[Laughter.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So, in one of my first meetings with him, I asked him, “How can I apply this–what’s happening here to my teaching and to my students?” Because I was teaching full time. &lt;span class=&quot;important&quot;&gt;He said, “When you teach with love, everything’s going to be okay.”&lt;/span&gt; So he gave all these answers from his experience and that really turned me inside out. He wouldn’t have to think about some answer, something smart. It was just from his experience and I think that was a big thing for me to get that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: How about you, Hideyo?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Oh, well, after teaching myself, I formed a band with my friend playing The Ventures style as a local group. I formed a band and played in little clubs in Japan and decided to keep going so I decided to come to the States to study. After that, I didn’t have any official teaching about the music. So, I went to Berklee College of Music and I was pretty bad. A bad student. Really bad.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: A bad student? A bad player? Or both?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Could be both. [Laughter.] Compared to the other students, amazing students and people there. But also, something in Berklee and I didn’t get along, I didn’t agree with it. You know, rock is not a style, but it’s said there are styles of rock, but the music is very analyzed, I think. It doesn’t have much–something is missing in what I learned from Berklee. My friend was telling me, “If you like to play rock music, why don’t you go to jam?” I was thinking about the next move and I found Guitar Craft.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Robert was my hero with King Crimson. So I decided to go and take a Guitar Craft course, but before I knew it was only a 5-day course. Five days of what? I didn’t know what they were doing in the five days. &lt;span class=&quot;important&quot;&gt;For a long time, I stayed at Berklee. About two years and I still was getting nothing. What can you do with five days?&lt;/span&gt; And I don’t speak good English, also. And also I learned Robert’s philosophy behind what he’s doing and Robert went to the &lt;a href=&quot;https://en.wikipedia.org/wiki/John_G._Bennett&quot;&gt;Bennett Institute&lt;/a&gt; in England. Guitar Craft course was held in West Virginia, which was doing continuous education. So, I took that course before going to a Guitar Craft course to be familiar with myself with those ideas. For me, that was more shocking. That was more changing my life in a way.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Learning about yourself?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Learning about myself in the course. I don’t want to get into too much detail because I can’t explain those philosophies and &lt;a href=&quot;https://en.wikipedia.org/wiki/George_Gurdjieff&quot;&gt;Gurdjieff&lt;/a&gt; works.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: You were there for three months or something.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Yeah, three months. Three months and then the head of that school told me to do it another three months. So I took another course.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Six months!&lt;/p&gt;
+
+&lt;p&gt;[Laughter.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Because the first three months was very good, but the next three months was getting a little bit, you know… Getting more–ego was coming out, I guess. Whatever. Anyway, so the Guitar Craft was, in a way, shocking but not like what I had in Claymont.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: So, just to wrap that transformation thing up, &lt;span class=&quot;important&quot;&gt;I think for us the transformation became our way of life and the way that we work together.&lt;/span&gt; It’s a little bit hard to talk about because it’s a normal thing for us now.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Of course. Yeah.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SV6l8U9GfOU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: The way we learned to work together on the Guitar Craft courses was one of the things that propelled us when we started playing together as the California Guitar Trio. We had this whole way of doing things already set up and the way that we worked with Robert and the League went immediately into the way–in everything. &lt;span class=&quot;important&quot;&gt;The way we played our guitars, the way we listened to each other, and even when we were staying at Bert’s house in Hollywood during those first years, we tried to apply the Guitar Craft principles that–we were doing morning sitting and all those things that were the Guitar Craft ways of–and we took turns preparing meals. It was kind of an extension of that transformation.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s really awesome. So speaking of transformation, it used to be that you would sell CDs. [Laughs.] And you’d make money selling CDs and merchandise and touring. Now, that leg of the tripod of support as a musician is going away. I bring this up because I’ve seen Paul pretty active on Anil Prasad’s Facebook threads about this. So, I wanted to get your take on how the band has survived because I don’t think many bands can survive for 27 years. Especially not as a major act. So, could you talk a little bit about how you’ve seen the band shift and how you’ve been able to manage and maintain yourselves over all this time?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: We made our first demo CD back in 1991 and I remember the first gigs that we played when we had the CD. We sold–we were selling quite a few CDs at shows then and I remember after the show, we would all gather and maybe the gig money was a little bit of money, &lt;span class=&quot;important&quot;&gt;but the CD sales–we would lay it out on the hotel bed or something, divide it up in to three, and we were so excited. We had this money from the CD sales! For years that continued to support our work. In fact, when we toured with King Crimson in those 130 concerts, we did not receive any payment for the shows. The only way that we supported ourselves was through CD sales after the shows.&lt;/span&gt; Robert was encouraging us to go out to this CD table after and sign CDs and meet the people, which is funny because he never does that.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s ironic.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Yeah. &lt;span class=&quot;important&quot;&gt;So we paid for that entire tour with the CD sales and then we had various record deals.&lt;/span&gt; We had a record deal on Robert’s label for quite a while, which was very good, and also with Inside Out Record Label. And now we still have some distribution through Inner Knot, which is also part of Discipline Global Mobile. So we still have a little bit of that, but you’re right, the CD sales are dwindling. Like, we never know now at shows if we’re going to sell any CDs. One night, we’ll have–maybe we’ll sell three or four CDs and then the next night, we’ll be surprised and we’ll sell 50 or 60.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;So it hasn’t gone away completely at our shows. And our audience is, you know–most of the people are probably 30 and 40 and older. People younger than 30 don’t even know what a CD is and have probably never bought one. One of the other things that was really great was we went through maybe five or six years where we were recording all of our shows and we had a CD burning duplication tower that we brought with us. We called it our ATM machine because we would sell, you know, a lot of them after the show.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;Now, even just on these last few tours, we had one night in Bainbridge, Georgia where the audience was very small, but everybody in the audience bought a CD. Then the next night, the place was packed in Tifton College. Yeah, at a college place and we sold hardly any CDs. So, it’s now at the point where we can’t really rely on the CD sales from the shows anymore. And the CD sales through stores has gone away. We have a little bit of online distribution and we have our own web store where we sell a few. We sell a few things through iTunes, so that’s still a little bit there, but it’s changed dramatically now.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;As Anil says, the thing that musicians need to do is find a way of doing different things.&lt;/span&gt; Offering different sorts of things that people are still interested in buying. And that seems to be one of the keys that we can do now. This is an ongoing discussion that we have a lot on tour. What are the things that we can do now? As far as the streaming goes, the one redeeming thing for California Guitar Trio is that California Guitar Trio is very popular on Pandora radio. We, over the past few years, have received over 60 million plays. From those plays, we do receive some money.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: We own our copyrights.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Because we own the copyrights, because we’ve set everything up to maximize how much money we get from streaming. &lt;span class=&quot;important&quot;&gt;From 60 million plays, we probably have received 50 or 60 thousand dollars&lt;/span&gt;, which is–&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Something.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3w3fD54bNvU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Something. It’s not nothing. So, that’s just how it is now. We know from Pandora Radio, we get a little bit of money. &lt;span class=&quot;important&quot;&gt;But the problem with the streaming is that royalty rates are so low that 60 million plays–it should be way more than $50,000 or $60,000.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: And Pandora’s more generous than Spotify. 60 million plays may be a few thousand dollars now, the way the rates have been declining.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Yeah, &lt;span class=&quot;important&quot;&gt;so the main problem with the streaming is the rates are way too low.&lt;/span&gt; In the old days, when people sold–if they had a single that sold 60 million singles, that was–&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: You’re set.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: That was a fair amount of money. And for those musicians that don’t have their own copyrights. &lt;span class=&quot;important&quot;&gt;For musicians that are signed with a record label on some deal where they signed away their copyrights, those are the guys that you see on Facebook that say, “I had this song that had a million plays on Spotify and I got $13” because the songwriting portion of the royalty–it’s already so small and then the songwriting portion is the smallest percentage of that. The percentage that gets paid to the artist, you know? There’s different scales of nothingness that artists are paid. And fortunately, we took Robert Fripp’s advice when he told us to never give away our copyrights.&lt;/span&gt; We had some good offers along the way. We could have had some great record deal. We were offered a deal on &lt;a href=&quot;https://en.wikipedia.org/wiki/Philip_Glass&quot;&gt;Philip Glass&lt;/a&gt;’s record label.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: &lt;a href=&quot;https://en.wikipedia.org/wiki/Nonesuch_Records&quot;&gt;Nonesuch&lt;/a&gt; [Records].&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Point Records on Nonesuch. It was like a dream come true to get that offer. We sent the contract to Robert. He said he would read through it for us. &lt;span class=&quot;important&quot;&gt;He got to the point that–the paragraph that said that they keep our copyrights in perpetuity for forever. He wrote, “Fuck you,” in the column.&lt;/span&gt; Told his assistant to rip it up and send it back to the record label, which she didn’t do that. But, she sent it back to us. So somewhere we have a box somewhere with this contract that Robert Fripp wrote “fuck you” in the column.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: &lt;span class=&quot;important&quot;&gt;“Sit on a pointed stick” was another one. He would write it and sign it, next to it.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Sit on a pointed stick?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Signed RF. Yeah.&lt;/p&gt;
+
+&lt;p&gt;[Laughter.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s incredible.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: &lt;span class=&quot;important&quot;&gt;Yeah, so that was great advice, which is helping us now to this day because without that we would be one of the guys that says, “I have 60 million plays streaming and we only got $100,” or whatever. Fortunately, we’re not that.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: So, what are some of these options that you guys are offering that help differentiate your revenue away from CD sales?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: I think for us, it’s still the CDs because people are moved by the concert and they want a token of the concert. And right now, I think it’s still a CD. &lt;span class=&quot;important&quot;&gt;They want something that we sign. They like us to be there and say hello.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: That’s still going away, though. It might be just a few years before…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Yeah, maybe a year, another year I think we’ll sell more CDs.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: One thing that we’re talking about is finding a new way to do the concert recordings because that was such a great thing for us and people loved to buy the concert that they just heard. So, we’re talking about the idea of recording the concert and then immediately, when we get back to the hotel room, we upload it and at the show we can sell download cards.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Oh yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: So, maybe in the next few months, we may get that going. &lt;span class=&quot;important&quot;&gt;So that’s the main thing that we’re looking at doing now. Selling downloads of our live show that same night.&lt;/span&gt; Have it uploaded relatively quickly after our shows. So that’s one of the things. We’re doing other things. We have t-shirts and other merchandise. We’re talking about other merchandise ideas.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Our audience kind of wants to buy our music, it seems like. We’ve tried the t-shirts. They buy t-shirts, but–&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Like sheet music? Or the actual recorded music?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: No he’s saying we’ve always sold more CDs than we have sold other types of merchandise, which is true.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: So I think the live shows will be a good thing if we can package it right. That’s kind of key so people have some kind of token that we sign. We tried the USB sticks for a while. It didn’t work because you get this little USB stick and it’s not…&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: And then the USB duplicator failed several times and we had a line of people that all bought the show. It was too stressful for us. So this download idea may be more better for us than–yeah. &lt;span class=&quot;important&quot;&gt;But the main source of income for us is our shows and that’s why we’re touring a lot.&lt;/span&gt; Shows like tonight at this amazing venue, the Musical Instrument Museum, that’s how we can survive. The good thing is that we’re able to keep busy enough that we can just–none of us are getting rich doing this, for sure. &lt;span class=&quot;important&quot;&gt;And the months where we don’t have many shows, where we used to have CD income, this is a difficulty for us.&lt;/span&gt; So we need to figure out–&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Patreon, right?! [Laughs.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: There’s Patreon.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Patreon?&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4HqFdQEK6_o?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Patreon is the subscription service where people pay a monthly thing. The thing with Patreon is that you need to be good at developing lots of new content and people like Nora Germain and &lt;a href=&quot;/discover/julie-slick&quot;&gt;Julie Slick&lt;/a&gt; are young and they are good at that. She’s good at developing new stuff. &lt;span class=&quot;important&quot;&gt;The three of us–we’re not quite as enthusiastic about trying every week doing a new video and doing something new.&lt;/span&gt; So, I think Patreon is great and there’s a lot of people that seem to be able to get it, but I’m not sure that’s a way for the three of us to Hideyo to do another video, you know? Or something that we can get onto Patreon to get people interested.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;The other thing is &lt;span class=&quot;important&quot;&gt;we’re trying to think about the way we release music in a different way now.&lt;/span&gt; Instead of waiting until we have a whole album, we may start releasing things as singles or doing an EP because the three of us live in different cities, it takes us longer to make a new album. We have three or four years in between each official release, but now we’re already working on–you’ll hear some things at the show tonight that will be on our next album, or somehow released in the meantime as a way to generate interest.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;&lt;span class=&quot;important&quot;&gt;The main thing that’s important for us now is to keep the interest level up for the people that are coming to our shows and finding ways of developing new people to come to our shows but also the people who are big fans.&lt;/span&gt; Over 27 years of time, we’ve played for a lot of people, so we need to find ways of keeping all of those people interested and also developing–continuing to develop a new audience. So, all of these things–doing releases, we’re doing a video, the next week we’ll be in Los Angeles and we’re working with these friends of ours that like to make videos and we’re doing another video with them. And doing this interview with you. All of these little things that help.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: We keep busy individually, too, which is nice. Paul is doing his photography, he’s coming out with a new–it’s on your website with all the prints. He’s taking great photos, mostly nature photos I would say.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: So he’s going to release that and it’s really worth releasing.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s awesome.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: We’re each doing things when we have long breaks. I like to keep playing live. That’s my big joy, so I play house concerts.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Oh yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: So I do different little projects.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xdEAccE7BMs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Like Fabio and Tom.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: &lt;a href=&quot;http://www.mittinolams.com/&quot;&gt;Fabio Mittino&lt;/a&gt; and &lt;a href=&quot;http://www.thossounds.com/&quot;&gt;Tom Griesgraber&lt;/a&gt;. I like to do that. I might go back to teaching a little bit, but when we have these breaks, I think we need to–we’re looking at other things of developing ourselves, individually and doing things and then bring that back to the group, which is great when we come back together.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, the hardest part to me is what Paul’s referring to. You’re no longer just a musician. You’re a brand. You have to market yourself. You have to constantly provide new content and if you don’t, the algorithms shove your content down way, way down in somebody’s feed and they never see it. And you’ve got, you know, 20,000 followers but 300 views. It’s becoming impossible to just be a musician.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Mm-hmm.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Yeah, yeah. And &lt;a href=&quot;/discover/nora-germain&quot;&gt;Nora Germain&lt;/a&gt; is really good–&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: She’s so good!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: At that stuff. I talk to her a lot about this stuff. She’s kind of a consultant in a way and I think she’s actually going to be doing more of that. Helping other people get good at what she is good at. That’s exactly this, about getting–&lt;span class=&quot;important&quot;&gt;keeping the interest there and now where everything’s measured in plays and views. It’s a whole ‘nother world. And we’re still figuring it out!&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;And that’s one of the things I like about reading Anil’s comments and posts because I think he does have a good insight into things that are changing. He’s offered a lot of suggestions, even to California Guitar Trio on things that we could do, different musicians we can do projects with, different ways to keep going.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Well, thank you so much for taking the time. How much more are you touring on this particular leg? Are you doing the southwest?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Tomorrow we have to get up early to drive to San Diego, where we have a Sunday afternoon show.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: In a church.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: In a church. Yeah. So we’ll be in San Diego tomorrow night. Then we go to LA where we have a couple of days before our show there on Wednesday. We’re playing at Herb Alpert’s Vibrato Club in Belair.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Cool!&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: So it’s a fancy gig there. During our days off, well not really days off, but we’ll do some rehearing and do some more filming for this video that Jill and Gary Banfield are helping us do there. And then we have a one-week break and then we go to the midwest for about two weeks. Tour in Michigan, Indiana–&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: That’s a tough one.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: That’s a tough one?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Why’s that?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Because almost every day we play.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Every night.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Every night.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Yeah, which is also good.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: You drive between every gig–&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: So a lot of travel.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: In fact, this tour has a couple of breaks, but it’s going up to mid-April. It’s all one long tour with short little breaks. To me, it’s like one long tour through mid-April.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: You’ve released 16 albums, right?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Is there another one coming soon this year?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Hopefully, yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: We have a good start on it, but it takes us a while to get enough material for a full album, so that’s one of the things we’re talking about doing. Different ways of releasing things. We have a good start on that. We have a lot more touring scheduled throughout the year. Our agency, SRO, is great in helping us keep busy. But they handle everything that has to do with setting up the concerts and all the contracts for that, but we do everything else. We are our own management, we are our own promotion team, and so when we’re not on tour, that’s the thing that we’re working on. Getting things set up for the next tour.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;I’m recording sound clips on Pandora–that’s one of the things that they offer now. Artists can record a clip that goes out to the listeners and you can specify who hears the clip and on Spotify and Pandora and–they have things that they make available for artists. So this is the good side of the bad side. They do have some promotional things that help artists. But we do all of–we book all our own travel, we–Bert and I drive the van. Hideyo used to drive, but he doesn’t anymore.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: He’s the navigator.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gtlTvW_WnAk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: He’s the navigator. Yeah.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: So for people who want to learn more about California Guitar Trio, and who want to support you, what are the best ways to find out more and what are the best ways to support you?&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: Come to our shows. Go–&lt;/p&gt;
+
+&lt;p&gt;[Lights turn off again.]&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: I’m doing the hokey pokey and it’s not even working.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: The best ways to support California Guitar Trio are: go to our website and sign up for our email list. We send out an email, maybe once a month, not that often so we don’t bombard with emails. And come to our shows and buy our music. Even if it’s not a CD, we have downloads and we have other ways of buying music. Signing up for our email list is the best way to find out when we’re going to be in town again next time.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Yeah. The live shows.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;HM: Yeah, live shows.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;PR: The live shows are what we have now, which is great. It’s always been the focus for us anyway, so that part is only getting better. Like tonight, our first time playing at the Musical Instrument Museum, and it’s sold out. It’s likely that we’ll get invited back again. Across the country, we have things like that happening, so that’s great.&lt;/p&gt;
+
+&lt;p class=&quot;interviewer&quot;&gt;AG: Fantastic. Thank you again for your time. I really appreciate it.&lt;/p&gt;
+
+&lt;p class=&quot;interviewee&quot;&gt;BL: Thanks.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Mar 2018 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/interview/california-guitar-trio</link>
+        <guid isPermaLink="true">http://localhost:4000/interview/california-guitar-trio</guid>
+        
+        
+        <category>interview</category>
+        
+      </item>
     
       <item>
         <title>iNFiNiEN</title>
@@ -1329,341 +1676,6 @@
         <pubDate>Sat, 25 Nov 2017 17:00:00 -0700</pubDate>
         <link>http://localhost:4000/share/panzerballett/x-mas-death-jazz</link>
         <guid isPermaLink="true">http://localhost:4000/share/panzerballett/x-mas-death-jazz</guid>
-        
-        
-        <category>share</category>
-        
-      </item>
-    
-      <item>
-        <title>InZENity</title>
-        <description>&lt;h2 id=&quot;about-jen-majura&quot;&gt;About Jen Majura&lt;/h2&gt;
-
-&lt;p&gt;Sometime in 2015, I got an instagram notification that a guitarist named Jen Majura was following Make Weird Music. I looked at her profile and saw she was kind of a big deal guitarist for a major rock act, Evanescence. It’s always a little surreal when professional musicians find my content without any prodding from me. She kept liking my posts and actually paid attention to what I was doing with MWM, so I finally asked, “Are you actually Jen Majura or a marketing person that runs her accounts?”&lt;/p&gt;
-
-&lt;p&gt;She said she was the real Jen Majura and mentioned she’d found MWM via the Steve Vai and Mattias Eklundh interviews. We started chatting and became friends. We met in person at NAMM in 2016 and had a great time together. We stayed in touch ever since and she ended up coming to Phoenix in October 2017 for an Evanescence show. We thought it’d be a great opportunity to do an interview for her upcoming solo album, &lt;em&gt;InZENity&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;So here we are! I hope you enjoy this video interview. It was a lot of fun.&lt;/p&gt;
-
-&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/B3i6bcFhVXI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;audio-only-podcast&quot;&gt;Audio-Only (Podcast)&lt;/h2&gt;
-
-&lt;p&gt;(NOTE: hitting the “play” button requires a hefty download of the entire audio file!).&lt;/p&gt;
-
-&lt;p&gt;&lt;audio src=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or, &lt;a href=&quot;http://s3.amazonaws.com/audio.makeweirdmusic.com/share/jen-majura/inzenity/jen-majura-inzenity.mp3&quot;&gt;download an mp3 &lt;i class=&quot;non-mwm fa fa-external-link-square&quot;&gt;&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;interview-transcript&quot;&gt;Interview Transcript&lt;/h2&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Let’s get you blabbering.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Jen Majura: [Sings] Let’s get you blabbering. Whoo!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s how you start an interview right there. Jen Majura is the guitarist for Evanescence and a very, very great person.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Aww. Thank you so much for having me, Anthony. [Crying.] Thank you.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: This is how you start an interview.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: This is beautiful. I feel so appreciated. Thank you.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So, Jen, you have a new album. A new solo album. Your second.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Yes sir. My second solo album, InZENity, will be released on the 24th of November this year.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: The same date as Panzerballett’s Christmas album, the death [jazz] Christmas album.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Exactly.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Awesome.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: And we have three people on my album the same three people are on the Panzerballett album.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Are you sharing who’s on your album yet?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Well, yeah, it’s public. Everybody knows it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I thought you had some surprise guests.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: No no no no. It’s over. The surprises are over. [Laughs.] Christmas is over. But, Christmas is coming with Panzerballett.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s right. And you! Driving the tank.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I am blessed with, first of all, good friends. And I’m blessed with good friends that are outstanding talented musicians as well. So, I don’t see it as some sort of “Oh, I want to get some name-dropping on my album. I need some big names to…” I don’t see it that way. It’s more like: all those guitar players that I asked to join my album with a guest appearance, a guest solo, are friends. And I feel humbled and grateful that they all said “yes” to my request. It’s like this product, this CD, this piece of music being me and friends, I like that. It’s just beautiful. We have Alex Skolnick of Testament, he’s playing one solo. We have Jeff Waters of Annihilator  and Mattias IA Eklundh of the Swedish band Freak Kitchen.&lt;/p&gt;
-
-&lt;p&gt;AG: Can you tell us what you did on Jen’s album, InZENity?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Mattias Eklundh: I think it was a guest solo. A weird guest solo, as usual. I’m really good at ruining stuff in a split second. I realize, “Ah, bloody hell.” I do this while some of my heavy metal friends want me to do a typical guest solo. They say, “You can do some typical stuff. Show us some sweeping, and swooping, and finish with a harmonic.” And then I play all the wrong notes because I want to create some tension. They say, “No no no, we want the right notes. White keys of the piano, man. Ivory keys. Don’t leave the church modes. Don’t go jazz or Indian style.” I don’t remember what I play. It’s done in very little time. I just improvise and then, “Ah, bloody hell. This was okay and then I’ll do a punch-in and that’s it.” I’m always done in five minutes, but I think it turned out okie dokie. So I’m looking forward to hearing it as well. She’s a good girl.&lt;/p&gt;
-
-&lt;p&gt;AG: It’s a killer solo.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;ME: Oh it is? Okay.&lt;/p&gt;
-
-&lt;p&gt;AG: It’s amazing.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;ME: Okay.&lt;/p&gt;
-
-&lt;p&gt;AG: Yeah, you did a great job.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;ME: Okay. Thank you very much. I have no clue. I don’t remember the song. I don’t remember anything. [Laughs.] You do it and you move on. I am constantly running downhill.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: My dearest sweethearts. And Jan Zehrfeld of Panzerballett. So, Mattias, Jan, and me were going to be on my album as well as on the Panzerballett album.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That is so cool. So tell us about the album. How many songs and…?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: It’s InZENity . It’s 12 songs? Or is it 11? Or 12?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I think it’s 12. There’s 11 with the drummer and then the acoustic one.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Exactly. There was so much going on within those 10 days being locked in the studio.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It was just 10 days? Oh, that’s right, because you recorded all the demos and then went to the studio.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Exactly. I did the whole thing. The drummer, he recorded the whole record plus one song, which I didn’t even plan to have him on. He literally recorded 11 songs within 27 hours, including night sleep, showering, eating, breaks, talking.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Wow.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: 27 hours! I was blown away by his performance. It was just…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Okay. What’s his name?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Felix Lehrmann.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Felix Lehrmann.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: He’s a German. Pretty-well-booked studio drummer.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And he just came in and nailed it, huh?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I asked him. I sent a text message one day. I was like, “Hey. Did you wanna?” Answer: “Yes, when?” I said, “From [mumble] to [mumble].” “Okay. Sign me up.” I’m like, “Okay, that was easy.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Wow, that’s cool.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Yeah. I never worked with him before, but I was blown away by his performance. He came up with ideas that literally left the sound engineer laughing and crying at the same time. Lying on the floor because we couldn’t believe what he came up with.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So, you didn’t have drum parts written for him?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I did have demo drums. But, I’m terrible with programming drums. I’m not good at this, so I told him, “Please, play drums, not the Casio-kind of bullshit I did on that one.” So, he took a lot of what I did, just did it cool. He played it rad. What I made sounded shitty.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, the drums are top-notch.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: It was really, really awesome. I decided this time to change my attitude a little bit because when I did my first solo record, I tried to find a way to combine the way I want to sound and the way people need me to sound so I can be sold with that CD. You know what I mean?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh yeah.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Putting that thing out there to have it air-playable and stuff. Of course, I learned that never works. So I decided for this one to really do what I want to do. No one can tell me how to write songs, what I can do and what I cannot do. So, of course, this album turned out to be really InZENity . The whole philosophy about the entire piece is–it’s why the album cover and the artwork, everything is in black and white. It’s about the–I heard the joke a gazillion times, “Why didn’t you call it ‘InJenity?’”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: [Groans.]&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I didn’t call it “Injenity” because: world, listen. It’s InZENity because you find your inner peace, your inner zen, as soon as you accept and acknowledge all those opposites inside of each of us, like black and white. You have mellow and happy, fast and slow, and all those different opposites together give you that inner calmness. That’s my InZENity that I found in this album because the opposites are not only in the black and white artwork, it’s in the songs that I picked to record, it’s in each song. I tried to be very dynamic. A lot of songs nowadays lose dynamic, so I really wanted to keep the verses so smooth and sweet and then go, like, “Oh my God. Here’s a big chorus that changed the entire song!” and then go back to the very sweet verse. So, it’s the whole philosophy in everywhere.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, and I noticed listening to it last night, there are huge parts. The album just sounds huge, like in InZENity . Layered vocals and the drums are just, you know, beating your face in.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I heard some good comments. Some friends of mine–Schmier is a singer of a German thrash metal band called Destruction. He said, “Damn Jen. This sounds like Extreme meets System of a Down.” I was like, “Well, that’s not too bad. I can live with that.” And then we had Alex Skolnick, who was like, when I sent him the track for recording, he was like, “Man, it’s like Faith No More on acid.” This is awesome! So, I paid attention to great dynamics and I like to sing. I like big vocal arrangements. I’m a big fan of King’s X and Extreme. I love great vocal arrangements, so when I decided to record, I was like, “Yeah, I wanna have that. I don’t want to have that major vocal line on top and then something cloudy beneath to support the main vocals.” I was like, “No. I want that all out there.” Just like back in the day, Queen or something. So, I’m really happy with how the vocals turned out.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, the title track, as I told you before we were filming–I can’t get it out of my head. And now I just hear three or four layers of your vocals screaming “InZENity.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I feel sorry for you. God. [Sings.] Voices in your head.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, well, you don’t run a site called Make Weird Music if you don’t have problems like that. But yeah, it’s like a very rich, dense, layered album.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Thank you.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And it’s much more authentic, as you said, than the first album.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I learned when I started to show my music to colleagues, I learned the biggest compliment you could get–I didn’t know that, but I learned it–is when people go like, “Oh, this sounds like this or that band. This is like rock. This is like prog.” They always put you into that little corner and a lot of them ended up telling me, “This is just Jen.” And I learned that this makes me so proud. I mean, what can be a bigger compliment than somebody telling you, “Your album sounds exactly like you?!” I was so happy when I first heard that and kept going. People kept telling me, “It sounds like Jen.” Maybe I created a new style of music. Maybe there will be bands recording and they’re like, “This is the Jen stuff.” [Laughs.]&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, I think that’s a good idea. I’m going to record an album in the style of Jen.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Awesome. Gotcha.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: What did you learn about yourself making the record?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I learned that I can laugh so hard. I’ve never been laughing more while recording on this piece because we were so–usually, I’m very prepared. I’m German. I like to be prepared, so, “Oh, I’m going to the studio. I’m prepared. Here are my sheets. Here are my demos.” Now this time, on the other hand, I had no time to be prepared. I had my demo recordings and I had a week in Fort Worth with Evanescence recording. I came back, had the photo shoot the day after I was back to Germany, and then I went to the studio. So, I was really nervous because I felt insecure about, “Will that all happen now?” Because some of the songs were even considered to be on my first album. I haven’t been playing that since six years, a long time. I was a little bit afraid of being unprepared, but what I learned was things came out that were so spontaneous. Sometimes I inhaled for singing and he pushed the record button and I didn’t know what I was singing until I started singing and not even then, and it turned out to be beautiful. We came up with such beautiful melodies and ad-libs and stuff and that was really surprising. It made me feel good about myself as a creative musician.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And what about as a guitarist? What did you learn about yourself?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I write weird stuff. Compared to–&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s why we’re here, Jen.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Compared to–I’m a big fan of bands where you–in the first place, of course, where you can hear the crazy work on the guitar, like Freak Kitchen and Panzerballett. Then on the other hand, I like bands that appear to be so smooth, easy-going and as soon as you try to play, you go, “What the heck is going on there?” as soon as you dig deeper into their music. So, what I learned about my music is I’m that kind of musician. So, I write, apparently, something and as soon as I dig deeper into it, it’s like, “What the heck was I thinking? Writing it like this?” So, we had some fun moments. [Laughs.] But all in all, I’m not trying to put difficult prog riffs out there. That should never be technique or a style should never be your approach or your inspiration for being creative and doing music. The inspiration should always be the song, the feeling, the moment. Whatever inspires you. It should be the creative process of getting to the song and the musical work, or the contribution by any instrument, should always be because the song demands it, not because you want to show off on your instrument.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us about your creative approach.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: My creative approach. Oh, it can be–there are so many different spots in life where you can feel inspired and creative. It can be a line in a movie, it can be a story that happened to a friend. So I usually really, when I’m working on songs, I mostly am inspired by a feeling. And I learned about myself: I can’t write music when I’m happy. I don’t know why. It’s like I’m not happy with the music that I write when I’m happy. What? Does that make any sense?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Do you know Markus Reuter?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Markus Reuter?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: He’s this touch guitarist in Berlin.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: What is a touch guitarist?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It’s this instrument he designed. It’s like a Chapman Stick, but it’s a different take.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: With how many strings?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It’s 8 or 10, but he intentionally find the stuff he doesn’t like and explore that because he..&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: You have done a video. I’ve seen it. Okay, yeah, of course I’ve seen it! I’m your biggest fan!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I can’t believe this. That’s so cool.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I remember. Yeah, I remember.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So he said if we like what we hear, then we’re familiar with it.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: That’s true.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: So do you have–you think about taking an album of all the stuff you don’t like.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Oh good Lord. Oh God. Oh God. No, but–&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Have Markus produce it for you.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I have that approach from time to time when I do my short “Jen Majura plays videos.” That is just for fun. It started out for fun and it still is. So when I find the time, I do that “Jen Majura” stuff and I always try to pick something that is challenging. And it’s just a minute of a song and I did a Panzerballett, tons of Freak Kitchen songs.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I’ve seen a lot of your Freak Kitchen songs. And Steve Vai. You’ve done some stuff from him.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Steve Vai was horrible. And “Oblivion” from The Winery Dogs was horrible, too. From “Oblivion,” I think there’s even a making-of where I’m like, “THIS IS UNPLAYABLE.” I spent, literally, 10 days–no pause, no break, no eating, no peeing. Ten. It was like…&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Richie [Kotzen] is a beast. He’s a beast on the guitar.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Yeah, I know. And he’s a singer as well. Like, [sighs]. When somebody gave talent away, Richie was definitely screaming twice, like “Vocals here!” “I’ll take one!” “Guitar?” “Double! To go!”&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, well you’re not slouch on either.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Yeah, I think I’m happy and I was glad that I can work on my vocals for my album because with Evanescence, I’m doing a lot of background vocals, which are–the background vocalist is there to support the main voice. So, of course, I can’t sing the way I would sing. That would just like–Amy [Lee] would turn around and go, “WHAT? What the heck is she doing?” So I really enjoyed the work, especially in InZENity. I mean, you’ve listened to it. It’s from classical [sings] to death growls and hip hop elements. It’s just so vibrant and vivid. The whole singing process on that album. I really enjoyed singing this time.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Do you write on the guitar?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Yes.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s where you start.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Yes. Guitar or–where I live in Germany, in every room I have a piece of paper and a pen, so whenever there is an idea, I can always write it down because, like I said, inspiration can come from everywhere. Once I watched a movie, Machete Kills. It’s like an action movie, it was just in the background. And then that actor comes up and the girl says, “Oh Machete, you’re just a walking shit magnet.” I was like, “Dude! Walking shit magnet! I can write a song about this called Walking Shit Magnet!” So, I need paper to be creative whenever I feel inspired. So, that is–What was the question again?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yes. [Laughs.] Do you do much recording on your own? Do you sit in front of a computer?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Yes. I have everything at home, a microphone and computer, recording program, and I like to work and create alone, to be honest, because I like working with other people as well, but it always ends up being not what you first had in mind, which can be a beautiful thing. But if you’re stubborn as I am, it can be distracting, so on my record, I had two songs with a co-writer and all the rest was just written by me. So I like to close all doors and windows, don’t leave home, order in, stay there and work for hours and hours until you put layer over layer over layer for your songs and they grow and you see, “Okay, I’ll take away a little bit here and add a little bit more there” and then they become this beautiful dynamic thing that you created. And that’s just a beautiful process.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us the difference–&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I sound so wise. This is horrible. I sound like an 800-year-old person.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: No, you sound like a 600-year-old person.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Okay, 600 sounds better.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Tell us the difference between Jen Majura guitarist for Evanescence and Jen Majura solo artist.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Does that fluffy thing distract you? Is it good? I love it. So, me in Evanescence, you know–it’s a gig you might get once in your life when you’re really lucky. It’s a great, great world I was allowed to dive into, but to be honest, as a guitar player, what I’m playing in Evanescence is not as challenging, like some stuff that I played before. But that is mainly because, like I said, I want to play guitar that supports the song. I’m not the the–because a lot people ask me, “Are you going to play the songs different now in your style?” I’m like, “Hell no. Somebody wrote that song. Show respect to that somebody who wrote that song.” Because the way that it’s been written is perfect the way it is. So why would I change it? So it’s not a sort of creative process in Evanescence right now for me when it comes to playing guitar. We’ll see about that in the future, but for right now, I’m literally having Troy show me what to play. And of course, I try to keep my sound and my style, but it’s not that I’m changing anything So it’s a whole different ball game when you get to play what’s just coming out of you. It’s like, “Okay, here’s me and a guitar. Let’s do something.” It’s a different approach than, “Okay, show me what to play.” So you can’t really compare it to each other.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: For someone that has never listened to your music, if they have an expectation of it sounding like Evanescence, what would you say?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: There are a lot of catchy chorus parts. It’s more up–it’s not speed metal, but upspeed tempo songs.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Hard rock.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Exactly. It’s hard rock style and Evanescence is a lot of very–they have a dark history, but the songs are beautiful and dark, but not as upspeed tempo like my music, maybe.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: How do you write upbeat songs while you’re feeling sad?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Not sad. Pissed off.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh, okay. Do they cheer you up?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: No, I’m the best to write when I’m really pissed off about something. So, I just get everything out and then it’s good.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: And you make sure you capture that idea.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Well, most of the time. Sometimes, if it’s just a feeling, you don’t write the lyrics. If something happens that pisses you off, you don’t necessarily write about the situation. It’s a feeling that inspires and it inspires your tone as well because I play different when–let’s say I’m tired and jetlagged. I would never have the same tone and approach and playing like when I’m angry. Or sad. Sad comes pretty much to jetlag than tired, but it’s a different approach you play in. So, I don’t know necessarily. I would not write about the situation, why I’m–maybe sometimes. But sometimes I have the riff and then I go, like, “Hmm, I should write a song about Walking Shit Magnet,” for example. There is no feeling for “Walking Shit Magnet,” but it sounds awesome. I mean, Walking Shit Magnet is not on the record.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh, it’s not. Yeah, it didn’t sound familiar, but–&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: What did you think about Chuck Norris?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I think that’s a fun song. It’s just fun. I listened to it when I was cleaning the studio and I had the audio on and I heard you sing, “Chuck.” I’m like, “Chuck? Is that what she’s saying?” And then you were like, “Chuck Norris!” I’m like, “What? Yeah, there’s literally a song about Chuck Norris.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I always try to–&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It’s fun. Your whole album is just fun.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: The world–exactly–the world is very serious these days. There are a lot of serious things going on and threatening things and I always try to make people smile with whatever I do. Either it’s an Instagram post or a little story or music or whatever I do, I always keep that little smirk.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s actually what I love about what you publish. Your videos and your interviews, the four questions with your friends–&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Did I tell you the four questions?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I’ve seen them, but I can’t recall them right now.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: You can’t… No no no no no, I’ve never put them out there.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Oh no, yeah, you’re just holding–&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I text them to you?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: No you didn’t. You didn’t tell me them.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I won’t tell them NOW. I’m not going to spoil all my secrets in here. My latest four-question interview partner was Guthrie.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s right, Guthrie Govan.&lt;/p&gt;
-
-&lt;p&gt;JM: He was like, “Oh man, these questions are pretty heavy.”&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;Guthrie Govan: Wow, these are all questions that are really hard!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, well, that’s what’s so fun about what you do. Your videos always have humor and a lightness and you’re clearly having fun, but there are times where you’re clearly playing as hard as you can.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: THIS IS UNPLAYABLE.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That’s right! Yeah! From “This is unplayable” to you have clearly worked through and you’re shredding.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: I hate the term “shredding.” Did I tell you? You shred cheese. You don’t shred a guitar. Seriously. And the same thing is like “melting faces.” Why would people melt? Think about it. Melting faces?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I like that term.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Really?&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah. Mike Keneally has a sticker that says, “Mike Keneally ripped my head off.” [Laughs.] It’s just this stick figure with his head detached and Xs for eyes.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Wait a minute, that is cool.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: That is cool.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: But if it said, “Mike Keneally melted my face,” it would be totally not cool.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Huh. Mike, if you’re listening, don’t go that direction.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Happy to be on an album with you, Mike.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Yeah, that’s cool. Okay, let’s wrap up. Your album comes out November 24, 2017. Where can people get it?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Everywhere. Go to the grocery store. Go to your neighbors’. Everywhere.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: It’s in the next issue of Vogue?&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: It’s going to be everywhere.&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: Cool! Thank you so much.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: You’re so welcome. Thanks for having me!&lt;/p&gt;
-
-&lt;p class=&quot;interviewer&quot;&gt;AG: I’m really excited to see this album come out. Cool! InZENity. November 24.&lt;/p&gt;
-
-&lt;p class=&quot;interviewee&quot;&gt;JM: Woop woop.&lt;/p&gt;
-
-&lt;p&gt;AG: Jen Majura.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Nov 2017 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/jen-majura/inzenity</link>
-        <guid isPermaLink="true">http://localhost:4000/share/jen-majura/inzenity</guid>
         
         
         <category>share</category>

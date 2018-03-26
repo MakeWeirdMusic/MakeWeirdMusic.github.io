@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2018 Make Weird Music</copyright>
-		<pubDate>Thu, 08 Mar 2018 20:12:26 -0700</pubDate>
-		<lastBuildDate>Thu, 08 Mar 2018 20:12:26 -0700</lastBuildDate>
+		<pubDate>Sun, 25 Mar 2018 20:39:38 -0700</pubDate>
+		<lastBuildDate>Sun, 25 Mar 2018 20:39:38 -0700</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>http://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -30,6 +30,25 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
+			<item>
+				<title>Interview: California Guitar Trio</title>
+				<link>http://localhost:4000/interview/california-guitar-trio</link>
+				<pubDate>Sat, 24 Mar 2018 17:00:00 -0700</pubDate>
+				<description>The California Guitar Trio talks about their origins with Robert Fripp and the state of the music industry.</description>
+				<guid isPermaLink="true">http://localhost:4000/interview/california-guitar-trio</guid>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/california-guitar-trio/california-guitar-trio.mp3" length="63770312" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Interview: California Guitar Trio by Make Weird Music</itunes:subtitle>
+				<itunes:summary>The California Guitar Trio talks about their origins with Robert Fripp and the state of the music industry.</itunes:summary>
+				<itunes:duration>52:56</itunes:duration>
+				<itunes:keywords>robert fripp, league of crafty guitarists, guitar craft, guitar circle, acoustic guitar, michael hedges</itunes:keywords>
+				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/california-guitar-trio/california-guitar-trio.png" />
+				<itunes:explicit>yes</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+			
 		
 			
 			<item>
