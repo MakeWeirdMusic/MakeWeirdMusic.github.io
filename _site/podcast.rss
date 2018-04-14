@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2018 Make Weird Music</copyright>
-		<pubDate>Sun, 25 Mar 2018 20:39:38 -0700</pubDate>
-		<lastBuildDate>Sun, 25 Mar 2018 20:39:38 -0700</lastBuildDate>
+		<pubDate>Fri, 13 Apr 2018 17:28:55 -0700</pubDate>
+		<lastBuildDate>Fri, 13 Apr 2018 17:28:55 -0700</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>http://s3.amazonaws.com/audio.makeweirdmusic.com/mwm-promo-brightblue.png</url>
@@ -30,6 +30,25 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
+			<item>
+				<title>Discover: Aaron Comess</title>
+				<link>http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/aaron-comess/aaron-comess.mp3</link>
+				<pubDate>Sat, 07 Apr 2018 17:00:00 -0700</pubDate>
+				<description>Spin Doctors drummer, Aaron Comess, has a new solo record out that defies genres and expectations.</description>
+				<guid isPermaLink="true">http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/aaron-comess/aaron-comess.mp3</guid>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/discover/aaron-comess/aaron-comess.mp3" length="84727040" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Discover: Aaron Comess by Make Weird Music</itunes:subtitle>
+				<itunes:summary>Spin Doctors drummer, Aaron Comess, has a new solo record out that defies genres and expectations.</itunes:summary>
+				<itunes:duration>58:41</itunes:duration>
+				<itunes:keywords>jazz, electronic, instrumental, samchillian</itunes:keywords>
+				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/aaron-comess/aaron-comess.png" />
+				<itunes:explicit>yes</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+			
 		
 			
 			<item>
