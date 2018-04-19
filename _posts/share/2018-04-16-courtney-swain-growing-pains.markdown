@@ -10,14 +10,14 @@ permalink: /share/courtney-swain/growing-pains
 oneliner: Growing Pains is a great new EP from Courtney Swain, the lead singer from Bent Knee.
 seo_description: Courtney Swain shares the story behind her 2017 EP, Growing Pains.
 seo_keywords: courtney swain, bent knee, ben levin, chris baum, vince welch, vocal lessons, prog, progressive rock
-draft: yes
+draft: no
 front_page: yes
 has_video: yes
-youtube_id: SBW5DMA1rvU
+youtube_id: nOl8KFWYTzA
 file: http://s3.amazonaws.com/audio.makeweirdmusic.com/share/courtney-swain/courtney-swain-growing-pains.mp3
 duration: "36:04" #audio length in min
-length: "51725518" #filesize in byte
-explicit: "yes" #other option is no
+length: "43511792" #filesize in byte
+explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 redirect_from: /share/courtney-swain-growing-pains
 ---

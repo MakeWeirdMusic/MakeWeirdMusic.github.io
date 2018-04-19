@@ -3,10 +3,10 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Apr 2018 17:33:05 -0700</pubDate>
-    <lastBuildDate>Mon, 16 Apr 2018 17:33:05 -0700</lastBuildDate>
+    <link>http://www.makeweirdmusic.com/</link>
+    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 19 Apr 2018 09:57:31 -0700</pubDate>
+    <lastBuildDate>Thu, 19 Apr 2018 09:57:31 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -21,7 +21,7 @@
 
 &lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
 
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SBW5DMA1rvU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nOl8KFWYTzA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;audio-only-podcast&quot;&gt;Audio-Only (Podcast)&lt;/h2&gt;
 
@@ -226,8 +226,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;CS: Thank you, Anthony. It’s always a pleasure.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Apr 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/courtney-swain/growing-pains</link>
-        <guid isPermaLink="true">http://localhost:4000/share/courtney-swain/growing-pains</guid>
+        <link>http://www.makeweirdmusic.com/share/courtney-swain/growing-pains</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/courtney-swain/growing-pains</guid>
         
         
         <category>share</category>
@@ -574,8 +574,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;AC: I appreciate it.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Apr 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/aaron-comess/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/aaron-comess/</guid>
+        <link>http://www.makeweirdmusic.com/discover/aaron-comess/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/aaron-comess/</guid>
         
         
         <category>discover</category>
@@ -921,8 +921,8 @@ Anthony Garone [AG]&lt;/p&gt;
 &lt;p class=&quot;interviewee&quot;&gt;BL: Thanks.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Mar 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/interview/california-guitar-trio</link>
-        <guid isPermaLink="true">http://localhost:4000/interview/california-guitar-trio</guid>
+        <link>http://www.makeweirdmusic.com/interview/california-guitar-trio</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/california-guitar-trio</guid>
         
         
         <category>interview</category>
@@ -1300,8 +1300,8 @@ Anthony Garone [AG]&lt;/p&gt;
 &lt;p&gt;JB: Thank you so much for having us. Infinien is a band we all believe in so dearly. We put so much energy into it and we just love so much that it is contagious. It seems to be, anyway. We just want to keep spreading it.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Mar 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/infinien/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/infinien/</guid>
+        <link>http://www.makeweirdmusic.com/discover/infinien/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/infinien/</guid>
         
         
         <category>discover</category>
@@ -1326,8 +1326,8 @@ Anthony Garone [AG]&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 01 Mar 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/share/california-guitar-trio/daydreaming</link>
-        <guid isPermaLink="true">http://localhost:4000/share/california-guitar-trio/daydreaming</guid>
+        <link>http://www.makeweirdmusic.com/share/california-guitar-trio/daydreaming</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/california-guitar-trio/daydreaming</guid>
         
         
         <category>share</category>
@@ -1355,8 +1355,8 @@ Anthony Garone [AG]&lt;/p&gt;
 &lt;iframe src=&quot;https://www.soundslice.com/scores/150973/embed/&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 15 Feb 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/learn/taurus-bulba</link>
-        <guid isPermaLink="true">http://localhost:4000/learn/taurus-bulba</guid>
+        <link>http://www.makeweirdmusic.com/learn/taurus-bulba</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/learn/taurus-bulba</guid>
         
         
         <category>learn</category>
@@ -1602,8 +1602,8 @@ Anthony Garone [AG]&lt;/p&gt;
 &lt;p&gt;NG: You too!&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Feb 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/discover/nora-germain/</link>
-        <guid isPermaLink="true">http://localhost:4000/discover/nora-germain/</guid>
+        <link>http://www.makeweirdmusic.com/discover/nora-germain/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/discover/nora-germain/</guid>
         
         
         <category>discover</category>
@@ -1621,8 +1621,8 @@ Anthony Garone [AG]&lt;/p&gt;
 &lt;p&gt;This was performed live in October 2017 in Albuquerque, New Mexico for the 2017 &lt;a href=&quot;https://gorgg.org&quot;&gt;GORGG&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/concert/gorgg-2017/aspirations</link>
-        <guid isPermaLink="true">http://localhost:4000/concert/gorgg-2017/aspirations</guid>
+        <link>http://www.makeweirdmusic.com/concert/gorgg-2017/aspirations</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/gorgg-2017/aspirations</guid>
         
         
         <category>concert</category>
@@ -1644,8 +1644,8 @@ Anthony Garone [AG]&lt;/p&gt;
 &lt;p&gt;Special thanks to our awesome sponsors Ed at &lt;a href=&quot;https://madhatterguitarproducts.com&quot;&gt;&lt;em&gt;Mad Hatter Guitar Products&lt;/em&gt; &lt;i class=&quot;non-mwm fas fa-external-link-square-alt&quot;&gt;&lt;/i&gt;&amp;lt;/a&amp;gt;&lt;/a&gt; and Bobby at &lt;a href=&quot;http://guitaranswerguy.com&quot;&gt;&lt;em&gt;The Guitar Answer Guy&lt;/em&gt; &lt;i class=&quot;non-mwm fas fa-external-link-square-alt&quot;&gt;&lt;/i&gt;&amp;lt;/a&amp;gt;&lt;/a&gt;. Thanks also to the &lt;a href=&quot;/support&quot;&gt;generous donations we’ve received online&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/concert/jan-zehrfeld-2018-clinic/</link>
-        <guid isPermaLink="true">http://localhost:4000/concert/jan-zehrfeld-2018-clinic/</guid>
+        <link>http://www.makeweirdmusic.com/concert/jan-zehrfeld-2018-clinic/</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/jan-zehrfeld-2018-clinic/</guid>
         
         
         <category>concert</category>
@@ -1657,8 +1657,8 @@ Anthony Garone [AG]&lt;/p&gt;
         <description>
 </description>
         <pubDate>Fri, 05 Jan 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/link/mwm-on-patreon</link>
-        <guid isPermaLink="true">http://localhost:4000/link/mwm-on-patreon</guid>
+        <link>http://www.makeweirdmusic.com/link/mwm-on-patreon</link>
+        <guid isPermaLink="true">http://www.makeweirdmusic.com/link/mwm-on-patreon</guid>
         
         
         <category>link</category>
