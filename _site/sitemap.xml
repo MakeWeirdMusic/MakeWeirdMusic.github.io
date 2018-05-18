@@ -481,6 +481,10 @@
 <lastmod>2018-05-09T17:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/share/the-residents/animal-lover</loc>
+<lastmod>2018-05-16T17:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/404.html</loc>
 </url>
 <url>
@@ -587,6 +591,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page20/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page21/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/google65c6b1673d025668.html</loc>
