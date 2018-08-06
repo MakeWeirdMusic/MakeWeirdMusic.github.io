@@ -55,6 +55,8 @@ AG: Yeah, no problem. So, tell us a little about yourself and tell us about your
 CC: Well, I’ve been playing music since I was about 11. I just started getting into playing guitar, studying classical guitar and electric guitar at the same time. Listening to mainly rock music, I suppose, and then very gradually started getting into Indian classical music, some Spanish music, and sort of wanted to get an active involvement in these types of music. So I started studying sitar when I was about 13 years old and continued from there.
 {: .interviewee }
 
+{% include video.html vid="WzXVxOT8an0" %}
+
 Later on, got into other Asian music. Japanese music, Chinese music, and then started picking things up along the way. Then, eventually went on to studying seriously at the London Center for Contemporary music and later, SOAS, the [School of Oriental and African Studies&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/SOAS,_University_of_London) in London. I was studying at the same time Western popular music, jazz, classical, rock, blues, all the stuff you learn in music college, but at the same time had this real serious interest in other types of music and wanted to have some kind of active participation in it. So I learned about Balinese gamelan when I was at SOAS and then straight away when I graduated, started going to sessions and learning about it and playing. I’ve been doing that for six years now.
 {: .interviewee }
 
@@ -82,6 +84,8 @@ So I was playing all these different things and being fairly young and in this s
 Also around that time I started touring with the [Mediaeval Baebes&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Medi%C3%A6val_B%C3%A6bes), who I was a multi-instrumentalist for. And so, again, it was another thing that I put on the back burner for a while because I was working on so much. Then, it was around late 2016, I had that fairly low period, which I’ll talk about a bit more later. I just knew that this had to be done, so I started finishing off and orchestrating the last two or three tunes on the album.
 {: .interviewee }
 
+{% include video.html vid="Y2MQbUTmvFo" %}
+
 I got in contact with my friend Amir Shoat, who’s a really good engineer and producer who I worked with before in London. I got together with him with all the demos and everything that had been recorded so far and, "Okay, well this is the thing." With his advice and help and support, I was able to think of how to approach this because I knew it would necessitate loads of different instrumentalists and I knew it was going to be quite difficult music to put together and edit and mix.
 {: .interviewee }
 
@@ -105,6 +109,8 @@ I’ve been a guitar player since I was 11 and I’ve been through the whole per
 
 So I played all the guitar parts and I also played sitar, Indian sitar on the very first track. On several of the other pieces, I play Chinese pipa, which is this sort of pear-shaped lute thing that you see behind me there. Apart from that, I didn’t want to shoehorn in any of the other instruments I play onto the album. There’s a lot to choose from, but I didn’t necessarily want to try to get them all on there. It’d be sort of unnecessary and sort of inappropriate to do that. So that’s why there are twenty other musicians on the album. I couldn’t tell you how many instruments there are in total, but there’s a fair amount.
 {: .interviewee }
+
+{% include video.html vid="LdygoJ0kZCY" %}
 
 AG: A few dozen, probably? [Laughs.]
 {: .interviewer }
@@ -154,6 +160,8 @@ I recorded her just doing the part straight just to have it safe and then just s
 There’s a Chinese instrument called an erhu, which is a two-string spike fiddle. It’s a really simple instrument, but what it can do is it can sound incredibly emotional and expressive because of all these different ornaments that it can do. Again, that was another instrument I was really lucky to get because there are barely any professional players of that in London. At least, not many who would be able to play stuff that’s rhythmically challenging and elaborate as those tunes are.
 {: .interviewee }
 
+{% include video.html vid="gmBYdPECGkw" %}
+
 I managed to find this player, [Wang Xiao&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Wang_Xiao), who played on the album. I basically told her, "These are the notes, but do what you want with it. Make it sound like your instrument." Just in a couple of takes straight and it sounded like, “Finally, this is the first time I’ve heard in this seven years since I originally composed the piece, it’s the first time I’ve heard that part the way I imagined it by an actual erhu player playing it with all that kind of phrasing and delicacy of ornamentation and color and everything.” It was wonderful. Yeah, so that was a big part of it.
 {: .interviewee }
 
@@ -181,6 +189,8 @@ AG: And expensive.
 CC: That too, yeah. A guy can pull favors but there’s a limit to that. <span class="important">The thing about it being a work of art is kind of intentional</span> because gradually, as I was coming to understand more about music and the reasons why I’m drawn to certain types of music (as well as other forms of media, like books or comics or graphic novels or films or whatever), <span class="important">I started to see them all as sharing certain ideals and intentions.</span>
 {: .interviewee }
 
+{% include video.html vid="vw1Sv04YQS4" %}
+
 For example, a big influence on me as a creative person is [Alan Moore&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Alan_Moore), the comic book writer who wrote [Watchmen&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Watchmen), [V for Vendetta&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/V_for_Vendetta_(film)), all this stuff. Just seeing him in interviews talking about art as being this catalyst for personal change and how as an artist <span class="important">it’s your responsibility to change the consciousness of the person that you’re communicating with.</span> It’s totally possible. It literally becomes a form of magic to create something which then has a transportative or transformative effect on another person.
 {: .interviewee }
 
@@ -198,6 +208,8 @@ There are references all the way along to things and people like [William Blake&
 
 Similar things I can investigate in other cultures, like--I’ve got a few things here. So, William Blake’s "Songs of Innocence and the Experience," that’s where those titles are taken from. And then the one that really had an effect on me was “The Marriage of Heaven and Hell.” Sort of this glare on that. And reading that was--but then reading things like this, which is “The Secret of the Golden Flower,” which I came across a few years ago and it’s like a [Daoist meditation&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Daoist_meditation) manual, but it’s all about, through meditation and through certain practices, you can ascend to higher states of consciousness. You can sort of become a new person.
 {: .interviewee }
+
+{% include video.html vid="v3hQXQ5_zCM" %}
 
 Also things like Joseph Campbell’s writing about mythology, like the hero’s journey. That played a big part in shaping the album, the track listing of the album. Where it begins and the arc in which it goes and where it ends. Like the last track, "Apotheosis," the title comes from his ideas about the hero’s journey, how you’re taken out from your ordinary existence and you’re forced through all these trials and situations that change you into a new person. You take on all these new abilities and new powers, as it were, and then you overcome the parts of yourself that you want to get rid of. So you become a new thing at the end of it.
 {: .interviewee }
@@ -222,6 +234,8 @@ He said at one gig, "Well, let me know if you ever need anything." At the time, 
 
 I couldn’t be happier with it because he really listened through the album a few times and looked at all the song titles and made a lot of effort to integrate all those ideas into the mandala on the cover. It’s got elements from all the different tracks on there. It’s one of those real fortuitous things because I wasn’t planning that until quite late. It was about two months before it came out. Less than two months before it came out when we actually had the artwork. It was right at the last minute.
 {: .interviewee }
+
+{% include video.html vid="p5jt_8Tzu7s" %}
 
 AG: Is the music idiomatic to the performers and their instruments or did they have to spend time trying to understand what you were after?
 {: .interviewer }
@@ -274,6 +288,8 @@ CC: Oh right.
 AG: It looks like that’s the same instrument that he plays. A two- or three-stringed thing that he just strums and plays some simple chords on.
 {: .interviewer }
 
+{% include video.html vid="MgN_xIHqLUA" %}
+
 CC: Might not be the same one, but the shamisen came from the [sanxien&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Sanxian), which is a Chinese instrument. It traveled over to Japan a couple hundred years ago. It’s slightly different. It’s got a sort of snakeskin body. There are other central Asian instruments that the sanxien is related to. Basically, the [Silk Road&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Silk_Road) is where a lot of these instruments traveled. There are probably relatives in [Tuva&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Tuva), [Mongolia&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Mongolia), and various places. The shamisen came into being when the sanxien moved over to Japan via [Okinawa&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Okinawa_Island) and it fell into the hands of musicians who played the [biwa&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Biwa), which is another Japanese lute instrument, which is played with this massive plectrum. I don’t play that yet, but at some point. So that’s why the shamisen is played with this.
 {: .interviewee }
 
@@ -309,6 +325,8 @@ CC: Yeah, you’re gonna hear that. It’s quite loud. It’s got this kind of p
 
 Then a few years ago, this fellow moved to London called [Hibiki Ichikawa&nbsp;<i class="non-mwm far fa-external-link"></i>](https://www.hibikishamisen.com/), who is the only professional player in the UK, currently. He was actually on the soundtrack of this film called [Kubo and the Two Strings&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Kubo_and_the_Two_Strings), which came out a couple of years ago. It was a stop-motion animated film. He’s on the soundtrack of that. We actually did a gig together a few years ago and I thought, "Okay, I can get some lessons from him sometime." Only recently, I’ve thought, “Okay, I need to do this.” I’m teaching him Western music theory and he’s teaching me shamisen. It’s three strings, fretless.
 {: .interviewee }
+
+{% include video.html vid="SxsbKlKkCJg" %}
 
 AG: Can you give a very brief sample of what you might play on that instrument?
 {: .interviewer }
@@ -352,6 +370,8 @@ AG: And protect your skin, too.
 CC: That too. The shamisen strings are this yellowish color because they’re dyed with turmeric. Notice these tiny blood stains starting to appear on the strings. It’s because I’ve been working hard enough. So, that’s great. The pipa is really useful for--I’ve been able to use it in all kinds of situations. I actually played this a few years ago in a performance of a [Philip Glass&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Philip_Glass) opera called [Sound of a Voice&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/The_Sound_of_a_Voice), which is a chamber opera based on Japanese ghost stories. They use this instrument because it’s tuned to a chromatic scale. It’s got very wide range, quite diverse tonally. So it’s pipa, flute, cello, and percussion with two voices. I was asked to play in that because I was a professional player of the instrument, which is unusual in this country, and I can read all the notation. It can be used in all kinds of situations.
 {: .interviewee }
 
+{% include video.html vid="7SBZrEHSbSE" %}
+
 AG: That’s cool. And that other instrument?
 {: .interviewer }
 
@@ -387,6 +407,8 @@ AG: In the world. And you live there, and you play all of these strange instrume
 
 CC: Well, I have played mainstream music before, but I don’t talk about that as much. <span class="important">Making a living as a musician in London is practically impossible</span>. It’s a really difficult thing and a lot of people either have to give up or just stop. Most of all, they have to bolster their income with other professions. Someone might just have a full-time job, maybe, or they might just--I know pretty well-known musicians who, during the day, will do painting and decorating work and then make weird music with the rest of their time. It’s pretty normal.
 {: .interviewee }
+
+{% include video.html vid="6DbJQhu_YGk" %}
 
 I’m lucky because I don’t have a family to look after. I don’t have children or anything, so that’s something that a lot of my friends have to deal with. I’ve been quite lucky with the breadth of experience I’ve had in terms of studying classical music and playing classical guitar and learning theory and things, being able to read, has been quite an important thing. The ability to read music well.
 {: .interviewee }
@@ -424,6 +446,8 @@ AG: And you’re doing it, so that’s awesome.
 CC: Yeah, there are certain--it’s that thing of having to work constantly. It’s never quite settled so I always have to be active, but it’s just being lucky enough to know lots of people in London and being able to exist in all these different worlds in London and know the guys in the weird, funny music. The proggy scene and knowing people who do traditional ethnic stuff and--it’s just sort of putting yourself out there. If people know you and they like you and you do good enough work, on time, and are reliable, that counts for a lot. Some strange things have come along as a result. Bands paying me to go with them to [Antwerp&nbsp;<i class="non-mwm fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Antwerp) to shoot music videos because they like the ideas I did on their record. It’s just strange things like that. It’s a hodge-podge. It’s fairly scattered and variegated, but it’s just the way things are.
 {: .interviewee }
 
+{% include video.html vid="8PX5KKQqN-c" %}
+
 AG: It’s what it takes. Okay, and then--I do have to get back to work, but I do want to talk about--you have talked about the stress, anxiety, and depression around finishing The Divine Abstract, at least on Facebook. And this morning, I believe it was this morning, you posted something about returning to that era. Working through certain things in your newest composition work. Can you talk about that era, what led to it, and how you’re working through it now?
 {: .interviewer }
 
@@ -448,6 +472,8 @@ It’s a long period of being honest and open with the people around me and ther
 Then I also had this relationship with the music I was writing, the music that ended up becoming The Divine Abstract. <span class="important">It almost became a way of writing myself out of these states, so it’s not necessary that I be depressed and write depressing music because it’s a means of wallowing in it. It’s almost a means of escaping it.</span> You’re trying to create an ideal state for myself, like a world in which I could exist that brought me back to not necessarily normality, but beyond that, above that. <span class="important">Trying to aim for the best aspects of myself. I think you can do that with music.</span> When I was talking earlier about things like magic, it’s just manipulating symbols and sounds to create these things.
 {: .interviewee }
 
+{% include video.html vid="FmrIZzmYc_A" %}
+
 It informed my approach to harmony as well, in terms of harmonic shifts. It’s what you’ve changed in harmony, about what they’re doing. You can create these changes in color and these changes of mood and these changes of mental state through the manipulation of harmony. You can create agitated, manic states through the manipulation of rhythm through hemiola or time signatures or polyrhythms. <span class="important">You can create musical depictions of these kinds of states.</span> It’s kind of what I approach with the music on the album, it became this liminal thing. This thing that you pass through to become a new person, as it were, a new entity.
 {: .interviewee }
 
@@ -466,7 +492,9 @@ CC: Thanks, yeah. It’s wonderful to talk to you about it.
 AG: Thank you. So, finally, for people who want to learn more about you and your music, what do you suggest they do and how can they best support you?
 {: .interviewer }
 
-CC: The album is on Bandcamp, charliecawood.bandcamp.com. I’m also on Facebook and I’ve got the musician page on Facebook, which I use to update about exclusively musical things. I do Twitter and Instagram. There’s also the wikipedia page now, which is a real fun thing to have. That’s actually fairly well sourced and it’s pretty much accurate, so there is that. Working on a website currently, that’s something that’s going to happen. Other things that are happening soon is new Knifeworld at some point. There will be the follow-up to the current album that I’m currently working on, which is going to come out hopefully in a year’s time, maybe a bit more than a year’s time.
+{% include video.html vid="2ZEq1RIyqKw" %}
+
+CC: The album is on Bandcamp, [charliecawood.bandcamp.com&nbsp;<i class="fab fa-bandcamp"></i>](https://charliecawood.bandcamp.com). I’m [also on Facebook&nbsp;<i class="fab fa-facebook"></i>](https://facebook.com/charliecawoodmusic) and I’ve got the musician page on Facebook, which I use to update about exclusively musical things. I do [Twitter&nbsp;<i class="fab fa-twitter"></i>](https://twitter.com/charliecawood) and [Instagram&nbsp;<i class="fab fa-instagram"></i>](https://instagram.com/charliecawood). There’s also [the wikipedia page&nbsp;<i class="fab fa-wikipedia-w"></i>](https://en.wikipedia.org/wiki/Charlie_Cawood) now, which is a real fun thing to have. That’s actually fairly well sourced and it’s pretty much accurate, so there is that. Working on a website currently, that’s something that’s going to happen. Other things that are happening soon is new Knifeworld at some point. There will be the follow-up to the current album that I’m currently working on, which is going to come out hopefully in a year’s time, maybe a bit more than a year’s time.
 {: .interviewee }
 
 The last part of this year, there’s the new Mediaeval Baebes album, which I co-arranged and played about twelve albums on it. It’s a compendium of nursery rhymes and children’s songs, done in this partially beautiful and partially horrifically discordant way. For what’s essentially a pop-classical project, it’s probably one of the most avant garde things I’ve ever worked on. It’s brilliant.
