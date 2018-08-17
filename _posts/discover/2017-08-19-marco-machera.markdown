@@ -37,7 +37,7 @@ His new album is due out September 1, 2017. It's called *Small Music from Broken
 
 ## Interview Transcription
 
-AG: Marco Machera is a bassist in Italy. He’s known best for his work with [EchoTest&nbsp;<i class="non-mwm fa fa-facebook-square" aria-hidden="true"></i>](https://www.facebook.com/slickmachera/) with [Julie Slick](/discover/julie-slick). We are very lucky to have him here today to talk about his new album. Marco, thank you so much for joining us.
+AG: Marco Machera is a bassist in Italy. He’s known best for his work with [EchoTest&nbsp;<i class="non-mwm fab fa-facebook-square" aria-hidden="true"></i>](https://www.facebook.com/slickmachera/) with [Julie Slick](/discover/julie-slick). We are very lucky to have him here today to talk about his new album. Marco, thank you so much for joining us.
 {: .interviewer }
 
 MM: Thank you for your interest. It’s a pleasure.

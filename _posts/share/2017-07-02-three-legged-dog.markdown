@@ -42,7 +42,7 @@ It started with a silly idea imagining [Chet Atkins&nbsp;<i class="non-mwm fab f
 
 It took me several weeks to practice and learn the song. I send it to my friend John Landy, who literally recorded his bass part overnight. My mind was blown.
 
-I wrote a crazy drum part for [Sebastian Lanser&nbsp;<i class="non-mwm fa fa-facebook" aria-hidden="true"></i>](https://www.facebook.com/sebastianlanserofficial) as a follow-up to [our crazy Bach piece](/share/bwv-1060r-mov-1), but he didn't have the time to work on it. I sent it around to a few other drummer friends and none of them were up for it. A couple of drummers told me it was too hard. I only mention this because I sent the song to [Morgan Agren](/interview/morgan-agren) in 2017 hoping that he might be up for it. He agreed without issue and "squeezed it in" between some other recording he was doing.
+I wrote a crazy drum part for [Sebastian Lanser&nbsp;<i class="non-mwm fab fa-facebook" aria-hidden="true"></i>](https://www.facebook.com/sebastianlanserofficial) as a follow-up to [our crazy Bach piece](/share/bwv-1060r-mov-1), but he didn't have the time to work on it. I sent it around to a few other drummer friends and none of them were up for it. A couple of drummers told me it was too hard. I only mention this because I sent the song to [Morgan Agren](/interview/morgan-agren) in 2017 hoping that he might be up for it. He agreed without issue and "squeezed it in" between some other recording he was doing.
 
 This is a testament to the kind of musician he is. Some drummers said the song was too hard, Morgan fits it in some gaps during another project. Incredible. My mind was blown.
 
