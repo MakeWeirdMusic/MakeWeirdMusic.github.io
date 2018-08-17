@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evil Genius and Studio Opening
-date:  2018-08-16 00:00:00
+date:  2018-08-14 00:00:00
 artist: evil-genius
 author: anthony-garone
 image: evil-genius
