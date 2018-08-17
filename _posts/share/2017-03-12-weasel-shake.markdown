@@ -27,7 +27,7 @@ In March 2017, I went to New York on a business trip and bumped into Robbie Seah
 
 {% include video.html vid=page.youtube_id %}
 
-You should check out Robbie's new album, [*Bumbleweenie*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://www.bumbleweenie.com), and buy one of his donation packages.
+You should check out Robbie's new album, [*Bumbleweenie*&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://www.bumbleweenie.com), and buy one of his donation packages.
 {: .ad }
 
 ## Video Stuff

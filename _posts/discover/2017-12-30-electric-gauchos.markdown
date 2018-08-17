@@ -37,7 +37,7 @@ So, we thought it'd be cool if we filmed a conversation with Alex Anthony Faide 
 
 ## Interview Transcription
 
-AG: I don’t know if you want to cover anything in particular or just want to talk about [Electric Gauchos&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.electricgauchos.com) or...
+AG: I don’t know if you want to cover anything in particular or just want to talk about [Electric Gauchos&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.electricgauchos.com) or...
 {: .interviewer }
 
 SB: We probably want to start by telling a little history about--maybe building on what Alex just talked about. The fact that we’ve been playing together for 23 years, 24 years.
@@ -106,10 +106,10 @@ AAF: Yes, like a few miles south into the pampa.
 
 {% include video.html vid="3SVPtmy8ziA" %}
 
-SB: And so, the Gauchos--we took [our feeble repertoire&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://www.discogs.com/Los-Gauchos-Alemanes-Little-Beast/release/2934111) into Argentina and met some incredible players who then changed the expectation and the level of our playing. Some collaborations began and we met and hit it off musically. We did a little spin-off after Los Gauchos Alemanes, playing for a couple years.
+SB: And so, the Gauchos--we took [our feeble repertoire&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://www.discogs.com/Los-Gauchos-Alemanes-Little-Beast/release/2934111) into Argentina and met some incredible players who then changed the expectation and the level of our playing. Some collaborations began and we met and hit it off musically. We did a little spin-off after Los Gauchos Alemanes, playing for a couple years.
 {: .interviewee }
 
-I really wanted to play with a drummer. This music we were writing and all the stuff we were doing, to me, was missing a rhythmic element that--I was really hungry to play with a drummer. So Fernando Kabusacki had been playing with a well-known Argentinian drummer named Fernando Samalea, so we got together with [Fernando Kabusacki&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.kabusacki.com.ar), [Martin Schwutke&nbsp;<i class="non-mwm fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/user/mistermartynumber9), [Fernando Samalea&nbsp;<i class="non-mwm fa fa-facebook" aria-hidden="true"></i>](https://www.facebook.com/samaleaoficial/), and I think we went into a studio for a few days and wrote some...
+I really wanted to play with a drummer. This music we were writing and all the stuff we were doing, to me, was missing a rhythmic element that--I was really hungry to play with a drummer. So Fernando Kabusacki had been playing with a well-known Argentinian drummer named Fernando Samalea, so we got together with [Fernando Kabusacki&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.kabusacki.com.ar), [Martin Schwutke&nbsp;<i class="non-mwm fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/user/mistermartynumber9), [Fernando Samalea&nbsp;<i class="non-mwm fa fa-facebook" aria-hidden="true"></i>](https://www.facebook.com/samaleaoficial/), and I think we went into a studio for a few days and wrote some...
 {: .interviewee }
 
 AAF: We went first to Mendoza and we went right into the project.
@@ -161,7 +161,7 @@ SB: Usina del Arte. We did a big show backed by 30-something acoustic guitars as
 AAF: Cabrera.
 {: .interviewee }
 
-SB: Cabrera on bass, and [Horacio Pozzo&nbsp;<i class="non-mwm fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/watch?v=bZpQj7Z3YiU), who’s also a member of [Big Time Trio&nbsp;<i class="non-mwm fa fa-facebook" aria-hidden="true"></i>](https://www.facebook.com/bigtimetrio/), which is another Guitar Craft spin-off band. I think of them as the [California Guitar Trio&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://cgtrio.com) of South America. And did a big show and we actually recorded that as well and then released a CD of that show as well. It includes some odd cover songs you don’t hear very often, including a version of [Inductive Resonance&nbsp;<i class="non-mwm fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/watch?v=fCh5Vy-TGSA), which is an old League of Gentlemen piece.
+SB: Cabrera on bass, and [Horacio Pozzo&nbsp;<i class="non-mwm fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/watch?v=bZpQj7Z3YiU), who’s also a member of [Big Time Trio&nbsp;<i class="non-mwm fa fa-facebook" aria-hidden="true"></i>](https://www.facebook.com/bigtimetrio/), which is another Guitar Craft spin-off band. I think of them as the [California Guitar Trio&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://cgtrio.com) of South America. And did a big show and we actually recorded that as well and then released a CD of that show as well. It includes some odd cover songs you don’t hear very often, including a version of [Inductive Resonance&nbsp;<i class="non-mwm fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/watch?v=fCh5Vy-TGSA), which is an old League of Gentlemen piece.
 {: .interviewee }
 
 {% include video.html vid="fCh5Vy-TGSA" %}
@@ -190,7 +190,7 @@ At the top of the list was Alex, building on our long history of work and play t
 AG: Don’t you have a boxed set?
 {: .interviewer }
 
-SB: Oh yeah, there is also a [9-CD box set&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://steveball.com/EG) based upon some other improvised recordings we did a couple years ago.
+SB: Oh yeah, there is also a [9-CD box set&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://steveball.com/EG) based upon some other improvised recordings we did a couple years ago.
 {: .interviewee }
 
 AG: That was just Electric Gauchos, right?
@@ -252,7 +252,7 @@ SB: There’s some aspiration to bring this configuration to Seattle as well. Ma
 AG: As a matter of practicality, if someone were to want to hear this music, purchase it, where would they go? Is it available in all the normal channels?
 {: .interviewer }
 
-SB: Generally, yeah. If you just search “Electric Gauchos” in iTunes or Spotify or CDBaby or Groove Music, most of our stuff is out there, including the 9-CD box set. Eight of the nine CDs are on most of the big services. You could also just go to [SteveBall.com/EG&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://SteveBall.com/EG), which has nice fairly-high-quality playable previews of the box set if you want to get a glimpse of what 81 tracks of mostly-improvised music sounds like. It’ll give you a little sense of what we do.
+SB: Generally, yeah. If you just search “Electric Gauchos” in iTunes or Spotify or CDBaby or Groove Music, most of our stuff is out there, including the 9-CD box set. Eight of the nine CDs are on most of the big services. You could also just go to [SteveBall.com/EG&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://SteveBall.com/EG), which has nice fairly-high-quality playable previews of the box set if you want to get a glimpse of what 81 tracks of mostly-improvised music sounds like. It’ll give you a little sense of what we do.
 {: .interviewee }
 
 AG: Cool.

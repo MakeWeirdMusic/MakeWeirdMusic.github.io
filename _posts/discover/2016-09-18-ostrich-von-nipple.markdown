@@ -22,13 +22,13 @@ explicit: "yes" #other option is no
 block: "no" #means is shown in itunes
 ---
 
-Ostrich Von Nipple is an avant garde musician on the very excellent European record label, [Psychofon Records&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://psychofonrecords.com). Not much is known about OVN except he (I'm assuming OVN is a "he") has been releasing very weird music for a few years now. If you're a fan of [The Residents](/discover/the-residents), you'll definitely dig OVN.
+Ostrich Von Nipple is an avant garde musician on the very excellent European record label, [Psychofon Records&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://psychofonrecords.com). Not much is known about OVN except he (I'm assuming OVN is a "he") has been releasing very weird music for a few years now. If you're a fan of [The Residents](/discover/the-residents), you'll definitely dig OVN.
 
-Psychofon reached out to me after the [Homer Flynn interview](/interview/homer-flynn) and sent a nice package of some very strange music on their label, including a single from The Residents' own [Randy Rose&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.psychofonrecords.com/randy-rose/), a French band called [DDAA&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.psychofonrecords.com/artist-ddaa/), and (obviously) Ostrich Von Nipple.
+Psychofon reached out to me after the [Homer Flynn interview](/interview/homer-flynn) and sent a nice package of some very strange music on their label, including a single from The Residents' own [Randy Rose&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.psychofonrecords.com/randy-rose/), a French band called [DDAA&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.psychofonrecords.com/artist-ddaa/), and (obviously) Ostrich Von Nipple.
 
 The packaging work is very unique and beautifully made. The music is really weird and has a lot of personality. It's very early 1980s Residents with a twist (if you can even imagine that).
 
-**[Check out Ostrich Von Nipple's website!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.ostrichvonnipple.com)**
+**[Check out Ostrich Von Nipple's website!&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.ostrichvonnipple.com)**
 
 ## Interview video
 
@@ -83,7 +83,7 @@ AG: Like a breathmint.
 OVN: That's ridiculous.
 {: .interviewee }
 
-AG: I've noticed you follow a certain grammar with all of your album titles. [*Ostrich Von Nipple Contemplates the Cosmos*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://ostrichvonnipple.bandcamp.com), [*Quantifies Absurdity*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.psychofonrecords.com/product/ostrich-von-nipple-quantifies-absurdity-cd/)... Can you tell me if there's intention behind that? A meaning? What leads to these particular grammars?
+AG: I've noticed you follow a certain grammar with all of your album titles. [*Ostrich Von Nipple Contemplates the Cosmos*&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://ostrichvonnipple.bandcamp.com), [*Quantifies Absurdity*&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.psychofonrecords.com/product/ostrich-von-nipple-quantifies-absurdity-cd/)... Can you tell me if there's intention behind that? A meaning? What leads to these particular grammars?
 {: .interviewer }
 
 OVN: Well, yes, that is true. Each one of these records is typically named in a present tense form. A verb. It's fucking grammar. And it's a very conscious effort because I do like the feeling that the idea that this is happening currently. That <span class="important">what you're listening to and experiencing is happening currently, never in the past, never in the future, but always now. I would hope that a listener would join me on this active journey each and every time.</span>
@@ -208,7 +208,7 @@ AM: Yeah, I'm the owner of Psychofon Records. Right. I run Psychofon.
 AG: And what does that look like? What does the owner of Psychofon do?
 {: .interviewer }
 
-AM: I occupy myself since my youth with collecting electronic music, underground, [plunderphonics&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Plunderphonics), [musique concrete&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Musique_concrète), brote music?, record art objects, and all this avant garde stuff. And I'm the proud collector of releases with interesting pictures. So, my collection that I gathered over the years is very unique and reflects the history of this music.
+AM: I occupy myself since my youth with collecting electronic music, underground, [plunderphonics&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Plunderphonics), [musique concrete&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Musique_concrète), brote music?, record art objects, and all this avant garde stuff. And I'm the proud collector of releases with interesting pictures. So, my collection that I gathered over the years is very unique and reflects the history of this music.
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/1xrDnUWsWDE?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -274,7 +274,7 @@ AG: Ostrich, what were you doing before Psychofon Records picked you up?
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/N-3QOgjPKTE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-OVN: Well, back before Psychofon Records, I did have one other CD that was released worldwide called Ostrich Von Nipple Contemplates the Cosmos. That particular record was released on [WM Recordings&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.wmrecordings.com) at the time, which I don't believe is even around anymore. I think they may be WM Digital. Hmph, lots of consonants there.
+OVN: Well, back before Psychofon Records, I did have one other CD that was released worldwide called Ostrich Von Nipple Contemplates the Cosmos. That particular record was released on [WM Recordings&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.wmrecordings.com) at the time, which I don't believe is even around anymore. I think they may be WM Digital. Hmph, lots of consonants there.
 {: .interviewee }
 
 Anyhow, I had finished that record and had it released. Quite honestly, Anthony, I was on top of the world. Here I was, a young fucking bird brain with ne'er a nipple to spare. Top-selling records on the charts. I won't--you can look up the charts, but it's important that I tell you that I took that chance and went with Psychofon Records because it's not about me, Anthony.
@@ -292,7 +292,7 @@ AG: All right, Stephen. What's your favorite OVN release? What do you recommend 
 SA: Just like Andy, I'm a big fan of his work as a whole. But, really, the concept behind his music is that every album represents just one piece of a puzzle. He's told me this a hundred times. <span class="important">The puzzle slowly comes together with every release and they all fit together somehow.</span> I find that concept really genius. That's why I'm so into his music.
 {: .interviewee }
 
-One of his most impressive works in my opinion would have to be the picture disc that came out not too long ago. It contains two 15-minute musical pieces titled *Swarm Suite* and *So Do They*. They're incredible collages of pretty much all of his previous work intertwined with new material and art by this Nevada artist, [Poxodd&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://shop.poxodd.com), who's just incredible.
+One of his most impressive works in my opinion would have to be the picture disc that came out not too long ago. It contains two 15-minute musical pieces titled *Swarm Suite* and *So Do They*. They're incredible collages of pretty much all of his previous work intertwined with new material and art by this Nevada artist, [Poxodd&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://shop.poxodd.com), who's just incredible.
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/g-ss6lAYDlk?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -306,7 +306,7 @@ OVN: I concur.
 AG: All right guys. Thank you so much for your time. I really appreciate it. How can people pick up some of OVN's records?
 {: .interviewer }
 
-SA: Well, you can easily go to [PsychofonRecords.com&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://psychofonrecords.com) and we have a fully-working web shop up there. It has everything you would possibly be interested in buying. I strongly suggest buying *everything*. Just grab it all indiscriminately. Don't look at the price. Don't look at the shipping. Don't even look at the pictures or the words. Just click the "Add to Cart" button and go for it.
+SA: Well, you can easily go to [PsychofonRecords.com&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://psychofonrecords.com) and we have a fully-working web shop up there. It has everything you would possibly be interested in buying. I strongly suggest buying *everything*. Just grab it all indiscriminately. Don't look at the price. Don't look at the shipping. Don't even look at the pictures or the words. Just click the "Add to Cart" button and go for it.
 {: .interviewee }
 
 <div class="ad"><strong>Use discount code OVNMWM10 for a 10% discount on your purchase. Good through March 1, 2017!</strong></div>

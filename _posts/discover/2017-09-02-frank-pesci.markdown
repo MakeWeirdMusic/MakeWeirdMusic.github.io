@@ -51,7 +51,7 @@ AG: So, why don’t you tell us who you are, what you do, and how you ended up d
 FP: Well, my name is Frank Pesci. I am an American composer based in and working in Germany. I am a composer primarily focused at the moment on opera, but I’ve written nearly 100 works for the concert stage, including pieces for chorus, solo works for instrumentalists and singers, works for large ensembles like orchestras, concert bands, and things like that. Plus chamber music and everything in between. But at the moment I’m focused primarily on opera.
 {: .interviewee }
 
-What I’m doing here in Germany is we’ve been living here in Germany, my wife and I, for four years. My wife is an opera singer and her career brought us here, first to Karlsruhe, which is a small town in the southwest (well, it’s a medium-sized town in the southwest) and for the last two years here in Cologne, where she’s a member of the ensemble with [Oper Köln&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.oper.koeln). So that’s what I’m doing here and I am working as a freelance professional composer.
+What I’m doing here in Germany is we’ve been living here in Germany, my wife and I, for four years. My wife is an opera singer and her career brought us here, first to Karlsruhe, which is a small town in the southwest (well, it’s a medium-sized town in the southwest) and for the last two years here in Cologne, where she’s a member of the ensemble with [Oper Köln&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.oper.koeln). So that’s what I’m doing here and I am working as a freelance professional composer.
 {: .interviewee }
 
 AG: I’m gonna go ask the kids to be quiet...
@@ -148,7 +148,7 @@ Then when I got to school to do my jazz degree, I was studying composition as we
 At some point, I wanted to be the opera composer, I wanted to be the guy writing new works and is making those things happen. How I got there was a little circuitous, but the totality of my musical experience all plays into that now, including the jazz and the funk and the metal and all the guitar nonsense that I went through.
 {: .interviewee }
 
-AG: Yeah, so on your website you have a selection of pieces you’ve written. What’s the website? [FrankPesci.com&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://frankpesci.com)?
+AG: Yeah, so on your website you have a selection of pieces you’ve written. What’s the website? [FrankPesci.com&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://frankpesci.com)?
 {: .interviewer }
 
 FP: FrankPesci.com.
@@ -166,7 +166,7 @@ AG: Yeah, so what struck me was your use of what sounded more like modern-day ja
 FP: Well, I am seeing a lot of that in the American opera scene. I am seeing a lot of people who have disparate influences and then utilizing those influences to put something on the operatic stage. For me, I have been specifically trying to blend--I still don’t know what the best word is to say it--but to synthesize my jazz conceptions and my operatic sensibility. Just saying it out loud sounds like there’s no way in hell that’s going to work, but not exactly true.
 {: .interviewee }
 
-It’s been done before in terms of jazz and classical music. There are a couple of operas about jazz subjects that are floating around at the moment. One by [Terence Blanchard&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.terenceblanchard.com/) who’s a famous jazz trumpeter and there’s another one--there’s an opera going around about [Charlie Parker&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Charlie_Parker). So it’s not unheard of, but for me what it is is to take these two things that are a big part of my musical understanding and then to make something that is both and neither.
+It’s been done before in terms of jazz and classical music. There are a couple of operas about jazz subjects that are floating around at the moment. One by [Terence Blanchard&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.terenceblanchard.com/) who’s a famous jazz trumpeter and there’s another one--there’s an opera going around about [Charlie Parker&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Charlie_Parker). So it’s not unheard of, but for me what it is is to take these two things that are a big part of my musical understanding and then to make something that is both and neither.
 {: .interviewee }
 
 {% include video.html vid="0WTRzqCxSx0" %}
@@ -187,7 +187,7 @@ FP: Well, there’s been an explosion of new opera in the US and there’s a ste
 
 {% include video.html vid="0DkiekeKwvE" %}
 
-There’s a new one that’s coming out this season in Santa Fe [written about Steve Jobs&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera). It’s going to make a big splash and it’s by [Mason Bates&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Mason_Bates), who is a really well known composer and has been doing fabulous things, but this is his first opera and it is on a very large stage. So there obviously is an appetite for it, both from people who are programming it, the singers who are participating in it, and the public. So, that is encouraging to me, but also from being a singer and knowing singers and also knowing what I’m trying to do aesthetically, <span class="important">it still has to be singable</span>.
+There’s a new one that’s coming out this season in Santa Fe [written about Steve Jobs&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.npr.org/sections/deceptivecadence/2017/07/22/538088296/sing-different-steve-jobs-life-becomes-an-opera). It’s going to make a big splash and it’s by [Mason Bates&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Mason_Bates), who is a really well known composer and has been doing fabulous things, but this is his first opera and it is on a very large stage. So there obviously is an appetite for it, both from people who are programming it, the singers who are participating in it, and the public. So, that is encouraging to me, but also from being a singer and knowing singers and also knowing what I’m trying to do aesthetically, <span class="important">it still has to be singable</span>.
 {: .interviewee }
 
 It’s still at the base level, for me, has to be opera and has to be operatic. So, I don’t know if that answers the question particularly, but it’s always something that’s in the back of my mind, for sure. I’m always thinking about from the micro level of, “Is what I’m writing idiomatic for the type of people who I want to have sing it?” And then for the bigger level of, “How is this going to play? Will it engage audiences?” There’s a lot to think about all the time.

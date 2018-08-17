@@ -21,11 +21,11 @@ explicit: "yes" #other option is no
 block: "no" #means is shown in itunes
 ---
 
-Evil Genius is an experimental jazz trio out of Los Angeles featuring [Max Kutner&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://maxkutner.com) on guitar, [Mike "Bonepocket" Lockwood&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.bonepocket.com) on drums, and [Stefan Kac&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.stefankac.com/) on tuba. They kicked off their 2017 tour in Phoenix and I had the privilege of catching the show and hosting the band at my house. I met Max at the [Blue Mouth Promotions&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://bluemouthpromo.com) dinner at NAMM in January.
+Evil Genius is an experimental jazz trio out of Los Angeles featuring [Max Kutner&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://maxkutner.com) on guitar, [Mike "Bonepocket" Lockwood&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.bonepocket.com) on drums, and [Stefan Kac&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.stefankac.com/) on tuba. They kicked off their 2017 tour in Phoenix and I had the privilege of catching the show and hosting the band at my house. I met Max at the [Blue Mouth Promotions&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://bluemouthpromo.com) dinner at NAMM in January.
 
-Max is the guitarist for several bands, including the [Grandmothers of Invention&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://www.facebook.com/GRANDMOTHERSOFINVENTION/) and [The Magic Band&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://www.facebook.com/TheMagicBand/) (see also [Captain Beefheart](/discover/captain-beefheart)). He's also good friends and a collaborator with [Mike Keneally](/interview/mike-keneally). You could say we hit it off pretty quickly when we met.
+Max is the guitarist for several bands, including the [Grandmothers of Invention&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://www.facebook.com/GRANDMOTHERSOFINVENTION/) and [The Magic Band&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://www.facebook.com/TheMagicBand/) (see also [Captain Beefheart](/discover/captain-beefheart)). He's also good friends and a collaborator with [Mike Keneally](/interview/mike-keneally). You could say we hit it off pretty quickly when we met.
 
-**[Check out Evil Genius's website!&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.evilevilgeniusgenius.com)**
+**[Check out Evil Genius's website!&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.evilevilgeniusgenius.com)**
 
 ## Interview video
 
@@ -52,7 +52,7 @@ Stefan: I'm Stefan Kac. I play tuba and I'm from Minneapolis, Minnesota.
 AG: And you're all based in LA now? What brought you to LA?
 {: .interviewer }
 
-Max: [Cal Arts&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/California_Institute_of_the_Arts).
+Max: [Cal Arts&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/California_Institute_of_the_Arts).
 {: .interviewee }
 
 AG: Oh? Is that where you all met?
@@ -101,7 +101,7 @@ AG: You're reading a lot of sheet music throughout the night. All three of you. 
 Mike: There's all sorts of charts. Some of them are lead sheet-ish. Very few of them, but... You go that direction and then some things are completely orchestrated, notated exactly. At least for these two guys, most of the charts don't have any drum information so my role has been to--while they dig through reading, I dig through also reading and trying to make sense of what I feel like should happen with their parts.
 {: .interviewee }
 
-AG: I told you this last night. Until last night, [Dave King&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/David_King_(drummer)) from [The Bad Plus&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/The_Bad_Plus) was the most exciting drummer I'd ever seen live. And then I saw what you were doing and I was like, "I can't even believe how this guy thinks." Who are some of your big influences? I hear a lot of [Henry Cow&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Henry_Cow) in the band, I don't know if that's...
+AG: I told you this last night. Until last night, [Dave King&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/David_King_(drummer)) from [The Bad Plus&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/The_Bad_Plus) was the most exciting drummer I'd ever seen live. And then I saw what you were doing and I was like, "I can't even believe how this guy thinks." Who are some of your big influences? I hear a lot of [Henry Cow&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Henry_Cow) in the band, I don't know if that's...
 {: .interviewer }
 
 {% include video.html vid="T0Auumv5leI" %}
@@ -117,10 +117,10 @@ Mike: I have no... That's not...
 AG: Well, for you on the drums, who are your inspirations? It was so stunning!
 {: .interviewer }
 
-Mike: Well, Dave King... I've listened to a fuck-ton of Dave King and I have tons of respect for him. That's one. Early on, lots of [Bill Stewart&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bill_Stewart_(musician)) and [Ari Hoenig&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Ari_Hoenig). I listen to a lot of [Meshuggah&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Meshuggah).
+Mike: Well, Dave King... I've listened to a fuck-ton of Dave King and I have tons of respect for him. That's one. Early on, lots of [Bill Stewart&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bill_Stewart_(musician)) and [Ari Hoenig&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Ari_Hoenig). I listen to a lot of [Meshuggah&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Meshuggah).
 {: .interviewee }
 
-AG: Yeah there was a lot of [polyrhythmic&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Polyrhythm) stuff going on. You were playing lots of different rhythms and changing the feel. It was great.
+AG: Yeah there was a lot of [polyrhythmic&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Polyrhythm) stuff going on. You were playing lots of different rhythms and changing the feel. It was great.
 {: .interviewer }
 
 Mike: The influences have been wider than I would feel comfortable talking about to some fellow jazz musicians. That's not true, I would talk about it, but it's all over the map.
@@ -138,7 +138,7 @@ AG: Not instruments, but, yeah, trash.
 Mike: Found instrument things.
 {: .interviewee }
 
-Max: Yeah, we don't have the baguette bag on this tour, unfortunately. We played for this radio station in Santa Cruz called [KPIG&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://kpig.com) and <span class="important">we usually travel without a drum kit and we just played this tiny space and we were kind of like, "Okay, what are we going to give Mike to use?" He said, "I have this stuff. Let's make this happen." Things like "cymbal on ground," baguette bag, toys...</span>
+Max: Yeah, we don't have the baguette bag on this tour, unfortunately. We played for this radio station in Santa Cruz called [KPIG&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://kpig.com) and <span class="important">we usually travel without a drum kit and we just played this tiny space and we were kind of like, "Okay, what are we going to give Mike to use?" He said, "I have this stuff. Let's make this happen." Things like "cymbal on ground," baguette bag, toys...</span>
 {: .interviewee }
 
 Stefan: I proposed that we rename the band at that point to Bang on the Baguette, but the proposal was not taken by the other guys in the band.
@@ -167,19 +167,19 @@ Mike: I think it's nice that you say it that way, that you wouldn't assume. <spa
 AG: So tell me about the dynamic of having you playing tuba in this band and how you approach the instrument in this experimental music.
 {: .interviewer }
 
-Stefan: <span class="important">When I write I approach guitar and tuba as two horn parts</span> knowing that if I got any grander ambitions I have more guitar stuff that can happen because of multiple notes. At the writing stage, I look at it just as sort of two [contrapuntal&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Counterpoint) lines and don't really worry so much about function unless the style dictates doing something. If there's a clear bass harmonic, clear soul function, something like that. That can still happen.
+Stefan: <span class="important">When I write I approach guitar and tuba as two horn parts</span> knowing that if I got any grander ambitions I have more guitar stuff that can happen because of multiple notes. At the writing stage, I look at it just as sort of two [contrapuntal&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Counterpoint) lines and don't really worry so much about function unless the style dictates doing something. If there's a clear bass harmonic, clear soul function, something like that. That can still happen.
 {: .interviewee }
 
 Writing-wise, I think of counterpoint. Playing-wise, I got way into bebop playing in high school and college and didn't give a lot of thought to even functioning as a bass instrument. I would only do it when I was sort of forced to, which looking back on it is sort of weird, but that's just the way it worked out. It wasn't until I got out of school and out doing stuff, going to a jam session...
 {: .interviewee }
 
-Once, I walked in and could immediately see the bass player was sweating and panting and unhappy, probably been there all night playing 25-minute long versions of [*Stella by Starlight*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Stella_by_Starlight) and sees me come in and take the tuba out. After the tune, puts the bass down and says, "Oh, thank God, there's another bass player here. Can you..." and I was like, "Hey, I don't really do that. I'm a horn player. I don't do the bass stuff." <span class="important">And he looks at me and is like, "You're a **tuba player**." And I'm standing there in front of this guy I've never met and I'm like, "Damn, I *am* a tuba player. That's kind of messed up that I don't know how to do this."</span>
+Once, I walked in and could immediately see the bass player was sweating and panting and unhappy, probably been there all night playing 25-minute long versions of [*Stella by Starlight*&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Stella_by_Starlight) and sees me come in and take the tuba out. After the tune, puts the bass down and says, "Oh, thank God, there's another bass player here. Can you..." and I was like, "Hey, I don't really do that. I'm a horn player. I don't do the bass stuff." <span class="important">And he looks at me and is like, "You're a **tuba player**." And I'm standing there in front of this guy I've never met and I'm like, "Damn, I *am* a tuba player. That's kind of messed up that I don't know how to do this."</span>
 {: .interviewee }
 
-So that was one thing that happened. And then, once I got into it, I realized it's fun to be the bass instrument. You have more responsibility. You're a part of the rhythm section "[Vulcan mind meld&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Vulcan_(Star_Trek)#Mind_melds)" thing. When I learned that and started doing it, I got hooked on that. So, I do play as the bass instrument in a lot of different jazz settings and other "rock-ish" weird gigs that come along.
+So that was one thing that happened. And then, once I got into it, I realized it's fun to be the bass instrument. You have more responsibility. You're a part of the rhythm section "[Vulcan mind meld&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Vulcan_(Star_Trek)#Mind_melds)" thing. When I learned that and started doing it, I got hooked on that. So, I do play as the bass instrument in a lot of different jazz settings and other "rock-ish" weird gigs that come along.
 {: .interviewee }
 
-I played in a polka band for a couple years and we would play rock tunes because there's rock tunes those bands play and it's like you're a rock band with an accordion and tuba instead of guitar and bass. That kind of thing can totally work. But the final sort of synthesis stage of all this was when I got hooked up with people who were really into the [Bill Frisell&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bill_Frisell)/[Joe Lovano&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Joe_Lovano)/[Paul Motian&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Paul_Motian) trio and, I hate to say "similar groups" because there's no other group like that, but that type of group, that era of "jazz music" where not only were roles not as clearly defined, but the group interplay and the strength of the individual voices was such that the roles couldn't really contain those people and the instruments they were playing.
+I played in a polka band for a couple years and we would play rock tunes because there's rock tunes those bands play and it's like you're a rock band with an accordion and tuba instead of guitar and bass. That kind of thing can totally work. But the final sort of synthesis stage of all this was when I got hooked up with people who were really into the [Bill Frisell&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bill_Frisell)/[Joe Lovano&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Joe_Lovano)/[Paul Motian&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Paul_Motian) trio and, I hate to say "similar groups" because there's no other group like that, but that type of group, that era of "jazz music" where not only were roles not as clearly defined, but the group interplay and the strength of the individual voices was such that the roles couldn't really contain those people and the instruments they were playing.
 {: .interviewee }
 
 {% include video.html vid="JaCCxBIoEZc" %}
@@ -205,7 +205,7 @@ Max: Yeah. I would say that's the thing. It's very fluid. When I said forming a 
 AG: You have this most recent album. Can you tell us about it and what you're working on now?
 {: .interviewer }
 
-Max: Yeah, the most recent album came out at the end of 2015 called *Bitter Human*. It was released on a three-year-old Los Angeles-based record label called [Orenda Records&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://orendarecords.com), which fosters this type of thing. Los Angeles artists, a lot of jazz fusiony stuff, a lot of experimental stuff, and all mostly friends of our. Well, all friends of ours. Not most. [Laughter.] Sorry.
+Max: Yeah, the most recent album came out at the end of 2015 called *Bitter Human*. It was released on a three-year-old Los Angeles-based record label called [Orenda Records&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://orendarecords.com), which fosters this type of thing. Los Angeles artists, a lot of jazz fusiony stuff, a lot of experimental stuff, and all mostly friends of our. Well, all friends of ours. Not most. [Laughter.] Sorry.
 {: .interviewee }
 
 Yeah, so we put it out on that. That stuff is kind of a compendium of tunes that we've written leading up in the band. Not necessarily written specifically for the band. Like Stefan said, there's three pieces he wrote on that. I think I wrote seven pieces on that. And they're from different stretches, from different periods in my compositional thing. But, we just recorded another album last year at the end of another tour and we're working on mixing all that now. That stuff is all specifically written for this band.
@@ -312,10 +312,10 @@ Stefan: Someone who taught at Cal Arts while we were there would always say that
 Mike: And having an ear.
 {: .interviewee }
 
-Stefan: I have [the Adler orchestration book&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://www.amazon.com/Study-Orchestration-Fourth-Samuel-Adler/dp/0393920658) at my fingertips at all times, but that's like 5% of it. I struggle with strings and guitars specifically. Orchestra strings also because it's just such a foreign way of thinking about things. I know how to write clusters on the guitar that you can mathematically calculate what's possible and what's not, but as far as coming up with something that's got that "guitar-ness," that's a longer-term process. I don't know if there's a book I can read that...
+Stefan: I have [the Adler orchestration book&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://www.amazon.com/Study-Orchestration-Fourth-Samuel-Adler/dp/0393920658) at my fingertips at all times, but that's like 5% of it. I struggle with strings and guitars specifically. Orchestra strings also because it's just such a foreign way of thinking about things. I know how to write clusters on the guitar that you can mathematically calculate what's possible and what's not, but as far as coming up with something that's got that "guitar-ness," that's a longer-term process. I don't know if there's a book I can read that...
 {: .interviewee }
 
-Mike: [Guitar Player Magazine&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://guitarplayer.com)?
+Mike: [Guitar Player Magazine&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://guitarplayer.com)?
 {: .interviewee }
 
 Stefan: There are books I could read, but I'm not going to.

@@ -25,7 +25,7 @@ IMPORTANT NOTE: When I say, "F#5," what I really mean is "F#sus4." Same for all 
 
 ## Soundslice Notation and Tablature
 
-Living sheet music brought to you by [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com). Wanna know more? Check out [our interview with Soundslice co-creator, Adrian Holovaty](/gear/soundslice)
+Living sheet music brought to you by [Soundslice&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://soundslice.com). Wanna know more? Check out [our interview with Soundslice co-creator, Adrian Holovaty](/gear/soundslice)
 
 <iframe src="https://www.soundslice.com/scores/39845/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
 

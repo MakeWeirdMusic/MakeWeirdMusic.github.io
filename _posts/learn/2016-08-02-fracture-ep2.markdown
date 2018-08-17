@@ -23,9 +23,9 @@ Ten years ago, [Robert Fripp paid me a compliment in his online diary](https://w
 
 More importantly, he made a recommendation that, for some reason, took me years to understand: use a sharp pick.
 
-**[Purchase King Crimson's *Fracture* on iTunes&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/fracture/id978457922?i=978458012)**
+**[Purchase King Crimson's *Fracture* on iTunes&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://itunes.apple.com/us/album/fracture/id978457922?i=978458012)**
 
-**[Or, purchase the album on Robert Fripp's website&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx)**
+**[Or, purchase the album on Robert Fripp's website&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx)**
 
 ## Video
 

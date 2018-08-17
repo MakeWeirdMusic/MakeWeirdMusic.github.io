@@ -23,12 +23,12 @@ block: "no" #means is shown in itunes
 
 ## Buy the EVO Terminator Kit!
 
-[Get yourself a Mad Hatter Guitar Products EVO Terminator  Kit&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/products/evo), the same as what we put into EVO.
+[Get yourself a Mad Hatter Guitar Products EVO Terminator  Kit&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/products/evo), the same as what we put into EVO.
 {: .ad }
 
 ## Video
 
-[Here's a video&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/watch?v=LETPKHwA7AY) about the installation of the Mad Hatter SVST-HSH Terminator Kit in EVO:
+[Here's a video&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://www.youtube.com/watch?v=LETPKHwA7AY) about the installation of the Mad Hatter SVST-HSH Terminator Kit in EVO:
 
 {% include video.html vid=page.youtube_id %}
 
@@ -42,11 +42,11 @@ Thanks to Russell Muller for joining me on some of this escapade and engineering
 
 ## Preface
 
-I kinda promised myself I wouldn't make this a sentimental/nostalgic post, but the content means so much to me that I'd feel inauthentic doing otherwise. [Steve Vai](/interview/steve-vai)'s guitar, [EVO&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Evo_(guitar)), can be heard on on some of my favorite music of all time. I was *obsessed* with the guitar as a teenager when I found out about the guitar in 1995. Seriously, I carried [the 1995 Ibanez Guitars catalog&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://ibanezrules.com/catalogs/us/1995/index.htm) everywhere I went in junior high and drew pictures of EVO in all my art classes (and other classes).
+I kinda promised myself I wouldn't make this a sentimental/nostalgic post, but the content means so much to me that I'd feel inauthentic doing otherwise. [Steve Vai](/interview/steve-vai)'s guitar, [EVO&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Evo_(guitar)), can be heard on on some of my favorite music of all time. I was *obsessed* with the guitar as a teenager when I found out about the guitar in 1995. Seriously, I carried [the 1995 Ibanez Guitars catalog&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://ibanezrules.com/catalogs/us/1995/index.htm) everywhere I went in junior high and drew pictures of EVO in all my art classes (and other classes).
 
 EVO was all I would talk about with my friends and family at that time. In 1997, my grandmother, parents, and I pooled our money together and bought my Ibanez Jem7vwh, new in box. I've had that guitar ever since. That was 20 years ago now!! Sheesh.
 
-Anyway, you may remember [my interview with "Electric Ed" Heisler](/gear/mad-hatter), owner of [Mad Hatter Guitar Products&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://madhatterguitarproducts.com). I told Steve about Ed's patent-pending potentiometer designs and what a difference it made in my Jem. Steve immediately said, "Would you install it in EVO?"
+Anyway, you may remember [my interview with "Electric Ed" Heisler](/gear/mad-hatter), owner of [Mad Hatter Guitar Products&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://madhatterguitarproducts.com). I told Steve about Ed's patent-pending potentiometer designs and what a difference it made in my Jem. Steve immediately said, "Would you install it in EVO?"
 
 So, um... We did!
 
@@ -56,9 +56,9 @@ It was a little nerve-wracking leaving the venue with one of the most valuable g
 
 [You really should just watch the video to see what we did.]
 
-Before Ed installed the [Mad Hatter Terminator SVST-HSH System&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/collections/terminator-single-volume-kits/products/copy-of-single-volume-single-tone-complete-kit-with-a-5-way-selector-switch-for-humbucker-single-humbucker-svst-hsh), he took note of the existing wiring configuration. Steve was using a push-pull volume pot configuration with a 331K (.0033 microfarad) ceramic capacitor modification that rolled off some of the low end frequencies when engaged. Also, his tone pot had a [Vishay orange drop .022 microfarad tone capacitor&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.guitarelectronics.com/product/TCO033/Orange-Drop-022-Microfarad-Tone-Capacitors-for-Guitar-Bass.html).
+Before Ed installed the [Mad Hatter Terminator SVST-HSH System&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/collections/terminator-single-volume-kits/products/copy-of-single-volume-single-tone-complete-kit-with-a-5-way-selector-switch-for-humbucker-single-humbucker-svst-hsh), he took note of the existing wiring configuration. Steve was using a push-pull volume pot configuration with a 331K (.0033 microfarad) ceramic capacitor modification that rolled off some of the low end frequencies when engaged. Also, his tone pot had a [Vishay orange drop .022 microfarad tone capacitor&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.guitarelectronics.com/product/TCO033/Orange-Drop-022-Microfarad-Tone-Capacitors-for-Guitar-Bass.html).
 
-Ed customized a [Mad Hatter Yin Yang 500K push pull volume pot&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/pages/yin-yang-push-pull-pot-mods) by placing the ceramic capacitor in parallel with the pot. He installed the Vishay capacitor on the [Mad Hatter Killer Tone dual-value pot&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/products/mad-hatter-universal-cts-dual-value-potentiometer-with-stss-tone-lead) and wired it to 500K. He replaced Steve’s output jack with a new Mad Hatter Switchcraft output jack and replaced the existing 5-way CRL selector switch with the Mad Hatter Terminator 5-way CRL selector switch.
+Ed customized a [Mad Hatter Yin Yang 500K push pull volume pot&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/pages/yin-yang-push-pull-pot-mods) by placing the ceramic capacitor in parallel with the pot. He installed the Vishay capacitor on the [Mad Hatter Killer Tone dual-value pot&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://madhatterguitarproducts.com/products/mad-hatter-universal-cts-dual-value-potentiometer-with-stss-tone-lead) and wired it to 500K. He replaced Steve’s output jack with a new Mad Hatter Switchcraft output jack and replaced the existing 5-way CRL selector switch with the Mad Hatter Terminator 5-way CRL selector switch.
 
 The Terminator system design is solderless, so Ed connected everything to the appropriate terminals using the Mad Hatter Little Ass Screwdriver and gently tugged on all the wires once installed in the terminals to ensure secure attachment.
 

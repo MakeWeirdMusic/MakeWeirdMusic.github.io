@@ -21,7 +21,7 @@ length: "9397803" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 ---
-In December 2013, I released a math-rock/progressive cover version of one of my favorite Bach compositions, [Concert for Violin and Oboe Mov. 1, Allegro (BWV 1060R)&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach#Concerto_in_C_minor.2C_BWV_1060). It's a total shred-fest.
+In December 2013, I released a math-rock/progressive cover version of one of my favorite Bach compositions, [Concert for Violin and Oboe Mov. 1, Allegro (BWV 1060R)&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach#Concerto_in_C_minor.2C_BWV_1060). It's a total shred-fest.
 
 {% include video.html vid=page.youtube_id %}
 
@@ -33,10 +33,10 @@ In December 2013, I released a math-rock/progressive cover version of one of my 
 
 This performance features:
 
-- [Sebastian Lanser&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://sebastianlanser.com) of [Panzerballett](/discover/panzerballett) on drums
-- [Andy West](/interview/andy-west) of the [Dixie Dregs&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dixie_Dregs) on bass
+- [Sebastian Lanser&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://sebastianlanser.com) of [Panzerballett](/discover/panzerballett) on drums
+- [Andy West](/interview/andy-west) of the [Dixie Dregs&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dixie_Dregs) on bass
 - Adam Strand (an organist I met at my church) on keyboards
-- Bryce Bickham of [Crimsontone Amplifiers&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://crimsontone.com), who [re-amped&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Re-amp) all my guitar parts through his awesome handmade amps
+- Bryce Bickham of [Crimsontone Amplifiers&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://crimsontone.com), who [re-amped&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Re-amp) all my guitar parts through his awesome handmade amps
 
 Sebastian's drum parts are jaw-dropping. Andy's bass parts are so fun. Adam's arrangement contributions brought new life to my too-technical work.
 

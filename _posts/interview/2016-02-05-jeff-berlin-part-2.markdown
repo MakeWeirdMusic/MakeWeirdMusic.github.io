@@ -25,7 +25,7 @@ block: "no" #means is shown in itunes
 
 Below is ***Part 2*** our interview with the incredible Jeff Berlin. Missed part 1? [Watch/Listen to ***Part 1***, then!](/interview/jeff-berlin/part-1)
 
-**[Don't know who Jeff Berlin is? Check out his wikipedia page!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jeff_Berlin)**
+**[Don't know who Jeff Berlin is? Check out his wikipedia page!&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jeff_Berlin)**
 
 This interview was conducted on Friday, February 5, 2016 at 2PM AZ.
 
@@ -42,7 +42,7 @@ This interview was conducted on Friday, February 5, 2016 at 2PM AZ.
 Anthony: I remember I used to follow you on Facebook and then I stopped and then a friend of mine (Andy Kub) a couple years later said, "You should follow Jeff Berlin." I said, "Okay, I'll do that." And then I remembered the reason I stopped following you was because it was almost like you were inviting controversy at the time.
 {: .interviewer }
 
-Now, just recently, you do a public apology to [Victor Wooten&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Victor_Wooten) and [Steve Bailey&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Steve_Bailey), you're talking about huge personal transformation and growth. Was it primarily your ego getting out of control and then you had a self-realization event? What led to what you've been going through and how were you operating at the time before that and how are you operating now?
+Now, just recently, you do a public apology to [Victor Wooten&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Victor_Wooten) and [Steve Bailey&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Steve_Bailey), you're talking about huge personal transformation and growth. Was it primarily your ego getting out of control and then you had a self-realization event? What led to what you've been going through and how were you operating at the time before that and how are you operating now?
 {: .interviewer }
 
 Jeff: Thanks for asking that because for me, <span class="important">this is more important than maybe music is right now.</span> I grew up in a dysfunctional family. I know a lot of us have. The way that I ended up was hurt, ungrounded, out of balance, and the ego compensated. I'm doing this in a nutshell. All my life, since I was 18 years old, I felt something was wrong with me. I started, actually earlier than that, it was 18 that I went to therapy. Things were not right.
@@ -66,7 +66,7 @@ I have a guitar player friend here in Clearwater who recommended somebody who I 
 I was getting worse and worse and worse by each passing month. I would write to Beth because we have a communication relationship where I would see her and she would sit there and go, "Nope, you're doing fine. You're doing fine." I said, "Beth! That ledge looks really good now, Beth!" "Nope, you're doing fine." And what she meant to say was that this was a passage where people often, in fear, don't go through it all the way. I got on that train and I had to ride that train to its conclusion.
 {: .interviewee }
 
-Ultimately, I felt--Can I tell you this? I felt on a Monday, I said, "Beth, it's worse. I'm getting worse, Beth!" And I wrote her. She says, "Hang in. This is what you gotta go through." Tuesday, I wrote her again because I was seeing her on Thursday or so. "I'm going crazy, Beth!" She says, "Nope, you're doing fine. Hang in." On Wednesday, Anthony, I was so bad I suddenly felt as if I hit bottom. I felt it. I physically felt hitting bottom and I went totally numb and I went, "What is this?" And from that moment, I started to get better. She said later, <span class="important">"You hit the bottom in this [dark night of the soul&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dark_Night_of_the_Soul)</span> (it's called)."
+Ultimately, I felt--Can I tell you this? I felt on a Monday, I said, "Beth, it's worse. I'm getting worse, Beth!" And I wrote her. She says, "Hang in. This is what you gotta go through." Tuesday, I wrote her again because I was seeing her on Thursday or so. "I'm going crazy, Beth!" She says, "Nope, you're doing fine. Hang in." On Wednesday, Anthony, I was so bad I suddenly felt as if I hit bottom. I felt it. I physically felt hitting bottom and I went totally numb and I went, "What is this?" And from that moment, I started to get better. She said later, <span class="important">"You hit the bottom in this [dark night of the soul&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dark_Night_of_the_Soul)</span> (it's called)."
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/XN0TkIGsJak?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -100,7 +100,7 @@ A: [Steve Vai](/discover/steve-vai) had a great example for me. I'm sorry to int
 It's kind of like: <span class="important">we have a choice of taking what's in this jar and believing it's us, or believing that we are the person holding the jar and that the jar and its contents do not define us.</span> Other people, no matter what they stick in there, that doesn't need to change who we are. We're not in touch with being that person holding the jar.
 {: .interviewer }
 
-[Robert Fripp&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://en.wikipedia.org/wiki/Robert_Fripp) is all about this notion that we are--well, there's a guy named [Gurdjieff&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://en.wikipedia.org/wiki/George_Gurdjieff) that he follows, this philosopher, and that most people are in a sleeping walking state, almost like zombies and we're never truly awakened. So, all of this stuff has been so central to a huge transformation in my own life since September 2014. Just huge for me.
+[Robert Fripp&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://en.wikipedia.org/wiki/Robert_Fripp) is all about this notion that we are--well, there's a guy named [Gurdjieff&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://en.wikipedia.org/wiki/George_Gurdjieff) that he follows, this philosopher, and that most people are in a sleeping walking state, almost like zombies and we're never truly awakened. So, all of this stuff has been so central to a huge transformation in my own life since September 2014. Just huge for me.
 {: .interviewer }
 
 The conversation with Steve and then the guitar camp with Robert Fripp and then all the other experiences and all the reading, so I'm glad I haven't had a dark night of the soul, I'm lucky and very fortunate to not have had that, but those examples right there really feed into my understanding of what you're talking about.
@@ -133,7 +133,7 @@ A: Oh yeah. Absolutely. The third one especially.
 J: <span class="important">And this is an indication of something that I've been developing because in the sleeping mode that you're discussing, many of us are sleeping and usually people that are highly opinionated, gossipy people, opinionated to the degree that I know I'm opinionated in music ed, opinionated for its own sake, which is what I used to be, are asleep.</span> We are governed by the thoughts, not only the jar, but the things like, "I like this football team," and, "Metronomes are bad." Why? Just because I say so.
 {: .interviewee }
 
-A: "[The monkey mind&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://en.wikipedia.org/wiki/Mind_monkey)" Fripp calls it.
+A: "[The monkey mind&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://en.wikipedia.org/wiki/Mind_monkey)" Fripp calls it.
 {: .interviewer }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/yCBalosvT9U?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -189,7 +189,7 @@ J: Well, I feel I've never played better and <span class="important">I feel that
 A: All right, well, I'm gonna get rid of this then. [Holds up Bruford's "One of a Kind."]
 {: .interviewer }
 
-J: <span class="important">Well, that thing endures and I'm grateful for it, those Bruford things.</span> That was the thing of this. I mean, "Love me love me love me," fast, fusion, grrrr... And *now* I've found a whole new way to play bass. I've found other things. My playing isn't as virtuosic because, quite frankly, I don't qualify anymore. Not with [Hadrien Feraud&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Hadrien_Feraud) and that new young crew of firebrands around. You know, these guys are simply beyond belief! <span class="important">I'd be foolish if I were in my ego state, "All these young kids! I'll show them a thing or two!" Which probably would have been my bent a while ago.</span>
+J: <span class="important">Well, that thing endures and I'm grateful for it, those Bruford things.</span> That was the thing of this. I mean, "Love me love me love me," fast, fusion, grrrr... And *now* I've found a whole new way to play bass. I've found other things. My playing isn't as virtuosic because, quite frankly, I don't qualify anymore. Not with [Hadrien Feraud&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Hadrien_Feraud) and that new young crew of firebrands around. You know, these guys are simply beyond belief! <span class="important">I'd be foolish if I were in my ego state, "All these young kids! I'll show them a thing or two!" Which probably would have been my bent a while ago.</span>
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/GZ_VzFq5ZSQ?rel=0" frameborder="0" allowfullscreen></iframe></div>

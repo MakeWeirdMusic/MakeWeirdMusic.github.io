@@ -23,9 +23,9 @@ block: "no" #means is shown in itunes
 
 ## SPECIAL THANKS
 
-Thanks so much to Julie Cord from [Blue Mouth Promotions&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://bluemouthpromotions.com/) for setting me up with this interview! She and her brother manage a whole bunch of great artists at BMP. Check them out!
+Thanks so much to Julie Cord from [Blue Mouth Promotions&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://bluemouthpromotions.com/) for setting me up with this interview! She and her brother manage a whole bunch of great artists at BMP. Check them out!
 
-Also special thanks to [Lucas Lee&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://lucasleemusic.com) for doing the transcription of this interview! I love that people want to help with the work of this site. Thank you, Lucas!!
+Also special thanks to [Lucas Lee&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://lucasleemusic.com) for doing the transcription of this interview! I love that people want to help with the work of this site. Thank you, Lucas!!
 
 ## Interview video
 
@@ -39,23 +39,23 @@ Also special thanks to [Lucas Lee&nbsp;<i class="non-mwm fa fa-external-link-squ
 
 I'd never heard of Teddy Kumpel before Julie recommended I interview him. Once I asked some Facebook friends about him, several chimed in saying they loved what he did. I spent a few hours checking out his incredible and exhaustive YouTube channel featuring his Loopestra, which (as you'll soon find out) is a band with rotating members that perform different arrangements of songs every time Teddy books a gig. It's incredibly creative and I can't even imagine how challenging it must be for Teddy and his compatriots. The only experience I have with this is playing at church, where I never am playing with the same people, but the music isn't typically challenging or terribly diverse.
 
-**[Don't know who Teddy Kumpel is? Check out his website!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://teddyjam.com)**
+**[Don't know who Teddy Kumpel is? Check out his website!&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://teddyjam.com)**
 
 Once I checked out Teddy and learned more about him, I knew he'd be a great candidate for an MWM interview. Thanks so much to Teddy for letting me spend time with him during a practice day at the beginning of his 2016 tour with Joe Jackson in Scottsdale.
 
 ## Interview transcript
 
-A: Hi this is Anthony from MakeWeirdMusic.com and I am here with [Teddy Kumpel&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://teddyjam.com), guitarist for [Joe Jackson&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://joejackson.com/) and man of many musical adventures.
+A: Hi this is Anthony from MakeWeirdMusic.com and I am here with [Teddy Kumpel&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://teddyjam.com), guitarist for [Joe Jackson&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://joejackson.com/) and man of many musical adventures.
 Teddy, can you tell us about yourself, and your formation as a musician?
 {: .interviewer }
 
-T: My formation, yes... Okay, here it goes. I was born on Long Island, New York. <span class="important">My father was a mathematician and my mom was a church organist</span>. My father played [Broadway&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Broadway_(Manhattan)) [show tunes&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Show_tune).
+T: My formation, yes... Okay, here it goes. I was born on Long Island, New York. <span class="important">My father was a mathematician and my mom was a church organist</span>. My father played [Broadway&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Broadway_(Manhattan)) [show tunes&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Show_tune).
 {: .interviewee }
 
-When I was a kid, we sang and played a lot. <span class="important">My mom played tons of classical music and also [rags&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Ragtime). She loved [Scott Joplin&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Scott_Joplin) and super early jazz stuff, so I was definitely informed by that.</span> I think by the time I got to be maybe in third grade, I was already playing guitar. We should start with guitar, right?
+When I was a kid, we sang and played a lot. <span class="important">My mom played tons of classical music and also [rags&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Ragtime). She loved [Scott Joplin&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Scott_Joplin) and super early jazz stuff, so I was definitely informed by that.</span> I think by the time I got to be maybe in third grade, I was already playing guitar. We should start with guitar, right?
 {: .interviewee }
 
-I was already playing guitar by maybe 3? I was probably playing [ukulele&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Ukulele) and both my parents were in [barbershop quartets&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Barbershop_quartet).
+I was already playing guitar by maybe 3? I was probably playing [ukulele&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Ukulele) and both my parents were in [barbershop quartets&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Barbershop_quartet).
 {: .interviewee }
 
 A: Wow! That's pretty cool!
@@ -77,7 +77,7 @@ I said, "Hey, I want to try the tuba." She was like, "Yeah, sure, try the tuba! 
 And then I played in concert bands from 3rd grade until I was a senior, and I played all different instruments. I played baritone horn, tuba, trombone, saxophone... all that stuff, and then also played guitar in the jazz band.
 {: .interviewee }
 
-I had an excellent guitar teacher when I was a kid. This guy--[Richard Rabatin&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.stonybrookmusic.com/richard_rabatin.html) who was a [Berklee&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://berklee.edu) composition major--taught me. I guess he recognized when I was like 14 when I started with him that I had a pretty good ear. So he started me on atonal sight-singing right away, which he apologizes for now. Hi Rich! [laughs]
+I had an excellent guitar teacher when I was a kid. This guy--[Richard Rabatin&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.stonybrookmusic.com/richard_rabatin.html) who was a [Berklee&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://berklee.edu) composition major--taught me. I guess he recognized when I was like 14 when I started with him that I had a pretty good ear. So he started me on atonal sight-singing right away, which he apologizes for now. Hi Rich! [laughs]
 {: .interviewee }
 
 <span class="important">That really opened up my ears I think at a young age and he showed me a lot of stuff that I don't think any other teacher would have gone there with such a young kid.</span> Yeah. So... There you go.
@@ -95,7 +95,7 @@ A: You obviously were passionate enough about guitar to go to Berkelee College o
 T: I didn't go to Berkelee College of Music. I got a scholarship to go there and I decided that I'd rather go to University of Miami, so I went there and that was really great.
 {: .interviewee }
 
-In my freshman year there, my roommate was [Andy Timmons&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.andytimmons.com/). I had a bunch of great guitar players around me: [Brian Monroney&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://brianmonroney.com), [Mike Abbott&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.du.edu/ahss/lamont/faculty-staff/faculty/abbott-mike.html), [Tim Mitchell&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.timmitchellmusic.com), who's [Shakira's&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://shakira.com) musical director. We were all in it together and started teaching each other stuff as we went along, and it was really great.
+In my freshman year there, my roommate was [Andy Timmons&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.andytimmons.com/). I had a bunch of great guitar players around me: [Brian Monroney&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://brianmonroney.com), [Mike Abbott&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.du.edu/ahss/lamont/faculty-staff/faculty/abbott-mike.html), [Tim Mitchell&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.timmitchellmusic.com), who's [Shakira's&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://shakira.com) musical director. We were all in it together and started teaching each other stuff as we went along, and it was really great.
 {: .interviewee }
 
 A: What did you focus on as part of your guitar instruction?
@@ -107,7 +107,7 @@ T: I think the first couple of years in Miami were sort of an eye opener for me,
 A: Where did you go from there, once you graduated? What were some of your early opportunities as a musician?
 {: .interviewer }
 
-T: Well, <span class="important">while I was in college, I was playing 6 nights a week playing [Top 40 music&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Top_40) to get myself through it. So, 6 nights a week, 6 sets a night.</span> That was Miami in the 80s. South Florida in the 80s. That's the thing--you could just play and play and play. You'd join bands and make a couple dollars. And the main thing about that was that you'd be learning tunes constantly, because you had to know whatever was on the radio. And it would get your stamina up. You'd have to play so long every night that if you can't stand on the stage for that long, if you got tired or didn't give it your 100%... [laughs]
+T: Well, <span class="important">while I was in college, I was playing 6 nights a week playing [Top 40 music&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Top_40) to get myself through it. So, 6 nights a week, 6 sets a night.</span> That was Miami in the 80s. South Florida in the 80s. That's the thing--you could just play and play and play. You'd join bands and make a couple dollars. And the main thing about that was that you'd be learning tunes constantly, because you had to know whatever was on the radio. And it would get your stamina up. You'd have to play so long every night that if you can't stand on the stage for that long, if you got tired or didn't give it your 100%... [laughs]
 {: .interviewee }
 
 A: How long did you do that?
@@ -149,7 +149,7 @@ T: It started like 8 o'clock at night and ended like 2 or 3 in the morning.
 A: Wow, and you never traveled? You just stayed in Miami doing these clubs?
 {: .interviewer }
 
-T: I was sort of like up and down the coast of Florida. I think the farthest north we went was [West Palm Beach&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/West_Palm_Beach,_Florida), but we would also go to [Key Largo&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Key_Largo,_Florida) for a month. If you weren't in school at the time you could go do that.
+T: I was sort of like up and down the coast of Florida. I think the farthest north we went was [West Palm Beach&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/West_Palm_Beach,_Florida), but we would also go to [Key Largo&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Key_Largo,_Florida) for a month. If you weren't in school at the time you could go do that.
 {: .interviewee }
 
 A: How long were you in Florida?
@@ -157,8 +157,8 @@ A: How long were you in Florida?
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/H_gNrf6-5uA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-T: About 5 years. I took a gig with this band [Rare Silk&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Rare_Silk). They were like the weird [Manhattan Transfer&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/The_Manhattan_Transfer). They got a Grammy nomination, and they were really a creative band. I toured with them with [Ric Fierabracci](https://en.wikipedia.org/wiki/Ric_Fierabracci) on bass and [Olbin Burgos&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.umdrums.com/2015/08/16/olbin-burgos/), who played drums for the [Miami Sound Machine&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://thesoundmachine.net) for a long time
-and this amazing producer from Miami, [Lester Mendez&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Lester_Mendez) playing keyboard. We were their band, and we toured for about a year, then we all quit. [laughs]
+T: About 5 years. I took a gig with this band [Rare Silk&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Rare_Silk). They were like the weird [Manhattan Transfer&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/The_Manhattan_Transfer). They got a Grammy nomination, and they were really a creative band. I toured with them with [Ric Fierabracci](https://en.wikipedia.org/wiki/Ric_Fierabracci) on bass and [Olbin Burgos&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.umdrums.com/2015/08/16/olbin-burgos/), who played drums for the [Miami Sound Machine&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://thesoundmachine.net) for a long time
+and this amazing producer from Miami, [Lester Mendez&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Lester_Mendez) playing keyboard. We were their band, and we toured for about a year, then we all quit. [laughs]
 {: .interviewee }
 
 A: Something happened?
@@ -188,16 +188,16 @@ T: Yeah.
 A: You were probably really good at wedding music by then after the Miami dance scene, right?
 {: .interviewer }
 
-T: Well, Miami pop music/dance scene was sort of like what's on the radio, and wedding was in NY are a very specific thing. You've got to know your [Frank Sinatra&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Frank_Sinatra), you've got to know a couple of standards, some [Bossa Novas&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bossa_nova), you have [Jobim&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Antônio_Carlos_Jobim), you've got to know...
+T: Well, Miami pop music/dance scene was sort of like what's on the radio, and wedding was in NY are a very specific thing. You've got to know your [Frank Sinatra&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Frank_Sinatra), you've got to know a couple of standards, some [Bossa Novas&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bossa_nova), you have [Jobim&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Antônio_Carlos_Jobim), you've got to know...
 {: .interviewee }
 
-Maybe there's a set of dance music, maybe there's a set of oldies dance music like [Sly and the Family Stone&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Sly_and_the_Family_Stone). So it's very diverse and <span class="important">you meet a lot of really great players when you do weddings in New York because everybody does them.</span>
+Maybe there's a set of dance music, maybe there's a set of oldies dance music like [Sly and the Family Stone&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Sly_and_the_Family_Stone). So it's very diverse and <span class="important">you meet a lot of really great players when you do weddings in New York because everybody does them.</span>
 {: .interviewee }
 
 If you're not a producer, or if you're a musician and you're only a side man and that's your job, then you're gonna probably going to end up in a wedding gig at some point.
 {: .interviewee }
 
-A: Yeah, it's funny [Andy West](/interview/andy-west) was in a band called [Fwap&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.andywest.com/music/recordings/fwap2.html) with a guitarist named [Joaquin Levano&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.joaquinmusic.com/) in New York, and my dad recently moved back to NY. He's been playing and he met Joaquin through the keyboard player that my dad has known for a long time, and Joaquin and Scott [keyboardist] were playing weddings in New York! So that's just funny talking to my dad. "You know, you've got this guitarist named Joaquin Levano" Like, what? He played with Andy West! And my dad played and I with Andy West shortly in Arizona, so...
+A: Yeah, it's funny [Andy West](/interview/andy-west) was in a band called [Fwap&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.andywest.com/music/recordings/fwap2.html) with a guitarist named [Joaquin Levano&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.joaquinmusic.com/) in New York, and my dad recently moved back to NY. He's been playing and he met Joaquin through the keyboard player that my dad has known for a long time, and Joaquin and Scott [keyboardist] were playing weddings in New York! So that's just funny talking to my dad. "You know, you've got this guitarist named Joaquin Levano" Like, what? He played with Andy West! And my dad played and I with Andy West shortly in Arizona, so...
 {: .interviewer }
 
 T: Oh yeah? Cool. Andy's super cool.
@@ -214,7 +214,7 @@ A: So what about your own compositions like [Loopestra](http://www.cdbaby.com/cd
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/PDnftXsCwsQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-T: Yeah, it's my own music. Composition-wise, started composing, and I would say when I was in high school I was writing instrumental rock tunes. Then in Miami, I started writing a lot more, branching out, writing lyrics, and putting together little productions of things on a 4-track recorder, trying to figure out how to do that. Then I had a band in the early 90s called [Nome Sane?&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.cdbaby.com/cd/nomesane) with [Tony Scherr&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://tonyscherr.com/), who's the bass player for [Bill Frisell&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://billfrisell.com) and [Andy Middleton&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.andymiddleton.com/), who's an amazing sax player, and [Brian Dunne&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.briandunnedrums.com/) who's the drummer for [Hall and Oates&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.hallandoates.com/) now.
+T: Yeah, it's my own music. Composition-wise, started composing, and I would say when I was in high school I was writing instrumental rock tunes. Then in Miami, I started writing a lot more, branching out, writing lyrics, and putting together little productions of things on a 4-track recorder, trying to figure out how to do that. Then I had a band in the early 90s called [Nome Sane?&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.cdbaby.com/cd/nomesane) with [Tony Scherr&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://tonyscherr.com/), who's the bass player for [Bill Frisell&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://billfrisell.com) and [Andy Middleton&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.andymiddleton.com/), who's an amazing sax player, and [Brian Dunne&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.briandunnedrums.com/) who's the drummer for [Hall and Oates&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.hallandoates.com/) now.
 {: .interviewee }
 
 A: Oh wow.
@@ -226,7 +226,7 @@ T: We had a funk band. That was pretty fun.
 A: Nome Sane?
 {: .interviewer }
 
-T: Nome Sane? [You can find that on iTunes&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/artist/nome-sane/id46625193)...
+T: Nome Sane? [You can find that on iTunes&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://itunes.apple.com/us/artist/nome-sane/id46625193)...
 {: .interviewee }
 
 A: Oh cool.
@@ -258,28 +258,28 @@ A: Who are some of the weird influences that you've got?
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/4tKq1kc1RKk?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-T: Oh man, well weird influences--let's see. That's a good question. I listened to a lot of early [Bill Frisell - Rambler&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Rambler_%28Bill_Frisell_album%29). That album where they had 2 brass instruments. He had [Kenny Wheeler&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kenny_Wheeler) on flugelhorn and he had tuba player and he had electric bass and him and the drummer so like... high and low strings and high and low brass and a drummer. I like that.
+T: Oh man, well weird influences--let's see. That's a good question. I listened to a lot of early [Bill Frisell - Rambler&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Rambler_%28Bill_Frisell_album%29). That album where they had 2 brass instruments. He had [Kenny Wheeler&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kenny_Wheeler) on flugelhorn and he had tuba player and he had electric bass and him and the drummer so like... high and low strings and high and low brass and a drummer. I like that.
 {: .interviewee }
 
-And I listen to a lot of [Jan Garbarek&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jan_Garbarek). He's a Norwegian sax player who sounds like he's playing in the [Fjords&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Fjord)--lot of reverb and *makes sounds*.
+And I listen to a lot of [Jan Garbarek&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jan_Garbarek). He's a Norwegian sax player who sounds like he's playing in the [Fjords&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Fjord)--lot of reverb and *makes sounds*.
 {: .interviewee }
 
-I listen to a lot of [Adrian Belew&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://adrianbelew.net/), a lot of [Zappa&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.zappa.com/), a lot of contemporary weird classical music.
+I listen to a lot of [Adrian Belew&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://adrianbelew.net/), a lot of [Zappa&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.zappa.com/), a lot of contemporary weird classical music.
 {: .interviewee }
 
-A: Like minimalist? Like [Phillip Glass&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.philipglass.com/)? [Steve Reich&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.stevereich.com/)?
+A: Like minimalist? Like [Phillip Glass&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.philipglass.com/)? [Steve Reich&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.stevereich.com/)?
 {: .interviewer }
 
-T: No, I'm more into the harmonic stuff, like [(Erik) Satie&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Erik_Satie).
+T: No, I'm more into the harmonic stuff, like [(Erik) Satie&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Erik_Satie).
 {: .interviewee }
 
-A: [Parade&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Parade_%28ballet%29)?
+A: [Parade&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Parade_%28ballet%29)?
 {: .interviewer }
 
-T: Yeah. And guitar-wise, I'm into all the typical sort of influences that everybody has I guess [Hendrix&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jimi_Hendrix), [Jeff Beck&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jeff_Beck)...
+T: Yeah. And guitar-wise, I'm into all the typical sort of influences that everybody has I guess [Hendrix&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jimi_Hendrix), [Jeff Beck&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jeff_Beck)...
 {: .interviewee }
 
-A: [Jimmy Page&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jimmy_Page)?
+A: [Jimmy Page&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Jimmy_Page)?
 {: .interviewer }
 
 T: *Eh.*
@@ -288,16 +288,16 @@ T: *Eh.*
 A: I don't meet many musicians who'd do that with Jimmy Page.
 {: .interviewer }
 
-T: Jimmy Page... I mean I love [Led Zeppelin&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Led_Zeppelin). I'm not like the guy who listen to Led Zeppelin and goes "Wow! I want to play all those guitar licks," you know? But, I played them.
+T: Jimmy Page... I mean I love [Led Zeppelin&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Led_Zeppelin). I'm not like the guy who listen to Led Zeppelin and goes "Wow! I want to play all those guitar licks," you know? But, I played them.
 {: .interviewee }
 
 A: Of course. 6 nights a week...
 {: .interviewer }
 
-T: Well I had my band in 8th grade and we played all that stuff. [Pink Floyd&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.pinkfloyd.com), then later on I listen to a lot of Frisell, and a lot of [John Scofield&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.johnscofield.com/), and that's about it.
+T: Well I had my band in 8th grade and we played all that stuff. [Pink Floyd&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.pinkfloyd.com), then later on I listen to a lot of Frisell, and a lot of [John Scofield&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.johnscofield.com/), and that's about it.
 {: .interviewee }
 
-A: I just saw Scofield with [Brad Mehldau&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.bradmehldau.com/) and [Mark Guiliana&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://markguiliana.com/).
+A: I just saw Scofield with [Brad Mehldau&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.bradmehldau.com/) and [Mark Guiliana&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://markguiliana.com/).
 {: .interviewer }
 
 T: Oh Yeah?
@@ -320,7 +320,7 @@ T: Loopestra kind of came about because <span class="important">I wanted to have
 A: Right.
 {: .interviewer }
 
-T: So I was like, "Well, sorry dude, you're fired. I'm getting a looper!" and it turns out that worked well for me. I was able to exercise my production brain live with that, which isn't to say that I do a lot of electronics stuff because sometimes it's very organic and basic. Sometimes I can make it sound like [James Brown&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.jamesbrown.com/), sometimes I can be totally bizarre.
+T: So I was like, "Well, sorry dude, you're fired. I'm getting a looper!" and it turns out that worked well for me. I was able to exercise my production brain live with that, which isn't to say that I do a lot of electronics stuff because sometimes it's very organic and basic. Sometimes I can make it sound like [James Brown&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.jamesbrown.com/), sometimes I can be totally bizarre.
 {: .interviewee }
 
 A: How did you get in touch with the roster of people you've played with? Is just the years of working as a musician playing gigs that you've built that network? Or are you seeking out these people for specific sounds or talents?
@@ -350,7 +350,7 @@ T: Yeah, but as far as the people who have done this... You're doing this on a M
 A: Is this live dynamic performance a response to anything in your past? Like playing through-composed music by other people for so much of your career as a paid musician, doing these wedding gigs, club gigs and that kind of thing? Were you just craving this kind of live improvisation? Or is that always been part of your musical...
 {: .interviewer }
 
-T: Good question. I would say, I've been jamming like that with my mom since I was a kid, where she would play organ and I would play piano. Even though I don't really know how to play piano, I have ears and fingers, so I can kind of find and play in between and we would have these epic half hour long jams that would just go from totally [bizarro world&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bizarro_World)--but very reactionary.
+T: Good question. I would say, I've been jamming like that with my mom since I was a kid, where she would play organ and I would play piano. Even though I don't really know how to play piano, I have ears and fingers, so I can kind of find and play in between and we would have these epic half hour long jams that would just go from totally [bizarro world&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bizarro_World)--but very reactionary.
 {: .interviewee }
 
 She would play something, I'd answer. And she doesn't really consider herself an improviser necessarily. She's got great ears, but she's a classical musician, so everything she's drawing from is something that has been played before. <span class="important">But I had no idea what that was most of the time, so I was just sort of hearing my way through it.</span> And I guess, that's always been part of my M.O.--jamming and playing extended things as it's always been fun for me. But equally I like the set forms too, so thankfully I get to do both.
@@ -557,7 +557,7 @@ A: Do you ever, or are you inspired by any particular people doing looping?
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/UXyHf_SpUUI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-T: The most inspiring guy to me is the guy who does this most simplest and the most one-man band, which is [Reggie Watts&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://reggiewatts.com). He is so good. The guy--just his feel, like how he can make something quarter notes so amazing. I'm a huge fan of him.
+T: The most inspiring guy to me is the guy who does this most simplest and the most one-man band, which is [Reggie Watts&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://reggiewatts.com). He is so good. The guy--just his feel, like how he can make something quarter notes so amazing. I'm a huge fan of him.
 {: .interviewee }
 
 A: I'm trying to get him for this site at some point.
@@ -572,7 +572,7 @@ A: Oh. I'll have to reach out.
 T: Might have to talk.
 {: .interviewee }
 
-A: Yeah! Did you ever try something like [Abelton&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.ableton.com/), which is built a lot around song structure, components, pieces?
+A: Yeah! Did you ever try something like [Abelton&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.ableton.com/), which is built a lot around song structure, components, pieces?
 {: .interviewer }
 
 T: I've tried that and I've found, for me, the foot pedal thing, is more solid as a tech on a gig for me. I know a lot of people that use that live and that's fine. But I guess something with computers and me on a stage just doesn't work really well.
@@ -584,13 +584,13 @@ It kind of makes one more thing to bring and it does open up a lot more possibil
 A: I agree. Constraints are a good thing.
 {: .interviewer }
 
-T: Yeah, so I use an [Infinity Looper&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://pigtronix.com/infinity/).
+T: Yeah, so I use an [Infinity Looper&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://pigtronix.com/infinity/).
 {: .interviewee }
 
 A: What's that?
 {: .interviewer }
 
-T: That's a [Pigtronix&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://pigtronix.com) looper. It has stereo in and stereo out and it has reverse pitch, has undo, has many, many different functions I think probably all the same ones that Ableton has, except instead of the foot pedal. Then I use the [TC Electronic Ditto 4&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.tcelectronic.com/ditto-x4-looper/), that has some kind of weird--like, you can do stutter effects *makes sounds*. You can do tape slow down *makes sounds* stuff. [laughs]
+T: That's a [Pigtronix&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://pigtronix.com) looper. It has stereo in and stereo out and it has reverse pitch, has undo, has many, many different functions I think probably all the same ones that Ableton has, except instead of the foot pedal. Then I use the [TC Electronic Ditto 4&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.tcelectronic.com/ditto-x4-looper/), that has some kind of weird--like, you can do stutter effects *makes sounds*. You can do tape slow down *makes sounds* stuff. [laughs]
 {: .interviewee }
 
 A: That's cool.
@@ -608,7 +608,7 @@ T: This stems from a New York session that I got called for once, where my frien
 A: I know so many people that talk just like that! [laughs] That's awesome! How did you get hooked up with Joe Jackson?
 {: .interviewer }
 
-T: Joe Jackson sent out an email to probably 20 of his ex-bandmates, or people he knew in the music business to try to find a guitar player who could sing and was good with effects. So one of them who used to play with him, [Andy Ezrin&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.cdbaby.com/Artist/AndyEzrin), this keyboard player guy I know from college, got the email and he sent it to me and said, "Hey, you should do this, audition for Joe!"  and I said, "Oh yeah, I love Joe!" So I sent Joe an email and 6 other people recommended me and then I got to audition for him and he was super cool and we hit it off right away! There you go.
+T: Joe Jackson sent out an email to probably 20 of his ex-bandmates, or people he knew in the music business to try to find a guitar player who could sing and was good with effects. So one of them who used to play with him, [Andy Ezrin&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.cdbaby.com/Artist/AndyEzrin), this keyboard player guy I know from college, got the email and he sent it to me and said, "Hey, you should do this, audition for Joe!"  and I said, "Oh yeah, I love Joe!" So I sent Joe an email and 6 other people recommended me and then I got to audition for him and he was super cool and we hit it off right away! There you go.
 {: .interviewee }
 
 A: When was this?
@@ -632,13 +632,13 @@ T: Right now? No, I'm busy enough with Joe and...
 A: I mean in recent years.
 {: .interviewer }
 
-T: Oh, yeah, sure I've done a lot of stuff. I mean, played with [Rickie Lee Jones&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://rickieleejones.com/) for a month on the road.
+T: Oh, yeah, sure I've done a lot of stuff. I mean, played with [Rickie Lee Jones&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://rickieleejones.com/) for a month on the road.
 {: .interviewee }
 
 A: That must have been fun.
 {: .interviewer }
 
-T: You know, I grew up listening to her and I think kind of learned how to sing from her. So for me, it was a really spiritual experience to be with her and sing backgrounds with her and she liked my singing. She was really nice to me about that. But then right after that she went on to do another kind of project that she had a band up in California for, so we lost touch. But, yeah, I really enjoyed playing with her. She's great--really freaky, kind of free-spirit. I did a background vocals gig for [Nine Inch Nails&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.nin.com/) once, that was pretty amazing.
+T: You know, I grew up listening to her and I think kind of learned how to sing from her. So for me, it was a really spiritual experience to be with her and sing backgrounds with her and she liked my singing. She was really nice to me about that. But then right after that she went on to do another kind of project that she had a band up in California for, so we lost touch. But, yeah, I really enjoyed playing with her. She's great--really freaky, kind of free-spirit. I did a background vocals gig for [Nine Inch Nails&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.nin.com/) once, that was pretty amazing.
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/chNPM-rUCwI?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -649,7 +649,7 @@ A: In studio, or live?
 T: It was MTV Music Awards 1999. So it was at the Metropolitan Opera House and it was 6 days of rehearsal for one song and it was pretty deep, man. Trent really--he's some detailed oriented stuff. Really amazing, and to watch him work and be control in every aspect.. lights, movement on stage, every single little detail he was into. It was very eye opening. It watched the dedication and hard work he put into it. It was pretty amazing.
 {: .interviewee }
 
-Trying to think of other people I've played with. I do of one-off things. I did a [Today Show&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Today_(U.S._TV_program)) appearance with [Feist&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Feist_%28singer%29). It was pretty fun.
+Trying to think of other people I've played with. I do of one-off things. I did a [Today Show&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Today_(U.S._TV_program)) appearance with [Feist&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Feist_%28singer%29). It was pretty fun.
 {: .interviewee }
 
 A: My wife LOVES Feist.
@@ -658,16 +658,16 @@ A: My wife LOVES Feist.
 T: Feist is great. I knew her before she was famous too and she's been fun to watch her to do her thing. She's so great.
 {: .interviewee }
 
-A: Yeah. We found out about her through [Kings of Convenience&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kings_of_Convenience). Do you know them?
+A: Yeah. We found out about her through [Kings of Convenience&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kings_of_Convenience). Do you know them?
 {: .interviewer }
 
 T: No.
 {: .interviewee }
 
-A: [Simon and Garfunkel&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Simon_%26_Garfunkel)-type out of Norway. She did several songs with them on their albums but no one knew who she was. Great voice.
+A: [Simon and Garfunkel&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Simon_%26_Garfunkel)-type out of Norway. She did several songs with them on their albums but no one knew who she was. Great voice.
 {: .interviewer }
 
-T: Yeah, amazing. I did a lot of playing with this guy, [Chris Brown&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Chris_Brown_(Canadian_musician)), who's a Canadian producer. Actually him and [Kate Fenner&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kate_Fenner), his song writing partner and band mate - they were in this band called the [Bourbon Tabernacle Choir&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bourbon_Tabernacle_Choir) in the, I guess the 80s.
+T: Yeah, amazing. I did a lot of playing with this guy, [Chris Brown&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Chris_Brown_(Canadian_musician)), who's a Canadian producer. Actually him and [Kate Fenner&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kate_Fenner), his song writing partner and band mate - they were in this band called the [Bourbon Tabernacle Choir&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bourbon_Tabernacle_Choir) in the, I guess the 80s.
 {: .interviewee }
 
 A: Great name!
@@ -675,7 +675,7 @@ A: Great name!
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/2g77t_CnYM8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-T: That band, became [Broken Social Scene&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Broken_Social_Scene), so Chris and Kate split off as their own thing and the rest of the people kind of went on to be involved with Broken Social Scene, which is where Feist came from.
+T: That band, became [Broken Social Scene&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Broken_Social_Scene), so Chris and Kate split off as their own thing and the rest of the people kind of went on to be involved with Broken Social Scene, which is where Feist came from.
 {: .interviewee }
 
 A: Okay, interesting.
@@ -687,7 +687,7 @@ T: So it's like a whole Canadian contingent.
 A: You mentioned that you sang with your family growing up. But then, focused primarily on guitar after that. But I'm sure, obviously that you sing and play guitar. Anything about your vocal development - is that something you've focused on particularly hard or is it just natural coming from your family?
 {: .interviewer }
 
-T: Both, I think. I always sang when I was a kid. I was in the all-state choir. Chorus in high school, I was always singing. I never really sang pop songs until college, when I did those top-40 gigs. I sort of just learned by listening to [Stevie Wonder&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Stevie_Wonder), [Peter Gabriel&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Peter_Gabriel), and Rickie Lee, kind of emulating my heroes. I used to always joke that my warm up was a hamburger and a cigarette for singing.
+T: Both, I think. I always sang when I was a kid. I was in the all-state choir. Chorus in high school, I was always singing. I never really sang pop songs until college, when I did those top-40 gigs. I sort of just learned by listening to [Stevie Wonder&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Stevie_Wonder), [Peter Gabriel&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Peter_Gabriel), and Rickie Lee, kind of emulating my heroes. I used to always joke that my warm up was a hamburger and a cigarette for singing.
 {: .interviewee }
 
 This was back in the old days. Now I think it's just drinking a lot of water and humming a lot helps, but I don't have any real philosophy of singing, except to... it's sort of the same on the guitar. I'm not a... <span class="important">I studied the guitar a lot and come to realization that being yourself is the most important thing - so... doesn't require thought to do that necessarily. It's more like getting.. you can study a lot and get a lot of things together on the guitar, but really what you want... what I want to do is to have a direct connection between my emotions, I guess, or soul, or whatever you want to call it to the instrument. So there's no filter between those things. Just whatever you come up with on the spot is what you're going to do.</span>
@@ -734,7 +734,7 @@ A: The word "weird" in Make Weird Music is more about that, like finding your vo
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/e1BiSGOOuR4?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-T: [Dave Liebman&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dave_Liebman), you know who that is? Saxophone player? Played with [Miles Davis&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Miles_Davis), really amazing teacher and player. I was lucky enough to sit in on one of his saxophone clinics for Dave, because I drove my friend there and he said something that blew me away. He said that there's 3 stages... real New York guy, (*in New York accent*,) <span class="important">"3 stages to every musician's career. You've got imitator, everybody starts out imitating - gotta do it. 2nd stage. Stylist. You became yourself within a style of music. Very good for you. 3rd stage. Innovator - nobody gets there. Couple of guys."</span>
+T: [Dave Liebman&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Dave_Liebman), you know who that is? Saxophone player? Played with [Miles Davis&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Miles_Davis), really amazing teacher and player. I was lucky enough to sit in on one of his saxophone clinics for Dave, because I drove my friend there and he said something that blew me away. He said that there's 3 stages... real New York guy, (*in New York accent*,) <span class="important">"3 stages to every musician's career. You've got imitator, everybody starts out imitating - gotta do it. 2nd stage. Stylist. You became yourself within a style of music. Very good for you. 3rd stage. Innovator - nobody gets there. Couple of guys."</span>
 {: .interviewee }
 
 So like.. wow, that's brilliant and sort of like encapsulates the whole thing, you know. I'd be happy to be myself within a style of music, whatever that style is. I guess my style is sort of incorporating a lot of styles together, which you'd like to think it makes a new style, but really it's a bunch of things mixed together. So, it's up to the critics to decide if it's a new style or not, I suppose. Did I answer your question? [laughs]

@@ -24,17 +24,17 @@ block: "yes" #means is shown in itunes
 
 ## Soundslice Notation and Tablature
 
-Living sheet music brought to you by [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://soundslice.com). Wanna know more? Check out [our interview with Soundslice co-creator, Adrian Holovaty](/gear/soundslice)
+Living sheet music brought to you by [Soundslice&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://soundslice.com). Wanna know more? Check out [our interview with Soundslice co-creator, Adrian Holovaty](/gear/soundslice)
 
 <iframe src="https://www.soundslice.com/scores/61172/embed/" width="100%" height="500" frameBorder="0" allowfullscreen></iframe>
 
-Thanks to [Gabriel Lucas Riccio&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://thegabrielconstruct.com) for his help with this transcription.
+Thanks to [Gabriel Lucas Riccio&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://thegabrielconstruct.com) for his help with this transcription.
 
 ## Context
 
-[Henry Cow&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Henry_Cow)'s [*Western Culture*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Western_Culture_(album)) is one of my favorite records, if not my absolute favorite record ever. It's extremely challenging for the first several listens. Like [Harold Bloom&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Harold_Bloom)'s first attempts at reading [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy)'s [*Blood Meridian*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Blood_Meridian) where he threw the book across the room three times before he could finish it, this album was unlistenable noise to me for many years.
+[Henry Cow&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Henry_Cow)'s [*Western Culture*&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Western_Culture_(album)) is one of my favorite records, if not my absolute favorite record ever. It's extremely challenging for the first several listens. Like [Harold Bloom&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Harold_Bloom)'s first attempts at reading [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy)'s [*Blood Meridian*&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Blood_Meridian) where he threw the book across the room three times before he could finish it, this album was unlistenable noise to me for many years.
 
-Once I started to understand [motivic composition&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Motif_(music)), I began to understand this record and appreciate its beauty.
+Once I started to understand [motivic composition&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Motif_(music)), I began to understand this record and appreciate its beauty.
 
 Anyway, I've wanted to transcribe this piece for a long time and the idea had been eating away at me for the past few weeks, so here we are. There are lots of tricks to playing it, so make sure you listen to the original recording before you try playing through the transcription.
 

@@ -20,11 +20,11 @@ block: "yes" #means is shown in itunes
 
 This post contains a transcription I did of the intro to an incredible song called *Experience* by [Gentle Giant](/discover/gentle-giant). This haunting bit of music has remained very close to my heart for many years. It is so unique and identifiable! The musical performance of the entire song is as stunning as the composition itself.
 
-**[Purchase the song on iTunes&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/experience/id731938339?i=731938359)**
+**[Purchase the song on iTunes&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://itunes.apple.com/us/album/experience/id731938339?i=731938359)**
 
-**[Or, purchase the album on Amazon&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.amazon.com/gp/product/B002SXSQ2Q)**
+**[Or, purchase the album on Amazon&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.amazon.com/gp/product/B002SXSQ2Q)**
 
-I tried learning the song a few years ago and was completely confounded. I simply could not figure out how it all worked! Thankfully, there was a generous effort by [Rich Goodhart&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://richgoodhart.com/) with [a handwritten transcription&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.blazemonger.com/GG/Sheet_music). It was difficult to believe the transcription was correct when I first looked it over because the sheet music looked too "straightforward." Sure enough, it was right! The way the ostinato plays around with triplet rhythms... It's inexplicably cool!
+I tried learning the song a few years ago and was completely confounded. I simply could not figure out how it all worked! Thankfully, there was a generous effort by [Rich Goodhart&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://richgoodhart.com/) with [a handwritten transcription&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.blazemonger.com/GG/Sheet_music). It was difficult to believe the transcription was correct when I first looked it over because the sheet music looked too "straightforward." Sure enough, it was right! The way the ostinato plays around with triplet rhythms... It's inexplicably cool!
 
 **[Check out our interview with the songwriter, Kerry Minnear!](/interview/kerry-minnear)**
 
@@ -38,7 +38,7 @@ I've put together an instructional video that illustrates everything I'm talking
 
 ## Sheet Music
 
-[Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com) is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It's super-duper awesome. Check it out!
+[Soundslice&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://soundslice.com) is an incredible web app that offers HTML5 sheet music without the need for Adobe Flash or any other plugins. It's super-duper awesome. Check it out!
 
 Here is the score and tablature for the *Experience* introduction. **The time signatures are arbitrarily crazy** only because it seems to be how the intro was played. Most of the song is in 9/4 and 4/4 beyond the intro.
 
@@ -60,8 +60,8 @@ Here's a great performance on the piano. It doesn't capture the vocal melody, bu
 
 ### Downloads
 
-In case you're interested, here are the [MuseScore&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://musescore.org) and MusicXML files:
+In case you're interested, here are the [MuseScore&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://musescore.org) and MusicXML files:
 
-- [MuseScore (.mscz)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/experience/experience-intro.mscz)
-- [MusicXML (.xml)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.xml)
-- [PDF (.mscz)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.pdf)
+- [MuseScore (.mscz)&nbsp;<i class="fas fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/experience/experience-intro.mscz)
+- [MusicXML (.xml)&nbsp;<i class="fas fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.xml)
+- [PDF (.mscz)&nbsp;<i class="fas fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/experience/experience-intro.pdf)

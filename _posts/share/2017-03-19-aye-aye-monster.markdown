@@ -23,11 +23,11 @@ block: "yes" # means is shown in itunes
 
 In November 2016, Mike kindly played a house concert in my dining room, which was great fun. It took me several months to finally get around to editing some of the footage and this song was one of the highlights of the evening. Mike and Andy did several songs together and Mike did several other songs on his own. More of this concert will be released throughout 2017.
 
-For now, enjoy this first release from the concert titled "Aye-Aye Monster" from the 1995 release of [*The Mistakes*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://www.keneally.com/music/discography-mike-keneally/the-mistakes/) ([buy a digital copy from keneally.com&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://store.keneally.com/products/ex-2303d))
+For now, enjoy this first release from the concert titled "Aye-Aye Monster" from the 1995 release of [*The Mistakes*&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://www.keneally.com/music/discography-mike-keneally/the-mistakes/) ([buy a digital copy from keneally.com&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://store.keneally.com/products/ex-2303d))
 
 ## Video
 
 {% include video.html vid=page.youtube_id %}
 
-You should check out Mike's newest album, [*Scambot 2*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://store.keneally.com/products/copy-of-mike-keneally-you-must-be-this-tall-download-only).
+You should check out Mike's newest album, [*Scambot 2*&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://store.keneally.com/products/copy-of-mike-keneally-you-must-be-this-tall-download-only).
 {: .ad }

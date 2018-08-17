@@ -25,7 +25,7 @@ Moulettes are a progressive folk/alt pop band from Brighton, England. They write
 
 It took several months to coordinate, but our schedules finally aligned and we got an interview set up. I hope you enjoy these authentic musicians and their attitude of wonder toward the world and music.
 
-**[Check out Moulette's website!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.moulettes.co.uk)**
+**[Check out Moulette's website!&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.moulettes.co.uk)**
 
 ## Interview video
 
@@ -33,7 +33,7 @@ Here's a video of our interview with Ollie Austin and Hannah Miller of Moulettes
 
 {% include video.html vid=page.youtube_id %}
 
-Also check out [Alan Miller guitars&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://alanmillerguitars.co.uk). Alan is Hannah's father and makes incredible instruments!
+Also check out [Alan Miller guitars&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://alanmillerguitars.co.uk). Alan is Hannah's father and makes incredible instruments!
 
 ## Interview Audio (Podcast)
 
@@ -41,7 +41,7 @@ Also check out [Alan Miller guitars&nbsp;<i class="non-mwm fa fa-external-link-s
 
 ## Thank You
 
-Special thanks to Rod Knowlan, guitarist for the Vancouver, Canada-based indie rock band, [HEAD&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://headmusic.ca). Rod is also a fan of all manner of music, weird and otherwise. I met Rod at GORGG 2015 in Montreal, where I also met the Moulettes! What a day!
+Special thanks to Rod Knowlan, guitarist for the Vancouver, Canada-based indie rock band, [HEAD&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://headmusic.ca). Rod is also a fan of all manner of music, weird and otherwise. I met Rod at GORGG 2015 in Montreal, where I also met the Moulettes! What a day!
 
 ## Interview Transcript
 
@@ -89,7 +89,7 @@ HM: There is quite a lot of vomit out there.
 AG: What are some of the parameters that you put into play that are unique? I'm thinking around Ruth Skipper and her electric bassoon, the kind of instrumentation that you have, the vocal harmonies... What are some of the things you guys use to make your music sound like it's not a regurgitation of something else?
 {: .interviewer }
 
-HM: Well, I suppose one really fortunate thing for me is that my dad, [Alan Miller&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.alanmillerguitars.co.uk/), is a luthier. He's always been really great in that he's made me these custom instruments.
+HM: Well, I suppose one really fortunate thing for me is that my dad, [Alan Miller&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.alanmillerguitars.co.uk/), is a luthier. He's always been really great in that he's made me these custom instruments.
 {: .interviewee }
 
 OA: Look at this beautiful guitar...
@@ -104,7 +104,7 @@ HM: This is probably the most normal, I could get some other ones.
 OA: He gets pretty far out, he's great to experiment and discuss other possibilities of instruments and he's made some pretty strange things for us in the past.
 {: .interviewee }
 
-AG: I subscribed to [him on Youtube&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.youtube.com/user/alanpmiller) after I met you in Montreal and I had asked Hannah about her cello. It's so beautiful, he's got so many great instruments, and demos on his Youtube channel, it's been cool to see his process.
+AG: I subscribed to [him on Youtube&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.youtube.com/user/alanpmiller) after I met you in Montreal and I had asked Hannah about her cello. It's so beautiful, he's got so many great instruments, and demos on his Youtube channel, it's been cool to see his process.
 {: .interviewer }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/2JNIXJsnh9o?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -135,7 +135,7 @@ OA: *Constellations*, the one before *Preternatural*, I think has about 30 playe
 *Preternatural* was very much more "let's get a band in the room rocking out" kind of vibe. That has 5 people on it, electric cello, drums, electric guitar, bass and we all play synths and then the bassoon through distortion. It's very much a "band in the room." That was the concept behind it.
 {: .interviewee }
 
-HM: Yeah, that was the instruments concept. Both of those records are conceptual in their nature as records. The most recent one, *Preternatural*, was centered around the natural world and taking each song as a particular creature. We used that as a starting point for inspiration behind the song. <span class="important">In terms of uniqueness, I haven't found any songs that are about this specific nematode worm, the [halicephalobus mephisto nematode worm&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Halicephalobus_mephisto).</span> That could be a first.
+HM: Yeah, that was the instruments concept. Both of those records are conceptual in their nature as records. The most recent one, *Preternatural*, was centered around the natural world and taking each song as a particular creature. We used that as a starting point for inspiration behind the song. <span class="important">In terms of uniqueness, I haven't found any songs that are about this specific nematode worm, the [halicephalobus mephisto nematode worm&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Halicephalobus_mephisto).</span> That could be a first.
 {: .interviewee }
 
 OA: Could be!
@@ -144,16 +144,16 @@ OA: Could be!
 AG: *Preternatural* is your latest album. It seems to be getting some pretty good press and it's very well received. Have you been touring? What's been the activity around the album?
 {: .interviewer }
 
-HM: We did our first big coast-to-coast tour of Canada, we'd been there the season before but in this case we started at [Fanfest&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Stan_Rogers_Folk_Festival)--would you technically say that it's in [Cape Breton&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Cape_Breton_Island)?
+HM: We did our first big coast-to-coast tour of Canada, we'd been there the season before but in this case we started at [Fanfest&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Stan_Rogers_Folk_Festival)--would you technically say that it's in [Cape Breton&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Cape_Breton_Island)?
 {: .interviewee }
 
 OA: I don't know, I don't think so.
 {: .interviewee }
 
-HM: Then we did [Montreal Jazz Festival&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Montreal_International_Jazz_Festival), which was incredible. Then we went all the way across to [Vancouver&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Vancouver) and [Vancouver Island&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Vancouver_Island).
+HM: Then we did [Montreal Jazz Festival&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Montreal_International_Jazz_Festival), which was incredible. Then we went all the way across to [Vancouver&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Vancouver) and [Vancouver Island&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Vancouver_Island).
 {: .interviewee }
 
-OA: We're still touring it now, we've got a European leg coming up. Because we did the tour of Canada last year and around the release and we're doing a series of UK festivals and the European ones this time out. It was nice, as well, for the *Preternatural* campaign, the welcoming in of it, we sold out the [Union Chapel&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Union_Chapel,_Islington) in London, which was a big deal for us. It's one of those amazing venues that you always want to play at. I've been to several gigs there as a kid, seeing bands, so to actually sell it out it was... it's this amazing, Gothic-style building, it's really eerie and dark...
+OA: We're still touring it now, we've got a European leg coming up. Because we did the tour of Canada last year and around the release and we're doing a series of UK festivals and the European ones this time out. It was nice, as well, for the *Preternatural* campaign, the welcoming in of it, we sold out the [Union Chapel&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Union_Chapel,_Islington) in London, which was a big deal for us. It's one of those amazing venues that you always want to play at. I've been to several gigs there as a kid, seeing bands, so to actually sell it out it was... it's this amazing, Gothic-style building, it's really eerie and dark...
 {: .interviewee }
 
 HM: It's a beautiful church, massive stained-glass window...
@@ -167,7 +167,7 @@ HM: Quite inter-generational as well.
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8vYHuxYxUGE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-AG: When I saw you open for [Three Friends&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Three_Friends_(band)) in Montreal I was just blown away! I had no idea there would be an opening act for the show so it was my first exposure to you and I felt like you guys blew the doors off of that show. It sounded incredible, the performances were incredible and I will never forget hearing [*Behemooth*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.youtube.com/watch?v=bZTibl44hNg) for the first time, it's such a powerful song.
+AG: When I saw you open for [Three Friends&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Three_Friends_(band)) in Montreal I was just blown away! I had no idea there would be an opening act for the show so it was my first exposure to you and I felt like you guys blew the doors off of that show. It sounded incredible, the performances were incredible and I will never forget hearing [*Behemooth*&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.youtube.com/watch?v=bZTibl44hNg) for the first time, it's such a powerful song.
 {: .interviewer }
 
 HM: *Behemooth*...
@@ -176,13 +176,13 @@ HM: *Behemooth*...
 AG: Can you tell us a little bit about the new album and some of the dynamics going on and some of the concept? I have never heard a song about a massive sound heard in the ocean.
 {: .interviewer }
 
-HM: There was a lot of speculation about that particular sound, which is known as ["The Bloop"&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bloop). During the initial stages of writing it, you know when you go down a little Internet rabbit-hole and you kind of get excited about something and it soon becomes more and more obvious that it's very unclear what the facts are. That's how this started, there was a lot of speculation about noise because of the people who were talking about it. If you listen to the noise--have you done that?
+HM: There was a lot of speculation about that particular sound, which is known as ["The Bloop"&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bloop). During the initial stages of writing it, you know when you go down a little Internet rabbit-hole and you kind of get excited about something and it soon becomes more and more obvious that it's very unclear what the facts are. That's how this started, there was a lot of speculation about noise because of the people who were talking about it. If you listen to the noise--have you done that?
 {: .interviewee }
 
 AG: Of course! I showed my kids! I told them all about your album.
 {: .interviewer }
 
-HM: The noise itself is very eerie and it does sound like a big, massive mammal. But there are people who say it was an [ice-quake&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Cryoseism), or the sound of a distant ice-quake. But I haven't had any confirmation on either side as to what it is. The whole point is, we changed the meaning of that song so it isn't just about that noise.
+HM: The noise itself is very eerie and it does sound like a big, massive mammal. But there are people who say it was an [ice-quake&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Cryoseism), or the sound of a distant ice-quake. But I haven't had any confirmation on either side as to what it is. The whole point is, we changed the meaning of that song so it isn't just about that noise.
 {: .interviewee }
 
 OA: Made it about scientific enquiry...
@@ -193,10 +193,10 @@ HM: Yeah, about the speculation itself...
 
 OA: And the dialogue around it. It's still a very relevant subject, about how people talk about science and what they think is true and what is not. One of the strands of all of Moulettes albums, including Preternatural, is there's always a celebration of science or a discussion of science. There's also an underpinning of some environmental stuff that we are very interested in.{: .interviewee }
 
-We're from Brighton, one of the only places that has a Green (Party) [MP&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Member_of_parliament), it's the only Green MP in the UK. We are engaged on a kind of political level but it's not kind of in your face, it's trying to start a discussion, really, about certain issues like animals... it's great fun, kids love it as well. Like Hannah was saying... it's great inter-generational stuff. It's great what some people come up with when you have animals involved. There are some massive animal lovers out there, serious animal lovers.
+We're from Brighton, one of the only places that has a Green (Party) [MP&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Member_of_parliament), it's the only Green MP in the UK. We are engaged on a kind of political level but it's not kind of in your face, it's trying to start a discussion, really, about certain issues like animals... it's great fun, kids love it as well. Like Hannah was saying... it's great inter-generational stuff. It's great what some people come up with when you have animals involved. There are some massive animal lovers out there, serious animal lovers.
 {: .interviewee }
 
-HM: Everyone can agree on [David Attenborough&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/David_Attenborough) as well, that's a really nice thing. He sent me a letter!
+HM: Everyone can agree on [David Attenborough&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/David_Attenborough) as well, that's a really nice thing. He sent me a letter!
 {: .interviewee }
 
 AG: What?!
@@ -208,7 +208,7 @@ HM: Yeah.
 OA: Maybe we should show it, it's one of our proudest moments.
 {: .interviewee }
 
-HM: This young woman, I don't know how old she was, maybe 15, who is also a cellist, came up to me after a gig and she was so excited about this nematode worm, and she correctly categorized it as an [extremophile&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Extremophile). It's one of these creatures that lives in circumstances that we previously thought were impossible (to harbor life). Anyway, we sent David Attenborough the CD and the vinyl (of *Preternatural*).
+HM: This young woman, I don't know how old she was, maybe 15, who is also a cellist, came up to me after a gig and she was so excited about this nematode worm, and she correctly categorized it as an [extremophile&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Extremophile). It's one of these creatures that lives in circumstances that we previously thought were impossible (to harbor life). Anyway, we sent David Attenborough the CD and the vinyl (of *Preternatural*).
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/77WGYFIiryA?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -231,7 +231,7 @@ AG: And hand-written! That's nice.
 OA: Yeah!
 {: .interviewee }
 
-AG: So, what is your tie to [Gentle Giant&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Gentle_Giant)? You opened up for Three Friends, you hung out with the whole GORGG crew, the Gentle Giant celebration. What is your tie there?
+AG: So, what is your tie to [Gentle Giant&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Gentle_Giant)? You opened up for Three Friends, you hung out with the whole GORGG crew, the Gentle Giant celebration. What is your tie there?
 {: .interviewer }
 
 OA: A love of great music, I think. Talking about your [Hannah's] dad again, he was a Gentle Giant fan.
@@ -246,7 +246,7 @@ OA: IS a Gentle Giant fan.
 HM: Yeah, it was great meeting the GORGG. The obvious connection is Jim (Mortimore), who plays the bass in Moulettes.
 {: .interviewee }
 
-OA: Jim joined us just at the end of the second album campaign and he's just been brilliant, he's a brilliant musician. He's the son of [Malcolm Mortimore&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Malcolm_Mortimore), who was one of the drummers from Gentle Giant and is the drummer on [Three Friends&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Three_Friends). He's an incredible drummer. Malcolm has managed to play with incredible players. We've met some of the best people in the business by hanging out with Malcolm. We managed to meet [Herbie Flowers&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Herbie_Flowers). Herbie Flowers even played on our last record.
+OA: Jim joined us just at the end of the second album campaign and he's just been brilliant, he's a brilliant musician. He's the son of [Malcolm Mortimore&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Malcolm_Mortimore), who was one of the drummers from Gentle Giant and is the drummer on [Three Friends&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Three_Friends). He's an incredible drummer. Malcolm has managed to play with incredible players. We've met some of the best people in the business by hanging out with Malcolm. We managed to meet [Herbie Flowers&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Herbie_Flowers). Herbie Flowers even played on our last record.
 {: .interviewee }
 
 AG: Oh, wow!
@@ -261,12 +261,12 @@ HM: And world... The amazing thing about having Herbie play on the last record w
 OA: It's the same sound that you hear on the records...
 {: .interviewee }
 
-HM: That sounds like stating the obvious, really, but it was so familiar as well, from things like [*Walk on the Wild Side*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Walk_on_the_Wild_Side_(Lou_Reed_song)), where I think he played both.
+HM: That sounds like stating the obvious, really, but it was so familiar as well, from things like [*Walk on the Wild Side*&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Walk_on_the_Wild_Side_(Lou_Reed_song)), where I think he played both.
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/XBXUP5GqYJs?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-OA: Acoustic and electric when he did the harmony, yeah. As soon as he picked up and played the double bass on [Land of the Midnight Sun&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://soundcloud.com/moulettes/07-land-of-the-midnight-sun-feat-herbie-flowers) and we were listening to it I thought "that's signature Herbie."
+OA: Acoustic and electric when he did the harmony, yeah. As soon as he picked up and played the double bass on [Land of the Midnight Sun&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://soundcloud.com/moulettes/07-land-of-the-midnight-sun-feat-herbie-flowers) and we were listening to it I thought "that's signature Herbie."
 {: .interviewee }
 
 HM: Like some of your favorite records... yeah.
@@ -310,13 +310,13 @@ HM: Love of parameter.
 OA: Next record, we haven't decided on the concept, I don't know, do you have any ideas for a concept, a good concept?
 {: .interviewee }
 
-AG: Well, if you guys are into science there's that show [Fringe&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Fringe_(TV_series)). There's all sorts of odd topics or [X-Files&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/The_X-Files), you could look at extraterrestrial type things...
+AG: Well, if you guys are into science there's that show [Fringe&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Fringe_(TV_series)). There's all sorts of odd topics or [X-Files&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/The_X-Files), you could look at extraterrestrial type things...
 {: .interviewer }
 
 OA: Whoa... [laughs]
 {: .interviewee }
 
-AG: Or some of the ideas behind quantum physics, like given an infinite amount of time you have an infinite probability that certain odd things could happen... and odd things happen all the time. Media is everywhere now so strange things are reported all the time. There's that show [Stranger Things&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Stranger_Things_(TV_series)) on Netflix that's kind of taking off. There's a societal or cultural fascination with inexplicable things. I think that's interesting.
+AG: Or some of the ideas behind quantum physics, like given an infinite amount of time you have an infinite probability that certain odd things could happen... and odd things happen all the time. Media is everywhere now so strange things are reported all the time. There's that show [Stranger Things&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Stranger_Things_(TV_series)) on Netflix that's kind of taking off. There's a societal or cultural fascination with inexplicable things. I think that's interesting.
 {: .interviewer }
 
 OA: Do you think we're alone out here or do you think there are extraterrestrial beings?
@@ -325,7 +325,7 @@ OA: Do you think we're alone out here or do you think there are extraterrestrial
 HM: Definitely...
 {: .interviewee }
 
-AG: I think the universe is so big, it's like that line in [*Contact*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Contact_(1997_American_film)) that says it'd be an awful waste of space...
+AG: I think the universe is so big, it's like that line in [*Contact*&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Contact_(1997_American_film)) that says it'd be an awful waste of space...
 {: .interviewer }
 
 HM: If there was only us...
@@ -351,7 +351,7 @@ OA: The universe is definitely finite, we've worked that one out.
 HM: I was reading recently about this topic and what the inference was that we were so low down the scale of intelligence that there are a bunch of other higher intelligent forms of life but they're not bothering with us because they're just watching the car crash thinking, "Oh, no."
 {: .interviewee }
 
-AG: There are lots of interesting theories, like the one that you don't want to encounter extraterrestrial life because if you do, they're likely so far advanced.... I forget, there are something like two or three different perspectives from a couple of scientists that either the other races have already existed and have wiped themselves out or have been wiped out somehow or that they exist somewhere else... I don't know. There are a bunch of interesting theories that could make for a good concept. Or you could just prime the punch and make an album about that. [NOTE: I was thinking about the [Fermi Paradox&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Fermi_paradox).]
+AG: There are lots of interesting theories, like the one that you don't want to encounter extraterrestrial life because if you do, they're likely so far advanced.... I forget, there are something like two or three different perspectives from a couple of scientists that either the other races have already existed and have wiped themselves out or have been wiped out somehow or that they exist somewhere else... I don't know. There are a bunch of interesting theories that could make for a good concept. Or you could just prime the punch and make an album about that. [NOTE: I was thinking about the [Fermi Paradox&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Fermi_paradox).]
 {: .interviewer }
 
 HM: Yeah?
@@ -359,10 +359,10 @@ HM: Yeah?
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/553MXNe0wfc?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-OA: Sounds good, taking a book is a good idea, [Tales of the Afterlives&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Sum:_Forty_Tales_from_the_Afterlives), Brian Eno did a series on that. That's a good angle as well.
+OA: Sounds good, taking a book is a good idea, [Tales of the Afterlives&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Sum:_Forty_Tales_from_the_Afterlives), Brian Eno did a series on that. That's a good angle as well.
 {: .interviewee }
 
-AG: [Laurie Anderson&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Laurie_Anderson) did one on [Moby Dick&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Moby-Dick). I actually did one with my dad on Moby Dick and one on the [Epic of Gilgamesh]( https://en.wikipedia.org/wiki/Gilgamesh). We made albums about those stories, it was fun.
+AG: [Laurie Anderson&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Laurie_Anderson) did one on [Moby Dick&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Moby-Dick). I actually did one with my dad on Moby Dick and one on the [Epic of Gilgamesh]( https://en.wikipedia.org/wiki/Gilgamesh). We made albums about those stories, it was fun.
 {: .interviewer }
 
 HM: Yeah! Good ones.
@@ -377,7 +377,7 @@ HM: You know that octopuses have the most complex sequence of DNA that we know o
 AG: Yeah! They just discovered that those little water bears...
 {: .interviewer }
 
-HM: [Tardigrades&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Tardigrade)!
+HM: [Tardigrades&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Tardigrade)!
 {: .interviewee }
 
 AG: Yeah! They just did a DNA sequence on those and the least DNA in common with any other animal on the planet.

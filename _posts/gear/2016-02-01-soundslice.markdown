@@ -33,13 +33,13 @@ Soundslice is an incredible tool for musicians that brings sheet music to life o
 
 As you can see (and hear!), it plays anything you throw at it giving you plenty of options, like a piano viewer, live guitar fretboard, notation synchronized with tablature synchronized with audio, and it lets you upload multiple audio and video tracks to accompany the sheet music. Within the site is the capability to create and sell collections of music lessons where you keep 70% of the revenue from each sale. It's frikkin' awesome!
 
-**[Still don't get what Soundslice does? Check out their site!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com)**
+**[Still don't get what Soundslice does? Check out their site!&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://soundslice.com)**
 
 ## Some Context
 
-Below is my interview with [Adrian Holovaty&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.holovaty.com), co-creator of Soundslice, gypsy jazz guitarist, educator, and one of the world's leading web software developers.
+Below is my interview with [Adrian Holovaty&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.holovaty.com), co-creator of Soundslice, gypsy jazz guitarist, educator, and one of the world's leading web software developers.
 
-In May 2013, a friend told me about [Soundslice&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://soundslice.com). I checked it out and was blown away. My first thought was: "Finally, someone has built something I've been too lazy to do myself!!" I was stunned to see that it was built by the guy who'd started the [Python&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Python_(programming_language))-based [Django web framework&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Django_(web_framework)). My full-time work is in web-based software development, so I already knew about Adrian peripherally. To find him behind Soundslice was exciting because it was nice to see another programmer/musician.
+In May 2013, a friend told me about [Soundslice&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://soundslice.com). I checked it out and was blown away. My first thought was: "Finally, someone has built something I've been too lazy to do myself!!" I was stunned to see that it was built by the guy who'd started the [Python&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Python_(programming_language))-based [Django web framework&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Django_(web_framework)). My full-time work is in web-based software development, so I already knew about Adrian peripherally. To find him behind Soundslice was exciting because it was nice to see another programmer/musician.
 
 We started exchanged lengthy emails about Soundslice (really, I mean *lengthy*) regarding features, bugs, and ideas for the future of the product. We've been in touch since then (I can't believe it's over 2.5 years!) and finally met in person in Chicago in October 2015, just weeks before he moved to Amsterdam with his entire family.
 
@@ -76,7 +76,7 @@ AH: Yeah, 1PM for me.
 AG: I was wondering if you could introduce yourself and talk about Soundslice, where the idea came from, and... Go ahead! You do the talking!
 {: .interviewer }
 
-AH: Sure! So, I'm Adrian, I'm a musician and web developer from Chicago. I just moved to [Amsterdam&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Amsterdam) about two months ago and I run a website called Soundslice. The premise is it's trying to <span class="important">give you all the tools possible to learn a given piece of music all from your web browser</span>. We do that by giving you slowed-down looping, listening to recordings, looking at sheet music, looking at videos, combining all this stuff into a single interface to make it easy to learn tunes. You sort have to see it to really understand it, but yeah, that's my full-time thing. It's a two-person company and it's pretty awesome, if I may say.
+AH: Sure! So, I'm Adrian, I'm a musician and web developer from Chicago. I just moved to [Amsterdam&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Amsterdam) about two months ago and I run a website called Soundslice. The premise is it's trying to <span class="important">give you all the tools possible to learn a given piece of music all from your web browser</span>. We do that by giving you slowed-down looping, listening to recordings, looking at sheet music, looking at videos, combining all this stuff into a single interface to make it easy to learn tunes. You sort have to see it to really understand it, but yeah, that's my full-time thing. It's a two-person company and it's pretty awesome, if I may say.
 {: .interviewee }
 
 AG: Yeah, I absolutely love it. I think it's such an incredible piece of technology. Can you tell me where the idea for Soundslice first came from? Why did you decide to take it upon yourself to start a company around online sheet music?
@@ -85,13 +85,13 @@ AG: Yeah, I absolutely love it. I think it's such an incredible piece of technol
 AH: Well, I do a lot of [transcribing](https://en.wikipedia.org/wiki/Transcription_(music)). I've been doing this for probably more than 10 years and my process for all those 10 years has been: listen to a recording, write out either on paper or in a plain text file on my computer the tab of the guitar notes.
 {: .interviewee }
 
-I can read music, but not very well, so I just use tab. For years I would painstakingly transcribe these old jazz recordings. [Django Reinhardt&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Django_Reinhardt) jazz guitar stuff. And I would come back to it a week later and I wouldn't even understand my own transcription even though I did all the work of transcribing it. So, I would always have to go back to the original source recording and listen to it in tandem with the tab that I'd written out.
+I can read music, but not very well, so I just use tab. For years I would painstakingly transcribe these old jazz recordings. [Django Reinhardt&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Django_Reinhardt) jazz guitar stuff. And I would come back to it a week later and I wouldn't even understand my own transcription even though I did all the work of transcribing it. So, I would always have to go back to the original source recording and listen to it in tandem with the tab that I'd written out.
 {: .interviewee }
 
 That got me really really craving a way of <span class="important">seeing tab synced with a real recording</span>. Of course, there have been for many years programs that show you tab and they play a synthetic MIDI kind of a sound, but I hate that. It's horrible. <span class="important">It's a horrible way to learn how to sound</span>, how to make your guitar sound a certain way because it's not a human playing it.
 {: .interviewee }
 
-So, I firmly believe the best way to learn (at least for my way of learning), <span class="important">the best way for me to learn a tune is to listen to a real recording. I wanted to make something that let me marry the two: a real recording along with tab or sheet music</span>. So, that was the original version of Soundslice. That launched in 2012 and it worked for YouTube videos where [you could find/search for any YouTube video on our site and transcribe it&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/completed/) and the transcription would be such that it would be linked with video.
+So, I firmly believe the best way to learn (at least for my way of learning), <span class="important">the best way for me to learn a tune is to listen to a real recording. I wanted to make something that let me marry the two: a real recording along with tab or sheet music</span>. So, that was the original version of Soundslice. That launched in 2012 and it worked for YouTube videos where [you could find/search for any YouTube video on our site and transcribe it&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.soundslice.com/completed/) and the transcription would be such that it would be linked with video.
 {: .interviewee }
 
 So you actually say, "From this moment in the video to this moment in the video, it's playing this note on this string in this fret." It's very painstaking kind of a process. It got a following, but the number one bit of feedback that we had was, "Please add sheet music. Not just tab, because I'm a piano player or a horn player and I want to use it, but I can't use it if it's just tablature."
@@ -109,10 +109,10 @@ AH: Well, all *newer* web browsers. A lot of the stuff behind the scenes is pret
 But, just as an example of the bleeding edge... I'll give you two examples of living on the bleeding edge. One is audio on the web.
 {: .interviewee }
 
-<span class="important">Audio in web pages has always been a fiasco</span>. For many years, Flash was the only game in town. You had to use Flash in order to play audio on a webpage. And, fortunately there's a new thing called the [Web Audio API&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/HTML5_Audio). I won't get into all the geeky details, but there's a new thing that lets you play audio in web pages and that's what we use. However, when we first added that to Soundslice, it was so new that an auto-update of the Google Chrome browser actually broke Soundslice because they changed the way that they wanted the thing to work. So, I had to fix Soundslice to deal with new *new* stuff instead of the old stuff. It was kind of weird.
+<span class="important">Audio in web pages has always been a fiasco</span>. For many years, Flash was the only game in town. You had to use Flash in order to play audio on a webpage. And, fortunately there's a new thing called the [Web Audio API&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/HTML5_Audio). I won't get into all the geeky details, but there's a new thing that lets you play audio in web pages and that's what we use. However, when we first added that to Soundslice, it was so new that an auto-update of the Google Chrome browser actually broke Soundslice because they changed the way that they wanted the thing to work. So, I had to fix Soundslice to deal with new *new* stuff instead of the old stuff. It was kind of weird.
 {: .interviewee }
 
-So, the second thing is we're about to launch [offline mode&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/blog/29/introducing-soundslice-offline-mode/). Later today, in fact.
+So, the second thing is we're about to launch [offline mode&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.soundslice.com/blog/29/introducing-soundslice-offline-mode/). Later today, in fact.
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/FtoGbbH3DYA" frameborder="0" allowfullscreen></iframe></div>
@@ -126,7 +126,7 @@ AH: Actually, by the time this is published, it'll exist. Hopefully... Unless it
 AG: That's awesome. Can you tell us about how you ended up building the sheet music component and where that has led... Actually, you should probably talk about what the product offerings are. What do you sell through Soundslice and what are your different customers like?
 {: .interviewer }
 
-AH: There are three parts of the product/business. One is that you can buy--it's a [lesson marketplace&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/learn/)--you can buy music lessons through our site. It's pre-recorded music lessons and we've got 10 courses at the moment and a couple dozen transcriptions of music <span class="important">all done by indie artists and they get the majority of the revenue. 70%.</span>
+AH: There are three parts of the product/business. One is that you can buy--it's a [lesson marketplace&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.soundslice.com/learn/)--you can buy music lessons through our site. It's pre-recorded music lessons and we've got 10 courses at the moment and a couple dozen transcriptions of music <span class="important">all done by indie artists and they get the majority of the revenue. 70%.</span>
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/oqyJ8n-LXeU" frameborder="0" allowfullscreen></iframe></div>
@@ -134,19 +134,19 @@ AH: There are three parts of the product/business. One is that you can buy--it's
 The premise there is: it's like what I want when I learn a tune. I don't want just the transcription, I want it synced up with the real recording so I can actually hear it. So, what you get when you buy these things is <span class="important">lifetime access to transcriptions or music lessons that are all written out synced with audio</span>, and in some cases video, of the teacher showing you stuff. So, that's the first part of the business.
 {: .interviewee }
 
-The second part is we have a product for music teachers called [Soundslice for Teachers&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/teachers/) which lets them <span class="important">create these interactive pieces of sheet music and then share them with students</span>. That's for a monthly fee, $20/month.
+The second part is we have a product for music teachers called [Soundslice for Teachers&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.soundslice.com/teachers/) which lets them <span class="important">create these interactive pieces of sheet music and then share them with students</span>. That's for a monthly fee, $20/month.
 {: .interviewee }
 
-And the third part is [licensing to other companies&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/licensing/), which is actually the biggest part of the business, but it's the part that our users don't really know or care about because it doesn't really affect them.
+And the third part is [licensing to other companies&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.soundslice.com/licensing/), which is actually the biggest part of the business, but it's the part that our users don't really know or care about because it doesn't really affect them.
 {: .interviewee }
 
-We work with almost 30 separate websites at this point who pay us a monthly fee to embed our player in their own site. So, there's some big names there like [Guitar World Magazine&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://guitarworld.com), [TrueFire&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://truefire.com), which has awesome lessons, [Premier Guitar Magazine&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://premierguitar.com), [JamPlay&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://jamplay.com)... But not just guitar, it supports other instruments as well. It's just sheet music so it supports any kind of instrumentation that uses traditional standard notation.
+We work with almost 30 separate websites at this point who pay us a monthly fee to embed our player in their own site. So, there's some big names there like [Guitar World Magazine&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://guitarworld.com), [TrueFire&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://truefire.com), which has awesome lessons, [Premier Guitar Magazine&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://premierguitar.com), [JamPlay&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://jamplay.com)... But not just guitar, it supports other instruments as well. It's just sheet music so it supports any kind of instrumentation that uses traditional standard notation.
 {: .interviewee }
 
 AG: Have you found adoption of Soundslice for guitarists to be the greatest? Or do you find that it's people all over the map?
 {: .interviewer }
 
-AH: It's definitely strongest in the guitar world just because that's where we come from and that's the people that I know that I was able to tell about it and it organically grows like that. With that said, since we launched the sheet music stuff, and specifically since we launched this [interactive piano/keyboard view&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/blog/18/new-features-and-free-exercises-for-pianists/), it's been growing with other instruments too.
+AH: It's definitely strongest in the guitar world just because that's where we come from and that's the people that I know that I was able to tell about it and it organically grows like that. With that said, since we launched the sheet music stuff, and specifically since we launched this [interactive piano/keyboard view&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.soundslice.com/blog/18/new-features-and-free-exercises-for-pianists/), it's been growing with other instruments too.
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/SCydRrbSby4" frameborder="0" allowfullscreen></iframe></div>
@@ -157,7 +157,7 @@ So, I'd say piano is our number 2 instrument. There's a couple of piano instruct
 AG: What are some of the major challenges you've had to overcome building Soundslice?
 {: .interviewer }
 
-AH: Making it fast enough to work in a web browser. It actually assembles the sheet music on the fly directly in the web page as you request it. So, the reason for that is [it actually wraps to fit your device&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://www.soundslice.com/blog/28/new-smooth-scrolling-during-playback/). If you're on a super small screen, <span class="important">it'll wrap the notation to fit the screen</span> and only put one or two measures on every line as opposed to if you're on a huge desktop screen, it'll put 8-or-so measures.
+AH: Making it fast enough to work in a web browser. It actually assembles the sheet music on the fly directly in the web page as you request it. So, the reason for that is [it actually wraps to fit your device&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://www.soundslice.com/blog/28/new-smooth-scrolling-during-playback/). If you're on a super small screen, <span class="important">it'll wrap the notation to fit the screen</span> and only put one or two measures on every line as opposed to if you're on a huge desktop screen, it'll put 8-or-so measures.
 {: .interviewee }
 
 Because that's all happening directly in your web browser, it's doing a ton of work and it continues to be an interesting technical challenge to make that fast enough so that it's nice and responsive. You don't actually know that it's doing that stuff behind the scenes. There's a lot of technical challenges like that. But then the non-technical challenges are just getting people to know about it and getting music teachers to use it and getting musicians to sell their lessons on our marketplace platform.
@@ -189,7 +189,7 @@ I think that's why we don't see a lot of this kind of stuff being done. <span cl
 AG: How much have you had to learn about sheet music layout and the traditional practices of how people used to it by hand and computer programs that do it now?
 {: .interviewer }
 
-AH: Well, I started from basically *zero* and I have learned *a lot*, so the answer is "*a lot*." I've learned about the traditional practices. It's called "[music engraving&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Music_engraving)" because in the old days it was actually engraving on the back side of a metal plate. You'd do everything in reverse with these little stencils and a hammer banging into this metal plate in reverse and then, when it's reversed and it's printed, the music prints.
+AH: Well, I started from basically *zero* and I have learned *a lot*, so the answer is "*a lot*." I've learned about the traditional practices. It's called "[music engraving&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Music_engraving)" because in the old days it was actually engraving on the back side of a metal plate. You'd do everything in reverse with these little stencils and a hammer banging into this metal plate in reverse and then, when it's reversed and it's printed, the music prints.
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/345o3Wu95Qo?rel=0" frameborder="0" allowfullscreen></iframe></div>

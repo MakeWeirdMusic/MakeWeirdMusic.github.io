@@ -29,7 +29,7 @@ If you'd like to know more about Jan Zehrfeld (the mad genius behind Panzerballe
 
 Honestly, this was quite a bit of work and stretched my capabilities as a player and a person who makes videos on the internet. I'd never tried doing a split-screen effect before, which is tough in my humble little video studio. The sheet music Jan provided to contestants was difficult for me to read, so I had to put every note into a notation editor, then tab it all out so I could remember how to play it. I also improvised through my solos in an effort to retain Jan's spirit of jazz and improvisation amidst a highly-composed piece.
 
-For anyone wondering, that is a 6-string guitar with a banjo body called the [Backwoods 6 Banjo&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://www.deanguitars.com/query?upc=819998000554), which I picked up used for about $170. The acoustic is my trusty Alvarez Yairi DY-40. And the keyboard is an [Olivetti Lettera 32&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Olivetti_Lettera_32) lent to me by my good friend, [Will Mejia&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://elevatingideas.com), who also designed the MWM logo.
+For anyone wondering, that is a 6-string guitar with a banjo body called the [Backwoods 6 Banjo&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://www.deanguitars.com/query?upc=819998000554), which I picked up used for about $170. The acoustic is my trusty Alvarez Yairi DY-40. And the keyboard is an [Olivetti Lettera 32&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Olivetti_Lettera_32) lent to me by my good friend, [Will Mejia&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://elevatingideas.com), who also designed the MWM logo.
 
 It took about 4 weeks to notate, learn, practice, record, and film the whole thing over many evenings from 9PM til about 1AM. All told, I'm guessing I spent about 60 hours on it all.
 
@@ -39,7 +39,7 @@ It took about 4 weeks to notate, learn, practice, record, and film the whole thi
 
 ## Original Recording
 
-**[Purchase Panzerballett's *Breaking Brain* on iTunes&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/breaking-brain/id1043463853)**
+**[Purchase Panzerballett's *Breaking Brain* on iTunes&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://itunes.apple.com/us/album/breaking-brain/id1043463853)**
 
 Here's the official music video for the original recording of the song:
 

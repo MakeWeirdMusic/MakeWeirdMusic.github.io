@@ -20,7 +20,7 @@ block: "yes" #means is shown in itunes
 
 ## House Concert
 
-Writing this, I'm still reeling from the high of the house concert we hosted last night with the incredible [Mike Keneally](/interview/mike-keneally) and the also-incredible [Andy West](/interview/andy-west). It was an incredible amount of work and I'm totally, totally exhausted, but I was so excited I had to make a new video after Mike did this play-through of one of my favorite of his songs: [*You Must Be This Tall*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://store.keneally.com/products/mike-keneally-you-must-be-this-tall).
+Writing this, I'm still reeling from the high of the house concert we hosted last night with the incredible [Mike Keneally](/interview/mike-keneally) and the also-incredible [Andy West](/interview/andy-west). It was an incredible amount of work and I'm totally, totally exhausted, but I was so excited I had to make a new video after Mike did this play-through of one of my favorite of his songs: [*You Must Be This Tall*&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://store.keneally.com/products/mike-keneally-you-must-be-this-tall).
 
 And here it is!
 

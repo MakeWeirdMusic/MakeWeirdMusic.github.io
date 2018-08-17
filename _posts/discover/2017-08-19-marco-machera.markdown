@@ -25,7 +25,7 @@ Marco Machera is an Italian musician/songwriter. He likes to say,  "I don’t pl
 
 He's played bass for Marillion, Paul Gilbert, Tony Levin, Markus Reuter, and many others. He's rather prolific.
 
-His new album is due out September 1, 2017. It's called *Small Music from Broken Windows*. [Check his website&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>]({ data.artists.marco-machera.website }) for more information.
+His new album is due out September 1, 2017. It's called *Small Music from Broken Windows*. [Check his website&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>]({ data.artists.marco-machera.website }) for more information.
 
 ## Interview video
 
@@ -51,7 +51,7 @@ MM: The title is very long. It’s maybe not good for promotion, but it’s call
 
 {% include video.html vid="_2UZ34eNgEo" %}
 
-It’s more singer-songwriter-oriented music. I thought it was a good time now to put it out because we just published the new record with EchoTest called [*From Two Balconies*&nbsp;<i class="non-mwm fa fa-bandcamp" aria-hidden="true"></i>](https://julieslick.bandcamp.com/album/from-two-balconies).
+It’s more singer-songwriter-oriented music. I thought it was a good time now to put it out because we just published the new record with EchoTest called [*From Two Balconies*&nbsp;<i class="non-mwm fab fa-bandcamp" aria-hidden="true"></i>](https://julieslick.bandcamp.com/album/from-two-balconies).
 {: .interviewee }
 
 AG: I have it right here. [Points to EchoTest CD.]

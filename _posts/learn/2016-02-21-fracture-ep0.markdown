@@ -33,9 +33,9 @@ block: "yes" #means is shown in itunes
 
 For the past 15 years or so, I've been intensely studying a piece of music called *Fracture* by [King Crimson](/discover/king-crimson) and have developed a unique type of expertise: the expertise of failure. *Fracture* is, without a doubt, <span class="important">the most difficult piece of music I've ever tried playing</span>. Through study, practice, blogging, and YouTube videos, I have failed more visibly and effortfully than most anyone else on the internet attempting to play this song. This video series is an attempt to share what I've learned through my failures to save others the time and energy as they attempt to learn and play the piece.
 
-**[Purchase King Crimson's *Fracture* on iTunes&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/fracture/id978457922?i=978458012)**
+**[Purchase King Crimson's *Fracture* on iTunes&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://itunes.apple.com/us/album/fracture/id978457922?i=978458012)**
 
-**[Or, purchase the album on Robert Fripp's website&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx)**
+**[Or, purchase the album on Robert Fripp's website&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx)**
 
 More specifically, <span class="important">I will only be focusing on the *moto perpetuo* section</span>, which starts at about 2:50 in the original recording and lasts (endures!) for about 4 minutes. "Moto perpetuo" is an Italian term meaning "perpetual motion." It applies here because this section of *Fracture* is a barrage of 16th notes (or "semiquavers" as Robert Fripp, the British composer and performer of the song, might say).
 
@@ -45,11 +45,11 @@ Also, please note that <span class="important">I am not teaching anyone how to p
 
 ### Downloads
 
-In case you're interested, here are the [MuseScore&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](http://musescore.org) and MusicXML files:
+In case you're interested, here are the [MuseScore&nbsp;<i class="non-mwm far fa-external-link-square"></i>](http://musescore.org) and MusicXML files:
 
-- [MuseScore (.mscz)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.mscz)
-- [MusicXML (.xml)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.xml)
-- [PDF (.mscz)&nbsp;<i class="fa fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.pdf)
+- [MuseScore (.mscz)&nbsp;<i class="fas fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.mscz)
+- [MusicXML (.xml)&nbsp;<i class="fas fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.xml)
+- [PDF (.mscz)&nbsp;<i class="fas fa-download"></i>](https://raw.githubusercontent.com/MakeWeirdMusic/assets/master/learn/fracture/fracture.pdf)
 
 ## Other Videos
 

@@ -50,13 +50,13 @@ Anthony: Do you ever get invited to play at jazz festivals or at heavy metal fes
 Jan: That's a good question. We've played mainly at jazz festivals and not at metal festivals. Almost not at all. The only metal festival we've played at is Euroblast, which is a technical metal festival, because there is this djent community...
 {: .interviewee }
 
-A: Like [Meshuggah&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Meshuggah) and [Fredrik Thordendal&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/)?
+A: Like [Meshuggah&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Meshuggah) and [Fredrik Thordendal&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/)?
 {: .interviewer }
 
 J: Yeah, the kings of djent are Meshuggah, but there are tons of bands that created this new metal genre. Well, it's not that new anymore, but it's at least the newest metal genre. They see us being in this scene, but we're not really a djent band.
 {: .interviewee }
 
-Some of the stuff we do is related to djent music, maybe. That's the reason we played at [Euroblast&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Euroblast_Festival). Actually, the name of the song *Euroblast* is called that because it was supposed to be the trailer music for the Euroblast festival, but they didn't take it.
+Some of the stuff we do is related to djent music, maybe. That's the reason we played at [Euroblast&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Euroblast_Festival). Actually, the name of the song *Euroblast* is called that because it was supposed to be the trailer music for the Euroblast festival, but they didn't take it.
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/yeBm_tTy6Aw?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -73,10 +73,10 @@ A: Dead end. I don't think anyone says "blind alley." They say "dead end." Or, "
 J: All the other metal festivals have not even invited us because <span class="important">they think we have a saxophone and that means that we play jazz</span>. They don't like jazz. So they don't book us because they *hate* jazz. Because we have a saxophone, we must play jazz! And they also hate saxophone. It's shitty because *doodle-doo-doo-doodle-doodle-doo* sound like "jazz," but I don't like that "jazz." So, we cannot be good.
 {: .interviewee }
 
-There were many great jazz festivals where we played. This was exciting. We opened for [Chick Corea&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Chick_Corea), [Bill Frisell&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bill_Frisell), and [Kenny Garrett&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kenny_Garrett) in big opera houses and big stages. It was an honor to do that. It was fun *because* of the audience. They were not expecting anything like this. It was not our audience. It was the *Chick Corea audience*.
+There were many great jazz festivals where we played. This was exciting. We opened for [Chick Corea&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Chick_Corea), [Bill Frisell&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Bill_Frisell), and [Kenny Garrett&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Kenny_Garrett) in big opera houses and big stages. It was an honor to do that. It was fun *because* of the audience. They were not expecting anything like this. It was not our audience. It was the *Chick Corea audience*.
 {: .interviewee }
 
-For them, <span class="important">it was of course a punch in the ears and their eardrums went bleeding</span>. 1/3 left the hall, like [Manowar&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Manowar) says, "Wimps and posers leave the hall." They just didn't expect anything half as loud as that and they left because I think they're too faint at heart for that.
+For them, <span class="important">it was of course a punch in the ears and their eardrums went bleeding</span>. 1/3 left the hall, like [Manowar&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Manowar) says, "Wimps and posers leave the hall." They just didn't expect anything half as loud as that and they left because I think they're too faint at heart for that.
 {: .interviewee }
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/aOm-lJme3Ec?rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -167,7 +167,7 @@ Usually I don't have time at that time to go on with it, so I have to record it 
 <span class="important">Sometimes I'm inspired, sometimes not.</span> There are not many days in a year that I have this time to do this. Sometimes it takes me a day or something to collect all the ideas or to go on from one idea to finish a song. Sometimes it takes me a couple of days and it's not even finished and I have to come back to it later. Sometimes it takes even more than a year or even more.
 {: .interviewee }
 
-One of the songs on the last album [*Breaking Brain*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/breaking-brain/id1043463853), there is a song called *Smoochy Borg Funk* that the basic idea was something I wanted to use for [*Tank Goodness*&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://itunes.apple.com/us/album/tank-goodness/id948140673), which was over 3 years ago. Then one part was missing and I didn't know what other part would finish the song. It was missing an idea. So I came back to it years later and then I finished it.
+One of the songs on the last album [*Breaking Brain*&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://itunes.apple.com/us/album/breaking-brain/id1043463853), there is a song called *Smoochy Borg Funk* that the basic idea was something I wanted to use for [*Tank Goodness*&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://itunes.apple.com/us/album/tank-goodness/id948140673), which was over 3 years ago. Then one part was missing and I didn't know what other part would finish the song. It was missing an idea. So I came back to it years later and then I finished it.
 {: .interviewee }
 
 Or, the the mustafari song, *Mustafari Likes Di Carnival* from *Tank Goodness* also, was quite a long process. When the song was finished, still the intro was not there. The intro I wrote one year later, or half a year later, when I had lots of time.
@@ -236,7 +236,7 @@ A: I think that's wonderful. Were you exploring with polyrhythms before the comp
 [Here, Jan's camera ran out of storage, but I kept rolling with audio from my iPad.]
 {: .interviewer }
 
-J: Yes. Yes. No. Actually, no. I *was* experimenting with [metric modulation&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Metric_modulation) because at that time I didn't know have a sequencer and it was a bigger deal to make tempo changes. This was an obstacle because it was a big deal to make a tempo change on the computer. This was a kind of distraction in the creative process. It was killing creativity. So, I had to find a different way.
+J: Yes. Yes. No. Actually, no. I *was* experimenting with [metric modulation&nbsp;<i class="non-mwm far fa-external-link-square"></i>](https://en.wikipedia.org/wiki/Metric_modulation) because at that time I didn't know have a sequencer and it was a bigger deal to make tempo changes. This was an obstacle because it was a big deal to make a tempo change on the computer. This was a kind of distraction in the creative process. It was killing creativity. So, I had to find a different way.
 {: .interviewee }
 
 This is something where I could not use a computer (metric modulation). Metric modulation was some of the very first rhythmic sophistication tools I used before the computer. Some other stuff like interlocking of grooves, like *Zehrfunk* was interesting because you have one riff and you disperse it on two different instruments.

@@ -34,11 +34,11 @@ seo_keywords: anthony garone, weird, unique, unknown, weird music, prog, progres
 <!-- Pagination links -->
 <div class="index story paginator">
   {% if paginator.previous_page %}
-    <p><a href="{{ paginator.previous_page_path }}" class="previous"><i class="non-mwm fa fa-arrow-left"></i>&nbsp;Previous</a></p>
+    <p><a href="{{ paginator.previous_page_path }}" class="previous"><i class="non-mwm fas fa-arrow-left"></i>&nbsp;Previous</a></p>
   {% endif %}
   <p class="oneliner ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</p>
   {% if paginator.next_page %}
-    <p><a href="{{ paginator.next_page_path }}" class="next">Next&nbsp;<i class="non-mwm fa fa-arrow-right"></i></a></p>
+    <p><a href="{{ paginator.next_page_path }}" class="next">Next&nbsp;<i class="non-mwm fas fa-arrow-right"></i></a></p>
   {% endif %}
 </div>
 

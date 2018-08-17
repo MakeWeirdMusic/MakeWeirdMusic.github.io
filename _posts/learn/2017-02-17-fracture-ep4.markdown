@@ -21,9 +21,9 @@ block: "yes" # "no" means is shown in itunes
 
 After learning about the technique Robert Fripp uses to play *Fracture* and *FraKctured*, I became somewhat obsessed with following the technique religiously. Then I realized that the technique is a starting point and not a mandate.
 
-**[Purchase King Crimson's *Fracture* on iTunes&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://itunes.apple.com/us/album/fracture/id978457922?i=978458012)**
+**[Purchase King Crimson's *Fracture* on iTunes&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://itunes.apple.com/us/album/fracture/id978457922?i=978458012)**
 
-**[Or, purchase the album on Robert Fripp's website&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx)**
+**[Or, purchase the album on Robert Fripp's website&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx)**
 
 ## Video
 
@@ -68,7 +68,7 @@ Since the notes for position X are always downstrokes, a simple repetitive patte
 
 Watch the video in case this isn't clear from the writing.
 
-And here are some gifs of the master playing [*The Moving Force*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://youtu.be/0FP5kyPiyKE?t=10m29s), which is basically a piece built around the death picking section from the moto, but in Fripp's New Standard Tuning.
+And here are some gifs of the master playing [*The Moving Force*&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://youtu.be/0FP5kyPiyKE?t=10m29s), which is basically a piece built around the death picking section from the moto, but in Fripp's New Standard Tuning.
 
 <img src="{{ site.data.artists.mwm.assets_prod }}learn/fracture/fripp-death-pick-1.gif" alt="gif of Fripp death picking" />
 

@@ -25,7 +25,7 @@ block: "no" #means is shown in itunes
 
 When I was a teenager, I saw a video of Michael Manring playing a 3-octave bass with dynamic tuning capabilities and sorta became obsessed with the idea of owning one. In the late 1990s, the price was around $7,000. A brief Google search yields used ones for ~$10,000.
 
-**[Don't know who Michael Manring is? Check out our interview with him!&nbsp;<i class="non-mwm fa fa-external-link-square"></i>](/interview/michael-manring)**
+**[Don't know who Michael Manring is? Check out our interview with him!&nbsp;<i class="non-mwm far fa-external-link-square"></i>](/interview/michael-manring)**
 
 **Check out our [private house concert with Michael featuring Andy West](/concert/michael-manring)!**
 {: .ad }

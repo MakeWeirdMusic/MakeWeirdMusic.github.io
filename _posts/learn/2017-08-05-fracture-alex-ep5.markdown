@@ -25,9 +25,9 @@ Alex Anthony Faide is the only person on the internet who can actually play *Fra
 
 {% include video.html vid="Vum4Z8YvR3E" %}
 
-**[Purchase King Crimson's *Fracture* on iTunes&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://itunes.apple.com/us/album/fracture/id978457922?i=978458012)**
+**[Purchase King Crimson's *Fracture* on iTunes&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://itunes.apple.com/us/album/fracture/id978457922?i=978458012)**
 
-**[Or, purchase the album on Robert Fripp's website&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx)**
+**[Or, purchase the album on Robert Fripp's website&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](http://store.nexternal.com/dgm/starless-and-bible-black-c228.aspx)**
 
 ## Video
 
@@ -96,7 +96,7 @@ So *Fracture* I came across probably during that year after my first course in A
 I began to pick up the pieces and learn the notes from people orally. There was no score at that time. It happened gradually. Then, learning the piece was not that long. It wasn’t a long time to learn the notes and the form. It’s an excerpt. It’s not the whole piece, which is 13 minutes long with an improv and other parts. The only part I always enjoyed playing is the intro a little bit and then the moto perpetuo. So, being able to play that from A to Z, that part--well, being able to develop a way of playing that with a degree of relaxation took a long time. And I’m still working on it. I think it’ll never end. <span class="important">I think, “Okay, I might twist my right hand just 0.0003 nanometers,” and then it sounds different. Or, “I can do that upstroke and it sounds different.” I don’t know.</span>
 {: .interviewee }
 
-Well, that being said, practicing... [There are the 7 primaries of Guitar Craft&nbsp;<i class="non-mwm fa fa-external-link" aria-hidden="true"></i>](http://historyproject.orchestraofcraftyguitarists.com/the-primary-exercises). Are you familiar with them?
+Well, that being said, practicing... [There are the 7 primaries of Guitar Craft&nbsp;<i class="non-mwm far fa-external-link" aria-hidden="true"></i>](http://historyproject.orchestraofcraftyguitarists.com/the-primary-exercises). Are you familiar with them?
 {: .interviewee }
 
 {% include video.html vid="KOKRkyeBzN4" %}

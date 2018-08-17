@@ -45,7 +45,7 @@ block: "yes"
 
 [Panzerballett](/discover/panzerballett) is one of my favorite bands in the world and I was lucky enough to meet up with the band's creative genius, [Jan Zehrfeld](/interview/jan-zehrfeld), at his home in Munich, Germany while traveling with my family. I'd met him in person once before at the Baked Potato in Los Angeles in 2013, but we didn't really connect until I emailed him and asked him to [do an interview in 2015](/interview/jan-zehrfeld).
 
-Jan has written some incredibly complex compositions built entirely on [quintuplets and septuplets&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Tuplet). We thought it'd be fun to talk in-depth about what he's done in these songs and how they work. Enjoy!
+Jan has written some incredibly complex compositions built entirely on [quintuplets and septuplets&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Tuplet). We thought it'd be fun to talk in-depth about what he's done in these songs and how they work. Enjoy!
 
 ## Interview Transcript
 
@@ -171,7 +171,7 @@ JZ: Yeah.
 AG: How do you even do that?
 {: .interviewer }
 
-JZ: Soloing was already the next step. The first step took us about half a year to get through the head as a band without any improvising because we were not that far, but we wanted to play it. So the first shows we played the song, we played just the head of it. We said, “Hey, we’ve got something new.” You may not be that far, but your kids will love this, like in [*Back to the Future*&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Back_to_the_Future]. And then we started adding the improvisational part, which is extra work, but fun work. Exhausting, but fun.
+JZ: Soloing was already the next step. The first step took us about half a year to get through the head as a band without any improvising because we were not that far, but we wanted to play it. So the first shows we played the song, we played just the head of it. We said, “Hey, we’ve got something new.” You may not be that far, but your kids will love this, like in [*Back to the Future*&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Back_to_the_Future]. And then we started adding the improvisational part, which is extra work, but fun work. Exhausting, but fun.
 {: .interviewee }
 
 AG: Okay, so how does the septuplet stuff go?
@@ -192,7 +192,7 @@ AG: How does this prepare you for a band context when the whole band is playing?
 JZ: No, no. I had to learn it again because the band was playing to a different click than this or the band didn’t practice to this click. The rest of the band practiced to a different click and this kind of threw me out again because I practiced it that long with this click. The band’s click was “DA goo goo goo goDA goo goo goo.” It’s counting 8th note septuplets. [Does a rhythmic difference between the clicks.] It’s a different feeling.
 {: .interviewee }
 
-AG: It sounds very Indian, carnatic rhythm-inspired kind of thing. I know you had [Trilok Gurtu&nbsp;<i class="non-mwm fa fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Trilok_Gurtu) on your album. Were you going through some sort of Indian rhythm study phase? Has that been an important part of your rhythmic foundation?
+AG: It sounds very Indian, carnatic rhythm-inspired kind of thing. I know you had [Trilok Gurtu&nbsp;<i class="non-mwm far fa-external-link-square" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Trilok_Gurtu) on your album. Were you going through some sort of Indian rhythm study phase? Has that been an important part of your rhythmic foundation?
 {: .interviewer }
 
 JZ: The Indian rhythm? No. Not at all. Not for me, but I should go there one day. [Mattias Eklund](/interview/mattias-eklundh) told me I should go there to South India but I never had this as a primary influence. I just recognized it later. Probably my influences came from there, like Meshuggah. I guess they must be inspired by those kinds of rhythms. So I guess it was a secondary influence, not a primary influence.
