@@ -17,7 +17,7 @@ block: "yes" #means is shown in itunes
 
 He is many things! A multi-instrumentalist virtuoso who broke into the music industry as a guitarist for Frank Zappa in the late 1980s, then worked with Frank's son Dweezil in the early 1990s, then with Steve Vai in the later 90s, then with Joe Satriani, and ended up playing guitar on Metalocalypse, all the while releasing a bunch of insane solo material.
 
-**[<i class="fa fa-youtube-play"></i> Check out our interview with Mike!](/interview/mike-keneally)**
+**[<i class="fab fa-youtube-play"></i> Check out our interview with Mike!](/interview/mike-keneally)**
 
 ## What's so weird about Mike?
 

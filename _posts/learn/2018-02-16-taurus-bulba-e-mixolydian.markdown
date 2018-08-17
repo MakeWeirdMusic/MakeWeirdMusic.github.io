@@ -21,7 +21,7 @@ block: "yes" #means is shown in itunes
 
 ## Why This Riff?
 
-[Steve Vai](/interview/steve-vai) is one of the most innovative guitarists to ever live. This riff from his 1996 release [*Fire Garden*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Fire_Garden) has always impressed me since I learned it over 20 years ago. It's artistic, fun, and caters especially to the instrument. When you actually play this lick, you can really appreciate the intricacies and the craft that went into it.
+[Steve Vai](/interview/steve-vai) is one of the most innovative guitarists to ever live. This riff from his 1996 release [*Fire Garden*&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Fire_Garden) has always impressed me since I learned it over 20 years ago. It's artistic, fun, and caters especially to the instrument. When you actually play this lick, you can really appreciate the intricacies and the craft that went into it.
 
 **[Purchase Steve Vai's Fire Garden on Apple Music&nbsp;<i class="non-mwm fa fa-apple" aria-hidden="true"></i>](https://itunes.apple.com/us/album/fire-garden/190372450)**
 {: .ad }

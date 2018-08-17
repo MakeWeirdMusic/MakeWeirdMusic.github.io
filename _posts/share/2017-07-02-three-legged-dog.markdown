@@ -38,7 +38,7 @@ Coming soon? [Reach out](/contact) if you're interested in downloading the song.
 
 I wrote this song in 2013 as a fun counterpoint exercise in music notation. As with most of my music, it started in the piano roll in Logic Pro.
 
-It started with a silly idea imagining [Chet Atkins&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Chet_Atkins), [Steve Howe&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Steve_Howe), and [John Petrucci&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Petrucci) doing drugs and writing a song together. Do I really need to say more than that?
+It started with a silly idea imagining [Chet Atkins&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Chet_Atkins), [Steve Howe&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Steve_Howe), and [John Petrucci&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Petrucci) doing drugs and writing a song together. Do I really need to say more than that?
 
 It took me several weeks to practice and learn the song. I send it to my friend John Landy, who literally recorded his bass part overnight. My mind was blown.
 

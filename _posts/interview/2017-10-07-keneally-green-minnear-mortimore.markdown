@@ -28,7 +28,7 @@ This year's fan-run global [Gentle Giant](/discover/gentle-giant) get-together, 
 
 This filmed conversation is really special. If you know anything about Gentle Giant, you'll know that they broke up in 1980 and their music has had lasting impact on musicians and enthusiasts all over the world. To get a few of the members together for a conversation (on film!) with the equally-talented Mike Keneally was a real treat. What you see and read here is exactly how it went down.
 
-Just in case you need the context, from left to right are Mike Keneally, [Gary Green&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Gary_Green_(musician)) (guitarist for GG), [Kerry Minnear&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Kerry_Minnear) (keyboards for GG), and [Malcolm Mortimore&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Malcolm_Mortimore) (drummer for GG's *Three Friends* album).
+Just in case you need the context, from left to right are Mike Keneally, [Gary Green&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Gary_Green_(musician)) (guitarist for GG), [Kerry Minnear&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Kerry_Minnear) (keyboards for GG), and [Malcolm Mortimore&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Malcolm_Mortimore) (drummer for GG's *Three Friends* album).
 
 (You may be interested in [our 2015 interview with Kerry](/interview/kerry-minnear) at GORGG in Montreal.)
 
@@ -44,15 +44,15 @@ Just in case you need the context, from left to right are Mike Keneally, [Gary G
 
 Gary Green [GG]: I liked your hat last night, as well. Do you find it’s a musical hat?
 
-Mike Keneally [MK]: Well, hats have assumed a kind of strange, mythical status in my life that I named my first album [*hat.*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Hat._(album)). The first hat that I thought of as a talismanic object after a [Zappa](/discover/frank-zappa) concert when I was still lingering on the stage and somebody wearing this purple, green felt contraption came to the front of the stage and said, “I really enjoyed your performance tonight,” and I said, “I really enjoy your hat.”
+Mike Keneally [MK]: Well, hats have assumed a kind of strange, mythical status in my life that I named my first album [*hat.*&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Hat._(album)). The first hat that I thought of as a talismanic object after a [Zappa](/discover/frank-zappa) concert when I was still lingering on the stage and somebody wearing this purple, green felt contraption came to the front of the stage and said, “I really enjoyed your performance tonight,” and I said, “I really enjoy your hat.”
 
 GG: I think hats are important in a musical thing. [Points to Malcolm] You’re a hat man as well.
 
 MM: I do enjoy a hat now and again.
 
-GG: You feel like it changes your personality a bit and you’re able to adopt a slightly different personality. [Django Reinhardt&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Django_Reinhardt) had a hat he used to put on that he called his “composer’s hat.” He would put it on in order to adopt the proper demeanor to put him in the mood for writing. I thought perhaps you had one of those hats.
+GG: You feel like it changes your personality a bit and you’re able to adopt a slightly different personality. [Django Reinhardt&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Django_Reinhardt) had a hat he used to put on that he called his “composer’s hat.” He would put it on in order to adopt the proper demeanor to put him in the mood for writing. I thought perhaps you had one of those hats.
 
-MK: I felt like it was a magical thing when after I complimented the guy on his hat, he threw it up to me and I just thought, “What a glorious gesture.” I put it on my head and I walked backstage and [Andy Partridge&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Andy_Partridge) and [Dave Gregory&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Dave_Gregory_(musician)) were standing there.
+MK: I felt like it was a magical thing when after I complimented the guy on his hat, he threw it up to me and I just thought, “What a glorious gesture.” I put it on my head and I walked backstage and [Andy Partridge&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Andy_Partridge) and [Dave Gregory&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Dave_Gregory_(musician)) were standing there.
 
 GG: Leaping for the hat? [Laughs.]
 
@@ -70,9 +70,9 @@ MK: And then I thought I needed to react against that and I stopped wearing the 
 
 KM: So, did you put it back on?
 
-MK: I gradually brang a hat, this blue hat that I got which actually has a little [Carlos Santana&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Carlos_Santana) logo on the side. Carlos Santana--
+MK: I gradually brang a hat, this blue hat that I got which actually has a little [Carlos Santana&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Carlos_Santana) logo on the side. Carlos Santana--
 
-MM: It is a cool hat, isn’t it? Of course with a hat, you can sort of--[Bob Dylan&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bob_Dylan) cover. You just do that [lifts an imaginary hat] and you’ve said so much without opening your mouth.
+MM: It is a cool hat, isn’t it? Of course with a hat, you can sort of--[Bob Dylan&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Bob_Dylan) cover. You just do that [lifts an imaginary hat] and you’ve said so much without opening your mouth.
 
 MK: Yeah, yeah. That’s true. Generally, I’ll wear that hat I was wearing last night. I’ll start a performance with it and almost immediately take it off. I feel that it has a certain--
 
@@ -101,13 +101,13 @@ MM: Bravo, bravo.
 AG: Malcolm and Kerry and Gary, I don’t know how much exposure you had previously to Mike’s music. I know you two [Gary and Mike] had met before at [Progday](https://www.progday.net/) before.
 {: .interviewer }
 
-GG: Yeah we’ve met a couple of times. I’ve seen him. I think--I don’t know if it was the debut of you playing [Wing Beat Fantastic](https://store.keneally.com/products/mike-keneally-wing-beat-fantastic) at [Nearfest&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/NEARfest).
+GG: Yeah we’ve met a couple of times. I’ve seen him. I think--I don’t know if it was the debut of you playing [Wing Beat Fantastic](https://store.keneally.com/products/mike-keneally-wing-beat-fantastic) at [Nearfest&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/NEARfest).
 
 MK: Oh at Nearfest, yeah.
 
-GG: Yeah, with the drummer from [Umphrey's McGee&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Umphrey%27s_McGee), whose name I can’t recall.
+GG: Yeah, with the drummer from [Umphrey's McGee&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Umphrey%27s_McGee), whose name I can’t recall.
 
-MK: [Kris Myers&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Kris_Myers).
+MK: [Kris Myers&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Kris_Myers).
 
 GG: Kris. Right. Yes. Lovely. Anyway, that was a lovely album. Real beautiful, your collaboration with Andy Partridge.
 
@@ -289,7 +289,7 @@ MK: This is a good thing to do. This is a worthwhile human pursuit. <span class=
 
 MM: Could you not be too close to it to make a good objective judgment of what was good though? It’s interesting what you said there, Kerry, because I wasn’t in Gentle Giant for very long, but I can remember you rattling away on the piano the themes and tunes of Three Friends. I could see that and an album had to be made. We were going to go and tour it so there was a deadlines.
 
-But I talked with [John Weathers&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Weathers) down in Wales sometime later and you’ve made so much music and I can’t remember exactly what he said, but he was hugely complimentary of all your talents, Kerry. He said something to the effect of, <span class="important">“It was all good and Kerry just wanted it to be even better, so it had to be sort of taken away from him so it could be played.”</span> Why should you have kept making it better and better and better and produced as much? In the group environment, the agenda is, perhaps, a positive thing for finishing work maybe. I don’t know.
+But I talked with [John Weathers&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/John_Weathers) down in Wales sometime later and you’ve made so much music and I can’t remember exactly what he said, but he was hugely complimentary of all your talents, Kerry. He said something to the effect of, <span class="important">“It was all good and Kerry just wanted it to be even better, so it had to be sort of taken away from him so it could be played.”</span> Why should you have kept making it better and better and better and produced as much? In the group environment, the agenda is, perhaps, a positive thing for finishing work maybe. I don’t know.
 
 KM: Yeah.
 
@@ -301,7 +301,7 @@ MK: Yeah, if there was more than a year between releases, people would start to 
 
 KM: Yeah.
 
-MK: It’s like, “Oh, what’s happened? Is [Pink Floyd&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Pink_Floyd) done?” And that was, like, two years or something. Now it’s routine for there to be three or four years between.
+MK: It’s like, “Oh, what’s happened? Is [Pink Floyd&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Pink_Floyd) done?” And that was, like, two years or something. Now it’s routine for there to be three or four years between.
 
 MM: It’s like Harry Potter books, isn’t it? They’ll wait for the next release. It used to be kind of--
 
@@ -323,7 +323,7 @@ MK: And it’s the discipline of having practiced the stuff so well beforehand s
 
 KM: Absolutely, yeah.
 
-MK: There are several drum fills in [*Prologue*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Three_Friends) that are some of the best drum fills that have ever been committed to tape.
+MK: There are several drum fills in [*Prologue*&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Three_Friends) that are some of the best drum fills that have ever been committed to tape.
 
 GG: Yeah, I’ve described a couple of them like, “Oh, those impossible drum fills you played.”
 
@@ -339,7 +339,7 @@ MM: Kerry wrote some great tunes and it’s a concept album. Phil’s writing, h
 
 {% include video.html vid="8vYHuxYxUGE" %}
 
-MK: [School Days&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Three_Friends) is just unbelievable. It’s just an unbelievable song.
+MK: [School Days&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Three_Friends) is just unbelievable. It’s just an unbelievable song.
 
 KM: I thought some of your pieces were almost like contemporary--
 
@@ -480,7 +480,7 @@ MK: So basically, what I’m doing is offering my services.
 
 GG: Fab. Well, we’ll make that happen.
 
-MK: Because I think when I did the stuff with Andy Partridge, he himself felt that he was in the midst of a bit of a writer’s block, even though he’d been doing some collaborating. And also I think he was feeling a bit embittered and beaten down by the state of the industry because I think he was definitely at that point of “why? Look at what’s happened. Look at what’s happened with record sales.” I don’t think he ever felt at that point that [XTC&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/XTC) was necessarily getting the kind of recognition they should have.
+MK: Because I think when I did the stuff with Andy Partridge, he himself felt that he was in the midst of a bit of a writer’s block, even though he’d been doing some collaborating. And also I think he was feeling a bit embittered and beaten down by the state of the industry because I think he was definitely at that point of “why? Look at what’s happened. Look at what’s happened with record sales.” I don’t think he ever felt at that point that [XTC&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/XTC) was necessarily getting the kind of recognition they should have.
 
 So it was a bit of, “Why continue?” And I’m over here as a fan and a friend going, “Well, because you’re a brilliant songwriter and the world is better when you write songs.” And I would love to help. So that’s where that all started. It wasn’t even with the idea that I would eventually make an album. I didn’t know I was making a Mike Keneally album.
 
@@ -542,7 +542,7 @@ MK: I can see that being very appealing to a gamer, someone who spends a lot of 
 
 GG: That’s right.
 
-MK: There’s something game-ish about the music Gentle Giant puts together. Are you aware--do you know who [Flying Lotus&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Flying_Lotus) is?
+MK: There’s something game-ish about the music Gentle Giant puts together. Are you aware--do you know who [Flying Lotus&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Flying_Lotus) is?
 
 GG: I don’t know.
 
@@ -552,9 +552,9 @@ MK: Look up Flying Lotus because he’s one of the most incredibly creative peop
 
 GG: Sounds great, Mike!
 
-MK: But he did an album called [*Cosmogramma*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Cosmogramma) and then an album several years ago called [*You’re Dead!*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/You%27re_Dead!), which is--it just synthesizes all these elements of modern culture and jazz and just mind-blowing studio techniques to create this incredible stuff. It’s really amazing music. And when I met him, we instantly bonded over Gentle Giant.
+MK: But he did an album called [*Cosmogramma*&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Cosmogramma) and then an album several years ago called [*You’re Dead!*&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/You%27re_Dead!), which is--it just synthesizes all these elements of modern culture and jazz and just mind-blowing studio techniques to create this incredible stuff. It’s really amazing music. And when I met him, we instantly bonded over Gentle Giant.
 
-It wasn’t necessarily what I would have expected to hear from this guy, but he was involved with [Kendrick Lamar&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Kendrick_Lamar) on this album, [*To Pimp a Butterfly*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly), which is one of the most influential albums of the last several years. Flying Lotus is a big part of this scene that is creating this music and he’s a huge Gentle Giant fan. I don’t think that’s an accident. There is something in this music that absolutely remains relevant. You should definitely hear some Flying Lotus.
+It wasn’t necessarily what I would have expected to hear from this guy, but he was involved with [Kendrick Lamar&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Kendrick_Lamar) on this album, [*To Pimp a Butterfly*&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly), which is one of the most influential albums of the last several years. Flying Lotus is a big part of this scene that is creating this music and he’s a huge Gentle Giant fan. I don’t think that’s an accident. There is something in this music that absolutely remains relevant. You should definitely hear some Flying Lotus.
 
 {% include video.html vid="0ScYz9sNaQk" %}
 
@@ -592,7 +592,7 @@ AG: But I think we have some action items here where we need to get Mike doing s
 
 [Laughter.]
 
-Morgan Miller: Is there a question I could ask Kerry? There’s this lick on [the first Gentle Giant album&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Gentle_Giant_(album)) that permeates every song at the beginning and end. Is there a story behind that?
+Morgan Miller: Is there a question I could ask Kerry? There’s this lick on [the first Gentle Giant album&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Gentle_Giant_(album)) that permeates every song at the beginning and end. Is there a story behind that?
 {: .interviewer }
 
 MK: That’s from Giant.
@@ -613,7 +613,7 @@ GG: Yeah, that was done on Giant Moves, wasn’t it?
 
 KM: Yeah, that’s right.
 
-MK: But that’s a composerly thing in the same way the bass line from the beginning of [*Mr. Class and Quality*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Three_Friends) gets totally--this epic thing at the end, which I had that album for four years. Actually, I don’t know if the film is still running. I think I told you, I spent a summer when I was 16 years ago learning every guitar part from every record at that point, up to Giant for a Day. So, everything from the first album through Giant for a Day, I learned every guitar part.
+MK: But that’s a composerly thing in the same way the bass line from the beginning of [*Mr. Class and Quality*&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Three_Friends) gets totally--this epic thing at the end, which I had that album for four years. Actually, I don’t know if the film is still running. I think I told you, I spent a summer when I was 16 years ago learning every guitar part from every record at that point, up to Giant for a Day. So, everything from the first album through Giant for a Day, I learned every guitar part.
 
 GG: Well, then I’ve got some questions for you.
 
@@ -629,7 +629,7 @@ MK: Now I’ll be happy for weeks again. That’s awesome. That’s so good.
 
 GG: I think there’s an album in there somewhere. But yeah, they crop up all over the place, don’t they? I was always amazed at the recurrence of the vocal, the words “so sincere.” That happens in a few tunes. I don’t know or if it just happened.
 
-MK: The other thing I realized was I was overwhelmed last night at performing [Aspirations&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/The_Power_and_the_Glory_(Gentle_Giant_album)) for you gentlemen--
+MK: The other thing I realized was I was overwhelmed last night at performing [Aspirations&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/The_Power_and_the_Glory_(Gentle_Giant_album)) for you gentlemen--
 
 KM: Thank you so much for doing that. It did sound simplistic, though, after your music.
 

@@ -63,7 +63,7 @@ MM: That’s awesome. And I hope you listen to it, too.
 AG: Oh yeah, it’s great. I love it.
 {: .interviewer }
 
-MM: It’s doing very well. Then Julie got busy with [Adrian Belew&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wki/Adrian_Belew). She tours with him a lot, so I used that time to work on my record and put the final touches to it. It’s going to be out very soon. I don’t know what will happen next, but for sure there will be more touring with EchoTest, so I don’t know if I’ll ever have a real chance to promote my own record, but that’s not something I’m doing because I want to get something out of it. You know what I mean? It’s more like a need I have to put my music out and then whatever happens happens.
+MM: It’s doing very well. Then Julie got busy with [Adrian Belew&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wki/Adrian_Belew). She tours with him a lot, so I used that time to work on my record and put the final touches to it. It’s going to be out very soon. I don’t know what will happen next, but for sure there will be more touring with EchoTest, so I don’t know if I’ll ever have a real chance to promote my own record, but that’s not something I’m doing because I want to get something out of it. You know what I mean? It’s more like a need I have to put my music out and then whatever happens happens.
 {: .interviewee }
 
 {% include video.html vid="ZqLkAwDnT2Q" %}

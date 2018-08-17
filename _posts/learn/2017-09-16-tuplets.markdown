@@ -40,7 +40,7 @@ Here is the video of our interview of Jan Zehrfeld of Panzerballett talking abou
 
 ## Interview Transcript
 
-AG: This is Anthony with MakeWeirdMusic.com and we are in the rehearsal space of Jan Zehrfeld of Panzerballett. We want to talk today about [tuplets&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Tuplet) because Jan is a bit of a specialist in tuplets. So, Jan, for people who have no background in music theory, can you tell us some basics about tuplets?
+AG: This is Anthony with MakeWeirdMusic.com and we are in the rehearsal space of Jan Zehrfeld of Panzerballett. We want to talk today about [tuplets&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Tuplet) because Jan is a bit of a specialist in tuplets. So, Jan, for people who have no background in music theory, can you tell us some basics about tuplets?
 {: .interviewer }
 
 JZ: Of course. Basically, “tuplets” means that you have a different amount of notes above other notes. <span class="important">If you have two notes and instead of that, in the equal space you play three notes, you have triplets. If in the same space, you play five notes, you have quintuplets. Six notes, you have sextuplets. Seven notes, you have septuplets.</span> So, the most common thing for every musician is learning triplets.
@@ -52,7 +52,7 @@ I think this is already a step I remember, learning triplets. It’s not as easy
 AG: I learned [triplets] with “trip-pull-it, trip-pull-it, trip-pull-it, trip-pull-it.” But then for quintuplets, it was “hippopotamus.” “Hip-po-pot-a-mus, hip-po-pot-a-mus, hip-po-pot-a-mus, hip-po-pot-a-mus.”
 {: .interviewer }
 
-JZ: Okay, in German, we have “fick-eh-dee-tit-teh.” I think it’s the best example. The Indians, like the “ta-ka-ti-na” [Konnakol&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Konnakol) stuff. “Ta-ka-ti-na-ta, ta-ka-ti-na-ta, ta-ka-ti-na-ta, ta-ka-ti-na-ta.” <span class="important">I think the Indian way is maybe the most effective way to pronounce syllables like musical rhythm. It’s the most direct way to actually get close to rhythm.</span>
+JZ: Okay, in German, we have “fick-eh-dee-tit-teh.” I think it’s the best example. The Indians, like the “ta-ka-ti-na” [Konnakol&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Konnakol) stuff. “Ta-ka-ti-na-ta, ta-ka-ti-na-ta, ta-ka-ti-na-ta, ta-ka-ti-na-ta.” <span class="important">I think the Indian way is maybe the most effective way to pronounce syllables like musical rhythm. It’s the most direct way to actually get close to rhythm.</span>
 {: .interviewee }
 
 {% include video.html vid="E9neoYEQt60" %}
@@ -63,10 +63,10 @@ This Konnakol thing the Indians do. In German, you count, “Eins zwei drei vier
 AG: Now, a lot of composers, or a lot of songs that I played in jazz band or something like that, will have a phrase with triplets or a phrase with quintuplets. But you’ve kind of explored a whole new world of possibilities. Can you talk about, for Panzerballett, where did you start and how did you get into this world of living in quintuplets and septuplets?
 {: .interviewer }
 
-JZ: Well, the start was in 2009, I wrote this arrangement of [Time of my Life&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/(I%27ve_Had)_The_Time_of_My_Life), and there was this one part--
+JZ: Well, the start was in 2009, I wrote this arrangement of [Time of my Life&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/(I%27ve_Had)_The_Time_of_My_Life), and there was this one part--
 {: .interviewee }
 
-AG: The [Dirty Dancing&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Dirty_Dancing) song?
+AG: The [Dirty Dancing&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Dirty_Dancing) song?
 {: .interviewer }
 
 JZ: The Dirty Dancing song, yeah. And I don’t remember if it even maybe was Sebastian [Lanser, drummer] who came up with the idea. I just had really something quite simple just after the saxophone solo, a break or something. It was kind of simple in comparison to what Sebastian came up with after that. It was a great idea. So, let me perform it for you.
@@ -110,7 +110,7 @@ JZ: Exactly. Yeah, and then this was kind of the start. It took us very long to 
 
 {% include video.html vid="uGVYiU407cU" %}
 
-I didn’t have any examples of it, of quintuplet-based songs, and I didn’t know where to start. So, I chose to rearrange something that is very known and already very dense and 16th note-based that I rewrote in quintuplets. It was [*Some Skunk Funk*&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Some_Skunk_Funk) by the [Brecker Brothers&nbsp;<i class="non-mwm fa fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Brecker_Brothers). I will show you the example, but before this, I would like to show you other examples that are maybe a little easier to get. After *Some Skunk Funk*, I wrote this track *Euroblast*, the first original track with quintuplets. It has some easier-to-grasp stuff going on. Let me show you the first riff of *Euroblast*.
+I didn’t have any examples of it, of quintuplet-based songs, and I didn’t know where to start. So, I chose to rearrange something that is very known and already very dense and 16th note-based that I rewrote in quintuplets. It was [*Some Skunk Funk*&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Some_Skunk_Funk) by the [Brecker Brothers&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/Brecker_Brothers). I will show you the example, but before this, I would like to show you other examples that are maybe a little easier to get. After *Some Skunk Funk*, I wrote this track *Euroblast*, the first original track with quintuplets. It has some easier-to-grasp stuff going on. Let me show you the first riff of *Euroblast*.
 {: .interviewee }
 
 [*Euroblast* riff example]
