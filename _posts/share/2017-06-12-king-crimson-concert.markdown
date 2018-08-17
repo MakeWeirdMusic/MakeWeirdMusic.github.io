@@ -47,7 +47,7 @@ Robert’s impact on these good human beings is profound. He has helped foster a
 
 Yes, Robert played incredibly last night. Yes, he wrote some great music. Yes, he has assembled a cadre of expert musicians that will melt thousands of faces this year. But most importantly to me, he has selflessly given himself to music and to others in a way that’s only understood when you spend some time with his friends and family.
 
-[NOTE for KC fans, [I filmed an interview](/discover/david-singleton) with [David Singleton&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/David_Singleton) before the show and another interview with [Alex Anthony Faide&nbsp;<i class="non-mwm fab fa-youtube-play" aria-hidden="true"></i>](https://www.youtube.com/user/instrofreak), the only other guitarist in the world that can play Fracture. So stay tuned on the site for more KC-related fun...]
+[NOTE for KC fans, [I filmed an interview](/discover/david-singleton) with [David Singleton&nbsp;<i class="non-mwm fab fa-wikipedia-w" aria-hidden="true"></i>](https://en.wikipedia.org/wiki/David_Singleton) before the show and another interview with [Alex Anthony Faide&nbsp;<i class="non-mwm fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/user/instrofreak), the only other guitarist in the world that can play Fracture. So stay tuned on the site for more KC-related fun...]
 
 {% include video.html vid="227L6FW30ZA" %}
 

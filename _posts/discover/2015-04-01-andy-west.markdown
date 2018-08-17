@@ -19,7 +19,7 @@ block: "yes" #means is shown in itunes
 
 Andy West is best known for his work with the [Dixie Dregs](http://en.wikipedia.org/wiki/Dixie_Dregs), a 1970s American rock/blues/bluegrass/jazz/classical band known for their virtuosic live performances. They are led by [Steve Morse](http://en.wikipedia.org/wiki/Steve_Morse), one of the most amazing and versatile electric guitar players I've ever heard.
 
-**[<i class="fab fa-youtube-play"></i> Check out our interview with Andy!](/interview/andy-west)**
+**[<i class="fab fa-youtube"></i> Check out our interview with Andy!](/interview/andy-west)**
 
 ## How I know Andy West
 
