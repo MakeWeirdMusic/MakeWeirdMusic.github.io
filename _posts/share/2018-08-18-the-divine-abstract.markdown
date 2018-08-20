@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Divine Abstract by Charlie Cawood
-date: 2018-08-05 00:00:00
+date: 2018-08-20 00:00:00
 artist: charlie-cawood
 author: anthony-garone
 image: charlie-cawood
@@ -10,13 +10,13 @@ permalink: /share/charlie-cawood/the-divine-abstract
 oneliner: Incredible synethesis of Western and Eastern music from a young London-based musician.
 seo_description: The Divine Abstract is Charlie Cawood's first solo album.
 seo_keywords: knifeworld, tonochrome, medieval babes, mediaeval baebes, kavus torabi
-draft: yes
+draft: no
 front_page: yes
 has_video: yes
-youtube_id: hc3BSjGR2kc
-file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/charlie-cawood/the-divine-abstract.mp3
-duration: "6:36" #audio length in min
-length: "7926032" #filesize in byte
+youtube_id: 18CdEleFkNk
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/share/charlie-cawood/the-divine-abstract/the-divine-abstract.mp3
+duration: "1:15:56" #audio length in min
+length: "91459201" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 ---
