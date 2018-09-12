@@ -1,0 +1,362 @@
+---
+layout: post
+title: percuss.io
+date:   2018-09-11 00:00:00
+artist: percuss.io
+author: anthony-garone
+image: percuss.io
+category: gear
+permalink: /gear/percuss-io
+oneliner: Meet the brains behind the viral konnakol and quads videos!
+seo_description: percuss.io offers percussion education technology for free.
+seo_keywords: percussion, konnakol, education, technology, soundslice, eric carraway, george torres iii
+front_page: yes
+draft: yes
+has_video: yes
+youtube_id: B1t7R2mGiaM
+file: https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/percuss.io/percuss.io.mp3
+duration: "48:37" #audio length in min
+length: "94508925" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+## Percussion Education Technology
+
+Eric Carraway and George Torres III are the brains behind the amazing viral music video site, [percuss.io](https://percuss.io). They are creative geniuses who've incorporated [Soundslice](/gear/soundslice) into videos of extremely complex musicianship. Their most popular videos have had several million views on Facebook and Instagram. They're bringing amazing music and complex performance to the forefront of social media.
+
+{% include video.html vid="mOMLRMfIYf0" %}
+
+## Interview Video
+
+{% include video.html vid=page.youtube_id %}
+
+## Podcast Audio
+
+{% include audio.html podcast=page.file %}
+
+## Interview Transcription
+
+AG: Eric Carraway and George Torres III are the masterminds behind an awesome web technology platform called percuss.io. What brings us together is our common love for Soundslice. You may remember that [I interviewed Adrian Holovaty, the founder of Soundslice, back in February 2016](/gear/soundslice) and that kind of got things started behind the scenes for the both of us. We just recently started messaging because I’ve been coming across their viral videos that have millions and millions of views and they’re really technical, really awesome videos that I never would have expected to blow up the way that they did, but I did notice that they’ve been using Soundslice for some time, so I reached out. And it turns out our relationship goes a little longer than my faulty brain had remembered. So, Eric and George, thank you so much for joining me today. I’m really excited to share about percuss.io.
+{: .interviewer }
+
+GT: Well thank you for having us.
+{: .interviewee }
+
+EC: We’re really glad to be here. Actually, how we met, how it initially goes back is your website, I came across it when I was doing research on Soundslice and noticed that [your website is open sourced and it’s on GitHub](https://github.com/MakeWeirdMusic). I’m a web developer, so I was able to go through it and I think what I did was added a favicon (the little icon up at the top of the browser window). Yeah, it was cool! I got to do a pull request and we kind of hit it off that way and then coincidentally, we touched base about a week ago. Yeah, we’re really excited to be here.
+{: .interviewee }
+
+AG: Awesome. Yeah, so can you tell the world a little bit about yourselves and what brought you guys together to start this website?
+{: .interviewer }
+
+GT: Yeah, dude. That’s a cool story! So, I’m the content and community manager for percuss.io and I know Eric from our music background. I recently had moved down to San Antonio and he was telling me about this project that he was starting up and how it’s been his passion project and he was really trying to get it off the ground and make it live and make it a real, living, breathing thing. When he was telling me about it, it sounded like it was going to take off and I was totally about it. So he kind of recruited me in and I was sold ever since and that’s how I started with Eric. Eric can go further as far as how he actually created this brainchild of percuss.io.
+{: .interviewee }
+
+EC: Yeah, so my background... I’m a musician and a web developer. Web development is my second career. My first career was as a high school band director here in Texas. I taught music in the public school for about eight years and always had this second passion, which was programming. <span class="important">I decided to make an industry change from full-time music teaching to web development, but I knew that I always wanted to eventually do work that combined those two passions: technology, programming, development with music.</span> Specifically, music education. percuss.io--I actually bought the domain back in 2014, not exactly sure what it would be at the time. It was initially a place for portfolio projects. It eventually grew to be a brand and now an online percussion education platform and, specifically, all the stuff we do on social media, which has probably gotten the most attention.
+{: .interviewee }
+
+AG: Yeah, can you tell a little about that story where your videos just completely exploded unexpectedly?
+{: .interviewer }
+
+EC: The first viral video--so, the first video to do over a million views was your friend Terry.
+{: .interviewee }
+
+{% include video.html vid="JIpSakQIV84" %}
+
+GT: Yeah, my friend [Terry Jarrell](https://www.instagram.com/lettersbyterry/). It was this super-unconventional combination of literally [onion powder in a container and chili powder in a container and it was this weird kind of shaker thing.](https://www.youtube.com/watch?v=JIpSakQIV84) It was a minute long, but, again like you said, it was unexpected. We posted it because we thought it was fun and that it would be cool and, sure enough, within 72 hours, we had over a million views. We were like, “Well, I guess this is what the people want.”
+{: .interviewee }
+
+EC: And we use Soundslice for that. So, she’s doing 16ths in the right hand and a 3:2 clave with some treches, the spices. It’s condiment shaker things. But yeah, we transcribed it all, notated it all, sync it with Soundslice, and it just really got attention because it was weird and it was a bit nerdy at the same time because we went through the trouble of doing a transcription. From there, we had lots of people reaching out on our social media channels and a lot of collaborations then--because we had that one initial piece of viral content, that gave us a lot more opportunities because people reached out to the page, said, “I’d love to do something similar with videos that I have if you’re willing to transcribe it.”
+{: .interviewee }
+
+GT: Yeah.
+{: .interviewee }
+
+AG: It’s cool that you used the word “nerdy” because what you’re doing is very nerdy. I mean, you’re taking extremely complex--not in every video, but in many cases, like the [konnakol](https://en.wikipedia.org/wiki/Konnakol) videos that you feature, lots of time signatures, very intricate groupings of notes, and I had never even--I’d seen some of the videos where somebody’s replicating the spoken music (or the sung music) on quad drums. You know? That’s very technical and each drum being lit up. I was like, “Wow. That’s someone who appreciates really complex music and somebody who’s spent a lot of time with Soundslice. This takes a lot of very nerdy work to make it happen.”
+{: .interviewer }
+
+EC: Yeah. And you would think that because it is so--<span class="important">it’s brainy and it’s kind of a niche thing. We never would have expected such a large audience.</span> So, I think some of that is shock and awe. People are seeing something for the first time that they’ve never seen before. It’s curiosity and it’s educational, too. If we can do something that brings those things together, makes people really curious, inspired, but at the same time, teaches them something, that’s kind of the goal.
+{: .interviewee }
+
+GT: Yeah, definitely.
+{: .interviewee }
+
+AG: Tell me about some of the feedback you’ve gotten from people who you kind of blew their minds, this was a new discovery for them.
+{: .interviewer }
+
+EC: Wow. <span class="important">I think showing people konnakol for the first time has been really rewarding.</span> It’s something that’s a tradition. It’s an Indian musical tradition of vocal percussion that has been around for millennia, for thousands of years, but its mass appeal and exposure here in the West is something that I think is very recent. One of the first people to reach out since that first viral video was a gentleman named [Manjunath](https://www.instagram.com/bcmanju/). He sent us a video and was like, “I’d love to do something together.” I asked him, “I would love to do a notation sync video of this, but is there any chance you could provide some notation? This is very complex.” I wasn’t about to go down the path of starting to transcribe it. <span class="important">There was a breakdown there because that musical tradition is entirely oral.</span> It’s learned by ear, it’s passed down from a guru, from teacher to student through just memorization. It’s not written out, so that was an opportunity to do something where I was like, “Oh, okay. So if we can find a way to put this into western music notation, it helps those of us who are maybe not familiar with the very complex mathematically-based rhythmic patterns.” It’s a way for us if we are better at reading music notation to have a deeper understanding of it. <span class="important">I began a transcription that took months to get across the finish line, but once we did, it blew up.</span>
+{: .interviewee }
+
+GT: Yeah. Immediate payoff for sure.
+{: .interviewee }
+
+AG: Absolutely. The most recent one that I saw was--it’s funny, I’d seen that video outside of your Soundslice notation and there’s a young woman and an older guy who are singing together on the steps on this awesome YouTube channel. I can’t remember the name of the channel. Do you know it?
+{: .interviewer }
+
+{% include video.html vid="iurhjlBum0o" %}
+
+EC: I think [MadRasana](https://www.youtube.com/channel/UC7NdODNgLYVKKs6a6VCKHQQ).
+{: .interviewee }
+
+AG: Yes! What an awesome, awesome channel. But, this woman, she’s hitting her hand on her thigh in quarter notes and it kind of gives you a sense of what’s happening, but then you realize, “Oh, she’s going into 7 and then she’s going into 5 and what she’s singing is almost completely separate.” There’s that real independence going on, and then they come back together, and then you hear the two singers doing it in unison. When I watched that video, I thought, “Oh my goodness, this is really, really rich music.” And then to see your transcription knowing that this stuff is orally passed on, I can’t even imagine the effort that you had to go through to make this happen. Thank goodness you have a music education background.
+{: .interviewer }
+
+EC: Well, [Amir [Oosman]](https://www.amiroosman.com/) actually--
+{: .interviewee }
+
+GT: Dude, he’s the real unsung hero on that project. You can go into more detail, but the actual quad player, the work that he put in to actually making that happen is, I would say, almost unprecedented for something like that because it’s so unique.
+{: .interviewee }
+
+AG: Yeah, it’s amazing.
+{: .interviewer }
+
+EC: So, he learned it to do a cover video and this was before we combined our transcription. We had known each other through Instagram and I’d seen his work and he’d seen mine and our stuff, we knew we wanted to work together at one point and I remember he posted something on his Instagram feed. Maybe he’d finished up a project and was looking to start a new project and was like, “What sort of cover videos should I do next?” And I commented immediately in the thread and was like, “Konnakol. You need to go check out konnakol.” And I think a week later, he posted his first konnakol and quads video. He learned it within the span--
+{: .interviewee }
+
+AG: Within a week!
+{: .interviewer }
+
+EC: Within the span on a week. And when I went to him afterward, I was like, “You transcribed all this before you played it, right?” He was like, “No.” He memorized it! He memorized it and the video is not edited and choppy.
+{: .interviewee }
+
+GT: It’s not spliced at all.
+{: .interviewee }
+
+EC: It’s done in one take.
+{: .interviewee }
+
+{% include video.html vid="86T5171_zkU" %}
+
+GT: Over four minutes in konnakol and quads in one take.
+{: .interviewee }
+
+EC: It is accurate. It’s rhythmically together. His background is similar to ours. He’s been through the college music situation, teaching music, doing drum core, we’ve got shared [DCI drum corps](https://en.wikipedia.org/wiki/Drum_Corps_International) history... All of that stuff is taught on paper and to be able to learn that much music in this totally different style--
+{: .interviewee }
+
+GT: Yeah, totally. I mean, unconventional to us here in the US. Just incredible. Truly a feat.
+{: .interviewee }
+
+EC: So he was able to provide a transcription of his part. The syllable transcription--there’s a pianist composer based in Paris that I was able to track down that had done a transcription of the syllables. [Sebastian Gaxie](https://itunes.apple.com/us/artist/s%C3%A9bastien-gaxie/202160031?ign-gact=3&ls=1), I think is his name. I reached out to him. I had already gotten the ball rolling with Amir, so I was able to bring those things together, get them into Soundslice, added our component of the light-up drums. The red and blue for the right and left hands. Did that video and it, again, went viral. We actually were able to publish a really clean--in addition to the Soundslice video--a really clean PDF transcription as well. Was able to get professional manuscript preparation done by another friend of ours, Bill. It’s cool to bring people together for these collaborative projects.
+{: .interviewee }
+
+{% include video.html vid="jA_3g8zgMf0" %}
+
+AG: Absolutely. Now, can you talk a little about the success of the site and the fact that you have blown up. What have been some of the growth needs, the challenges, the exciting parts? I wanna hear the ups and downs of something growing to the size of what you’ve gotten. You’re on a great trajectory.
+{: .interviewer }
+
+EC: Yeah! Do you remember any specific numbers, like specifically from Facebook? Views, followers...?
+{: .interviewee }
+
+GT: Oh yeah. I mean, we weren’t even in five figures yet. Probably February of 2017, I think, is when we hit 1,000.
+{: .interviewee }
+
+EC: Followers.
+{: .interviewee }
+
+GT: Yeah, followers on Facebook. That was a kind of cool thing. I wouldn’t say there was really traction quite yet. It was slowly getting there, little by little.
+{: .interviewee }
+
+EC: Yeah, so one of the challenges has been: for what began as a side project, a passion project, is that <span class="important">progress is not linear. Not by any means. It comes in fits and starts.</span> There’s moments of mad inspiration and productivity and being able to do tons of transcription videos. And on my end, development work, website stuff behind the scenes. <span class="important">And then there can be long stretches of the opposite where things are--it doesn’t feel like the product is making a lot of progress.</span> But, I think zooming out far enough, we’re able to see progress. Continue to stay motivated and maintain that feeling of momentum for the project, that’s been a challenge.
+{: .interviewee }
+
+GT: Yeah, I think that’s the best way to think about it. Once you have that momentum, actually being able to continue to sustain it over that long period of time instead of getting a viral video and then plateauing for a little bit, and then, “Okay, yeah, we got another spike.” <span class="important">And then something else takes interest in the community.</span> So, just understanding the ebbs and flow of that entire process. Being on a social platform and understanding that this percuss.io is kind of new to our drumming community as well as from the social standpoint.
+{: .interviewee }
+
+EC: Yeah.
+{: .interviewee }
+
+AG: And do you have some sort of a paid learning platform? How do you generate any money from what you do?
+{: .interviewer }
+
+EC: <span class="important">Generating money. Yes. So, that’s been a challenge, right?</span> Because the majority, the vast majority--we have nearly 80,000 followers on the Facebook page and what percentage of those people will go to the actual website? Percuss.io and sign up to use this percussion education platform, which right now and for a while has been in this kind of beta stage, preview stage. We are launching a Version 2 of that very soon. Right now, it’s been largely everything’s kind of free. It’s been largely a passion project, but it’s something that we do want to do more of and my goal is to be able to do this within a few years, hopefully, full-time. That’s been a challenge. Where my skills are in the technical side of things and the music side of things, knowing about how to do a business plan--
+{: .interviewee }
+
+GT: Right.
+{: .interviewee }
+
+EC: And how to do marketing, and stuff like that. That’s just a challenge because I don’t know as much about it.
+{: .interviewee }
+
+GT: To kind of add on to that, a lot of this came from a shared vision of: <span class="important">we want people to go and experience what this is, to have it educational because there are so many areas not just in Texas, but all over, where they don’t have that extra lesson teacher.</span> They don’t have that specific instructor to give you that attention that you need in the classroom or individually. So we started by making this free to the masses because that’s genuinely what we wanted to do and that was a huge part of Eric starting this in the first place. How do we get these resources accessible to literally anybody? Pull out a phone, boom, you’re done. You know?
+{: .interviewee }
+
+AG: Yeah, I hear you. I know some of those challenges having my own passion project and hoping it reaches people. It’s a tough time right now because content marketing is been this great strategy, but there’s so much saturation in it now that it’s hard to rise above. So, that’s what I think is amazing about what you guys have done with your videos. You seem to have a way to rise above what everyone else is doing in a fairly frequent way. So, kudos to you. That’s awesome.
+{: .interviewer }
+
+EC: I appreciate that.
+{: .interviewee }
+
+GT: Thank you.
+{: .interviewee }
+
+AG: So can you tell me about this Hyperdrive illuminated vibraphone project that you have going on?
+{: .interviewer }
+
+{% include video.html vid="Lnul3DwS_bc" %}
+
+GT: Yeah! It’s awesome! Okay, so this duo by the name of [Team Islas](https://www.youtube.com/channel/UCY_27qWGeEM1OAA9Ebqv_CA) is two people. It’s a married couple living out in Plano, which is in the Dallas area. Patricia and Islas, as well as Doug Bush. Patricia is the vibraphone player and Doug does all the drums and percussion part of it. The inspiration of this whole thing, when they first released their album back in 2008, was that they wanted to eradicate the stereotypes of keyboard percussion. To make it into this musical platform that is intellectual, yet accessible, for everybody to enjoy and to listen to. Specifically, with this project, the Hyperdrive project, it’s this new album that they’re now created that’s going to be released pretty soon in the future and--
+{: .interviewee }
+
+EC: It’s a concept.
+{: .interviewee }
+
+GT: It’s definitely a concept album with the overarching idea that it’s a dystopian future and it’s about a girl and her vibraphone saving the universe.
+{: .interviewee }
+
+EC: It’s awesome.
+{: .interviewee }
+
+AG: That’s awesome.
+{: .interviewer }
+
+GT: Yeah, they make it awesome. The sounds that are incorporated are incredible. Go check out the YouTube video if you haven’t yet. It’s on the page and it’s really awesome. It’s truly a combination between the vibraphone--there’s a [xylosynth](http://www.wernick.net/) and a bass guitar with drums in the back. The entire thing, this four-minute piece, is pretty incredible. But yeah, what makes that unique, what stood out to us whenever communications started back on Instagram, it was one ‘like’ to the other ‘like’ and it was like, “Hey, this is actually really cool.” And the perspective of the vibraphone being a birds-eye view was so key to that. Not only did they have this awesome music that’s never been done before--or just in a completely different light--but to add that perspective is pretty unique considering it’s keyboard percussion. Most of the videos you’ve seen of a keyboardist playing is usually a front view in front of the keyboard or at some kind of angle. So, yeah, I think that gave us a really cool opportunity to, again, add the light-up keys to the vibraphone because it was such an incredible video.
+{: .interviewee }
+
+{% include video.html vid="KTGJyNgFTRI" %}
+
+EC: Yeah. So keyboard percussion--the marimba, vibraphone, xylophone--it’s a very visual instrument. We talk about the guitar being a “shape” instrument. In a similar way, keyboard percussion is a “shape” instrument and you rely a lot in the learning music and memorization on what things “look like” on the keyboard. The technology that we’ve developed to light up the bars as the performer plays, from a first-person point of view video, like a birds-eye video with a camera mounted above the keyboard instrument, it makes it way more educational. Students who--maybe we’ve got all-state audition etudes or different pieces of marimba literature, we’ve been able to shoot these videos from that perspective, add the overlays, and then put it into Soundslice so that it can be slowed down to a practice tempo, looped small sections at a time, and, importantly, click anywhere in the sheet music to see that part of the video. So, it’s combining all of those technologies to make something that we feel is educational.
+{: .interviewee }
+
+AG: It’s really amazing. I’m sure you, as a former band instructor-turned-programmer, have had to go through a lot of challenges in learning how to do this. Can you talk about--can you get somewhat technical in your approach on this and the approaches that didn’t work or what you had to go through to get to where it did work?
+{: .interviewer }
+
+EC: Yeah! So, it’s been for a long time, I’ve wanted to figure out how to do these kind of animations. It began years ago with paper flashcard-style things of the keyboard instrument--the vibraphone. I would learn chord voicing with flashcards of pictures of the keyboard instrument and filling in the notes that would be played. You can do a kind of stop-motion animation with something like that. From there, I found out some different presentation technologies that can trigger different images with MIDI. And then in about 2007 or so, I switched over to the Mac ecosystem and learned about the IAC bus, which is a way to share a MIDI connection between different pieces of software. So if I’m driving MIDI with Sibelius or driving MIDI with Pro Tools or even GarageBand, I can run that into VJ software that responds to MIDI, or at least for a long time there was a tool called Quartz Composer, which is a node-based visual programming language. So, wiring together different things--if you’ve used MaxMSP or those sorts of node-based tools... It’s a way of wiring up a MIDI connection, the MIDI and the audio are synchronized, and then the visual overlays are done via MIDI. There’s recordings that happen from there and then overlays happen in post-production with video editing tools and kind of a green screen effect. It’s lots and lots--
+{: .interviewee }
+
+AG: That sounds like a lot of work.
+{: .interviewer }
+
+EC: <span class="important">Lots and lots of pieces wired together and some of it’s really just hacky and not glamorous, but it works!</span>
+{: .interviewee }
+
+AG: That’s how most code is. As a software development manager for the last 10 or 12 years, I can attest. It’s a norm. So, what I think is really great is that you’ve got Eric who’s doing a lot of technical work and George who’s doing the community work and I’m just making an assumption there based on what I’ve heard. I’ve found in my own work and in speaking to a lot of musicians, that community manager role is so key, but we don’t know how to do it, how to find someone who knows how to do it, and how to keep people engaged. So George, would you mind talking a bit about community engagement, what that means for musicians or music-related content? Particularly, using social media so that musicians might be able to glean some useful information to promote what they’re trying to do?
+{: .interviewer }
+
+GT: Yeah sure! Absolutely. I think this goes back to when we first started back in February. We were kind of determining “how do we want to split up this thing between us two as far as whenever somebody sends us something, what do we want to do with that?” I think what’s really cool is that even though I have that title, we still share a lot of the same responsibilities as far as reaching out to people or posting something on Facebook or on the Instagram. Getting it so that way it looks great on those platforms, but I think it’s about finding those relationships from people that you know in all different kinds of aspects. With me personally, yes I do this thing at percuss.io, but I’m still teaching all over the state and Eric’s background, when he was a music educator, he has almost a different generation of people that he can also reach out to or that he can create videos to target in that sense. And so, I think in my opinion, in that community role, finding those relationships and being able to expose them to what this is and to just stay in contact with those people and being able to continue to work on those projects I think is key. Obviously, Eric has played a big part in that as well. I definitely don’t take credit for just that single role. It’s all team-based a majority of the time.
+{: .interviewee }
+
+EC: Yeah--
+{: .interviewee }
+
+AG: Yeah, that’s really cool. Go ahead, Eric. Please.
+{: .interviewer }
+
+EC: Oh, it’s a really good point that it’s very relationship-driven. Sure there’s a lot of great technical stuff going on under the hood. The music is awesome, but of the music, of the technology, and of the relationships we’ve been able to build with people, and the people that we’ve met across the world--I include you in that group--the people that we’ve met from collaborating and doing different projects together, that’s been the most rewarding part. To make those friends, you know?
+{: .interviewee }
+
+AG: Yeah, it’s incredibly challenging. I have a small fraction of your audience and I think, “How do you keep up?” I have 40 or 50 unread messages. I look at it, it’s overwhelming, and for a site that’s your size, the fact that you’re able to keep up with people is amazing. So, my hat is off to you. It’s amazing. [Laughs.] Can you talk about the future plans for the site? You mentioned a “version 2.” What does that mean? What are you guys looking at for the rest of 2018?
+{: .interviewer }
+
+GT: Yeah! It’s really exciting. Currently we’re doing quite literally a retreat summit right now and blocking out this weekend of time to just focus on percuss.io. In the immediate future, we have this version 2 coming out of the site. There’s kind of two things that are coming out of it. We’ll have an official marketing site just for percuss.io so that people can actually have a very concise and very appealing way of seeing how percuss.io works and what people can do to get their content on our platform. On the opposite side of that, we’re going to have a learn.percuss.io where we can have people go over to actually use it as an educational resource for us. That’s the most exciting thing right now that’s happening in our immediate future. Eric can talk about the future plans as far as content that we’re looking to do and collaborations with organizations and artists.
+{: .interviewee }
+
+EC: Yeah, the marching percussion part of what we do, that’s a large part of our audience. There’s a lot of people that we connect through. That’s how we’re connected.
+{: .interviewee }
+
+GT: Yeah.
+{: .interviewee }
+
+EC: We were in a DCI organization called The Cavaliers. Although our ages are 11 years apart--
+{: .interviewee }
+
+GT: 11 years!
+{: .interviewee }
+
+EC: We weren’t in it at the same time, but that’s kind of how we grew up and our musical background. That marching percussion community, we’re doing more work with that. In that community, the audition process is a process of getting a PDF packet of exercises and etudes and excerpts and it’s not great. <span class="important">We’re looking to disrupt that by using Soundslice and using our platform so that students who are auditioning for groups have better access to tools, recordings, videos, breakdown videos synchronized with music notation through using Soundslice. And all in one place.</span> So, we’re looking to do that through the drum corps and the WGI indoor drumline audition processes. We’re looking to do some stuff with the Texas all-state band audition materials. So those are two projects that we’re on the horizon for percussion education and what we do.
+{: .interviewee }
+
+AG: That’s fantastic. And for anyone who doesn’t know about DCI, it is some of the most extreme musicianship you could imagine at the ages of people that are performing it. My friend Jim Reiske came from The Phantom Regimen. He’s always sending me videos and I look at these videos and I know professional musicians who could not do this. These kids are way overboard. Like Frank Zappa-level vibraphone players and not only are they playing, but they’re walking around and moving and all the choreography is just unbelievable. The DCI stuff is just mind-blowing. Every year, it seems to be advancing and advancing.
+{: .interviewer }
+
+GT: Oh definitely.
+{: .interviewee }
+
+{% include video.html vid="AXOSQd7pxXk" %}
+
+AG: Showing what the capabilities are of young people with instruments and time to practice.
+{: .interviewer }
+
+EC: Yeah.
+{: .interviewee }
+
+AG: I think it’s going to be really cool to see how you contribute to that furthering of human capability at that level.
+{: .interviewer }
+
+EC: Yeah.
+{: .interviewee }
+
+GT: Yeah, that’s definitely the goal. I think that would be a big milestone for us. Being able to actually have that resource for a drum corps organization or for a WGI organization. Definitely.
+{: .interviewee }
+
+AG: Yeah, absolutely. Oh, I missed a project here that is the notes. This one with [Rich Kass](https://en.wikipedia.org/wiki/Richard_Kass) and [Tigran Himasayan](https://en.wikipedia.org/wiki/Tigran_Hamasyan). I don’t know how to say the names. I’ve read them online.
+{: .interviewer }
+
+{% include video.html vid="E_lPE7kn834" %}
+
+EC: Yeah.
+{: .interviewee }
+
+AG: But, amazing musicians!
+{: .interviewer }
+
+EC: Yeah, we’re familiar with the problem of name pronunciation. That’s for sure. As percuss.io, we run into all the time, people aren’t sure how to pronounce our names.
+{: .interviewee }
+
+GT: “Percuss IO.” “Percussyo.”
+{: .interviewee }
+
+EC: “Percuss dot IO.”
+{: .interviewee }
+
+AG: “Percusho?”
+{: .interviewer }
+
+EC: Yeah, that’s another one. Our name comes from being at the intersection of percussion and technology and “.io” is a top-level domain like “.com” or “.org” that’s frequently used in the tech industry. But if you’re not in the tech industry, it doesn’t really land. People might think we’re “percussIO.com.” So, Tigran Hamasyan, which I think--
+{: .interviewee }
+
+GT: Yeah.
+{: .interviewee }
+
+EC: And Rich Kass. So, Rich is a drummer that we’ve collaborated with on a number of projects. He’s just exceptional at polyrhythms and really complex time signature changes. Just feats of coordination between all four limbs on the drumset. Been able to do stuff that has ostinatos on his feet--or, ostinati with his feet. And different melodic things going on in his hands. It’s unconventional drumming. So, this most recent project is a cover he did of [Tigran’s “What the Waves Brought.”](https://www.youtube.com/watch?v=pVN36Ou4BUU) It’s piano with beatbox and Rich transcribed all of that and made a drumset part for it. So, we worked together to get that into Soundslice and did our process of doing our notation synchronization recordings. We released it on our social media channels.
+{: .interviewee }
+
+{% include video.html vid="6ZvrFW7tsfw" %}
+
+AG: Windows is telling me important updates are pending. Thank you very much, Windows. Sorry for that interruption. That’s really cool and yeah, they are incredible players. Rich on the drums and Tigran on the piano. Are there going to be more projects with those guys?
+{: .interviewer }
+
+EC: Hopefully!
+{: .interviewee }
+
+GT: If they’re willing, absolutely!
+{: .interviewee }
+
+AG: Speaking of monster drummers that are outside the box, have you worked with Terry Bozzio at all on any of the visual stuff? Does he know about your platform?
+{: .interviewer }
+
+EC: No, I don’t think so. We really admire his work. I’m just inspired by him as somebody who’s been able to use the drumset as a solo instrument through using melody and harmony and coordination and several parts going on at the same time. So as opposed to the drumset being in a traditional role as a complementary thing or just timekeeping, Terry Bozzio as a solo drumset performer with actual compositions, that’s--if we could transcribe one of his videos and do a--yeah, that would...
+{: .interviewee }
+
+GT: Actually last night, I was listening to the video that you had, [that phone interview that you had with him](http://www.makeweirdmusic.com/interview/terry-bozzio/) a few years back. What I took away from it was just the perspective that he has when he’s actually playing and how it’s just a sense of calmness. It’s at such a high level for him and everything around him--it’s just different. You know? Being able to have him outside looking in is like, “Whoa, this thing is incredible. It’s crazy.” But to him, it’s not like that at all. It’s quite the opposite and I thought that was a very interesting perspective that he has because that’s something I would have never thought about him as he’s actually playing.
+{: .interviewee }
+
+AG: Right! Well, thanks for checking that out. [Laughs.] Awesome. So for people who want to find out more about your site, who want to check out your videos, how do you want to instruct them to find out more?
+{: .interviewer }
+
+EC: Yeah, so probably three things. One are our social media platforms. Our [instagram is just percuss.io](http://instagram.com/percuss.io). On [facebook, it’s percussiosoftware](https://www.facebook.com/percussiosoftware/). So, connect with us on social media. Like, share, follow. That helps just get exposure and then, we have a lot of content on Soundslice Channels, which is a relatively new feature of Soundslice. It’s community-driven where people can share their work. So we are the premier percussion content creator on that platform. So connect with us there, and check out Soundslice while you’re at it. And then thirdly, our website. It’s just [percuss.io](https://percuss.io). There, within the next couple weeks, we’ll have the new marketing site up that has a clear explanation of who we are and what we do and how to work together. And we also have the learning platform as well where you can sign up with your email address and have access to every project we’ve ever done. We embed the Soundslice videos there and have them catalogued and organized by categories you can search. So, both of those things. Updated versions are rolling out soon.
+{: .interviewee }
+
+AG: Very cool. I really want to thank you guys for not only being here, but for doing what you do. The internet is such a powerful platform, obviously, but it seems sometimes to be commandeered by business interests. To see what you guys are doing, bringing real technical music education to the forefront and introducing people to new music, to me that really is such a special thing. So I’m really glad you’re doing what you’re doing. Thank you for doing that and thank you for keeping on keeping on, because there are days where I feel like giving up and you guys are doing it right. I’m sure you face those times too.
+{: .interviewer }
+
+GT: Yeah, for sure.
+{: .interviewee }
+
+AG: So yeah, thank you again. And I look forward to seeing what you end up doing in the future!
+{: .interviewer }
+
+EC: Thank you! Thanks for having us.
+{: .interviewee }
+
+GT: It’s been a real pleasure.
+{: .interviewee }
