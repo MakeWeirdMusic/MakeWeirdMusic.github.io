@@ -17,7 +17,7 @@ github: [metadata]
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate

@@ -11,7 +11,7 @@ oneliner: Meet the brains behind the viral konnakol and quads videos!
 seo_description: percuss.io offers percussion education technology for free.
 seo_keywords: percussion, konnakol, education, technology, soundslice, eric carraway, george torres iii
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
 youtube_id: uYldcW_0Hig
 file: https://s3.amazonaws.com/audio.makeweirdmusic.com/gear/percuss.io/percuss-io.mp3
