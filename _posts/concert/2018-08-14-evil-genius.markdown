@@ -28,3 +28,9 @@ Here's one of the songs I requested, called *Colonel Karl Marx and Keenan McCard
 Oh, and until I do a final video about the studio, here's a little about the project while I was working on it:
 
 {% include video.html vid="tby3TJGg5xc" %}
+
+## Asterisk
+
+Here's another track written by drummer Mike Lockwood called *Asterisk*.
+
+{% include video.html vid="PNsTYtHgMfc" %}
