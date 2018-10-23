@@ -28,3 +28,9 @@ The California Guitar Trio is renowned for their ability to do "circulations," w
 Here's the California Guitar Trio and the Montreal Guitar Trio performing Radiohead's *Weird Fishes*. It's a beautiful arrangement with an emotional vocal performance from Glenn Lévesque.
 
 {% include video.html vid="ZBt7nn8762c" %}
+
+## Shining Road
+
+Here is the California Guitar Trio performing "Shining Road," a beautiful piece by guitarist Fabio Mittino.
+
+{% include video.html vid="iFJ4zxVaZ1Q" %}
