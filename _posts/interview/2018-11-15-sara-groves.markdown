@@ -1,0 +1,323 @@
+---
+layout: post
+title: Sara Groves
+date: 2018-11-15 00:00:00
+artist: sara-groves
+author: anthony-garone
+image: sara-groves
+category: interview
+permalink: /interview/sara-groves
+oneliner: Sara Groves is a contemporary Christian artist in search of the generative life.
+seo_description: Sara Groves is a contemporary Christian artist who doesn't want to be boxed in.
+seo_keywords: charlie peacock, troy groves, art house north, fernando ortega
+front_page: yes
+draft: yes
+has_video: yes
+youtube_id: ZlpIbf8ERMQ
+file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/sara-groves/sara-groves.mp3
+duration: "52:56" #audio length in min
+length: "63770312" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+---
+
+## An Artist After the Generative Life
+
+Sara Groves is one of the only contemporary Christian music artists I enjoy. My wife turned me on to her music in 2005 when she brought home Sara's album "[Add to the Beauty](https://en.wikipedia.org/wiki/Add_to_the_Beauty)." I remember thinking, "This is good music." (My wife's taste in music has only *some* overlap with mine.) After hearing it around the house a couple of times, I started getting some of the songs in my head. Then I brought the CD in my car and heard Sara sing a line from Peter Gabriel's *Come Talk to Me* and I was like, "Okay, I'm in."
+
+She is one of the most passionate artists I've ever met and she's given her whole life to music and justice. She is unlike most any artist I've met in that her heart and her money go outward to her community and to those in need. She and her husband, Troy Groves, purchased a 100-year-old church and use it as a community arts center. It's a fantastic space with a wonderful atmosphere in St. Paul, Minnesota.
+
+My wife listens to a lot of contemporary Christian artists, but Sara is a clear standout. Her music is very enjoyable, very well recorded, well-produced, and her lyrics are penetrating. She's one of the few artists I've actually listened to for her lyrics. I think growing up with shred guitar music and Yes lyrics desensitized me to lyrics.
+
+In any case, we've listened to Sara over the years and have very much enjoyed her work. We contributed to [Sara's PledgeMusic campaign](https://www.pledgemusic.com/projects/saragroves) and got to spend a day with her in May 2018. And we're bringing her to Arizona for a concert in January 2019, which is especially exciting.
+
+## Interview video
+
+{% include video.html vid=page.youtube_id %}
+
+## Interview Audio (Podcast)
+
+{% include audio.html podcast=page.file %}
+
+## Interview Transcript
+AG: Sara Groves is a musician and artist based in Minneapolis, Minnesota and she recently had a Kickstarter campaign for a new record of hers called Abide With Me, which I have here. My wife and I participated in that Kickstarter campaign and as part of the campaign, we were lucky enough to get to spend a day with Sara in Minneapolis and that was... early May, I believe?
+{: .interviewer }
+
+SG: Yeah, May 5.
+{: .interviewee }
+
+AG: I spoke to Sara about her music a little bit and asked her if she would have a conversation for the website. She was the first to say, "Well, my music isn’t really weird." And, yes, that is relatively true, but the perspective I heard from her as an artist and a musician that day really was eye-opening and a bit mind-blowing at times and covered some pretty deep topics that I really wanted to have her share with us in this format. So, Sara thank you so much for joining. I really appreciate you taking the time to join.
+{: .interviewer }
+
+SG: Thank you, my pleasure. Good to see you.
+{: .interviewee }
+
+AG: You too. Can you give a little bit of background as to who you are?
+{: .interviewer }
+
+SG: I’ve been doing this for about 20 years. I was a teacher before I did music and taught high school for a few years and then went into music full time. I’ve been on the road, a touring musician for 20 years. When you think about that, there’s all these sort of--even when I thought about it at the beginning, either you’re doing this or you’re not doing anything. All in there, there are just a million little places for live music and for people that do music for a living.
+{: .interviewee }
+
+It’s just been an adventure. I have a very wonderfully-committed group of listeners that have followed me, so that makes it really possible for me to still be at it this far in. I’ve made 13 albums in that time and I do tend to play in the faith community, but my music is really about the whole of life. I am reflecting on everything. The whole of life. Singer/Songwriter. I play the piano, write at the piano. My band consists usually of a 3-piece, which is bass, piano, drums, and my bass player also plays pedal steel. So that’s a crowd-pleaser and it’s just a beautiful thing. It’s pretty stripped down. <span class="important">The lyric is definitely the point of what we’re doing, but the music is important as well.</span> I’ve been at that for all this time and am just grateful. I still go out and do about--I was full time on the road for 17 years and then about 3 or 4 years ago, I pulled back and do about 30-40 dates per year now.
+{: .interviewee }
+
+{% include video.html vid="ir5RhjnSRF0" %}
+
+AG: That’s awesome. And your albums have quite a diverse mix of music. Most recently, this new album, "Abide With Me," is very sparse. It’s a very “simple” record, I suppose, because it’s mostly voice and piano, whereas other albums like “[Add to the Beauty](https://en.wikipedia.org/wiki/Add_to_the_Beauty)” and “[Tell Me What You Know](https://en.wikipedia.org/wiki/Tell_Me_What_You_Know)” are much more highly produced, a lot more instrumentation. So, can you talk a little bit about the evolution of your music and you as an artist?
+{: .interviewer }
+
+SG: I’ve always been pretty open to and highly influenced by the producer that I’m working with because I’m not a producer. I’ve not ventured into that realm. So, I’ve worked with [Charlie Peacock](https://en.wikipedia.org/wiki/Charlie_Peacock), he’s grammy award winning in every decade he’s been making music. And incredibly creative. One of the most creative people I know. He worked with me on "[The Other Side of Something](https://en.wikipedia.org/wiki/The_Other_Side_of_Something)" and wanted to do kind of a singer/songwriter record with “[Fireflies and Songs](https://en.wikipedia.org/wiki/Fireflies_and_Songs).” So, that was really reflecting--when I collaborate with someone, I’m very much open to their vision and the band that I’m playing with. I think each of those albums you’re hearing a little bit of that.
+{: .interviewee }
+
+But, I think that when I first came out, the space that I was occupying and the people that were promoting music, I was in the middle of [Christian Contemporary Music](https://en.wikipedia.org/wiki/Contemporary_Christian_music) (CCM Music). That has a whole sound and genre of its own. The first song that I had on radio did really well and it was a very natural fit. It did well, but I wasn’t having to do anything different. It just happened to fit right where they were needing, but after that the conversation became very difficult. I was having to do some gymnastics to try to meet what I thought they wanted and that kind of thing.
+{: .interviewee }
+
+So, with the second album, I had a record of really personal, very relationship-oriented songs and there was sort of a conversation about, “There’s not really anything that we could play here that would be on a station where their mission is safe for the whole family, encouraging, uplifting.” So they asked if I would do--”Well, could you add something?” So I added this song to “[All Right Here](https://en.wikipedia.org/wiki/All_Right_Here)” and I always just felt like it was a bummer to me because it felt so different from what I was actually feeling, like I was supposed to be doing in the space I was inhabiting at the time. So after that, I just said, <span class="important">“Look, I’ll make a record and if you find something you like, then great. And if you don’t, then I’m okay with that.”</span>
+{: .interviewee }
+
+I was working with a label that was very generous with me. I was the first artist to sign and I’ve been with them for the duration. They’ve given me a lot of space to be on my own and <span class="important">it hasn’t always meant success in the sense of more listenership, but I feel like the listeners that I have trust me.</span> I remember at one point, Charlie talking to me about the label was saying around the record “The Other Side of Something” like, “You really have one shot left at being in the Christian music scene.” And Charlie came to me and said, <span class="important">“You’re more of a mom-and-pop shop than you are a Walmart, and if you were to do something that’s kind of Walmart-y, then the people that trust you might not trust you anymore. So, stick to what you feel is what you’re supposed to be doing. The stuff you’re supposed to be putting into the world.”</span>
+{: .interviewee }
+
+{% include video.html vid="jaW43MlC3hI" %}
+
+So that was one of the best conversations I ever had. I was able to go to our label president and say, “I’m a mom-and-pop store, not a Walmart.” And even on an economic level, on every level he was able to understand that and he said, “Oh, okay. Let’s treat it as such, then. Let’s find your people, your ears, and just keep meeting them there.” So that was good. That was pretty early on, that was in ‘03. I really felt free to experiment. The record, “Tell Me What You Know,” is huge.
+{: .interviewee }
+
+I worked with [Brown Bannister](https://en.wikipedia.org/wiki/Brown_Bannister) on “Add to the Beauty” and he’s produced tons of music. “Add to the Beauty” was a real heart album and then with “Tell Me What You Know,” I was talking about social justice things, which at that time in the [evangelical church](https://en.wikipedia.org/wiki/Evangelicalism) we weren’t addressing as much. I wanted to make a really “right where you live” full-on pop album, but around themes of social justice. I had a song based on “[When the Saints go Marching In](https://en.wikipedia.org/wiki/When_the_Saints_Go_Marching_In)” and some others that were just a big pop record. But that was kind of on purpose. We were doing something with that. I think “Add to the Beauty.” “[Floodplain](https://en.wikipedia.org/wiki/Floodplain_(Sara_Groves_album)),” “[Conversations](https://en.wikipedia.org/wiki/Conversations_(Sara_Groves_album))” are kind of the quintessential Sara Groves albums.
+{: .interviewee }
+
+I love [Peter Gabriel](https://en.wikipedia.org/wiki/Peter_Gabriel), I love an epic song. I love something really vibey that can get a little wooly. I’m not averse to that. I’m not totally just acoustic and stripped down. I wouldn’t say that that’s me when I’m being myself. There’s an emotive epic feel to what I like, so that tends to be what I gravitate to. Abide With Me was produced by [John Mark Nelson](http://www.johnmarknelson.com/) and he’s a young artist in his early 20s and he is very minimalist. He took that approach to that record. You’ve been to the [Art House](https://www.arthousenorth.com/) in [St. Paul](https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota). My husband and I own a 100-year-old church where we recorded that record and John Mark said, “I want this album to sound like this room looks.” It’s very warm, lots of warm wood, resonant. That was the goal of that album.
+{: .interviewee }
+
+AG: Yes, "stripped down" is a much better word than “simple." It was not coming to me when I described “Abide With Me.” But it’s funny, last night to prepare for the interview, I listened to “Add to the Beauty” and “Tell Me What You Know,” and those albums are very close to me largely because of the Peter Gabriel vibe going on. And even when you sing parts of “Come Talk To Me” on the reprise at the end. But then on my iTunes it went through to “The Other Side of Something,” and I was like, “What’s this record? It’s really aggressive.” There’s totally [Fiona Apple](https://en.wikipedia.org/wiki/Fiona_Apple) elements, there’s [Beatles](https://en.wikipedia.org/wiki/The_Beatles) elements, it’s a very diverse album, as are “Add To the Beauty” and “Tell Me What You Know.”
+{: .interviewer }
+
+SG: "The Other Side of Something" is Charlie Peacock. You hear him in that record and again, I love those collaborations. You definitely hear the Sara Groves come through. Obviously, that’s always what it is. But Charlie came back to me--his daughter was a big fan and he said (I don’t like the word “fan,” but she’s a listener) and so she said she wanted an album where I was just a kind of a girl and her piano. So Charlie came back and said, “If I ever get a chance to do another record with you. I would do it differently.” He felt like it was his playground with “The Other Side of Something.” He was kind of playing and having fun.
+{: .interviewee }
+
+But with “Fireflies and Songs,” he was more, “Okay, what are you doing when you’re amplified? When you’re at your best?” So those two records really show the difference of the approach of that collaboration. “Other Side of Something” was a blank check to Charlie. Songs like “The Boxer,” his whole world is from a jazz background and very improvisational. We had the band improvising for probably an hour and they’d play for probably 10-15 minutes and he’d say, “All right, everyone change what you’re doing,” and then they’d play again for another 15 minutes and then he’d say, “All right, whatever you’re doing, don’t do that again.” They’d play again and then he sort of takes all these scenes that they had created because they get into a whole picture and he chopped those up and put those back to back, so in that song, in “The Boxer,” you’re moving in and out of these jazz scenes. I loved that! I loved that whole experience. I’m just on the mic in the corner making stuff up. So, that was a lot of fun.
+{: .interviewee }
+
+AG: Yeah, very cool stuff. You mentioned the element of social justice in your music. That term, "social justice," nowadays seems to be taking on its own life with “social justice warriors.” But I know that you are talking about something different than young people fighting their university, the patriarchy, that kind of thing. Can you talk a little about what social justice means in the context that you’re using it and how your music plays into your activism?
+{: .interviewer }
+
+SG: Yeah. Well, I’ll have to go to a place to talk about it from the vantage point of my faith because I grew up in church. In my late 20s, I was having a faith crisis. What I was feeling was that I was going and doing all this work to groom and groom and groom my own personal faith. My own understanding of myself, my own understanding of God, and I was doing all this sort of work and I felt all dressed up and nowhere to go.
+{: .interviewee }
+
+To what end do we gather every week? I believe in that, I believe in the blessed community, I believe in the flawed qualities, that we come together, that it’s important to do that. But in attempting to reflect what [the beatitudes](https://en.wikipedia.org/wiki/Beatitudes) are talking about, what Jesus was trying to do and say in the world, if I’m really going to follow that, I felt like what we were doing on a Sunday morning wasn’t really reflective wholly of what he was purporting we should be doing.
+{: .interviewee }
+
+So I started looking around for people that were doing that and I found [International Justice Mission](https://en.wikipedia.org/wiki/International_Justice_Mission). They’re the largest anti-slavery, anti-trafficking organization in the world. They’re truly an international organization. They have offices all over the world and are led by the best and brightest in India and Africa and Philippines and all over southeast Asia. I started hearing these stories of rescue and of people that were being enslaved for generations and now they were going through after-care programs.
+{: .interviewee }
+
+{% include video.html vid="Lt_WpluguwE" %}
+
+<span class="important">There’s a story in India of a woman enslaved and then ran for city council. She’s now sitting on the city council of her community and ran against the man that is supported by her previous owner. There’s a survivor-led movement. There are more slaves today than there ever have been in the history of the world. There’s a survivor-led movement that’s happening that’s just unbelievable.</span> So when I started seeing these men and women of faith who, because of their faith, were going into very difficult places. The best and brightest lawyers in India were signing up and I want to advocate for the poor. I want to be on the side of--I think that’s where Jesus said he would be. "I’ll be here with those that are oppressed, with those that are poor."
+{: .interviewee }
+
+I started hearing these stories and <span class="important">my first response was, “I need to do something different than be a songwriter. I need to be a nurse or an after-care worker or a lawyer. I need to do something more tangible.”</span> And that’s when Charlie sat me down and told me about the [cellist of Sarajevo](https://en.wikipedia.org/wiki/Cellist_of_Sarajevo) and said, “You know there was a guy during the Bosnian war who played his cello in the middle of a recently-bombed out area and a lot of people say what he did, the attention that he drew, this protest of beauty in the middle of all this chaos, it drew attention to the region and really hastened the end of the war.” <span class="important">Basically, art matters, and songs matter</span>, and he was encouraging me. <span class="important">“Write music about what you’re seeing!” I had met a survivor of trafficking. We became good friends. Her life and her resilience and her faith were so compelling to me. The record “Tell Me What You Know,” every single song in some way reflects her.</span>
+{: .interviewee }
+
+I was writing about her, I was writing about the work of International Justice Mission, and now my husband works for them. He’s been there 4 years and it’s kind of an integral part of our life. To me, it is the expression of faith. My grandfather, for 40 years, he went down to the local prison in our town and met with a group of men twice a week. I have a history of people engaging just to enter suffering that’s not your own. <span class="important">To me, that’s what I mean when I say “social justice.” I mean: justice is what love looks like in public. And I think as Christ-followers, we have to think about that.</span>
+{: .interviewee }
+
+AG: One of the most compelling things that I realized about you through the St. Paul experience was how much you’ve given your life through your music and using your music towards this new--after-that experience. This activism. A lot of people, if they have money in music, they will just continue investing in that, they’ll build a studio, they’ll grow their careers, or something like that. You have built a community center, you use this money to change really horrible situations in the world, and your music is developing awareness and a form of activism. Can you share a little bit about the story where your lyrics may have crossed a line for your label? You shared something about that with "there’s a girl in the room." I just thought it was so fascinating about the context where your music is normally released versus the experience that you have as a faith-based artist for a faith-based label.
+{: .interviewer }
+
+SG: It was "When the Saints," a song based on “When the Saints.” I had written the original with a bridge that basically talked about “I think of Harriet Tubman, I think of all these people that have gone before me.” There’s a lyric, “I see a man with a passion, I see a...” I can’t even get there. [Laughs.] I have 13 albums and 3 children and all these things just fall out of the back of my head now.
+{: .interviewee }
+
+AG: I’ll put in a clip here of the song.
+{: .interviewer }
+
+SG: It builds and basically ends with a picture of a girl on the brothel floor, I see a man with a passion come and kicking down that door. That was one of the stories I had seen. [Svay Pak](https://en.wikipedia.org/wiki/Svay_Pak) in the [Philippines](https://en.wikipedia.org/wiki/Philippines) was a sex tourism site. It was a place where if you were a pedophile, you could go and you knew you would be unhindered. The brothels were in cahoots with the police, so there was no protection. These children were being trafficked in the open, basically.
+{: .interviewee }
+
+That was one of IJM’s first jobs. They went there and they just began collecting undercover investigation materials and documenting all who was there. The youngest was as young as 5 years old and they brought all this information to a man in power who wanted to do the right thing. So they started something and began a work there that led to eventually the [Bill Gates Foundation](https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation) doing a study, an external study of their work in the Philippines. In Sebu, Philippines and in other places, they saw as much as 87% reduction of the trafficking of children in those areas.
+{: .interviewee }
+
+Their work is just amazing and it works. It’s creating a barrier that’s basically telling these guys that think, "I can just do whatever I want." You can’t do that with impunity. You will go to jail. It creates a buffer, a hedge of protection around these children. <span class="important">I wanted to write about that guy. I knew who the head investigator was. I’d seen footage of him kicking down the door of the brothel to get these girls.</span> So I’d written and talked about the brothel and all that. When I went to go record the song, they really liked the song, but felt like maybe there was a different approach to the bridge just to fit more with the audience.
+{: .interviewee }
+
+I had written this whole other bridge and it was more going back to historically-Biblical figures and moving then further through history. We had tracked the whole thing, we recorded the whole thing. My husband was out with a friend and he was talking about how much it bothered him. It kind of lost its original--the whole point of the song, we wrote it because of this girl we had met and because of the stories we were hearing. So, I was 8 months, maybe 9 months pregnant and Troy comes home and was like, “We have to re-cut that bridge.” We called the producer. The record is done. It’s finished, and I think even mixed at this point.
+{: .interviewee }
+
+{% include video.html vid="LxT_RqPt660" %}
+
+It was very last-minute, but Brown was producing that record and he called the studio in Minneapolis and we got in and I re-sang the entire bridge. <span class="important">But the sense was that talking about brothels in India and brothels in Southeast Asia is not safe for the whole family. For me, it just felt like that can’t be my goal, that can’t be what I’m prioritizing over telling the truth about what I’m seeing.</span> We decided to go with the original lyric that I had written and that made sense. The song has gone out and had much of more an impact because of that.
+{: .interviewee }
+
+The song was chosen by iTunes to be the “discovery download for that month,” so back then--they don’t do the same things exactly now, but back then they used to pick--and you couldn’t buy it. A label couldn’t in any way coerce how this was happening, but iTunes would pick and they would move through different genres. Maybe once or twice a year, they would pick a Christian song. It was the discovery download of the week, so they picked that song to be the discovery download.
+{: .interviewee }
+
+This was before the album was released and we had friends who had been working on a project to bring down this certain really insidious brothel and they had tried several times. I think they were on their seventh try to have the police come and raid this. Every time they went, someone had tipped them off so the girls were hidden or gone. So, a friend of mine emailed them and said, “Sara Groves has written you a song, “and it was uploaded that night at midnight. On iTunes, the album wasn’t even available yet, <span class="important">but where they were gathered in south Asia, they gathered around their little computer, listened to the song, and then went and conducted this raid with the police and were successful and ended up capturing and freeing all these girls.</span> And I just thought that was such a neat moment for me, that the music--I had written it for them, to advocate for them to get their story out and here they were gathered around these tiny speakers really finding encouragement from the song. The director of that office wrote me later and said, “We rescued that girl. We all gathered around the computer and then went out and did it.”
+{: .interviewee }
+
+AG: That’s incredible.
+{: .interviewer }
+
+SG: So for me, yeah, that <span class="important">that lyric was right and telling the truth about what I was trying to say. That was really important. It might seem like a small thing to push back about, but it was important to me. That’s always the balance that you’re trying to figure out and market your music and being true to yourself and all of those things.</span>
+{: .interviewee }
+
+AG: I think it’s just an incredible testimony to so many things, particularly the power of music and music as art and that art is important. With that being said, why don’t you tell us a little about Art House North, what it is, why you started it, and what you’re doing with it?
+{: .interviewer }
+
+SG: Yeah, so I came over here because my house isn’t very quiet this morning. My husband and I own a 100-year-old church and right behind you is actually the album cover of Abide With Me and that’s a picture of 1906, that’s a picture of the building being built and the first congregation are having their first service out in the street there in front of the building.
+{: .interviewee }
+
+AG: Oh that’s cool.
+{: .interviewer }
+
+SG: Yeah, so that’s the art house being built. So we bought it in 2011 and we really modeled it--so Charlie Peacock has just been a mentor and friend for many years. Watching his and his wife’s life, they were influenced by a lot of different people--[L'Abrie](http://labri.org/) and that kind of idea of having a place to gather, be able to ask questions. <span class="important">In Nashville, I found a lot of places where you could get information about how to run your business, but a place where you could actually talk about what it means to be a person of faith in the world, what does it look like? What does it look like to tear down the sacred and secular divide and just be yourself? Be wholly integrated and just be doing what you’re doing.</span>
+{: .interviewee }
+
+I used to talk to Charlie about not writing about the filter, but writing about what you see through the filter. That’s the kind of Christian artist I wanted to be, that I wasn’t always writing about the Christianity itself. Maybe those songs are valuable, I’m not diminishing that, but for me I felt really called to the integrated life. If it matters, it matters at every level and it matters everywhere I go and in every part of myself, so I wanted the music to reflect that.
+{: .interviewee }
+
+So we watched them have this community in Nashville. They started Art House in Nashville and they bought a 100-year-old church and they actually lived in their church and had a studio there and that’s where we produced "The Other Side of Something" and “Fireflies and Songs.” We would gather there with them with other people to hear about--I learned about IJM at Art House and just talking about what kind of person you want to be in the world, what it looks like to be a person of faith, and to use that wisely.
+{: .interviewee }
+
+So, Troy and I in 2011 bought this place and we don’t have a good elevator speech because all kinds of things happen here. <span class="important">The tagline is “Creative community for the common good.”</span> We have two parts of Art House. We have community partnerships where people have come around us. We have a theater company that the couple that runs it lives a block away from us. Our kids are all in school together. They’re just amazing. They write original plays and they do them here, probably about three per year. And then we have, Troy and I, our Art House programming. That is all kinds of stuff.
+{: .interviewee }
+
+We have afterschool music lessons for kids that kind of resemble School of Rock. We do a square dance every year. We have all kinds of things around the arts. Our neighbor is a banjo player and he came to us and said, “Nothing brings a neighborhood together like a square dance.” So we started that tradition 4 or 5 years ago. <span class="important">And then Troy and I host events where we’re talking about different topics. Our format is “Artists Respond.” Artists respond to tragedy, artists respond to creation care, artists respond to gun violence, artists respond to whatever the topic is. Immigration.... So we call up 3-5 artists to respond to a topic and instead of having a panel or talking heads, that kind of thing, we let people just express through their art how they’ve experienced that topic.</span> And then the discussion ends up being a lot richer and a lot more nuanced.
+{: .interviewee }
+
+I think we’ve lost nuance, we’ve completely lost nuance. It’s just almost impossible to actually reason together. So we found that through the arts you can do that a little bit better. Someone says, “I wrote this song because I was compelled by what I saw.” And also it’s often coming from a place of lament instead of anger. You tend to find that, I think, <span class="important">when we invite artists that they are able to share their lament about whatever they see that’s incongruent in the world</span>, if that makes sense.
+{: .interviewee }
+
+{% include video.html vid="3y8JSNknIzE" %}
+
+AG: Totally. That reminds me of a video you have on your website. I think it’s called "Extravagance" where you talk about how an artist can see what he or she does as extravagant or wasteful. Could you elaborate on that?
+{: .interviewer }
+
+SG: Yeah, so another person I listen to a lot is [Makoto Fujimura](https://en.wikipedia.org/wiki/Makoto_Fujimura). He’s a visual artist. He used to be in New York City. He was there when 9/11 occurred and was kind of part of a vital artist’s movement around 9/11 to bring spaces of healing to New York. He’s written a lot about that. He wrote a book called "[Refractions](https://www.amazon.com/Refractions-Journey-Faith-Art-Culture/dp/1600063012)" and he’s written a book called “[Culture Care](https://www.amazon.com/gp/product/0830845038/ref=dbs_a_def_rwt_bibl_vppi_i0).” <span class="important">He just puts forth the idea that culture is not a war to be won, but it is a garden to be cultivated.</span>
+{: .interviewee }
+
+The difference between a combative stance or a blaming stance where you stand around--I think about that cellist in the middle of that bomb crater in Sarajevo. <span class="important">It’s easy to stand around the bomb crater and talk about the bomb crater and how it got there and who’s to blame for it and its dimensions and how deep it is and what a loss it is. It’s something different to crawl in there yourself and start creating something beautiful and to have this protest of beauty in the middle of chaos.</span>
+{: .interviewee }
+
+Both Makota Fujimura and Charlie Peacock have shown me what they call the “generative life.” That is the life that crawls into that space and says, “What would I build here? What would I put here? Even if it’s going to be bombed out again. Even if the war doesn’t stop. Even if the chaos doesn’t stop. What generative thing would I put here?” And so that was from a blog he had written about, I believe, the war in Iraq. He had written about this little girl that, in running back to save a flower, she saw a flower and she had been struck by a bullet. <span class="important">Everyone said, “What a waste,” and yet Mako was saying in this gesture, he saw this child identifying with something beautiful in the middle of total chaos and that action was a very valiant effort to save something beautiful on her part.</span>
+{: .interviewee }
+
+He talks about how the arts can feel--we can feel as contemplatives, sometimes, the time it takes to contemplate, the materials we’re using, all those things can feel extravagant and wasteful. When we’re in these sort of utilitarian and pragmatically-driven spaces. <span class="important">He says utility and pragmatism have infected every institution we know and he said maybe primarily the church where we equate “useful” with “good.” That began a dialogue in my own heart. “Oh wow, what do we do with useless people? How do we think about that? What do we do with the parts of ourselves that feel useless and lacking?”</span>
+{: .interviewee }
+
+At the time, I had been going through some depression and was having a very hard time being productive. My productivity levels were down the drain. So what value was I at that point if I wasn’t producing? So I began thinking differently about my life. “Okay, I’m having a hard time these days getting out of bed. I’m genuinely moving more slowly. So what is the value? I think there’s something here for me to learn and to listen to.” My body was telling me something. My everything was trying to get my attention. That record, “Floodplain,” was really looking at those ideas of extravagance and wasteful. <span class="important">To me, the Mississippi River is the dream of God.</span>
+{: .interviewee }
+
+{% include video.html vid="e_bukdxhBKo" %}
+
+I was looking one day at the city of St. Paul on the bluff and I thought, “The city is the dream of man. It’s amazing what we can build. What we can do. It’s incredible .You look at a city and it’s mind-blowing what we can do. We work together and we accomplish and we strive and we make these cities.” But then there’s the river running by the city. This is an invitation. <span class="important">This is kind of if you want to know how God is different from us. We could not make the Mississippi River. It is other. It’s so other than us.</span> It’s other than what we would do and it’s an invitation to this extravagant kind of Huck Finn rest. “Come on, get on a raft. Let’s go sit a while and ponder.”
+{: .interviewee }
+
+Those things can feel like, “Oh what a waste of time.” And yet, I think the arts are necessary to push back against that pragmatic, useful constant dream of man that kind of whirs around us. I think it’s important. I actually think once a week we should get away and enter into this space really intentionally, into this dream of God. Obviously, I want to be participating in the dream of God and what I call the “kingdom imagination” at all times of the week. But that record “Floodplain” ended up being about my journey with depression, but finding value in pushing against that pragmatic space and entering into those extravagant and wasteful “I’m gonna do something totally lavish.”
+{: .interviewee }
+
+AG: That’s amazing. I’ve spoken with the artist Steve Vai. He’s a guitarist that also thinks at this level. We were talking about what he calls "the movie projector metaphor" where we often think our life is what’s happening as the film crosses the movie projector, but we’re really the light. We have the opportunity to choose to be what’s on the film or to be the light. It reminds me a lot of what you’re talking about with this “filter.” You’re wearing these glasses and you have this worldview that applies to whatever it is that you’re seeing and experiencing. So can you talk a little more about how you’ve discovered as an artist what your filters are and how to move beyond that? The world wants you to have their filter.
+{: .interviewer }
+
+SG: Yeah, yeah. That’s a good question. I think that--I love that projector [metaphor]. That’s going to stay with me. I try to be a student of people I admire, so if I find somebody and they’re just intriguing to me--we’ve just lost [Eugene Peterson](https://en.wikipedia.org/wiki/Eugene_H._Peterson), a pastor of profound gift. I was lucky enough to have met him and his books have shaped me for years. I’ve tried to read "[A Long Obedience in the Same Direction](https://www.amazon.com/Long-Obedience-Same-Direction-Discipleship/dp/0830822577)" once a year. But people like Eugene Peterson, [Walter Brueggemann](https://en.wikipedia.org/wiki/Walter_Brueggemann)--and my dad was very much this way, too. He was always encouraging me.
+{: .interviewee }
+
+Kind of what I said, <span class="important">you can get stuck thinking so much about the filter and defining it constantly that you kind of forget to actually do the thing. Talking about the thing and doing the thing are two very separate things.</span> I see for me, the word “Christian” has come to mean a lot of things. It evokes a lot of feelings in people, especially right now, but to me, at the base level, it’s being an imitator of Jesus.
+{: .interviewee }
+
+{% include video.html vid="ra3lh0DCIDY" %}
+
+To me, Jesus is--so, every man says in his heart, all throughout history, “If I were God, if I were God, if I were God, if I were God...” And then the story, as the story goes, this is God himself coming and he had every right to just roar, to just completely level, to be God. And he is God, as it says in Philippians, he didn’t consider equality with God something to be used to his advantage, but instead thought of others more highly than himself. That was what God did when he came. Even if you don’t believe that that story is real, that’s compelling. That’s very compelling to me. We’re used to “power over” always, people pushing and it’s like this is the story of the apple. It’s “I want that,” forcefully taking and possessing.
+{: .interviewee }
+
+So we know what that looks like. We see that play out in history a bazillion times, in seriously every heart. Even my dog has said, “If I were God.” Every single one of us says it. And here’s this story about God himself coming and purporting, “I am God,“ and then doing something so completely different and humble and not “power over,” but in service. So I think that what I want to be doing is sort of integrated. <span class="important">[Madeleine L’Engle](https://en.wikipedia.org/wiki/Madeleine_L%27Engle) said there is no such thing as sacred and secular art. There’s only good and bad art.</span> And I love that because I think, “Okay, I want to be putting beautiful and good.”
+{: .interviewee }
+
+I think when I do that, I’m participating in the divine nature and so I want to put those things into the world**, but I always want to be thinking about embodiment. Not just what’s happening “here” in a sort of philosophical or theological level, but then always asking the question of “what does that look like when I’m in a fight with my husband?”
+{: .interviewee }
+
+{% include video.html vid="u15Ew-SIz6A" %}
+
+I wrote a song called “Roll to the Middle” when we had literally had the most massive fight. The full-blown, all bets were off and we were unloading 100% and he was leaving town, going overseas for three weeks. I thought, “He can’t leave like this. I know the right thing to do, I just don’t feel at all even remotely like reconciling at this point, but he can’t leave the country with us in this place.” So I went to the piano just in search of anything. A song of reconciliation. That song ended up being beautifully so. I played it for him. It came out in a matter of 10 minutes and half an hour later, “Can I play you something? It’s so weird, I know.” But I played that song and it’s like, no matter how my pride resists, no matter how that wall feels true, no matter how I can’t basically make you respond this equally, I can’t make you also apologize, but I’m going to lean into you. I’m going to not let you go like this. So that song ended up being a part of our reconciliation, so always looking at “what does this actually look like in human terms in what we’re actually doing here?” Not just having a faith that is for the hereafter, but very much, I think that is what Jesus says more than anything. The kingdom of God is near, it’s actually among you.
+{: .interviewee }
+
+AG: I listened to that song last night and was pretty astounded at the honesty and how much I could relate. Everybody in a relationship has to go through something like that. You can choose to let it ruin you or you can use it as an opportunity to learn about yourself and the relationship you’re in. So, hearing that in a musical context was very moving and powerful. Again, it’s just a testimony to how when I listen to your music, how much power there is in your art. I don’t normally listen to lyrics, I grew up playing guitar. Shredding. So, when I listen to music, I’m mostly listening to the music, but you have a way of using the word and the lyric to really get through. The music is a context that you use to allow the word to move forward. So, that’s another thing I really admire about you and your music.
+{: .interviewer }
+
+SG: Thank you.
+{: .interviewee }
+
+AG: You’re welcome. Can you talk a little bit about patronage? That was a topic that we discussed, you discussed more broadly at the St. Paul experience, you and I spoke a little bit individually about, and it’s really impacted your recent career. So, talk a little bit about patronage.
+{: .interviewer }
+
+SG: Well, I have to thank you because you encouraged me to take a step. Troy had been already on board for probably--since it started. He got early wind of what Patreon specifically was doing, but that conversation with you--Troy said, "Of course, one other person says..." He’s been telling me for so long and then he says, “One other strange person...”
+{: .interviewee }
+
+AG: I’m finally that person. I’m always in Troy’s position, but now I’m on the other side. Cool!
+{: .interviewer }
+
+SG: Yeah! But I think the coin maybe somehow dropped when we were talking and I thought, "You know, I need to move forward with this." What I say about music, and there’s a lot to this obviously, this is a whole big conversation. <span class="important">But the music scene has changed so much and the way I describe our own lives is we were working one field for a yield and then we were working two fields for that yield and then ten fields and then it became unsustainable because of streaming.</span> We’ve lived through many disruptive technologies, we’ve seen the move from cassettes to CDs and then CDs to streaming. And then even downloads then to full-on streaming, just where everything is basically free.
+{: .interviewee }
+
+{% include video.html vid="Ud5XLIOBLys" %}
+
+I remember a few years ago asking our label, “So what happens on...” We were doing all this pre-release stuff to try to sell the record early and we basically--Dan Michaels had said, “You have about a month to sell your record before it comes out to the people that really want to hear it.” And I said, “What happens now because release day used to be such a big deal?” It was such a huge day and then the next month was the big month. <span class="important">So I said, “What happens on release day?” And he said, “Oh that’s the day your album is free.”</span> [Laughs.] And I was, “Oh my word!” I hadn’t really fully processed that yet that, oh, that’s what happens. That’s the day your record is available for free.
+{: .interviewee }
+
+I think that liminality is good for the arts. I think that it forces creativity and we’re in a space where we have to think differently and traditionally, the arts were always supported by patronage. Someone wanted [James Joyce](https://en.wikipedia.org/wiki/James_Joyce) to write, so they supported him, put him up in an apartment and paid for his meals and all that so that he could write. [Vincent Van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh) even was constantly having to write home for more money, but he had patronage from his brother and different people to do what he was doing. That long defeat that he walked.
+{: .interviewee }
+
+So, there’s a short little window from the 1940s til our present in 1995 where we were able to sell a CD and kind of have this exchange, but that window has closed and we moved into a different time. <span class="important">I think a lot of artists are looking back to the sort of history of the arts. The arts have always required endowment.</span> Troy always says, “Look at your portfolio, your support. You’ve got these stocks, you’ve got these things, are you supporting the arts?” Maybe you’re supporting public radio or something. If you’re enjoying something are you supporting it? With Patreon, you and I had talked about that, but that’s basically created a tool for artists to be able to connect with their listeners in a very direct way and create and hopefully bring value to that relationship. Deepen that relationship so that you’re bringing more exclusive content to the people that really care about that.
+{: .interviewee }
+
+<span class="important">You can’t support every person you listen to with streaming music, but I think you can consider what 3-5 artists do I listen to a lot. How am I actually engaging in the marketplace with them? Am I buying a t-shirt? Am I going to a show?</span> To think about that, if I’m really participating and if someone’s music is really resonating with me and informing the way I think about the world, am I then somehow participating in the making of that music? I think that [Patreon](https://en.wikipedia.org/wiki/Patreon)’s created an amazing tool to let--not everyone’s going to love my music, but there are people who’ve been listening for a long time. You had so, I think, given me permission. I think I felt--it’s kind of hard. It’s a hard paradigm shift to go, “Am I asking for some sort of hand-out?” Because you’re actually again having to put value on what you do as a vocational thing. I think in the arts that can be a struggle anyway. You’re always kind of like, “Is this valuable?” [Laughs.] So, yeah, thanks for the encouragement.
+{: .interviewee }
+
+AG: You’re very welcome. And how has the response been?
+{: .interviewer }
+
+SG: It’s been amazing. We’ve been up for about two and a half weeks and I have 130-140 supporters at this time. It’s just a game-changer. I had posted just for Patreon listeners a little song that Ruby and I wrote. It’s a prayer that we kind of sing, not every night, but often for all the people that would be displaced on any given night. We know there are millions of people who have been driven from their homes because of violence or whatever. Thinking about the refugee, thinking about those mothers that are on the road, carrying their whole lives on their back.
+{: .interviewee }
+
+I just wanted a prayer, something that Ruby and I could sing or say that would just be something we would repeat and remind us of the refugee at any given time. So I wrote this song, "Jesus See the Traveler." I posted that for our Patreon folks and I posted just a clip of it to my Instagram. Not the full song, but the response was really overwhelming. People were asking, “Where can I get this song? Can I get the whole thing?” So I’ve already booked a studio and players and we’re going to track that song, Ruby and I are going to track it in the first week of November, and then that will go out into the world. Then I’ll be able to tell my Patreon supporters, “You did this! Literally. That would have just languished in my song notebook because I wouldn’t have the resources to put together an album.”
+{: .interviewee }
+
+{% include video.html vid="gY-3LtJtPIE" %}
+
+<span class="important">I’m basically on an 18-month to 2-year cycle because I’m paying for those albums. I pay to make them. It’s a huge investment.</span> So, that’s a difference. I’m dreaming every single day like, “Oh I can do that. I can actually record that song.” And that’s something I used to be able to do, but just in the last ten years, how am I going to fund that? How am I going to get that to happen? So it just really is--I cried the first week [laughs] because I told Troy, “I don’t think I really appreciated the impact of not being paid vocationally for a while.” And then to have people come and affirm that again and say, “Yeah we’d like you to do this for a living.” You know? Even though I know that that’s my role in the world, it was very affirming.
+{: .interviewee }
+
+AG: It’s very difficult to understand that separation of "this is what I’m called to do" and “this is how the world makes it happen.” You don’t want your identity to be tainted or poisoned by the way an industry might work, but I’m really glad you did it and there really are hundreds more people who want to give you money. They’re just waiting to give you their money, you know? It’s like, just get the word out and they can offer even a dollar a month. It’s like buying a CD a year, but it goes directly to the artist. So, I think it’s a very powerful thing and I’m really glad that it’s working out for you. So, congratulations.
+{: .interviewer }
+
+SG: Thank you. We kind of tied it in where we’re merging what I’m doing--it used to be kind of like "here’s Sara’s music" or “the touring entity” and then “here’s Art House” but we’re really seeing the two working together now. The Art House is the umbrella. The Patreon is also going towards everything we’re doing in our lives, that creative community for the common good. The music is a big part of that. Obviously it’s coming out of here. I write here at this piano and this is where that begins.
+{: .interviewee }
+
+{% include video.html vid="qavipq-IgkM" %}
+
+AG: It’s also powerful, at least for me--I only have a handful of patrons. I don’t push the Patreon thing very much, but just knowing that there are people who want me to be doing this and they’re sacrificing their own money and their time (because they had to earn the money), it encourages me to keep going and to release things and to make it interesting for them. I don’t know if you’ve experienced that as well, but it sounds like you’re starting to. It’s great.
+{: .interviewer }
+
+SG: Yeah, the ideas--I have this long--I’ve been ruminating on this idea for a long time to go back and meet with people that I’ve worked with in the past, like Charlie and Don and Lori Chaffer from [Waterdeep](https://en.wikipedia.org/wiki/Waterdeep_(band)) and these other bands that I’ve worked with, and to do sort of a vlog of us writing together. Basically where we get together and write a song. I’ve lined up two of those already in January. So in January, I’ll be going down with a couple friends who do film and they’ll be basically capturing us writing music together.
+{: .interviewee }
+
+I’m just excited about the possibilities. I have no idea what the song--what will we write? What will we create? I think just letting people into the process more, too, is a lot of fun. It used to be like you squirreled away and you did your work and brought it out. It’s a fun idea that--I love the author [Austin Kleon](https://en.wikipedia.org/wiki/Austin_Kleon). He says he’s an artist that writes or a writer that draws. I can’t remember, but he does these kinds of doodle things and he curates a newsletter about creative writing once a month, I think. It’s very life-giving to me. I love it.
+{: .interviewee }
+
+But Austin, he wrote the book "[Steal Like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)" based on the idea that we’re all just taking all the pieces that inform us and creating something new with that. Anyway, I’ve just been so inspired with this. I could actually dream about--have ideas and put things into the world now, where before, “That’s a really cool idea, but it’s cost prohibitive,” or, “That just doesn’t work.” <span class="important">I have worked with this label, but it has always been a marketing and distribution deal. Troy and I have funded our own album making from the beginning. It’s like buying a car every year, you know?</span>
+{: .interviewee }
+
+AG: Yep, definitely. Awesome. This has been a great conversation and I really appreciate you taking the time. So many great insights and I know that people come to these interviews with artists because they’re people like you who live it out and you are really a gifted artist and I’m very happy that we could have this conversation. So thank you very much.
+{: .interviewer }
+
+SG: Me too. Thank you, Anthony.
+{: .interviewee }
+
+AG: How can people learn more about you and start to discover your work and those kinds of things? How do you recommend? And best support you?
+{: .interviewer }
+
+SG: Well, Patreon. I have a new Patreon. [Laughs.] What do you call it? An account?
+{: .interviewee }
+
+AG: Page? I don’t know.
+{: .interviewer }
+
+SG: Page? Page. But if you’re not ready for that, there’s music out there. SaraGroves.com, there’s no ‘h’ on Sara and then ArtHouse.com as well. Sorry, ArtHouseNorth.com. Those are the places that explain what we’re doing. Anywhere there’s music, you can find my music. Yeah, I recommend "Add to the Beauty" and “Floodplain” if you’re wanting an introduction.
