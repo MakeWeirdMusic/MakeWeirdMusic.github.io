@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2018 Make Weird Music</copyright>
-		<pubDate>Fri, 16 Nov 2018 10:19:37 -0700</pubDate>
-		<lastBuildDate>Fri, 16 Nov 2018 10:19:37 -0700</lastBuildDate>
+		<pubDate>Fri, 16 Nov 2018 18:38:12 -0700</pubDate>
+		<lastBuildDate>Fri, 16 Nov 2018 18:38:12 -0700</lastBuildDate>
 		<image>
 			<link>http://www.makeweirdmusic.com</link>
 			<url>http://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -31,6 +31,23 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 		
+			
+			<item>
+				<title>Interview: Sara Groves</title>
+				<link>http://www.makeweirdmusic.com/interview/sara-groves</link>
+				<pubDate>Wed, 14 Nov 2018 17:00:00 -0700</pubDate>
+				<description>Sara Groves is a contemporary Christian artist who doesn't want to be boxed in.</description>
+				<guid isPermaLink="true">http://www.makeweirdmusic.com/interview/sara-groves</guid>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/sara-groves/sara-groves.mp3" length="127389299" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Interview: Sara Groves by Make Weird Music</itunes:subtitle>
+				<itunes:summary>Sara Groves is a contemporary Christian artist who doesn't want to be boxed in.</itunes:summary>
+				<itunes:duration>1:05:28</itunes:duration>
+				<itunes:keywords>charlie peacock, troy groves, art house north, fernando ortega</itunes:keywords>
+				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/sara-groves/sara-groves.png" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
 			
 		
 			
