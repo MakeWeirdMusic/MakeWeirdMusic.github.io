@@ -11,12 +11,12 @@ oneliner: Sara Groves is a contemporary Christian artist in search of the genera
 seo_description: Sara Groves is a contemporary Christian artist who doesn't want to be boxed in.
 seo_keywords: charlie peacock, troy groves, art house north, fernando ortega
 front_page: yes
-draft: yes
+draft: no
 has_video: yes
-youtube_id: ZlpIbf8ERMQ
+youtube_id: pXn6CvFgp_0
 file: http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/sara-groves/sara-groves.mp3
-duration: "52:56" #audio length in min
-length: "63770312" #filesize in byte
+duration: "1:05:28" #audio length in min
+length: "127389299" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 ---
@@ -124,13 +124,10 @@ I was writing about her, I was writing about the work of International Justice M
 AG: One of the most compelling things that I realized about you through the St. Paul experience was how much you’ve given your life through your music and using your music towards this new--after-that experience. This activism. A lot of people, if they have money in music, they will just continue investing in that, they’ll build a studio, they’ll grow their careers, or something like that. You have built a community center, you use this money to change really horrible situations in the world, and your music is developing awareness and a form of activism. Can you share a little bit about the story where your lyrics may have crossed a line for your label? You shared something about that with "there’s a girl in the room." I just thought it was so fascinating about the context where your music is normally released versus the experience that you have as a faith-based artist for a faith-based label.
 {: .interviewer }
 
-SG: It was "When the Saints," a song based on “When the Saints.” I had written the original with a bridge that basically talked about “I think of Harriet Tubman, I think of all these people that have gone before me.” There’s a lyric, “I see a man with a passion, I see a...” I can’t even get there. [Laughs.] I have 13 albums and 3 children and all these things just fall out of the back of my head now.
+SG: It was "When the Saints," a song based on “When the Saints.” I had written the original with a bridge that basically talked about “I think of Harriet Tubman, I think of all these people that have gone before me.” There’s a lyric, “I see a..."
 {: .interviewee }
 
-AG: I’ll put in a clip here of the song.
-{: .interviewer }
-
-SG: It builds and basically ends with a picture of a girl on the brothel floor, I see a man with a passion come and kicking down that door. That was one of the stories I had seen. [Svay Pak](https://en.wikipedia.org/wiki/Svay_Pak) in the [Philippines](https://en.wikipedia.org/wiki/Philippines) was a sex tourism site. It was a place where if you were a pedophile, you could go and you knew you would be unhindered. The brothels were in cahoots with the police, so there was no protection. These children were being trafficked in the open, basically.
+It builds and basically ends with a picture of a girl on the brothel floor, I see a man with a passion come and kicking down that door. That was one of the stories I had seen. [Svay Pak](https://en.wikipedia.org/wiki/Svay_Pak) in the [Philippines](https://en.wikipedia.org/wiki/Philippines) was a sex tourism site. It was a place where if you were a pedophile, you could go and you knew you would be unhindered. The brothels were in cahoots with the police, so there was no protection. These children were being trafficked in the open, basically.
 {: .interviewee }
 
 That was one of IJM’s first jobs. They went there and they just began collecting undercover investigation materials and documenting all who was there. The youngest was as young as 5 years old and they brought all this information to a man in power who wanted to do the right thing. So they started something and began a work there that led to eventually the [Bill Gates Foundation](https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation) doing a study, an external study of their work in the Philippines. In Sebu, Philippines and in other places, they saw as much as 87% reduction of the trafficking of children in those areas.
