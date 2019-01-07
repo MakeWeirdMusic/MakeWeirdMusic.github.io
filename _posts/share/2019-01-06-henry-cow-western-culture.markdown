@@ -4,7 +4,7 @@ title: Western Culture by Henry Cow
 date: 2019-01-06 00:00:00
 artist: henry-cow
 author: anthony-garone
-image: sarah-garone
+image: henry-cow
 category: share
 permalink: /share/henry-cow/western-culture
 oneliner: Worst album ever or avant garde masterpiece?

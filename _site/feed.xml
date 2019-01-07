@@ -3,10 +3,10 @@
   <channel>
     <title>Make Weird Music</title>
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
-    <link>http://www.makeweirdmusic.com/</link>
-    <atom:link href="http://www.makeweirdmusic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Jan 2019 18:25:23 -0700</pubDate>
-    <lastBuildDate>Sun, 06 Jan 2019 18:25:23 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 06 Jan 2019 18:26:47 -0700</pubDate>
+    <lastBuildDate>Sun, 06 Jan 2019 18:26:47 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -30,8 +30,8 @@
 &lt;p&gt;Believe it or not, this album is very listenable to me now. I actually really love it. A lot of it is singable if you can pick out the different motifs. If you’ve never heard it, take 40 minutes and listen with a very open mind. If you’ve heard it and hated it, ask a friend with a music degree to help you hear what you aren’t hearing. It’s not an easy album and it will enrich your life.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Jan 2019 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/henry-cow/western-culture</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/henry-cow/western-culture</guid>
+        <link>http://localhost:4000/share/henry-cow/western-culture</link>
+        <guid isPermaLink="true">http://localhost:4000/share/henry-cow/western-culture</guid>
         
         
         <category>share</category>
@@ -63,8 +63,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 29 Nov 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/anthony-garone/o-holy-night</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/anthony-garone/o-holy-night</guid>
+        <link>http://localhost:4000/share/anthony-garone/o-holy-night</link>
+        <guid isPermaLink="true">http://localhost:4000/share/anthony-garone/o-holy-night</guid>
         
         
         <category>share</category>
@@ -295,8 +295,8 @@
 &lt;p&gt;SG: Page? Page. But if you’re not ready for that, there’s music out there. SaraGroves.com, there’s no ‘h’ on Sara and then ArtHouse.com as well. Sorry, ArtHouseNorth.com. Those are the places that explain what we’re doing. Anywhere there’s music, you can find my music. Yeah, I recommend “Add to the Beauty” and “Floodplain” if you’re wanting an introduction.&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Nov 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/interview/sara-groves</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/interview/sara-groves</guid>
+        <link>http://localhost:4000/interview/sara-groves</link>
+        <guid isPermaLink="true">http://localhost:4000/interview/sara-groves</guid>
         
         
         <category>interview</category>
@@ -317,8 +317,8 @@
 
 </description>
         <pubDate>Wed, 17 Oct 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/concert/nik-baertsch</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/nik-baertsch</guid>
+        <link>http://localhost:4000/concert/nik-baertsch</link>
+        <guid isPermaLink="true">http://localhost:4000/concert/nik-baertsch</guid>
         
         
         <category>concert</category>
@@ -347,8 +347,8 @@
 
 </description>
         <pubDate>Sun, 07 Oct 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/concert/california-guitar-trio</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/california-guitar-trio</guid>
+        <link>http://localhost:4000/concert/california-guitar-trio</link>
+        <guid isPermaLink="true">http://localhost:4000/concert/california-guitar-trio</guid>
         
         
         <category>concert</category>
@@ -666,8 +666,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;GT: It’s been a real pleasure.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Sep 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/gear/percuss-io</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/gear/percuss-io</guid>
+        <link>http://localhost:4000/gear/percuss-io</link>
+        <guid isPermaLink="true">http://localhost:4000/gear/percuss-io</guid>
         
         
         <category>gear</category>
@@ -1045,8 +1045,8 @@
 &lt;p class=&quot;interviewee&quot;&gt;CC: Thank you. Real pleasure talking to you finally.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Aug 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/charlie-cawood/the-divine-abstract</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/charlie-cawood/the-divine-abstract</guid>
+        <link>http://localhost:4000/share/charlie-cawood/the-divine-abstract</link>
+        <guid isPermaLink="true">http://localhost:4000/share/charlie-cawood/the-divine-abstract</guid>
         
         
         <category>share</category>
@@ -1074,8 +1074,8 @@
 &lt;p&gt;Altogether, if you’re a fan of this website, you have to buy this release. It’s emblematic of the kind of thing we hope to promote on the site: an adventurous, artistic, creative pursuit of music.&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Aug 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/mats-morgan/live-with-norrlandsoperan-symphony-orchestra</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/mats-morgan/live-with-norrlandsoperan-symphony-orchestra</guid>
+        <link>http://localhost:4000/share/mats-morgan/live-with-norrlandsoperan-symphony-orchestra</link>
+        <guid isPermaLink="true">http://localhost:4000/share/mats-morgan/live-with-norrlandsoperan-symphony-orchestra</guid>
         
         
         <category>share</category>
@@ -1104,8 +1104,8 @@
 
 </description>
         <pubDate>Mon, 13 Aug 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/concert/evil-genius</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/concert/evil-genius</guid>
+        <link>http://localhost:4000/concert/evil-genius</link>
+        <guid isPermaLink="true">http://localhost:4000/concert/evil-genius</guid>
         
         
         <category>concert</category>
@@ -1149,8 +1149,8 @@
 &lt;p&gt;All of this to say that it’s one of my favorite albums of all time and definitely my favorite Residents album. It holds a special place in my life for reasons I probably don’t even want to think about.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 May 2018 17:00:00 -0700</pubDate>
-        <link>http://www.makeweirdmusic.com/share/the-residents/animal-lover</link>
-        <guid isPermaLink="true">http://www.makeweirdmusic.com/share/the-residents/animal-lover</guid>
+        <link>http://localhost:4000/share/the-residents/animal-lover</link>
+        <guid isPermaLink="true">http://localhost:4000/share/the-residents/animal-lover</guid>
         
         
         <category>share</category>
