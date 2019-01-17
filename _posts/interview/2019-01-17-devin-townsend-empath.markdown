@@ -6,11 +6,11 @@ artist: devin-townsend
 author: anthony-garone
 image: devin-townsend
 category: interview
-permalink: /interview/devin-townsend
+permalink: /interview/devin-townsend/empath
 oneliner: Finding comfort in both order and chaos in music and creativity.
 seo_description: Devin Townsend is a diverse artist from Canada best known for heavy metal.
 seo_keywords: devin townsend, empath, steve vai, mike keneally, morgan agren, anup sastry, 66samus
-front_page: yes
+front_page: no
 draft: no
 has_video: yes
 youtube_id: 059_URRoZ9U
