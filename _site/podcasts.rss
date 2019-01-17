@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2019 Make Weird Music</copyright>
-		<pubDate>Sun, 06 Jan 2019 18:26:47 -0700</pubDate>
-		<lastBuildDate>Sun, 06 Jan 2019 18:26:47 -0700</lastBuildDate>
+		<pubDate>Thu, 17 Jan 2019 01:10:05 -0700</pubDate>
+		<lastBuildDate>Thu, 17 Jan 2019 01:10:05 -0700</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>http://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -30,6 +30,25 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
+			<item>
+				<title>Interview: Devin Townsend</title>
+				<link>http://localhost:4000/interview/devin-townsend</link>
+				<pubDate>Wed, 16 Jan 2019 17:00:00 -0700</pubDate>
+				<description>Devin Townsend is a diverse artist from Canada best known for heavy metal.</description>
+				<guid isPermaLink="true">http://localhost:4000/interview/devin-townsend</guid>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/interview/devin-townsend/empath.mp3" length="24904317" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Interview: Devin Townsend by Make Weird Music</itunes:subtitle>
+				<itunes:summary>Devin Townsend is a diverse artist from Canada best known for heavy metal.</itunes:summary>
+				<itunes:duration>12:52</itunes:duration>
+				<itunes:keywords>devin townsend, empath, steve vai, mike keneally, morgan agren, anup sastry, 66samus</itunes:keywords>
+				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/devin-townsend/devin-townsend.png" />
+				<itunes:explicit>yes</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+			
 		
 			
 			<item>
