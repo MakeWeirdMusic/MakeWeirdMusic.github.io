@@ -6,12 +6,11 @@ artist: devin-townsend
 author: anthony-garone
 image: devin-townsend
 category: interview
-permalink: /interview/devin-townsend
-redirect_from: /interview/devin-townsend/guitar-vai-x-jamm
+permalink: /interview/devin-townsend/guitar-vai-x-jamm
 oneliner: Finding comfort in both order and chaos in music and creativity.
 seo_description: Devin Townsend is a diverse artist from Canada best known for heavy metal.
 seo_keywords: devin townsend, empath, steve vai, mike keneally, morgan agren, anup sastry, 66samus
-front_page: yes
+front_page: no
 draft: no
 has_video: yes
 youtube_id: vKZsU6RFLhU
@@ -22,9 +21,9 @@ explicit: "yes" #other option is no
 block: "no" #means is shown in itunes
 ---
 
-## Empath Interview
+## Other Interviews
 
-Looking for the interview segment about Devin's 2019 release, *Empath*? [Here it is!](/interview/devin-townsend/empath)
+Looking for the interview segment about Devin's 2019 release, *Empath*? [Here it is!](/interview/devin-townsend/empath) Or the interview segment about his book on creativity? [Here it is!](/interview/devin-townsend/creativity)
 {: .ad }
 
 ## Q&A

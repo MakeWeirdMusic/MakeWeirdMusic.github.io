@@ -525,8 +525,12 @@
 <lastmod>2019-01-16T17:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/interview/devin-townsend</loc>
+<loc>http://localhost:4000/interview/devin-townsend/guitar-vai-x-jamm</loc>
 <lastmod>2019-01-16T17:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/interview/devin-townsend</loc>
+<lastmod>2019-02-02T17:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -641,6 +645,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page22/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page23/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/google65c6b1673d025668.html</loc>

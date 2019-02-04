@@ -21,6 +21,11 @@ explicit: "yes" #other option is no
 block: "no" #means is shown in itunes
 ---
 
+## Other Interviews
+
+Looking for the interview segment about Devin's creativity book? [Here it is!](/interview/devin-townsend/creativity) Or the interview segment about his new signature acoustic guitar, Steve Vai, X-JAMM, and more? [Here it is!](/interview/devin-townsend/guitar-vai-x-jamm)
+{: .ad }
+
 ## Chaos and Order
 
 Devin Townsend is a bit of a conundrum. After 30 albums and decades of producing music, he still says he doesn't know what he's doing. He's written a book on creativity, which is the impetus for this interview.
