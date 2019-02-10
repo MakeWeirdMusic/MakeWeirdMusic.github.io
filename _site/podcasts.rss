@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2019 Make Weird Music</copyright>
-		<pubDate>Sun, 03 Feb 2019 21:11:22 -0700</pubDate>
-		<lastBuildDate>Sun, 03 Feb 2019 21:11:22 -0700</lastBuildDate>
+		<pubDate>Sun, 10 Feb 2019 14:55:51 -0700</pubDate>
+		<lastBuildDate>Sun, 10 Feb 2019 14:55:51 -0700</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>http://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -30,6 +30,8 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
 		
 			
 			<item>
@@ -88,23 +90,6 @@
 			</item>
 			
 		
-			
-			<item>
-				<title>Share: Western Culture by Henry Cow</title>
-				<link>http://localhost:4000/share/henry-cow/western-culture</link>
-				<pubDate>Sat, 05 Jan 2019 17:00:00 -0700</pubDate>
-				<description>Years ago, I thought this was the worst music I had ever heard. Was I right?</description>
-				<guid isPermaLink="true">http://localhost:4000/share/henry-cow/western-culture</guid>
-				<enclosure url="" length="" type="audio/mp3"/>
-				<itunes:author>Anthony Garone</itunes:author>
-				<itunes:subtitle>Share: Western Culture by Henry Cow by Make Weird Music</itunes:subtitle>
-				<itunes:summary>Years ago, I thought this was the worst music I had ever heard. Was I right?</itunes:summary>
-				<itunes:duration></itunes:duration>
-				<itunes:keywords>henry cow, western culture, legend, leg end, fred frith, tim hodgkinson, lindsay cooper, dagmar krause, chris cutler</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/henry-cow/henry-cow.png" />
-				<itunes:explicit></itunes:explicit>
-				<itunes:block>no</itunes:block>
-			</item>
 			
 		
 			

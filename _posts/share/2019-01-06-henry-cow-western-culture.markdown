@@ -14,7 +14,7 @@ draft: no
 front_page: yes
 has_video: yes
 youtube_id: tGDyCCQzCmw
-block: "no"
+block: "yes"
 ---
 ## Video
 
