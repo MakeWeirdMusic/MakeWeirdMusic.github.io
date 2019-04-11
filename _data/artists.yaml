@@ -1,3 +1,11 @@
+pat-metheny:
+  name: Pat Metheny
+  website: http://www.patmetheny.com/
+  facebook: http://www.facebook.com/patmetheny
+  twitter: http://www.twitter.com/patmetheny
+  spotify: https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA
+  itunes: https://itunes.apple.com/us/artist/pat-metheny/113526
+  wikipedia: https://en.wikipedia.org/wiki/Pat_Metheny
 man-man:
   name: Man Man
   website: http://manmanband.com
@@ -8,6 +16,7 @@ man-man:
   soundcloud: https://soundcloud.com/man-man-official
   spotify: https://open.spotify.com/artist/0zprAu7NrzRehc0Q0Jc7mL
   itunes: https://geo.itunes.apple.com/us/artist/man-man/14942451?mt=1&app=music
+  wikipedia: https://en.wikipedia.org/wiki/Man_Man
 devin-townsend:
   name: Devin Townsend
   website: https://www.hevydevy.com/
