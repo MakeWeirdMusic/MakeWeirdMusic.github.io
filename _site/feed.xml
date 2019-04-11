@@ -5,8 +5,8 @@
     <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2019 08:57:39 -0700</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2019 08:57:39 -0700</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2019 09:06:22 -0700</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2019 09:06:22 -0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -44,6 +44,35 @@ F4 .009/F4 .009   Unison&lt;/p&gt;
         
         
         <category>learn</category>
+        
+      </item>
+    
+      <item>
+        <title>Sara Groves Concert</title>
+        <description>&lt;p&gt;Sara Groves is an out-of-the-box thinker in the contemporary Christian music genre. She’s deep and insightful. &lt;a href=&quot;/interview/sara-groves&quot;&gt;Check out our interview with Sara&lt;/a&gt; to find out!&lt;/p&gt;
+
+&lt;p&gt;We brought Sara to &lt;a href=&quot;http://stilwellpianos.com&quot;&gt;Stilwell Pianos&lt;/a&gt; in Mesa, AZ on January 19, 2019 for a special small show. The footage on this page is from that evening. We are honored and proud to release it!&lt;/p&gt;
+
+&lt;p&gt;The songs in this video are deeply moving and beautifully performed. While they’re not particularly “weird” and Sara is an outlier on the site, there is still very, very much to enjoy. I’d like to encourage viewers to keep an open mind.&lt;/p&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aaron Fabbrini on bass and pedal steel&lt;/li&gt;
+  &lt;li&gt;Zach Miller on drums and backup vocals&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://russmullersound.com&quot;&gt;Russ Muller&lt;/a&gt; on live tracking and sound&lt;/li&gt;
+  &lt;li&gt;Nathan Clelland and Michael Stilwell provided the venue and setup&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SGIYEaYH_BU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 03 Apr 2019 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/concert/sara-groves</link>
+        <guid isPermaLink="true">http://localhost:4000/concert/sara-groves</guid>
+        
+        
+        <category>concert</category>
         
       </item>
     
@@ -996,28 +1025,6 @@ when there’s a younger generation who might take it on!”&lt;/p&gt;
         
         
         <category>interview</category>
-        
-      </item>
-    
-      <item>
-        <title>Nik Bärtsch Solo Piano Show</title>
-        <description>&lt;p&gt;Nik Bärtsch is a world-renowned Swiss composer and pianist. He’s released several albums on ECM Records as well as on his own record label, Ronin Rhythm Records. His music is deep, layered, and hypnotic.&lt;/p&gt;
-
-&lt;p&gt;We brought Nik to &lt;a href=&quot;http://stilwellpianos.com&quot;&gt;Stilwell Pianos&lt;/a&gt; in Mesa, AZ on October 18, 2018 for a special solo piano concert. The footage on this page is from that evening. We are honored and proud to release it!&lt;/p&gt;
-
-&lt;h2 id=&quot;modul_14&quot;&gt;Modul_14&lt;/h2&gt;
-
-&lt;p&gt;Enjoy this incredible encore performance of &lt;em&gt;Modul_14&lt;/em&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/30peP3O3aMI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 17 Oct 2018 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/concert/nik-baertsch</link>
-        <guid isPermaLink="true">http://localhost:4000/concert/nik-baertsch</guid>
-        
-        
-        <category>concert</category>
         
       </item>
     
