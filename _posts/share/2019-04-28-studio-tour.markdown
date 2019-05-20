@@ -7,7 +7,7 @@ author: anthony-garone
 image: anthony-garone
 category: share
 permalink: /share/2019-studio-tour
-oneliner: A thorough telilnlg of the story behind the new MWM headquarters.
+oneliner: A thorough telling of the story behind the new MWM headquarters.
 seo_description: In 2018 I started building a new home video studio in my backyard. Here is the story.
 seo_keywords: home studio, youtube studio, studio tour, video studio, recording studio
 draft: no

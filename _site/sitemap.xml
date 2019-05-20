@@ -553,6 +553,10 @@
 <lastmod>2019-04-27T17:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/share/damon-shulman/plausible-cause</loc>
+<lastmod>2019-05-18T17:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -668,6 +672,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page23/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page24/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/google65c6b1673d025668.html</loc>
