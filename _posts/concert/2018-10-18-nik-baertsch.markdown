@@ -21,6 +21,10 @@ Nik Bärtsch is a world-renowned Swiss composer and pianist. He's released sever
 
 We brought Nik to [Stilwell Pianos](http://stilwellpianos.com) in Mesa, AZ on October 18, 2018 for a special solo piano concert. The footage on this page is from that evening. We are honored and proud to release it!
 
+## Modul_26
+
+{% include video.html vid="PyLtMW523Es" %}
+
 ## Modul_14
 
 Enjoy this incredible encore performance of *Modul_14*.
