@@ -561,6 +561,18 @@
 <lastmod>2019-05-24T17:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/concert/echotest-seaprog2019</loc>
+<lastmod>2019-06-17T17:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/concert/trey-gunn-markus-reuter-seaprog2019</loc>
+<lastmod>2019-06-25T17:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/share/avishai-cohen/gently-disturbed</loc>
+<lastmod>2019-07-04T17:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -682,6 +694,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/google65c6b1673d025668.html</loc>
-<lastmod>2017-12-01T15:26:37-07:00</lastmod>
+<lastmod>2017-04-18T21:43:51-07:00</lastmod>
 </url>
 </urlset>
