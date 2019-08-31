@@ -9,8 +9,8 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2019 Make Weird Music</copyright>
-		<pubDate>Fri, 05 Jul 2019 10:20:55 -0700</pubDate>
-		<lastBuildDate>Fri, 05 Jul 2019 10:20:55 -0700</lastBuildDate>
+		<pubDate>Fri, 30 Aug 2019 21:40:27 -0700</pubDate>
+		<lastBuildDate>Fri, 30 Aug 2019 21:40:27 -0700</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
 			<url>http://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
@@ -30,6 +30,25 @@
 			<itunes:category text="Performing Arts" />
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
+		
+			
+			<item>
+				<title>Share: Angels and Demons That Play by Paul Sears</title>
+				<link>http://localhost:4000/share/paul-sears/angels-and-demons-that-play</link>
+				<pubDate>Mon, 19 Aug 2019 17:00:00 -0700</pubDate>
+				<description>Let's take a dive into the autobiography of Paul Sears, drummer for the experimental band, The Muffins.</description>
+				<guid isPermaLink="true">http://localhost:4000/share/paul-sears/angels-and-demons-that-play</guid>
+				<enclosure url="http://s3.amazonaws.com/audio.makeweirdmusic.com/share/paul-sears/angels-and-demons-that-play.mp3" length="81039908" type="audio/mp3"/>
+				<itunes:author>Anthony Garone</itunes:author>
+				<itunes:subtitle>Share: Angels and Demons That Play by Paul Sears by Make Weird Music</itunes:subtitle>
+				<itunes:summary>Let's take a dive into the autobiography of Paul Sears, drummer for the experimental band, The Muffins.</itunes:summary>
+				<itunes:duration>1:07:16</itunes:duration>
+				<itunes:keywords>paul sears, the muffins, dave newhouse, billy swann, fred frith, robert fripp, prog, progday, rock in opposition, henry cow</itunes:keywords>
+				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/paul-sears/paul-sears.png" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+			
 		
 			
 		
