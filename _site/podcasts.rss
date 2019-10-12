@@ -9,11 +9,11 @@
 		<managingEditor>anthony@makeweirdmusic.com (Anthony Garone)</managingEditor>
 		<webMaster>anthony@makeweirdmusic.com (Anthony Garone)</webMaster>
 		<copyright>2014-2019 Make Weird Music</copyright>
-		<pubDate>Fri, 06 Sep 2019 10:25:56 -0700</pubDate>
-		<lastBuildDate>Fri, 06 Sep 2019 10:25:56 -0700</lastBuildDate>
+		<pubDate>Fri, 11 Oct 2019 17:06:31 -0700</pubDate>
+		<lastBuildDate>Fri, 11 Oct 2019 17:06:31 -0700</lastBuildDate>
 		<image>
 			<link>http://localhost:4000</link>
-			<url>http://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png</url>
+			<url>https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/mwm/mwm-promo-brightblue.png</url>
 			<title>Make Weird Music</title>
 		</image>
 		<itunes:subtitle>Expanding the creative horizons of musicians and music enthusiasts.</itunes:subtitle>
@@ -24,7 +24,7 @@
 			<itunes:name>Anthony Garone</itunes:name>
 			<itunes:email>anthony@makeweirdmusic.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/mwm/mwm-promo-brightblue.png" />
+		<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/mwm/mwm-promo-brightblue.png" />
 		<itunes:category text="Music" />
 		<itunes:category text="Arts">
 			<itunes:category text="Performing Arts" />
@@ -44,7 +44,7 @@
 				<itunes:summary>Let's take a dive into the autobiography of Paul Sears, drummer for the experimental band, The Muffins.</itunes:summary>
 				<itunes:duration>1:07:16</itunes:duration>
 				<itunes:keywords>paul sears, the muffins, dave newhouse, billy swann, fred frith, robert fripp, prog, progday, rock in opposition, henry cow</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/paul-sears/paul-sears.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/paul-sears/paul-sears.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -83,7 +83,7 @@
 				<itunes:summary>Devin Townsend is a diverse artist from Canada best known for heavy metal.</itunes:summary>
 				<itunes:duration>15:10</itunes:duration>
 				<itunes:keywords>devin townsend, empath, steve vai, mike keneally, morgan agren, anup sastry, 66samus</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/devin-townsend/devin-townsend.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/devin-townsend/devin-townsend.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -102,7 +102,7 @@
 				<itunes:summary>Devin Townsend is a diverse artist from Canada best known for heavy metal.</itunes:summary>
 				<itunes:duration>15:10</itunes:duration>
 				<itunes:keywords>devin townsend, empath, steve vai, mike keneally, morgan agren, anup sastry, 66samus</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/devin-townsend/devin-townsend.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/devin-townsend/devin-townsend.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -121,7 +121,7 @@
 				<itunes:summary>Devin Townsend is a diverse artist from Canada best known for heavy metal.</itunes:summary>
 				<itunes:duration>12:52</itunes:duration>
 				<itunes:keywords>devin townsend, empath, steve vai, mike keneally, morgan agren, anup sastry, 66samus</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/devin-townsend/devin-townsend.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/devin-townsend/devin-townsend.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -144,7 +144,7 @@
 				<itunes:summary>Sara Groves is a contemporary Christian artist who doesn't want to be boxed in.</itunes:summary>
 				<itunes:duration>1:05:28</itunes:duration>
 				<itunes:keywords>charlie peacock, troy groves, art house north, fernando ortega</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/sara-groves/sara-groves.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/sara-groves/sara-groves.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -167,7 +167,7 @@
 				<itunes:summary>percuss.io offers percussion education technology for free.</itunes:summary>
 				<itunes:duration>57:51</itunes:duration>
 				<itunes:keywords>percussion, konnakol, education, technology, soundslice, eric carraway, george torres iii</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/percuss.io/percuss.io.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/percuss.io/percuss.io.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -186,7 +186,7 @@
 				<itunes:summary>The Divine Abstract is Charlie Cawood's first solo album.</itunes:summary>
 				<itunes:duration>1:15:56</itunes:duration>
 				<itunes:keywords>knifeworld, tonochrome, medieval babes, mediaeval baebes, kavus torabi</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/charlie-cawood/charlie-cawood.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/charlie-cawood/charlie-cawood.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -209,7 +209,7 @@
 				<itunes:summary>Animal Lover by The Residents is an album that literally made me drop my jaw when hearing it the first time.</itunes:summary>
 				<itunes:duration>6:36</itunes:duration>
 				<itunes:keywords>the residents, homer flynn, hardy fox, charles bobuck, molly harvey, nolan cook, animal lover</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/the-residents/the-residents.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/the-residents/the-residents.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -228,7 +228,7 @@
 				<itunes:summary>Acoustic guitar instrumental music pushed to the edges.</itunes:summary>
 				<itunes:duration>57:07</itunes:duration>
 				<itunes:keywords>king crimson, john mclaughlin, robert fripp, mahivishnu orchestra, gentle giant, frank zappa, captain beefheart, henry kaiser</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/shawn-persinger/shawn-persinger.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/shawn-persinger/shawn-persinger.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -247,7 +247,7 @@
 				<itunes:summary>Courtney Swain shares the story behind her 2017 EP, Growing Pains.</itunes:summary>
 				<itunes:duration>36:04</itunes:duration>
 				<itunes:keywords>courtney swain, bent knee, ben levin, chris baum, vince welch, vocal lessons, prog, progressive rock</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/courtney-swain/courtney-swain.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/courtney-swain/courtney-swain.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -266,7 +266,7 @@
 				<itunes:summary>Spin Doctors drummer, Aaron Comess, has a new solo record out that defies genres and expectations.</itunes:summary>
 				<itunes:duration>58:41</itunes:duration>
 				<itunes:keywords>jazz, electronic, instrumental, samchillian</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/aaron-comess/aaron-comess.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/aaron-comess/aaron-comess.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -285,7 +285,7 @@
 				<itunes:summary>The California Guitar Trio talks about their origins with Robert Fripp and the state of the music industry.</itunes:summary>
 				<itunes:duration>52:56</itunes:duration>
 				<itunes:keywords>robert fripp, league of crafty guitarists, guitar craft, guitar circle, acoustic guitar, michael hedges</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/california-guitar-trio/california-guitar-trio.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/california-guitar-trio/california-guitar-trio.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -304,7 +304,7 @@
 				<itunes:summary>Philadelphia-based rock band iNFiNiEN is a wonderful group of people who love making music for all the right reasons.</itunes:summary>
 				<itunes:duration>36:57</itunes:duration>
 				<itunes:keywords>progressive rock, prog, mr. bungle, consider the source, secret chiefs 3, mike patton</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/infinien/infinien.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/infinien/infinien.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -327,7 +327,7 @@
 				<itunes:summary>Nora Germain is a jazz violinist, bandleader, singer, songwriter, dancer, recording artist, and author based in Los Angeles.</itunes:summary>
 				<itunes:duration>30:27</itunes:duration>
 				<itunes:keywords>steve ball, tiny orchestral moments, jacob collier, knower, louis cole, tommy emmanuel, jazz violin</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/nora-germain/nora-germain.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/nora-germain/nora-germain.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -352,7 +352,7 @@
 				<itunes:summary>Steve Ball and Alex Anthony Faide discuss their Argentinian band, Electric Gauchos.</itunes:summary>
 				<itunes:duration>22:00</itunes:duration>
 				<itunes:keywords>guitar craft, crafty guitarists, robert fripp, king crimson, guitar circle, fracture</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/electric-gauchos/electric-gauchos.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/electric-gauchos/electric-gauchos.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -371,7 +371,7 @@
 				<itunes:summary>Jan Zehrfeld, Mike Keneally, Jen Majura, and Mattias Eklundh talk about the new Panzerballett album.</itunes:summary>
 				<itunes:duration>42:50</itunes:duration>
 				<itunes:keywords>evanescence, amy lee, mattias eklundh, panzerballett, jan zehrfeld, freak kitchen</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/panzerballett/panzerballett.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/panzerballett/panzerballett.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -390,7 +390,7 @@
 				<itunes:summary>Jen Majura talks us through her new album, InZENity.</itunes:summary>
 				<itunes:duration>27:38</itunes:duration>
 				<itunes:keywords>evanescence, amy lee, mattias eklundh, panzerballett, jan zehrfeld, freak kitchen, alex skolnick</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/jen-majura/jen-majura.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/jen-majura/jen-majura.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -409,7 +409,7 @@
 				<itunes:summary>Chris Opperman shares a new set of variations he's arranged for a November 2017 performance.</itunes:summary>
 				<itunes:duration>33:49</itunes:duration>
 				<itunes:keywords>frank zappa, scott thunes, mike keneally</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/chris-opperman/chris-opperman.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/chris-opperman/chris-opperman.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -428,7 +428,7 @@
 				<itunes:summary>Mike Keneally (Zappa, Vai, Satriani) and members of Gentle Giant talk about songwriting.</itunes:summary>
 				<itunes:duration>51:41</itunes:duration>
 				<itunes:keywords>gary green, kerry minnear, malcolm mortimore, derek shulman, ray shulman, phil shulman, john weathers, prog, progressive rock</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/mike-keneally-gentle-giant/mike-keneally-gentle-giant.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/mike-keneally-gentle-giant/mike-keneally-gentle-giant.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -447,7 +447,7 @@
 				<itunes:summary>Andy West (Dixie Dregs) and Markus Reuter (Stick Men, centrozoon) chat music in my living room.</itunes:summary>
 				<itunes:duration>37:39</itunes:duration>
 				<itunes:keywords>generative music, algorithmic composition, experimental music, prog, progressive rock</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/andy-west-markus-reuter/andy-west-markus-reuter.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/andy-west-markus-reuter/andy-west-markus-reuter.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -466,7 +466,7 @@
 				<itunes:summary>Jan Zehrfeld of Panzerballett shares his expertise in tuplets and polyrhythms.</itunes:summary>
 				<itunes:duration>36:46</itunes:duration>
 				<itunes:keywords>panzerballett, sebastian lanser, tuplets, polyrhythms, konnakol</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/panzerballett/jan-zehrfeld.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/panzerballett/jan-zehrfeld.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -485,7 +485,7 @@
 				<itunes:summary>Frank Pesci is an American contemporary opera composer based in Germany.</itunes:summary>
 				<itunes:duration>39:16</itunes:duration>
 				<itunes:keywords>contemporary opera, barbara hannigan, gyorgi ligeti</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/frank-pesci/frank-pesci.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/frank-pesci/frank-pesci.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -508,7 +508,7 @@
 				<itunes:summary>Marco Machera is best known for his work in EchoTest with Julie Slick.</itunes:summary>
 				<itunes:duration>21:21</itunes:duration>
 				<itunes:keywords>julie slick, EchoTest, echotest, adrian belew, pat mastelotto</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/marco-machera/marco-machera.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/marco-machera/marco-machera.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -531,7 +531,7 @@
 				<itunes:summary>Markus Reuter's fans submitted some tough questions for him to answer.</itunes:summary>
 				<itunes:duration>01:03:38</itunes:duration>
 				<itunes:keywords>stick men, king crimson, tony levin, pat mastelotto, robert fripp, ian boddy, centrozoon</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/markus-reuter/markus-reuter-2017.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/markus-reuter/markus-reuter-2017.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -552,7 +552,7 @@
 				<itunes:summary>David Singleton is a songwriter, producer, and record executive working closely with Robert Fripp.</itunes:summary>
 				<itunes:duration>34:17</itunes:duration>
 				<itunes:keywords>king crimson, robert fripp, discipline global mobile, dgm live, dgmlive</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/david-singleton/david-singleton.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/david-singleton/david-singleton.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -573,7 +573,7 @@
 				<itunes:summary>Hyung-ki Joo and Aleksey Igudesman (sorta) join us to talk about their mission.</itunes:summary>
 				<itunes:duration>01:10:16</itunes:duration>
 				<itunes:keywords>hyung-ki joo, joothoven, aleksey igudesman, hans zimmer, emmanuel ax, josh bell, joshua bell</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/igudesman-and-joo/igudesman-and-joo.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/igudesman-and-joo/igudesman-and-joo.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -594,7 +594,7 @@
 				<itunes:summary>Learn how to play the intro to Béla Fleck's Something She Said.</itunes:summary>
 				<itunes:duration>03:39</itunes:duration>
 				<itunes:keywords>flecktones, outbound, victor wooten, jeff coffin, future man, roy wooten, futureman, adrian belew, shawn colvin, paul mccandless</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/bela-fleck/bela-fleck.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/bela-fleck/bela-fleck.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -613,7 +613,7 @@
 				<itunes:summary>A moody, electronic cover of Erudite Eyes (1968) by Robert Fripp</itunes:summary>
 				<itunes:duration>3:37</itunes:duration>
 				<itunes:keywords>king crimson, robert fripp, giles, cheerful insanity,</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/robert-fripp/robert-fripp.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/robert-fripp/robert-fripp.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -632,7 +632,7 @@
 				<itunes:summary>Evil Genius is an experimental jazz trio out of LA featuring guitar, drums, and tuba.</itunes:summary>
 				<itunes:duration>32:35</itunes:duration>
 				<itunes:keywords>henry cow</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/evil-genius/evil-genius.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/evil-genius/evil-genius.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -659,7 +659,7 @@
 				<itunes:summary>Patrick Grant is a composer based in New York City and founder of Tilted Axes.</itunes:summary>
 				<itunes:duration>44:16</itunes:duration>
 				<itunes:keywords>robert fripp, king crimson, philip glass, steve reich, john cage</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/patrick-grant/patrick-grant.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/patrick-grant/patrick-grant.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -678,7 +678,7 @@
 				<itunes:summary>Steve Vai's EVO guitar has never sounded better!</itunes:summary>
 				<itunes:duration>14:00</itunes:duration>
 				<itunes:keywords>guitar electronics, solderless, tone shaping, terminator system, dual value pot, dual value potentiometer, steve vai, evo</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/steve-vai/steve-vai.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/steve-vai/steve-vai.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -697,7 +697,7 @@
 				<itunes:summary>Mike Keneally (Frank Zappa, Steve Vai) and Andy West (Dixie Dregs) sit down to chat about music.</itunes:summary>
 				<itunes:duration>33:13</itunes:duration>
 				<itunes:keywords>beer for dolphins, joe satriani, chicago, captain beefheart, trout mask replica, henry kaiser</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/mike-keneally/mike-keneally.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/mike-keneally/mike-keneally.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -716,7 +716,7 @@
 				<itunes:summary>Mike Keneally (Frank Zappa, Steve Vai) and Andy West (Dixie Dregs) sit down to chat about music.</itunes:summary>
 				<itunes:duration>33:13</itunes:duration>
 				<itunes:keywords>beer for dolphins, joe satriani, chicago, captain beefheart, trout mask replica, henry kaiser</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/mike-keneally/mike-keneally.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/mike-keneally/mike-keneally.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -737,7 +737,7 @@
 				<itunes:summary>Courtney Swain is the singer of the band Bent Knee, a progressive band out of the Boston area.</itunes:summary>
 				<itunes:duration>49:35</itunes:duration>
 				<itunes:keywords>ben levin, chris baum, gavin wallace-ainsworth, jessica kion, vince welch, progressive rock, prog rock</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/courtney-swain/courtney-swain.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/courtney-swain/courtney-swain.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -756,7 +756,7 @@
 				<itunes:summary>Morgan Ågren tells us about the Morgchestra and the Mats/Morgan 35th Anniversary.</itunes:summary>
 				<itunes:duration>23:37</itunes:duration>
 				<itunes:keywords>frank zappa, steve vai, mats/morgan, mats oberg, umea, sweden, conundrum</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/morgan-agren/morgan-agren.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/morgan-agren/morgan-agren.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -777,7 +777,7 @@
 				<itunes:summary>The Moulettes will knock your socks off with their power folk vocals and instrumentation.</itunes:summary>
 				<itunes:duration>31:01</itunes:duration>
 				<itunes:keywords>ruth skipper, hannah miller, oliver austin, ollie austin, afrothunder, raevennan husbandes, jim mortimore, gentle giant, three friends, malcolm mortimore</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/moulettes/moulettes.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/moulettes/moulettes.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -798,7 +798,7 @@
 				<itunes:summary>Julie Slick will crush you with her skills on the bass and songwriting.</itunes:summary>
 				<itunes:duration>16:45</itunes:duration>
 				<itunes:keywords>adrian belew, power trio, tony levin, robbie seahag, echotest, crimson projekct, terroir, paper cat, eric slick, steve ball, start making sense, stop making sense, markus reuter</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/julie-slick/julie-slick.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/julie-slick/julie-slick.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -819,7 +819,7 @@
 				<itunes:summary>Steve Ball has spend decades working with Robert Fripp on Guitar Craft and various groups.</itunes:summary>
 				<itunes:duration>26:21</itunes:duration>
 				<itunes:keywords>robert fripp, guitar craft, guitar circle, king crimson</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/steve-ball/steve-ball.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/steve-ball/steve-ball.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -840,7 +840,7 @@
 				<itunes:summary>Ostrich Von Nipple hails from another land with another way of thinking about another kind of music.</itunes:summary>
 				<itunes:duration>31:11</itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/ostrich-von-nipple/ostrich-von-nipple.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/ostrich-von-nipple/ostrich-von-nipple.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -859,7 +859,7 @@
 				<itunes:summary>Mad Hatter Guitar Products will make a huge difference in the capabilities of your guitar or bass.</itunes:summary>
 				<itunes:duration>52:54</itunes:duration>
 				<itunes:keywords>guitar electronics, solderless, tone shaping, terminator system, dual value pot, dual value potentiometer</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/mad-hatter/mad-hatter.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/mad-hatter/mad-hatter.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -880,7 +880,7 @@
 				<itunes:summary>Terry Bozzio is an artist on canvas and on the drum kit. We spent 40 minutes talking with the tour de force of creativity and composition.</itunes:summary>
 				<itunes:duration>44:09</itunes:duration>
 				<itunes:keywords>frank zappa, korn, missing persons, dale bozzio, punky's whips, brecker brothers, heavy metal be-bop, patrick o'hearn</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/terry-bozzio/terry-bozzio.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/terry-bozzio/terry-bozzio.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -899,7 +899,7 @@
 				<itunes:summary>Morgan Ågren is one of the most innovative drummers on the planet. We talk to him about his upbringing, work with his musical partner Mats Öberg, his musical foundation, and who he's currently working with. Some great, hilarious Frank Zappa stories in here as well.</itunes:summary>
 				<itunes:duration>01:14:42</itunes:duration>
 				<itunes:keywords>frank zappa, mats oberg, mats/morgan, mats morgan band, sol niger within, fredrik thordendal, meshuggah, flesh quartet, fleshquartet, buddy rich, gigpig, morgan agren's conundrum, carl king</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/morgan-agren/morgan-agren.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/morgan-agren/morgan-agren.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -918,7 +918,7 @@
 				<itunes:summary>Learn more about New York-based MoonJune Records from its owner, Leonardo Pavkovic.</itunes:summary>
 				<itunes:duration>15:36</itunes:duration>
 				<itunes:keywords>robert wyatt, soft machine, allan holdsworth, alex maguire, elton dean, hugh hopper, markus reuter, stick men, tony levin, pat mastelotto</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/moonjune-records/leonardo-pavkovic.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/moonjune-records/leonardo-pavkovic.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -939,7 +939,7 @@
 				<itunes:summary>Markus Reuter is a prolific, diverse guitarist, composer, and musician from Berlin, Germany</itunes:summary>
 				<itunes:duration>58:45</itunes:duration>
 				<itunes:keywords></itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/markus-reuter/markus-reuter.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/markus-reuter/markus-reuter.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -960,7 +960,7 @@
 				<itunes:summary>Teddy is Joe Jackson's guitarist and runs the Loopestra.</itunes:summary>
 				<itunes:duration>44:53</itunes:duration>
 				<itunes:keywords>Joe Jackson, Loopestra, Rickie Lee Jones, Blue Mouth Promotions, brooklyn, guitarist, andy timmons</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/teddy-kumpel/teddy-kumpel.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/teddy-kumpel/teddy-kumpel.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -981,7 +981,7 @@
 				<itunes:summary>Learn how to play my favorite Robbie Seahag song.</itunes:summary>
 				<itunes:duration>07:04</itunes:duration>
 				<itunes:keywords>full moon fever</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/robbie-seahag/robbie-seahag.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/robbie-seahag/robbie-seahag.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1000,7 +1000,7 @@
 				<itunes:summary>The Zon Hyperbass is an incredible instrument and a feat of luthiery.</itunes:summary>
 				<itunes:duration>16:53</itunes:duration>
 				<itunes:keywords>michael manring, joe zon, zon guitars, fretless bass, dynamic tuning</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/michael-manring/michael-manring.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/michael-manring/michael-manring.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1019,7 +1019,7 @@
 				<itunes:summary>Homer Flynn is the manager and visual designer for The Residents.</itunes:summary>
 				<itunes:duration>45:23</itunes:duration>
 				<itunes:keywords>weird, snakefinger, molly savage, fred frith, nolan cook, jay clem, hardy fox, john kennedy,</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/the-residents/homer-flynn.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/the-residents/homer-flynn.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1038,7 +1038,7 @@
 				<itunes:summary>Ben Levin is the guitarist from Bent Knee. He is nice and fun. He has an interesting take on things.</itunes:summary>
 				<itunes:duration>01:12:21</itunes:duration>
 				<itunes:keywords>steve vai, bent knee, kendrick lamar, that one eyed kid, courtney swain, berklee, prog, rock</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/ben-levin/ben-levin.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/ben-levin/ben-levin.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1057,7 +1057,7 @@
 				<itunes:summary>Mattias IA Eklundh talks about life in Sweden and having nothing to do but play music.</itunes:summary>
 				<itunes:duration>59:21</itunes:duration>
 				<itunes:keywords>steve vai, favored nations, freak kitchen, freak guitar, mattias ia eklundh, swedish guitar, panzerballett</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/mattias-eklundh/mattias-eklundh.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/mattias-eklundh/mattias-eklundh.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1082,7 +1082,7 @@
 				<itunes:summary>This is my contest entry for the Panzerballett Typewriter II cover contest.</itunes:summary>
 				<itunes:duration>5:53</itunes:duration>
 				<itunes:keywords>panzerballett, bluegrass, acoustic, banjo, guitar, prog, metal</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/panzerballett/panzerballett.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/panzerballett/panzerballett.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1103,7 +1103,7 @@
 				<itunes:summary>Bach shred-fest in progressive rock regalia.</itunes:summary>
 				<itunes:duration>4:27</itunes:duration>
 				<itunes:keywords>panzerballett, dixie dregs, sebastian lanser, andy west, adam strand, crimsontone amps, math rock, bach rock</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/anthony-garone/anthony-garone.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/anthony-garone/anthony-garone.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1130,7 +1130,7 @@
 				<itunes:summary>Jeff Berlin talks to us about his deep personal transformation and dark night of the soul.</itunes:summary>
 				<itunes:duration>26:54</itunes:duration>
 				<itunes:keywords>bruford, bill bruford, gradually going tornado, one of a kind, scott henderson, dennis chambers, victor wooten, steve bailey, berklee, electric bass, music education</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/jeff-berlin/jeff-berlin.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/jeff-berlin/jeff-berlin.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1149,7 +1149,7 @@
 				<itunes:summary>Jeff Berlin talks to us about his career and new thoughts on music education.</itunes:summary>
 				<itunes:duration>01:13:15</itunes:duration>
 				<itunes:keywords>bruford, bill bruford, gradually going tornado, one of a kind, scott henderson, dennis chambers, victor wooten, steve bailey, berklee, electric bass, music education</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/jeff-berlin/jeff-berlin.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/jeff-berlin/jeff-berlin.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1170,7 +1170,7 @@
 				<itunes:summary>Interview with Adrian Holovaty, co-founder of Soundslice.com.</itunes:summary>
 				<itunes:duration>43:01</itunes:duration>
 				<itunes:keywords>open source, sheet music, html5, tablature, guitar, innovation, keyboard, piano, living sheet music, javascript</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/soundslice/soundslice.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/soundslice/soundslice.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1201,7 +1201,7 @@
 				<itunes:summary>Paul Hanson, former bassoonist for Bela Fleck and the Flecktones, talks to us about his formation and career.</itunes:summary>
 				<itunes:duration>01:08:03</itunes:duration>
 				<itunes:keywords>bela fleck, flecktones, paul mccandless, oon, ariane cap, davka</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/paul-hanson/paul-hanson.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/paul-hanson/paul-hanson.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1226,7 +1226,7 @@
 				<itunes:summary>Michael Manring has advanced bass playing with his virtuosity, creativity, and extraterrestrial hyperbass.</itunes:summary>
 				<itunes:duration>01:07:29</itunes:duration>
 				<itunes:keywords>Michael Hedges, Jaco Pastorius, fretless bass, hyperbass, zon guitars, joe zon, bass virtuoso</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/michael-manring/michael-manring.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/michael-manring/michael-manring.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1245,7 +1245,7 @@
 				<itunes:summary>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</itunes:summary>
 				<itunes:duration>22:10</itunes:duration>
 				<itunes:keywords>panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/panzerballett/jan-zehrfeld.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/panzerballett/jan-zehrfeld.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1266,7 +1266,7 @@
 				<itunes:summary>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</itunes:summary>
 				<itunes:duration>01:07:29</itunes:duration>
 				<itunes:keywords>panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/panzerballett/jan-zehrfeld.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/panzerballett/jan-zehrfeld.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1285,7 +1285,7 @@
 				<itunes:summary>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</itunes:summary>
 				<itunes:duration>25:53</itunes:duration>
 				<itunes:keywords>panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/panzerballett/jan-zehrfeld.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/panzerballett/jan-zehrfeld.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1304,7 +1304,7 @@
 				<itunes:summary>Panzerballett is the best jazz-metal band in the world. Jan Zehrfeld tells us how the band operates.</itunes:summary>
 				<itunes:duration>38:12</itunes:duration>
 				<itunes:keywords>panzerballett, frank zappa, steve vai, tribal tech, sebastian lanser</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/panzerballett/jan-zehrfeld.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/panzerballett/jan-zehrfeld.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1327,7 +1327,7 @@
 				<itunes:summary>Steve Vai has blazed several trails in the art of guitar technique, manufacturing, performance, sounds, and composition.</itunes:summary>
 				<itunes:duration>01:05:01</itunes:duration>
 				<itunes:keywords>Steve Vai, Frank Zappa, Joe Satriani</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/steve-vai/steve-vai.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/steve-vai/steve-vai.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1346,7 +1346,7 @@
 				<itunes:summary>Mike Keneally is a stunningly talented and intelligent musician who has worked with Frank Zappa, Steve Vai, Joe Satriani, and more.</itunes:summary>
 				<itunes:duration>01:05:01</itunes:duration>
 				<itunes:keywords>Steve Vai, Frank Zappa, Joe Satriani, Dethklok, Metalocalypse, The Residents, King Crimson, Henry Cow, Joni Mitchell, Bob Dylan, The Beatles, Alice Cooper, The Rolling Stones, Simon &amp; Garfunkel, Miles Davis, John Coltrane, Scambot, Nonkertompf</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/mike-keneally/mike-keneally.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/mike-keneally/mike-keneally.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1373,7 +1373,7 @@
 				<itunes:summary>Harnch is a jazz fusion guitar instrumental track by Anthony Garone. It's overly complex.</itunes:summary>
 				<itunes:duration>4:14</itunes:duration>
 				<itunes:keywords>Anthony Garone, guitar instrumental, Pat Metheny, Gentle Giant, King Crimson, Robert Fripp</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/anthony-garone/anthony-garone.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/anthony-garone/anthony-garone.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1394,7 +1394,7 @@
 				<itunes:summary>Dale Turner is a multi-instrumentalist journalist teacher extraordinaire.</itunes:summary>
 				<itunes:duration>01:13:51</itunes:duration>
 				<itunes:keywords>mannerisms magnified, dale turner, brian wilson, jeff buckley, beach boys, elliott smith, chris cornell, iron maiden, music production, songwriting, musicians institute</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/dale-turner/dale-turner.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/dale-turner/dale-turner.png" />
 				<itunes:explicit>yes</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
@@ -1415,7 +1415,7 @@
 				<itunes:summary>Andy West is best known as the bassist for the Dixie Dregs, a band he started with Steve Morse.</itunes:summary>
 				<itunes:duration>01:12:53</itunes:duration>
 				<itunes:keywords>Dixie Dregs, Steve Morse, John French, Henry Kaiser, Joaquin Lievano, Hilary Jones, Geoff Gould, Crazy Backwards Alphabet, Mike Keneally</itunes:keywords>
-				<itunes:image href="http://cdn.rawgit.com/MakeWeirdMusic/art/master/andy-west/andy-west.png" />
+				<itunes:image href="https://cdn.jsdelivr.net/gh/MakeWeirdMusic/art@master/andy-west/andy-west.png" />
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:block>no</itunes:block>
 			</item>
