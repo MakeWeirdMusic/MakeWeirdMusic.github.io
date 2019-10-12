@@ -577,6 +577,10 @@
 <lastmod>2019-08-19T17:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/share/anthony-garone/clueless-at-the-work</loc>
+<lastmod>2019-10-02T17:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -695,6 +699,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page24/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page25/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/google65c6b1673d025668.html</loc>
