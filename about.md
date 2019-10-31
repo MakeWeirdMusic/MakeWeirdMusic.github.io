@@ -14,6 +14,8 @@ seo_keywords: progressive rock, jazz, strange music, left of center
 
 Welcome to Make Weird Music! Thanks for visiting! My name is [Anthony Garone](/discover/anthony-garone) and this site is my zero-profit passion project. I've been playing guitar since 1996 and have been listening to lots of weird music thanks to my father's record and tape collection, which consisted of bands like [Gentle Giant](/discover/gentle-giant), [Frank Zappa](/discover/frank-zappa), [King Crimson](/discover/king-crimson), and other cool stuff.
 
+You may be interested in my book, [*Clueless at The Work: Advice from a Corporate Tyrant*](http://cluelessatthework.com), which was published by [Stairway Press](https://stairwaypress.com) in September 2019.
+
 {% include mailchimp.html %}
 
 ## Open Source!

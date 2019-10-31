@@ -70,14 +70,3 @@ document.write("<a class='donation-icon' href='mailto:"+link+"'><i class='fa fa-
 
 
 Thank you so much for visiting! Please reach out on [facebook](http://facebook.com/MakeWeirdMusic) or [twitter](http://twitter.com/MakeWeirdMusic) and start a conversation!
-
-## Artists I'd Love to Interview
-
-If you are one of the following people, or if you want to help me get in touch and request an interview, here are some key people I'd love to feature on the site:
-
-- Björk
-- Laurie Anderson
-- Fiona Apple
-- Reggie Watts
-- Danilo Perez
-- Hiromi Uehara

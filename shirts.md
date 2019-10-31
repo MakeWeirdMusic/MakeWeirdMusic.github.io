@@ -13,19 +13,22 @@ redirect_from: "/shirt/"
 
 Use the following form to order and pay via PayPal. You can also pay via [Venmo&nbsp;<i class="fas fa-dollar-sign"></i>](https://venmo.com/MakeWeirdMusic), or [Square Cash&nbsp;<i class="fas fa-dollar-sign"></i>](https://cash.me/$MakeWeirdMusic). Make sure you send me an email to get what you need.
 
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" id="order-form">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="H48ARP8CV2NEQ">
 <table>
-<tr><td><input type="hidden" name="on0" value="Size">Size</td><td><select name="os0">
-	<option value="Small">Small $20.00 USD</option>
-	<option value="Medium">Medium $20.00 USD</option>
-	<option value="Large">Large $20.00 USD</option>
-	<option value="X-Large">X-Large $20.00 USD</option>
-	<option value="XX-Large">XX-Large $22.00 USD</option>
-	<option value="XXX-Large">XXX-Large $22.00 USD</option>
+<tr><td><input type="hidden" name="on0" value="Size">Size</td></tr><tr><td><select name="os0">
+	<option value="Medium Short Sleeve">Medium Short Sleeve $20.00 USD</option>
+	<option value="Medium Long Sleeve">Medium Long Sleeve $20.00 USD</option>
+	<option value="Large Short Sleeve">Large Short Sleeve $20.00 USD</option>
+	<option value="Large Long Sleeve">Large Long Sleeve $20.00 USD</option>
+	<option value="X-Large Short Sleeve">X-Large Short Sleeve $20.00 USD</option>
+	<option value="X-Large Long Sleeve">X-Large Long Sleeve $20.00 USD</option>
+	<option value="XX-Large Short Sleeve">XX-Large Short Sleeve $22.00 USD</option>
+	<option value="XX-Large Long Sleeve">XX-Large Long Sleeve $22.00 USD</option>
+	<option value="XXX-Large Short Sleeve">XXX-Large Short Sleeve $22.00 USD</option>
+	<option value="XXX-Large Long Sleeve">XXX-Large Long Sleeve $22.00 USD</option>
 </select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Preferred Color">Preferred Color</td><td><input type="text" name="os1" maxlength="200"></td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -40,17 +43,19 @@ We use [Next Level Apparel #3600 cotton crew t-shirts&nbsp;<i class="far fa-exte
 
 ### What's in stock right now?
 
-Here's what's in stock as of February 7, 2018:
+Here's what's in stock as of October 30, 2019:
 
 |Size   |Color   |Quantity   |Cost   |
 | ----- |:------:|:---------:| -----:|
-|M|Black|5|$20|
-|M|Brown|1|$20|
-|M|Muted Blue|1|$20|
-|L|Black|6|$20|
-|XL|Black|6|$20|
-|XXL|Muted Blue|3|$22|
-|XXXL|Black|2|$22|
+|M|Long Sleeve Black|3|$20|
+|M|Short Sleeve Black|5|$20|
+|L|Long Sleeve Muted Blue|1|$20|
+|L|Long Sleeve Black|2|$20|
+|L|Short Sleeve Black|2|$20|
+|XL|Short Sleeve Black|2|$20|
+|XXL|Long Sleeve Black|1|$22|
+|XXXL|Long Sleeve Black|2|$22|
+|XXXL|Short Sleeve Black|2|$22|
 
 Chances are I haven't updated the inventory in a little while, but it should be pretty close. :)
 
