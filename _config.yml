@@ -1,7 +1,7 @@
 # Site settings
 title: Make Weird Music
 email: anthony@makeweirdmusic.com
-description: Expanding the creative horizons of musicians and music enthusiasts.
+description: Expanding the creative horizons of musicians and music enthusiasts. We feature interviews and educational content regarding the most creative musical artists in the world.
 subtitle: Discover new artists, learn secret techniques, and share creative music.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.makeweirdmusic.com" # the base hostname & protocol for your site

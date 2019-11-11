@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Make Weird Music</title>
-    <description>Expanding the creative horizons of musicians and music enthusiasts.</description>
+    <description>Expanding the creative horizons of musicians and music enthusiasts. We feature interviews and educational content regarding the most creative musical artists in the world.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Oct 2019 09:53:37 -0700</pubDate>
-    <lastBuildDate>Thu, 31 Oct 2019 09:53:37 -0700</lastBuildDate>
+    <pubDate>Mon, 11 Nov 2019 14:45:05 -0700</pubDate>
+    <lastBuildDate>Mon, 11 Nov 2019 14:45:05 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
