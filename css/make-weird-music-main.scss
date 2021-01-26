@@ -84,6 +84,15 @@ blockquote p:last-child, #more-content p:last-child, .ad p:last-child {
   padding: 1em;
 }
 
+.menu .upcoming {
+  background-color: #234;
+  padding: 1em;
+}
+
+.menu .upcoming a {
+  text-decoration: underline;
+}
+
 .menu .index:hover {
   background-color: #555;
 }

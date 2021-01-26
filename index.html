@@ -7,7 +7,7 @@ image: mwm-rectangular-clean-light
 seo_description: Discover new music, learn secret techniques, and watch interviews with amazing artists who Make Weird Music.
 seo_keywords: anthony garone, weird, unique, unknown, weird music, prog, progressive rock, instrumental, art rock, performance art, odd time signatures, indie
 ---
-{% if paginator.page == 1 %}{% include popular.html %}{% endif %}
+{% if paginator.page == 1 %}{% include upcoming.html %}{% include popular.html %}{% endif %}
 
 {% for post in paginator.posts %}
 {% if post.front_page == false or post.draft == true %}
